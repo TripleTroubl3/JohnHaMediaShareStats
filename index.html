@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HAchubby Media Request Stats</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>HAchubby Media Request Stats</h1>
+            <p id="last-updated">Loading...</p>
+        </header>
+
+        <main>
+            <section class="global-stats">
+                <h2>Global Statistics</h2>
+                <div class="stat-container">
+                    <div class="stat-card">
+                        <h3>Total Requested Time</h3>
+                        <p id="global-total-time" class="highlight">...</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Total Requests</h3>
+                        <p id="global-total-requests" class="highlight">...</p>
+                    </div>
+                </div>
+
+                <h3>Top Requested Songs (Global)</h3>
+                <div class="table-container">
+                    <table id="global-songs-table" class="interactive-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Song</th>
+                                <th>Requests</th>
+                                <th>Total Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+                <div id="show-more-songs-container" style="text-align: center; margin-top: 20px;">
+                    <button id="show-more-songs" class="btn">Show More Songs</button>
+                </div>
+            </section>
+
+            <section class="user-stats">
+                <h2>User Statistics</h2>
+                <div class="table-container">
+                    <table id="users-table" class="interactive-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Username</th>
+                                <th>Total Requests</th>
+                                <th>Total Time</th>
+                            </tr>
+                        </thead>
+                        <tbody id="users-tbody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+                <div id="show-more-container">
+                    <button id="show-more-users" class="btn">Show More Users</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+
+
+    <!-- Modal for Song History -->
+    <div id="song-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn song-close-btn">&times;</span>
+            <div class="user-header">
+                <h3 id="modal-song-title">Song Requests</h3>
+                <span id="modal-song-total" class="user-total"></span>
+            </div>
+            <div class="table-container" id="modal-song-users-container">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for User History -->
+    <div id="user-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div class="user-header">
+                <h3 id="modal-username">User History</h3>
+                <span id="modal-user-total" class="user-total"></span>
+            </div>
+            <div class="table-container" id="modal-songs-container">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
