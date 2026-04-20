@@ -11,6 +11,16 @@ function setupEventListeners() {
         });
     }
 
+    const searchSongsInput = document.getElementById('search-songs');
+    if (searchSongsInput) {
+        searchSongsInput.addEventListener('input', (e) => handleSearch(e, allGlobalSongs, '#global-songs-table tbody', 'show-more-songs-container', createSongRow, 'title', true));
+    }
+
+    const searchUsersInput = document.getElementById('search-users');
+    if (searchUsersInput) {
+        searchUsersInput.addEventListener('input', (e) => handleSearch(e, allUsers, '#users-tbody', 'show-more-container', createUserRow, 'username', false));
+    }
+
     const showMoreBtn = document.getElementById('show-more-users');
     if (showMoreBtn) {
         showMoreBtn.addEventListener('click', () => {
@@ -67,38 +77,70 @@ let currentGlobalSongCount = 0;
 const GLOBAL_BATCH_SIZE = 50;
 
 
+function createSongRow(song, rank) {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+        <td>${rank}</td>
+        <td><a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(song.title)}</a></td>
+        <td>${song.count}</td>
+        <td>${formatTime(song.totalSeconds)}</td>
+    `;
+
+    tr.addEventListener('click', (e) => {
+        if (!e.target.closest('a.song-link')) {
+            openSongModal(song);
+        }
+    });
+    return tr;
+}
+
 function renderMoreGlobalSongs() {
     const globalTbody = document.querySelector('#global-songs-table tbody');
     const showMoreSongsContainer = document.getElementById('show-more-songs-container');
 
     const nextBatch = allGlobalSongs.slice(currentGlobalSongCount, currentGlobalSongCount + GLOBAL_BATCH_SIZE);
 
-    nextBatch.forEach((song, index) => {
-        const rank = currentGlobalSongCount + index + 1;
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-            <td>${rank}</td>
-            <td><a href="https://youtu.be/${song.videoId}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(song.title)}</a></td>
-            <td>${song.count}</td>
-            <td>${formatTime(song.totalSeconds)}</td>
-        `;
-
-        tr.addEventListener('click', (e) => {
-            if (!e.target.closest('a.song-link')) {
-                openSongModal(song);
-            }
-        });
-
-        globalTbody.appendChild(tr);
+    nextBatch.forEach((song) => {
+        globalTbody.appendChild(createSongRow(song, song.originalRank));
     });
 
     currentGlobalSongCount += nextBatch.length;
 
-    if (currentGlobalSongCount >= allGlobalSongs.length) {
-        if (showMoreSongsContainer) showMoreSongsContainer.style.display = 'none';
+    if (showMoreSongsContainer) {
+        showMoreSongsContainer.style.display = currentGlobalSongCount >= allGlobalSongs.length ? 'none' : 'block';
     }
 }
 
+function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, searchField, isSongs) {
+    const query = event.target.value.toLowerCase();
+    const tbody = document.querySelector(tbodySelector);
+    const showMoreContainer = document.getElementById(showMoreId);
+
+    tbody.innerHTML = '';
+
+    if (query) {
+        const filteredData = dataset.filter(item => {
+            const val = item[searchField];
+            return val ? val.toLowerCase().includes(query) : false;
+        });
+
+        const fragment = document.createDocumentFragment();
+        filteredData.forEach(item => {
+            fragment.appendChild(createRowFn(item, item.originalRank));
+        });
+        tbody.appendChild(fragment);
+
+        if (showMoreContainer) showMoreContainer.style.display = 'none';
+    } else {
+        if (isSongs) {
+            currentGlobalSongCount = 0;
+            renderMoreGlobalSongs();
+        } else {
+            currentDisplayCount = 0;
+            renderMoreUsers();
+        }
+    }
+}
 
 let allUsers = [];
 let currentDisplayCount = 0;
@@ -119,7 +161,7 @@ function renderData(data) {
     }
 
     // Setup Global Songs
-    allGlobalSongs = data.stats.global.topSongs;
+    allGlobalSongs = data.stats.global.topSongs.map((song, idx) => ({...song, originalRank: idx + 1}));
     currentGlobalSongCount = 0;
 
     const globalTbody = document.querySelector('#global-songs-table tbody');
@@ -129,7 +171,7 @@ function renderData(data) {
     }
 
     // Setup Users
-    allUsers = data.stats.users;
+    allUsers = data.stats.users.map((user, idx) => ({...user, originalRank: idx + 1}));
     currentDisplayCount = 0;
 
     const usersTbody = document.getElementById('users-tbody');
@@ -139,32 +181,34 @@ function renderData(data) {
     }
 }
 
+function createUserRow(user, rank) {
+    const tr = document.createElement('tr');
+
+    tr.innerHTML = `
+        <td>${rank}</td>
+        <td>${escapeHtml(user.username)}</td>
+        <td>${user.totalRequests || 0}</td>
+        <td>${formatTime(user.totalSeconds)}</td>
+    `;
+
+    tr.addEventListener('click', () => openUserModal(user));
+    return tr;
+}
+
 function renderMoreUsers() {
     const usersTbody = document.getElementById('users-tbody');
     const showMoreContainer = document.getElementById('show-more-container');
 
     const nextBatch = allUsers.slice(currentDisplayCount, currentDisplayCount + BATCH_SIZE);
 
-    nextBatch.forEach((user, index) => {
-        const rank = currentDisplayCount + index + 1;
-        const tr = document.createElement('tr');
-
-        tr.innerHTML = `
-            <td>${rank}</td>
-            <td>${escapeHtml(user.username)}</td>
-            <td>${user.totalRequests || 0}</td>
-            <td>${formatTime(user.totalSeconds)}</td>
-        `;
-
-        tr.addEventListener('click', () => openUserModal(user));
-        usersTbody.appendChild(tr);
+    nextBatch.forEach((user) => {
+        usersTbody.appendChild(createUserRow(user, user.originalRank));
     });
 
     currentDisplayCount += nextBatch.length;
 
-    // Hide button if all users are displayed
-    if (currentDisplayCount >= allUsers.length) {
-        if (showMoreContainer) showMoreContainer.style.display = 'none';
+    if (showMoreContainer) {
+        showMoreContainer.style.display = currentDisplayCount >= allUsers.length ? 'none' : 'block';
     }
 }
 
@@ -206,7 +250,7 @@ function openUserModal(user) {
             songsHtml += `
                 <tr>
                     <td>
-                        <a href="https://youtu.be/${song.videoId}" target="_blank" rel="noopener noreferrer">${escapeHtml(song.title)}</a>
+                        <a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer">${escapeHtml(song.title)}</a>
                         ${getTooltipHtml(song.videoId)}
                     </td>
                     <td>${song.count}</td>

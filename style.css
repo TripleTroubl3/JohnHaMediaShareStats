@@ -270,3 +270,22 @@ button.btn {
     font-family: inherit;
     font-size: 1rem;
 }
+
+/* Search Input Styles */
+.search-input {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    color: var(--text-color);
+    font-size: 1rem;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
