@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupEventListeners();
 });
 
+
 function setupEventListeners() {
     const showMoreSongsBtn = document.getElementById('show-more-songs');
     if (showMoreSongsBtn) {
@@ -45,6 +46,41 @@ function setupEventListeners() {
         if (event.target === userModal || event.target === songModal) {
             event.target.style.display = 'none';
         }
+    });
+
+    // Tab switching logic
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    tabBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            tabBtns.forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+            btn.classList.add('active');
+            const targetId = btn.getAttribute('data-target');
+            const targetEl = document.getElementById(targetId);
+            if (targetEl) targetEl.classList.add('active');
+        });
+    });
+
+    // Sorting logic for headers
+    const sortableHeaders = document.querySelectorAll('.sortable-header');
+    sortableHeaders.forEach(header => {
+        header.addEventListener('click', () => {
+            const sortField = header.getAttribute('data-sort');
+            const type = header.getAttribute('data-type');
+
+            // Update UI
+            document.querySelectorAll(`.sortable-header[data-type="${type}"]`).forEach(h => h.classList.remove('sorted-column'));
+            header.classList.add('sorted-column');
+
+            if (type === 'songs') {
+                currentSortSongs.field = sortField;
+                reRenderTable(allGlobalSongs, currentGlobalSongCount, currentSortSongs, '#global-songs-table tbody', createSongRow);
+            } else if (type === 'users') {
+                currentSortUsers.field = sortField;
+                reRenderTable(allUsers, currentDisplayCount, currentSortUsers, '#users-tbody', createUserRow);
+            }
+        });
     });
 }
 
@@ -94,22 +130,24 @@ function createSongRow(song, rank) {
     return tr;
 }
 
+
+
 function renderMoreGlobalSongs() {
-    const globalTbody = document.querySelector('#global-songs-table tbody');
     const showMoreSongsContainer = document.getElementById('show-more-songs-container');
 
-    const nextBatch = allGlobalSongs.slice(currentGlobalSongCount, currentGlobalSongCount + GLOBAL_BATCH_SIZE);
-
-    nextBatch.forEach((song) => {
-        globalTbody.appendChild(createSongRow(song, song.originalRank));
-    });
-
-    currentGlobalSongCount += nextBatch.length;
+    const nextBatchLength = Math.min(GLOBAL_BATCH_SIZE, allGlobalSongs.length - currentGlobalSongCount);
+    if (nextBatchLength > 0) {
+        currentGlobalSongCount += nextBatchLength;
+        reRenderTable(allGlobalSongs, currentGlobalSongCount, currentSortSongs, '#global-songs-table tbody', createSongRow);
+    }
 
     if (showMoreSongsContainer) {
         showMoreSongsContainer.style.display = currentGlobalSongCount >= allGlobalSongs.length ? 'none' : 'block';
     }
 }
+
+
+
 
 function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, searchField, isSongs) {
     const query = event.target.value.toLowerCase();
@@ -119,10 +157,17 @@ function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, se
     tbody.innerHTML = '';
 
     if (query) {
-        const filteredData = dataset.filter(item => {
+        let filteredData = dataset.filter(item => {
             const val = item[searchField];
             return val ? val.toLowerCase().includes(query) : false;
         });
+
+        // Apply current sort on search results
+        if (isSongs && currentSortSongs.field) {
+            filteredData.sort((a, b) => b[currentSortSongs.field] - a[currentSortSongs.field]);
+        } else if (!isSongs && currentSortUsers.field) {
+            filteredData.sort((a, b) => b[currentSortUsers.field] - a[currentSortUsers.field]);
+        }
 
         const fragment = document.createDocumentFragment();
         filteredData.forEach(item => {
@@ -142,9 +187,40 @@ function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, se
     }
 }
 
+
 let allUsers = [];
 let currentDisplayCount = 0;
 const BATCH_SIZE = 50;
+
+let currentSortSongs = { field: null };
+let currentSortUsers = { field: null };
+
+
+// Rendering helper for sorted data
+function reRenderTable(dataset, currentCount, sortState, tbodySelector, createRowFn) {
+    const tbody = document.querySelector(tbodySelector);
+    if (!tbody) return;
+    tbody.innerHTML = '';
+
+    // Create a copy of entire dataset to sort it
+    let dataToRender = [...dataset];
+
+    // Sort entire dataset first, if applicable
+    if (sortState.field) {
+        dataToRender.sort((a, b) => b[sortState.field] - a[sortState.field]);
+    }
+
+    // Slice only the visible portion after sorting
+    let visibleData = dataToRender.slice(0, currentCount);
+
+    const fragment = document.createDocumentFragment();
+    visibleData.forEach(item => {
+        // Find original rank or pass it. We still have originalRank on the items.
+        fragment.appendChild(createRowFn(item, item.originalRank));
+    });
+    tbody.appendChild(fragment);
+}
+
 
 function renderData(data) {
     if (data.lastUpdated) {
@@ -195,22 +271,23 @@ function createUserRow(user, rank) {
     return tr;
 }
 
+
+
 function renderMoreUsers() {
-    const usersTbody = document.getElementById('users-tbody');
     const showMoreContainer = document.getElementById('show-more-container');
 
-    const nextBatch = allUsers.slice(currentDisplayCount, currentDisplayCount + BATCH_SIZE);
-
-    nextBatch.forEach((user) => {
-        usersTbody.appendChild(createUserRow(user, user.originalRank));
-    });
-
-    currentDisplayCount += nextBatch.length;
+    const nextBatchLength = Math.min(BATCH_SIZE, allUsers.length - currentDisplayCount);
+    if (nextBatchLength > 0) {
+        currentDisplayCount += nextBatchLength;
+        reRenderTable(allUsers, currentDisplayCount, currentSortUsers, '#users-tbody', createUserRow);
+    }
 
     if (showMoreContainer) {
         showMoreContainer.style.display = currentDisplayCount >= allUsers.length ? 'none' : 'block';
     }
 }
+
+
 
 function openUserModal(user) {
     const modal = document.getElementById('user-modal');

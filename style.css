@@ -289,3 +289,74 @@ button.btn {
     outline: none;
     border-color: var(--accent-color);
 }
+
+/* Tabs Styles */
+.tabs-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.tab-btn {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.tab-btn:hover {
+    background-color: #2c2c2c;
+}
+
+.tab-btn.active {
+    background-color: var(--accent-color);
+    color: #121212;
+    border-color: var(--accent-color);
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Small Stats Cards */
+.small-card {
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
+
+.small-h3 {
+    margin: 5px 0;
+    font-size: 1.1rem;
+}
+
+.small-highlight {
+    font-size: 1.5rem;
+}
+
+/* Sortable Headers */
+.sortable-header {
+    cursor: pointer;
+    user-select: none;
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.sortable-header:hover {
+    color: var(--accent-color);
+    background-color: #383838;
+}
+
+.sortable-header.sorted-column {
+    color: var(--accent-color);
+    font-weight: bold;
+    background-color: #333;
+}

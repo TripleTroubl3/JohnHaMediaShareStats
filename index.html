@@ -17,61 +17,70 @@
         <main>
             <section class="global-stats">
                 <h2>Global Statistics</h2>
-                <div class="stat-container">
-                    <div class="stat-card">
-                        <h3>Total Requested Time</h3>
-                        <p id="global-total-time" class="highlight">...</p>
+                <div class="stat-container small-stats">
+                    <div class="stat-card small-card">
+                        <h3 class="small-h3">Total Requested Time</h3>
+                        <p id="global-total-time" class="highlight small-highlight">...</p>
                     </div>
-                    <div class="stat-card">
-                        <h3>Total Requests</h3>
-                        <p id="global-total-requests" class="highlight">...</p>
+                    <div class="stat-card small-card">
+                        <h3 class="small-h3">Total Requests</h3>
+                        <p id="global-total-requests" class="highlight small-highlight">...</p>
                     </div>
-                </div>
-
-                <h3>Top Requested Songs (Global)</h3>
-                <input type="text" id="search-songs" placeholder="Search songs..." class="search-input">
-                <div class="table-container">
-                    <table id="global-songs-table" class="interactive-table">
-                        <thead>
-                            <tr>
-                                <th>Rank</th>
-                                <th>Song</th>
-                                <th>Requests</th>
-                                <th>Total Time</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <!-- Populated by JS -->
-                        </tbody>
-                    </table>
-                </div>
-                <div id="show-more-songs-container" style="text-align: center; margin-top: 20px;">
-                    <button id="show-more-songs" class="btn">Show More Songs</button>
                 </div>
             </section>
 
-            <section class="user-stats">
-                <h2>User Statistics</h2>
-                <input type="text" id="search-users" placeholder="Search users..." class="search-input">
-                <div class="table-container">
-                    <table id="users-table" class="interactive-table">
-                        <thead>
-                            <tr>
-                                <th>Rank</th>
-                                <th>Username</th>
-                                <th>Total Requests</th>
-                                <th>Total Time</th>
-                            </tr>
-                        </thead>
-                        <tbody id="users-tbody">
-                            <!-- Populated by JS -->
-                        </tbody>
-                    </table>
-                </div>
-                <div id="show-more-container">
-                    <button id="show-more-users" class="btn">Show More Users</button>
-                </div>
-            </section>
+            <div class="tabs-container">
+                <button class="tab-btn active" data-target="tab-songs">Top Requested Songs</button>
+                <button class="tab-btn" data-target="tab-users">User Statistics</button>
+            </div>
+
+            <div id="tab-songs" class="tab-content active">
+                <section class="global-songs">
+                    <input type="text" id="search-songs" placeholder="Search songs..." class="search-input">
+                    <div class="table-container">
+                        <table id="global-songs-table" class="interactive-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Song</th>
+                                    <th class="sortable-header" data-sort="count" data-type="songs">Requests</th>
+                                    <th class="sortable-header" data-sort="totalSeconds" data-type="songs">Total Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="show-more-songs-container" style="text-align: center; margin-top: 20px;">
+                        <button id="show-more-songs" class="btn">Show More Songs</button>
+                    </div>
+                </section>
+            </div>
+
+            <div id="tab-users" class="tab-content">
+                <section class="user-stats">
+                    <input type="text" id="search-users" placeholder="Search users..." class="search-input">
+                    <div class="table-container">
+                        <table id="users-table" class="interactive-table">
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Username</th>
+                                    <th class="sortable-header" data-sort="totalRequests" data-type="users">Total Requests</th>
+                                    <th class="sortable-header" data-sort="totalSeconds" data-type="users">Total Time</th>
+                                </tr>
+                            </thead>
+                            <tbody id="users-tbody">
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="show-more-container">
+                        <button id="show-more-users" class="btn">Show More Users</button>
+                    </div>
+                </section>
+            </div>
         </main>
     </div>
 
