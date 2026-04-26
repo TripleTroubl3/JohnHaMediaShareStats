@@ -1,6 +1,441 @@
 {
   "rawHistory": [
     {
+      "_id": "69ec3a851fab565836775af5",
+      "song": {
+        "videoId": "7gXuYFih6Y8",
+        "title": "Dave Matthews Band - What Would You Say (Official Video)",
+        "duration": 246,
+        "start": 0,
+        "end": 246,
+        "channel": "davematthewsbandVEVO",
+        "amount": 8.2,
+        "message": "",
+        "user": {
+          "username": "iMoore_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2663744,
+          "likeCount": 15557,
+          "dislikeCount": 0
+        },
+        "_id": "69ec3978648f89741ee193cc"
+      },
+      "createdAt": "2026-04-25T03:52:37.805Z"
+    },
+    {
+      "_id": "69ec397bcd4c4bb80571b21e",
+      "song": {
+        "videoId": "A12-KN5UijA",
+        "title": "The Crystal Method - \"Name of the Game\" [Official Video]",
+        "duration": 220,
+        "start": 0,
+        "end": 220,
+        "channel": "The Crystal Method",
+        "amount": 7.5,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 5105299,
+          "likeCount": 41203,
+          "dislikeCount": 0
+        },
+        "_id": "69ec3770648f89741ee11ae0"
+      },
+      "createdAt": "2026-04-25T03:48:11.552Z"
+    },
+    {
+      "_id": "69ec382f97cd694e0dba26a4",
+      "song": {
+        "videoId": "QM6Znv1z5JU",
+        "title": "Going Down/ Love In An Elevator",
+        "duration": 338,
+        "start": 0,
+        "end": 338,
+        "channel": "Aerosmith - Topic",
+        "amount": 11.25,
+        "message": "",
+        "user": {
+          "username": "iMoore_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 361833,
+          "likeCount": 4522,
+          "dislikeCount": 0
+        },
+        "_id": "69ec31d2f51e9624b8615650"
+      },
+      "createdAt": "2026-04-25T03:42:39.827Z"
+    },
+    {
+      "_id": "69ec36c7648f89741ee0db5a",
+      "song": {
+        "videoId": "PAvQW_-s_f0",
+        "title": "Ghostface Killah - All That I Got Is You (Official HD Video) ft. Mary J. Blige",
+        "duration": 207,
+        "start": 0,
+        "end": 207,
+        "channel": "GhostfaceKillahVEVO",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 7684584,
+          "likeCount": 113966,
+          "dislikeCount": 0
+        },
+        "_id": "69ec31a3f51e9624b8614d98"
+      },
+      "createdAt": "2026-04-25T03:36:39.083Z"
+    },
+    {
+      "_id": "69ec3573cd4c4bb80570b7c2",
+      "song": {
+        "videoId": "vx2u5uUu3DE",
+        "title": "Bon Jovi - It's My Life (Official Music Video)",
+        "duration": 267,
+        "start": 0,
+        "end": 267,
+        "channel": "BonJoviVEVO",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "peterwt",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1588569964,
+          "likeCount": 8348682,
+          "dislikeCount": 0
+        },
+        "_id": "69ec308b97cd694e0db84a3f"
+      },
+      "createdAt": "2026-04-25T03:30:59.518Z"
+    },
+    {
+      "_id": "69ec318cf51e9624b86148ba",
+      "song": {
+        "videoId": "w3qPMe_cCJk",
+        "title": "The Smiths - Please, Please, Please, Let Me Get What I Want (Official Audio)",
+        "duration": 113,
+        "start": 0,
+        "end": 113,
+        "channel": "The Smiths",
+        "amount": 4,
+        "message": "",
+        "user": {
+          "username": "FatHonger",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 14980689,
+          "likeCount": 202084,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2ff0f51e9624b860ce8b"
+      },
+      "createdAt": "2026-04-25T03:14:20.274Z"
+    },
+    {
+      "_id": "69ec310e6fdd9c4a7d8bc5df",
+      "song": {
+        "videoId": "5vBh6Hc1_q4",
+        "title": "De La Soul - All Good? (Official Music Video) [HD] ft. Chaka Khan",
+        "duration": 237,
+        "start": 0,
+        "end": 237,
+        "channel": "DeLaSoulVEVO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 24029660,
+          "likeCount": 132768,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2fee6fdd9c4a7d8b794b"
+      },
+      "createdAt": "2026-04-25T03:12:14.846Z"
+    },
+    {
+      "_id": "69ec2ff41fab5658367461a5",
+      "song": {
+        "videoId": "4PkcfQtibmU",
+        "title": "Foo Fighters. Walk.",
+        "duration": 263,
+        "start": 61,
+        "end": 324,
+        "channel": "Foo Fighters",
+        "amount": 8.75,
+        "message": "",
+        "user": {
+          "username": "iMoore_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 137812074,
+          "likeCount": 934980,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2ec697cd694e0db7dcb3"
+      },
+      "createdAt": "2026-04-25T03:07:32.218Z"
+    },
+    {
+      "_id": "69ec2ec96fdd9c4a7d8b4283",
+      "song": {
+        "videoId": "OnuuYcqhzCE",
+        "title": "Bleed It Out (Official Music Video) [4K Upgrade] - Linkin Park",
+        "duration": 169,
+        "start": 0,
+        "end": 169,
+        "channel": "Linkin Park",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 188424811,
+          "likeCount": 1021331,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2df9ccdd15cd8c848103"
+      },
+      "createdAt": "2026-04-25T03:02:33.650Z"
+    },
+    {
+      "_id": "69ec2dfc97cd694e0db7bb62",
+      "song": {
+        "videoId": "xPU8OAjjS4k",
+        "title": "3 Doors Down - Kryptonite (Official Video)",
+        "duration": 225,
+        "start": 0,
+        "end": 225,
+        "channel": "3DoorsDownVEVO",
+        "amount": 7.5,
+        "message": "",
+        "user": {
+          "username": "peterwt",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 559294857,
+          "likeCount": 2218531,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2cbf648f89741ede3338"
+      },
+      "createdAt": "2026-04-25T02:59:08.228Z"
+    },
+    {
+      "_id": "69ec2ce46fdd9c4a7d8abbec",
+      "song": {
+        "videoId": "l8AMNzHGyFc",
+        "title": "Prince - Baby, I'm A Star (Extended Remaster 2020)",
+        "duration": 259,
+        "start": 0,
+        "end": 259,
+        "channel": "Steven Stone",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "iMoore_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 585232,
+          "likeCount": 7803,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2ab0ddaaebca62340d57"
+      },
+      "createdAt": "2026-04-25T02:54:28.614Z"
+    },
+    {
+      "_id": "69ec2be2ccdd15cd8c83f062",
+      "song": {
+        "videoId": "ojC0mg2hJCc",
+        "title": "The Roots - The Seed (2.0) (Official Music Video) ft. Cody ChesnuTT",
+        "duration": 255,
+        "start": 0,
+        "end": 255,
+        "channel": "TheRootsVEVO",
+        "amount": 8.5,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 64801341,
+          "likeCount": 376576,
+          "dislikeCount": 0
+        },
+        "_id": "69ec29e4ddaaebca6233cf13"
+      },
+      "createdAt": "2026-04-25T02:50:10.244Z"
+    },
+    {
+      "_id": "69ec2aae6fdd9c4a7d8a231e",
+      "song": {
+        "videoId": "_w-ibD-wBRo",
+        "title": "The Neville Brothers - Hey Pocky Way - 10/31/1991 - Municipal Auditorium New Orleans (Official)",
+        "duration": 576,
+        "start": 0,
+        "end": 576,
+        "channel": "Neville Brothers on MV",
+        "amount": 20,
+        "message": "",
+        "user": {
+          "username": "peter33435",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 535657,
+          "likeCount": 4394,
+          "dislikeCount": 0
+        },
+        "_id": "69ec284fddaaebca62334c9e"
+      },
+      "createdAt": "2026-04-25T02:45:02.456Z"
+    },
+    {
+      "_id": "69ec2853ddaaebca62334d7f",
+      "song": {
+        "videoId": "J9gKyRmic20",
+        "title": "Crowded House - Don't Dream It's Over (Official Music Video)",
+        "duration": 235,
+        "start": 0,
+        "end": 235,
+        "channel": "CrowdedHouseVEVO",
+        "amount": 7.84,
+        "message": "",
+        "user": {
+          "username": "Tajrrr",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 358479174,
+          "likeCount": 2269152,
+          "dislikeCount": 0
+        },
+        "_id": "69ec26f16fdd9c4a7d88f3cc"
+      },
+      "createdAt": "2026-04-25T02:34:59.096Z"
+    },
+    {
+      "_id": "69ec26f21fab56583671fc4c",
+      "song": {
+        "videoId": "-5Ae-LhMIG0",
+        "title": "Future Islands - Seasons (Waiting On You) (Official Video)",
+        "duration": 231,
+        "start": 0,
+        "end": 231,
+        "channel": "4AD",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 18403485,
+          "likeCount": 81629,
+          "dislikeCount": 0
+        },
+        "_id": "69ec2508f51e9624b85e0d59"
+      },
+      "createdAt": "2026-04-25T02:29:06.779Z"
+    },
+    {
       "_id": "69ec2539cd4c4bb8056c5561",
       "song": {
         "videoId": "Q3l-faquXJE",
@@ -85866,8 +86301,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 639330,
-      "totalRequests": 2842,
+      "totalSeconds": 643171,
+      "totalRequests": 2857,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -87180,6 +87615,12 @@
           "totalSeconds": 540
         },
         {
+          "videoId": "vx2u5uUu3DE",
+          "title": "Bon Jovi - It's My Life (Official Music Video)",
+          "count": 2,
+          "totalSeconds": 534
+        },
+        {
           "videoId": "jRGrNDV2mKc",
           "title": "Korn - Freak On a Leash (Official HD Video)",
           "count": 2,
@@ -88020,6 +88461,12 @@
           "totalSeconds": 234
         },
         {
+          "videoId": "w3qPMe_cCJk",
+          "title": "The Smiths - Please, Please, Please, Let Me Get What I Want (Official Audio)",
+          "count": 2,
+          "totalSeconds": 226
+        },
+        {
           "videoId": "hCw80xpI3k0",
           "title": "beabadoobee - Talk (Official Video)",
           "count": 2,
@@ -88162,6 +88609,12 @@
           "title": "Heilung | LIFA - Krigsgaldr LIVE",
           "count": 1,
           "totalSeconds": 597
+        },
+        {
+          "videoId": "_w-ibD-wBRo",
+          "title": "The Neville Brothers - Hey Pocky Way - 10/31/1991 - Municipal Auditorium New Orleans (Official)",
+          "count": 1,
+          "totalSeconds": 576
         },
         {
           "videoId": "Oaw_Wy6XDFk",
@@ -89146,6 +89599,12 @@
           "title": "Robot Army - Charming Jo and Hachubby",
           "count": 1,
           "totalSeconds": 339
+        },
+        {
+          "videoId": "QM6Znv1z5JU",
+          "title": "Going Down/ Love In An Elevator",
+          "count": 1,
+          "totalSeconds": 338
         },
         {
           "videoId": "ZnrBbql6-EI",
@@ -91374,12 +91833,6 @@
           "totalSeconds": 267
         },
         {
-          "videoId": "vx2u5uUu3DE",
-          "title": "Bon Jovi - It's My Life (Official Music Video)",
-          "count": 1,
-          "totalSeconds": 267
-        },
-        {
           "videoId": "uelHwf8o7_U",
           "title": "Eminem - Love The Way You Lie ft. Rihanna",
           "count": 1,
@@ -91534,6 +91987,12 @@
           "title": "Grimes - REALiTi",
           "count": 1,
           "totalSeconds": 264
+        },
+        {
+          "videoId": "4PkcfQtibmU",
+          "title": "Foo Fighters. Walk.",
+          "count": 1,
+          "totalSeconds": 263
         },
         {
           "videoId": "8TJ6YdnXlU4",
@@ -91872,6 +92331,12 @@
           "totalSeconds": 260
         },
         {
+          "videoId": "l8AMNzHGyFc",
+          "title": "Prince - Baby, I'm A Star (Extended Remaster 2020)",
+          "count": 1,
+          "totalSeconds": 259
+        },
+        {
           "videoId": "N4bFqW_eu2I",
           "title": "The Animals - House Of The Rising Sun (Music Video) [4K HD]",
           "count": 1,
@@ -92140,6 +92605,12 @@
           "title": "Kavinsky - Nightcall \"Drive\"",
           "count": 1,
           "totalSeconds": 256
+        },
+        {
+          "videoId": "ojC0mg2hJCc",
+          "title": "The Roots - The Seed (2.0) (Official Music Video) ft. Cody ChesnuTT",
+          "count": 1,
+          "totalSeconds": 255
         },
         {
           "videoId": "9LemRLBEVuM",
@@ -92542,6 +93013,12 @@
           "title": "Michael Jackson - Thriller (original Indian version)",
           "count": 1,
           "totalSeconds": 247
+        },
+        {
+          "videoId": "7gXuYFih6Y8",
+          "title": "Dave Matthews Band - What Would You Say (Official Video)",
+          "count": 1,
+          "totalSeconds": 246
         },
         {
           "videoId": "SXmXnVlKuMM",
@@ -93378,6 +93855,12 @@
           "totalSeconds": 238
         },
         {
+          "videoId": "5vBh6Hc1_q4",
+          "title": "De La Soul - All Good? (Official Music Video) [HD] ft. Chaka Khan",
+          "count": 1,
+          "totalSeconds": 237
+        },
+        {
           "videoId": "qV91x2YT9zI",
           "title": "beabadoobee - All I Did Was Dream Of You (Official Video) ft. The Marías",
           "count": 1,
@@ -93514,6 +93997,12 @@
           "title": "Bugoy Drilon covers \"One Day\" (Matisyahu) LIVE on Wish 107.5 Bus",
           "count": 1,
           "totalSeconds": 236
+        },
+        {
+          "videoId": "J9gKyRmic20",
+          "title": "Crowded House - Don't Dream It's Over (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 235
         },
         {
           "videoId": "jxKjOOR9sPU",
@@ -93958,6 +94447,12 @@
           "title": "Cari Cari - MAPACHE (Official Video)",
           "count": 1,
           "totalSeconds": 232
+        },
+        {
+          "videoId": "-5Ae-LhMIG0",
+          "title": "Future Islands - Seasons (Waiting On You) (Official Video)",
+          "count": 1,
+          "totalSeconds": 231
         },
         {
           "videoId": "xlZEbaDevu0",
@@ -94452,6 +94947,12 @@
           "totalSeconds": 226
         },
         {
+          "videoId": "xPU8OAjjS4k",
+          "title": "3 Doors Down - Kryptonite (Official Video)",
+          "count": 1,
+          "totalSeconds": 225
+        },
+        {
           "videoId": "OnT58cIJSpw",
           "title": "Corona - The Rhythm of the Night (Official Music Video)",
           "count": 1,
@@ -94846,6 +95347,12 @@
           "title": "SNL Dr. Strange (eng sub)",
           "count": 1,
           "totalSeconds": 221
+        },
+        {
+          "videoId": "A12-KN5UijA",
+          "title": "The Crystal Method - \"Name of the Game\" [Official Video]",
+          "count": 1,
+          "totalSeconds": 220
         },
         {
           "videoId": "ZO-Qq2cZCK4",
@@ -95902,6 +96409,12 @@
           "title": "Rokubop - Feeling I'm forgot ft. Yunicorn19, HAchubby, Yuggie_TV, Jinnytty",
           "count": 1,
           "totalSeconds": 208
+        },
+        {
+          "videoId": "PAvQW_-s_f0",
+          "title": "Ghostface Killah - All That I Got Is You (Official HD Video) ft. Mary J. Blige",
+          "count": 1,
+          "totalSeconds": 207
         },
         {
           "videoId": "BQirFx022xQ",
@@ -98442,6 +98955,12 @@
           "totalSeconds": 170
         },
         {
+          "videoId": "OnuuYcqhzCE",
+          "title": "Bleed It Out (Official Music Video) [4K Upgrade] - Linkin Park",
+          "count": 1,
+          "totalSeconds": 169
+        },
+        {
           "videoId": "wYp_UsDzgxM",
           "title": "Peaceful Days",
           "count": 1,
@@ -99866,12 +100385,6 @@
         {
           "videoId": "NVjMjlmPo-o",
           "title": "Hey Lover (Sped Up)",
-          "count": 1,
-          "totalSeconds": 113
-        },
-        {
-          "videoId": "w3qPMe_cCJk",
-          "title": "The Smiths - Please, Please, Please, Let Me Get What I Want (Official Audio)",
           "count": 1,
           "totalSeconds": 113
         },
@@ -106822,8 +107335,8 @@
       },
       {
         "username": "FatHonger",
-        "totalRequests": 93,
-        "totalSeconds": 22018,
+        "totalRequests": 94,
+        "totalSeconds": 22131,
         "topSongs": [
           {
             "videoId": "kfVsfOSbJY0",
@@ -106842,6 +107355,12 @@
             "title": "PinkPantheress - Stateside + Zara Larsson (Official Video)",
             "count": 2,
             "totalSeconds": 388
+          },
+          {
+            "videoId": "w3qPMe_cCJk",
+            "title": "The Smiths - Please, Please, Please, Let Me Get What I Want (Official Audio)",
+            "count": 2,
+            "totalSeconds": 226
           },
           {
             "videoId": "y2DqOGjGBbA",
@@ -107336,12 +107855,6 @@
             "totalSeconds": 114
           },
           {
-            "videoId": "w3qPMe_cCJk",
-            "title": "The Smiths - Please, Please, Please, Let Me Get What I Want (Official Audio)",
-            "count": 1,
-            "totalSeconds": 113
-          },
-          {
             "videoId": "3-y0p0GL4TI",
             "title": "Bongo Cat - What Was I Made For? (Cover Version) 🎧",
             "count": 1,
@@ -107369,8 +107882,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 87,
-        "totalSeconds": 24145,
+        "totalRequests": 92,
+        "totalSeconds": 25244,
         "topSongs": [
           {
             "videoId": "N_rFg5CGtk4",
@@ -107691,6 +108204,12 @@
             "totalSeconds": 257
           },
           {
+            "videoId": "ojC0mg2hJCc",
+            "title": "The Roots - The Seed (2.0) (Official Music Video) ft. Cody ChesnuTT",
+            "count": 1,
+            "totalSeconds": 255
+          },
+          {
             "videoId": "lTYGKe0D0hM",
             "title": "Lee Fields - Wish You Were Here (Instrumental)",
             "count": 1,
@@ -107751,10 +108270,22 @@
             "totalSeconds": 238
           },
           {
+            "videoId": "5vBh6Hc1_q4",
+            "title": "De La Soul - All Good? (Official Music Video) [HD] ft. Chaka Khan",
+            "count": 1,
+            "totalSeconds": 237
+          },
+          {
             "videoId": "jxKjOOR9sPU",
             "title": "The Temper Trap - Sweet Disposition [Official Video]",
             "count": 1,
             "totalSeconds": 235
+          },
+          {
+            "videoId": "-5Ae-LhMIG0",
+            "title": "Future Islands - Seasons (Waiting On You) (Official Video)",
+            "count": 1,
+            "totalSeconds": 231
           },
           {
             "videoId": "3ZypBTN7_Gg",
@@ -107785,6 +108316,12 @@
             "title": "Crystal Castles - Not In Love ft. Robert Smith of The Cure",
             "count": 1,
             "totalSeconds": 210
+          },
+          {
+            "videoId": "PAvQW_-s_f0",
+            "title": "Ghostface Killah - All That I Got Is You (Official HD Video) ft. Mary J. Blige",
+            "count": 1,
+            "totalSeconds": 207
           },
           {
             "videoId": "BrV71YDVa_c",
@@ -107851,6 +108388,12 @@
             "title": "Scenic World",
             "count": 1,
             "totalSeconds": 174
+          },
+          {
+            "videoId": "OnuuYcqhzCE",
+            "title": "Bleed It Out (Official Music Video) [4K Upgrade] - Linkin Park",
+            "count": 1,
+            "totalSeconds": 169
           },
           {
             "videoId": "U_Vgu2Mt-xI",
@@ -111791,8 +112334,8 @@
       },
       {
         "username": "zimm_zimm",
-        "totalRequests": 45,
-        "totalSeconds": 10924,
+        "totalRequests": 46,
+        "totalSeconds": 11144,
         "topSongs": [
           {
             "videoId": "z_b4tucWzSw",
@@ -111979,6 +112522,12 @@
             "title": "Shanice - I Love Your Smile",
             "count": 1,
             "totalSeconds": 225
+          },
+          {
+            "videoId": "A12-KN5UijA",
+            "title": "The Crystal Method - \"Name of the Game\" [Official Video]",
+            "count": 1,
+            "totalSeconds": 220
           },
           {
             "videoId": "RUguqUgX8K4",
@@ -112372,8 +112921,8 @@
       },
       {
         "username": "peter33435",
-        "totalRequests": 41,
-        "totalSeconds": 11150,
+        "totalRequests": 42,
+        "totalSeconds": 11726,
         "topSongs": [
           {
             "videoId": "nyYG70aM9Fw",
@@ -112410,6 +112959,12 @@
             "title": "Michael McDonald - I Can Let Go Now",
             "count": 2,
             "totalSeconds": 346
+          },
+          {
+            "videoId": "_w-ibD-wBRo",
+            "title": "The Neville Brothers - Hey Pocky Way - 10/31/1991 - Municipal Auditorium New Orleans (Official)",
+            "count": 1,
+            "totalSeconds": 576
           },
           {
             "videoId": "L_XJ_s5IsQc",
@@ -112650,8 +113205,8 @@
       },
       {
         "username": "peterwt",
-        "totalRequests": 40,
-        "totalSeconds": 9990,
+        "totalRequests": 42,
+        "totalSeconds": 10482,
         "topSongs": [
           {
             "videoId": "-k1N5ltDve0",
@@ -112756,6 +113311,12 @@
             "totalSeconds": 268
           },
           {
+            "videoId": "vx2u5uUu3DE",
+            "title": "Bon Jovi - It's My Life (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 267
+          },
+          {
             "videoId": "oQjzTVCIK5A",
             "title": "COOL (쿨) - Aloha (아로하) [Color Coded Lyrics Han/Rom/Eng]",
             "count": 1,
@@ -112808,6 +113369,12 @@
             "title": "OFFICIAL Somewhere over the Rainbow - Israel \"IZ\" Kamakawiwoʻole",
             "count": 1,
             "totalSeconds": 228
+          },
+          {
+            "videoId": "xPU8OAjjS4k",
+            "title": "3 Doors Down - Kryptonite (Official Video)",
+            "count": 1,
+            "totalSeconds": 225
           },
           {
             "videoId": "p2tPDhUHHOQ",
@@ -113522,8 +114089,8 @@
       },
       {
         "username": "Tajrrr",
-        "totalRequests": 26,
-        "totalSeconds": 6838,
+        "totalRequests": 27,
+        "totalSeconds": 7073,
         "topSongs": [
           {
             "videoId": "X8KqhFZo5wo",
@@ -113614,6 +114181,12 @@
             "title": "a-ha - Take On Me (Official Video) [4K]",
             "count": 1,
             "totalSeconds": 242
+          },
+          {
+            "videoId": "J9gKyRmic20",
+            "title": "Crowded House - Don't Dream It's Over (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 235
           },
           {
             "videoId": "YEbsbQtTvHs",
@@ -116630,6 +117203,38 @@
         "messages": []
       },
       {
+        "username": "iMoore_",
+        "totalRequests": 4,
+        "totalSeconds": 1106,
+        "topSongs": [
+          {
+            "videoId": "QM6Znv1z5JU",
+            "title": "Going Down/ Love In An Elevator",
+            "count": 1,
+            "totalSeconds": 338
+          },
+          {
+            "videoId": "4PkcfQtibmU",
+            "title": "Foo Fighters. Walk.",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "l8AMNzHGyFc",
+            "title": "Prince - Baby, I'm A Star (Extended Remaster 2020)",
+            "count": 1,
+            "totalSeconds": 259
+          },
+          {
+            "videoId": "7gXuYFih6Y8",
+            "title": "Dave Matthews Band - What Would You Say (Official Video)",
+            "count": 1,
+            "totalSeconds": 246
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "Liggy_27",
         "totalRequests": 4,
         "totalSeconds": 1019,
@@ -119512,5 +120117,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-25T02:25:00.518Z"
+  "lastUpdated": "2026-04-26T02:40:10.132Z"
 }
