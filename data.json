@@ -1,6 +1,235 @@
 {
   "rawHistory": [
     {
+      "_id": "69f39d9bc31356933b09db7c",
+      "song": {
+        "videoId": "sGLKAtEGkMQ",
+        "title": "Iris Kymm - My Playlist (Lyrics)",
+        "duration": 180,
+        "start": 0,
+        "end": 180,
+        "channel": "Iris Kymm",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "HirOnyx",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1239,
+          "likeCount": 61,
+          "dislikeCount": 0
+        },
+        "_id": "69f39bdb408a85bebf6a3e73"
+      },
+      "createdAt": "2026-04-30T18:21:15.955Z"
+    },
+    {
+      "_id": "69f39be2c6598c69a2576b33",
+      "song": {
+        "videoId": "fPov8jjEEWc",
+        "title": "Iris Kymm - Night Drive (Lyrics)",
+        "duration": 210,
+        "start": 0,
+        "end": 210,
+        "channel": "Iris Kymm",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "HirOnyx",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1192,
+          "likeCount": 78,
+          "dislikeCount": 0
+        },
+        "_id": "69f39a63c31356933b08f880"
+      },
+      "createdAt": "2026-04-30T18:13:54.271Z"
+    },
+    {
+      "_id": "69f39abe38cff8b742641bb8",
+      "song": {
+        "videoId": "OtfJcTBklh8",
+        "title": "Porcupine Tree - Shesmovedon (Deadwing ver.)",
+        "duration": 300,
+        "start": 0,
+        "end": 300,
+        "channel": "OneOfTheLostOnes",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "prayforsound",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 595812,
+          "likeCount": 4473,
+          "dislikeCount": 0
+        },
+        "_id": "69f3972838cff8b742631525"
+      },
+      "createdAt": "2026-04-30T18:09:02.478Z"
+    },
+    {
+      "_id": "69f397613e2b598aea5afdce",
+      "song": {
+        "videoId": "pYW2GmHB5xs",
+        "title": "RWBY \"Red\" Trailer | Rooster Teeth",
+        "duration": 209,
+        "start": 0,
+        "end": 209,
+        "channel": "RWBY",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "peterwt",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 17920140,
+          "likeCount": 284218,
+          "dislikeCount": 0
+        },
+        "_id": "69f394983e2b598aea59f5e7"
+      },
+      "createdAt": "2026-04-30T17:54:41.981Z"
+    },
+    {
+      "_id": "69f394b4d02fb8e3b1ca9d63",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 248895,
+          "likeCount": 654,
+          "dislikeCount": 0
+        },
+        "_id": "69f390d236d2d9f6237e5680"
+      },
+      "createdAt": "2026-04-30T17:43:16.699Z"
+    },
+    {
+      "_id": "69f390eb810a660230e9ee83",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 51117,
+          "likeCount": 200,
+          "dislikeCount": 0
+        },
+        "_id": "69f390cfc31356933b05ea9d"
+      },
+      "createdAt": "2026-04-30T17:27:07.464Z"
+    },
+    {
+      "_id": "69f390d036d2d9f6237e5611",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 0,
+        "channel": "HAchubby",
+        "voteskips": [],
+        "tags": [],
+        "_id": "69f38fedd02fb8e3b1c8d0e5"
+      },
+      "createdAt": "2026-04-30T17:26:40.648Z"
+    },
+    {
+      "_id": "69f390c63e2b598aea58ceef",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "_id": "69f38ff7810a660230e9b598"
+      },
+      "createdAt": "2026-04-30T17:26:30.332Z"
+    },
+    {
+      "_id": "69f38fff408a85bebf6658fa",
+      "song": {
+        "videoId": "CdKsLV-Hi4Q",
+        "title": "Brendan MacFarlane - I Gotta Be (Jagged Edge Cover)",
+        "duration": 210,
+        "channel": "Brendan MacFarlane",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "25085732"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "_id": "69f36d8b7726d66e7cf10cf9"
+      },
+      "createdAt": "2026-04-30T17:23:11.816Z"
+    },
+    {
+      "_id": "69f38ffac6598c69a25385fa",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "_id": "69f38ff5d02fb8e3b1c8d2ca"
+      },
+      "createdAt": "2026-04-30T17:23:06.149Z"
+    },
+    {
       "_id": "69f297f6212c3c65046b5b5d",
       "song": {
         "videoId": "ER4bFH0oT80",
@@ -91880,8 +92109,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 681651,
-      "totalRequests": 3039,
+      "totalSeconds": 682760,
+      "totalRequests": 3044,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -93945,6 +94174,12 @@
           "totalSeconds": 363
         },
         {
+          "videoId": "sGLKAtEGkMQ",
+          "title": "Iris Kymm - My Playlist (Lyrics)",
+          "count": 2,
+          "totalSeconds": 361
+        },
+        {
           "videoId": "9IlFw1la1NU",
           "title": "The Weeknd - Out Of Time (Without Jim Carrey Outro)",
           "count": 2,
@@ -95953,6 +96188,12 @@
           "title": "\"Incantation\"  Piano Music by David Hicken",
           "count": 1,
           "totalSeconds": 301
+        },
+        {
+          "videoId": "OtfJcTBklh8",
+          "title": "Porcupine Tree - Shesmovedon (Deadwing ver.)",
+          "count": 1,
+          "totalSeconds": 300
         },
         {
           "videoId": "NSkboTTTmpg",
@@ -102015,6 +102256,18 @@
           "totalSeconds": 211
         },
         {
+          "videoId": "fPov8jjEEWc",
+          "title": "Iris Kymm - Night Drive (Lyrics)",
+          "count": 1,
+          "totalSeconds": 210
+        },
+        {
+          "videoId": "CdKsLV-Hi4Q",
+          "title": "Brendan MacFarlane - I Gotta Be (Jagged Edge Cover)",
+          "count": 1,
+          "totalSeconds": 210
+        },
+        {
           "videoId": "DnTC2P9kxO8",
           "title": "Anyma, Joji - Beautiful (Official Music Video)",
           "count": 1,
@@ -102379,6 +102632,12 @@
           "title": "Gabby Barrett - \"The Good Ones\" (Official Music Video)",
           "count": 1,
           "totalSeconds": 210
+        },
+        {
+          "videoId": "pYW2GmHB5xs",
+          "title": "RWBY \"Red\" Trailer | Rooster Teeth",
+          "count": 1,
+          "totalSeconds": 209
         },
         {
           "videoId": "0LDgrFFeeWU",
@@ -104381,12 +104640,6 @@
         {
           "videoId": "Plx1ry1M_ao",
           "title": "No Other Love (Remastered)",
-          "count": 1,
-          "totalSeconds": 181
-        },
-        {
-          "videoId": "sGLKAtEGkMQ",
-          "title": "Iris Kymm - My Playlist (Lyrics)",
           "count": 1,
           "totalSeconds": 181
         },
@@ -116291,6 +116544,452 @@
         "messages": []
       },
       {
+        "username": "dramajoe",
+        "totalRequests": 73,
+        "totalSeconds": 16772,
+        "topSongs": [
+          {
+            "videoId": "tdDFWz7HqZI",
+            "title": "I Ain’t Gay (Official Lyric Video)",
+            "count": 2,
+            "totalSeconds": 248
+          },
+          {
+            "videoId": "OgPEX5LyJQs",
+            "title": "Michael Pangilinan performs \"Rainbow\" (South Border) LIVE on Wish 107.5 Bus",
+            "count": 1,
+            "totalSeconds": 391
+          },
+          {
+            "videoId": "xLEQzfqO_l0",
+            "title": "Dimash Qudaibergen - Love Is Like A Dream (Live in Moscow, A Gift for Alla)",
+            "count": 1,
+            "totalSeconds": 381
+          },
+          {
+            "videoId": "cPRKsKwEdUQ",
+            "title": "Wu-Tang Clan - Triumph (Official HD Video) ft. Cappadonna",
+            "count": 1,
+            "totalSeconds": 375
+          },
+          {
+            "videoId": "Ub46phvbU1A",
+            "title": "Mansur Brown - Mansur's Message Pt. 2",
+            "count": 1,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "ZnrBbql6-EI",
+            "title": "Monochrome",
+            "count": 1,
+            "totalSeconds": 338
+          },
+          {
+            "videoId": "oXkKURgzYVY",
+            "title": "2Pac Ft. Danny Boy - I Ain´t Mad At Cha (Official HD Music Video Dirty)",
+            "count": 1,
+            "totalSeconds": 330
+          },
+          {
+            "videoId": "83IX8iKd_28",
+            "title": "The Dukes of September - Kid Charlemagne (Live)",
+            "count": 1,
+            "totalSeconds": 318
+          },
+          {
+            "videoId": "o8FNeG6lmvE",
+            "title": "Keith Jarrett & Jan Garbarek ~ Country",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "POE545pLLqE",
+            "title": "\"Rise Up\" cover by Morissette Amon - (Andra Day) LIVE on Wish 107.5 Full HD VIDEO",
+            "count": 1,
+            "totalSeconds": 298
+          },
+          {
+            "videoId": "Nw51iwTb9jc",
+            "title": "OPM MEDLEY ❤️",
+            "count": 1,
+            "totalSeconds": 292
+          },
+          {
+            "videoId": "PArF9k2SbQk",
+            "title": "Bone Thugs-n-Harmony - 1st of tha Month",
+            "count": 1,
+            "totalSeconds": 290
+          },
+          {
+            "videoId": "AXHcn1E1BWA",
+            "title": "Brendan MacFarlane #ColderWeather",
+            "count": 1,
+            "totalSeconds": 285
+          },
+          {
+            "videoId": "MeHDMaDDOuE",
+            "title": "Round One - Rodney Mullen",
+            "count": 1,
+            "totalSeconds": 283
+          },
+          {
+            "videoId": "ElW_V6SyfE8",
+            "title": "따라해 (Wannabe) by EPIK HIGH (Music Video)",
+            "count": 1,
+            "totalSeconds": 282
+          },
+          {
+            "videoId": "Bm5iA4Zupek",
+            "title": "Kanye West - Runaway (Video Version) ft. Pusha T",
+            "count": 1,
+            "totalSeconds": 278
+          },
+          {
+            "videoId": "OldqUCMaKUk",
+            "title": "Mariah Carey, Boyz II Men - One Sweet Day (from Fantasy: Live at Madison Square Garden)",
+            "count": 1,
+            "totalSeconds": 278
+          },
+          {
+            "videoId": "jx96Twg-Aew",
+            "title": "Childish Gambino - Sober",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "vx2u5uUu3DE",
+            "title": "Bon Jovi - It's My Life (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 267
+          },
+          {
+            "videoId": "JCOURZ-yx4E",
+            "title": "Nas - One Mic (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "ENXvZ9YRjbo",
+            "title": "Weezer - Say It Ain't So (Version 3)",
+            "count": 1,
+            "totalSeconds": 260
+          },
+          {
+            "videoId": "mfI1S0PKJR8",
+            "title": "New Order - True Faith (1987) (Official Music Video) [HD]",
+            "count": 1,
+            "totalSeconds": 260
+          },
+          {
+            "videoId": "5_iXZca2g2M",
+            "title": "The Offspring - Self Esteem | Moncton, NB Live (2026)",
+            "count": 1,
+            "totalSeconds": 255
+          },
+          {
+            "videoId": "bIEpNx38JuQ",
+            "title": "[1988] 30년의 역사를 도도하게 관통하는 명곡 응원가 무한궤도 - 그대에게 (응답하라 1988 삽입곡)",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
+            "videoId": "M3cd0zxd7EU",
+            "title": "Kenny Loggins - Playing with the Boys (Official Video - Top Gun)",
+            "count": 1,
+            "totalSeconds": 250
+          },
+          {
+            "videoId": "fV4DiAyExN0",
+            "title": "Hoobastank - The Reason (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 248
+          },
+          {
+            "videoId": "HRs_B_O2ZbU",
+            "title": "LYDIA - '눈,코,입(EYES, NOSE, LIPS)' COVER VIDEO",
+            "count": 1,
+            "totalSeconds": 247
+          },
+          {
+            "videoId": "ZVJmMbf8wAo",
+            "title": "Chevelle - Closure (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 246
+          },
+          {
+            "videoId": "wO0A0XcWy88",
+            "title": "Peter Schilling - Major Tom (Coming Home) (Official Video)",
+            "count": 1,
+            "totalSeconds": 246
+          },
+          {
+            "videoId": "t7Csc6l4QLs",
+            "title": "REO Speedwagon - Take It On the Run (Official Audio)",
+            "count": 1,
+            "totalSeconds": 242
+          },
+          {
+            "videoId": "YTdxdr9pNnw",
+            "title": "New Edition - Mr. Telephone Man",
+            "count": 1,
+            "totalSeconds": 236
+          },
+          {
+            "videoId": "N7x1HC0bShw",
+            "title": "Tears (Korean music) - So Chan Whee(소찬휘)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "Xdo2u0p2r04",
+            "title": "Dmx - Whats My Name ( Dirty ) Good Quality",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "VDuDQNkSC6g",
+            "title": "Machi No Dorufin",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "OLFcQqFVvZg",
+            "title": "It's Pizza Time!",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "xp5wID1FWOk",
+            "title": "Warren G ft. Nate Dogg & Michael Mcdonald - Regulate (Jammin Remix) (DJ EkSeL Edit)",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "Kz38eWpiFcg",
+            "title": "李玟 CoCo Lee《Before I Fall In Love》Official Video (4K UPGRADE)",
+            "count": 1,
+            "totalSeconds": 228
+          },
+          {
+            "videoId": "lAx7C_uUhFo",
+            "title": "[MV] 죠지 (george) - Boat / Official Music Video (Re-upload)",
+            "count": 1,
+            "totalSeconds": 227
+          },
+          {
+            "videoId": "7t3fVqHA9DI",
+            "title": "Brendan MacFarlane & Jake Clayton - Forgive Me For Loving You",
+            "count": 1,
+            "totalSeconds": 227
+          },
+          {
+            "videoId": "AhTAkvrD05E",
+            "title": "The Blasters - Dark Night",
+            "count": 1,
+            "totalSeconds": 225
+          },
+          {
+            "videoId": "dYL3U-zlM0o",
+            "title": "Slade - Run Runaway (Official Audio)",
+            "count": 1,
+            "totalSeconds": 224
+          },
+          {
+            "videoId": "VVB6FI8QTFg",
+            "title": "Backstreet Boys - I Want It That Way (2025 Version)",
+            "count": 1,
+            "totalSeconds": 223
+          },
+          {
+            "videoId": "tHGNrK66Byw",
+            "title": "Canibus - Buckingham Palace (Lyrics)",
+            "count": 1,
+            "totalSeconds": 222
+          },
+          {
+            "videoId": "Hq_QlQ86TZw",
+            "title": "Tell It to My Heart (Single Mix)",
+            "count": 1,
+            "totalSeconds": 219
+          },
+          {
+            "videoId": "knq5RroBzfE",
+            "title": "dts Digital Entertainment Tomoyasu Hotei Battle without Honor or Humanity",
+            "count": 1,
+            "totalSeconds": 218
+          },
+          {
+            "videoId": "Hg1ZJeyLVdY",
+            "title": "Wanna Be A Baller",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "kspPE9E1yGM",
+            "title": "Justin Bieber vs. Slipknot - Psychosocial Baby",
+            "count": 1,
+            "totalSeconds": 215
+          },
+          {
+            "videoId": "uW7hjQ1sMdQ",
+            "title": "Weak",
+            "count": 1,
+            "totalSeconds": 212
+          },
+          {
+            "videoId": "CdKsLV-Hi4Q",
+            "title": "Brendan MacFarlane - I Gotta Be (Jagged Edge Cover)",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "FAoCaAnsHPE",
+            "title": "[MV] Primary(프라이머리) _ ~42 (feat. SAM KIM, eSNa)(~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa)))",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "ZtXUbS2zmTA",
+            "title": "조이&웬디 - Stickwitu (♬원곡 Pussycat Dolls) | 오늘은 웬디 클립",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "8zsBNCABRzU",
+            "title": "Girl Yeah Right: Magic Board!!!",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "RlDzHQ9D028",
+            "title": "[4K] 에일리(AILEE)의 “WANNABE(by ITZY)” Band LIVE Ver. 숨도 안 쉬고 있지 노래 부르고 간 에일리💗[it’s KPOP LIVE 잇츠라이브]",
+            "count": 1,
+            "totalSeconds": 208
+          },
+          {
+            "videoId": "23F7lA8jbTE",
+            "title": "Partitio The Merchant Octopath Traveler II (Partitio's Theme)",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "i0voJE5bpow",
+            "title": "Elena's Stage - Beats in My Head (Arranged)",
+            "count": 1,
+            "totalSeconds": 202
+          },
+          {
+            "videoId": "5UMgw3V-Q5I",
+            "title": "“나로 바꾸자 Switch to me” by DAHYUN and CHAEYOUNG – Melody Project",
+            "count": 1,
+            "totalSeconds": 200
+          },
+          {
+            "videoId": "ipeN9r2V_eI",
+            "title": "Afroman - Because I Got High (Lyrics)",
+            "count": 1,
+            "totalSeconds": 198
+          },
+          {
+            "videoId": "sD8ZCyGN5Go",
+            "title": "Static in My Veins",
+            "count": 1,
+            "totalSeconds": 192
+          },
+          {
+            "videoId": "-KoXt9pZLGM",
+            "title": "Lee Greenwood - God Bless The U.S.A.",
+            "count": 1,
+            "totalSeconds": 190
+          },
+          {
+            "videoId": "KQetemT1sWc",
+            "title": "The Beatles - Here Comes The Sun (2019 Mix)",
+            "count": 1,
+            "totalSeconds": 186
+          },
+          {
+            "videoId": "syK4hVTxeHs",
+            "title": "Jazz funk Fusion in B minor by Yohan Kim",
+            "count": 1,
+            "totalSeconds": 185
+          },
+          {
+            "videoId": "1duaV6mEvAw",
+            "title": "[클린버전] 나상도 - 콕콕콕 ❤미스터트롯2 12화❤ TV CHOSUN 230309 방송",
+            "count": 1,
+            "totalSeconds": 178
+          },
+          {
+            "videoId": "Unjr5q9ebo4",
+            "title": "kid walks in guitar store and blows owner away with voice",
+            "count": 1,
+            "totalSeconds": 167
+          },
+          {
+            "videoId": "J5uvusfLLp8",
+            "title": "Crazy",
+            "count": 1,
+            "totalSeconds": 166
+          },
+          {
+            "videoId": "g1b1DjE-Oc4",
+            "title": "Fabulous Ones 1983 promo",
+            "count": 1,
+            "totalSeconds": 148
+          },
+          {
+            "videoId": "DS7VWx_giZg",
+            "title": "OH HAPPY DAY | Sister Act 2: 30th Reunion | The View | Whoopi Goldberg |",
+            "count": 1,
+            "totalSeconds": 143
+          },
+          {
+            "videoId": "skQNAGXKeq0",
+            "title": "The Primitives - Crash (Audio)",
+            "count": 1,
+            "totalSeconds": 142
+          },
+          {
+            "videoId": "uQlDJshq07M",
+            "title": "Norazo   She's gone 070526, Live",
+            "count": 1,
+            "totalSeconds": 132
+          },
+          {
+            "videoId": "hISXwdvwuBE",
+            "title": "IMPROVER - Tonight (BEATBOX)",
+            "count": 1,
+            "totalSeconds": 128
+          },
+          {
+            "videoId": "VGF4ibgcHQE",
+            "title": "Deep In The Heart Of Texas      Song",
+            "count": 1,
+            "totalSeconds": 120
+          },
+          {
+            "videoId": "VIwEEblt-SA",
+            "title": "Mega Man 2 - Metal Man (Piano)",
+            "count": 1,
+            "totalSeconds": 91
+          },
+          {
+            "videoId": "-EwwJnJPs8A",
+            "title": "The Simpsons - Flaming Moe's Song (Video)",
+            "count": 1,
+            "totalSeconds": 56
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "tdDFWz7HqZI",
+            "message": "for the boys",
+            "date": "2025-10-11T18:21:00.391Z"
+          }
+        ]
+      },
+      {
         "username": "hachubby",
         "totalRequests": 73,
         "totalSeconds": 15536,
@@ -116639,446 +117338,6 @@
           }
         ],
         "messages": []
-      },
-      {
-        "username": "dramajoe",
-        "totalRequests": 72,
-        "totalSeconds": 16562,
-        "topSongs": [
-          {
-            "videoId": "tdDFWz7HqZI",
-            "title": "I Ain’t Gay (Official Lyric Video)",
-            "count": 2,
-            "totalSeconds": 248
-          },
-          {
-            "videoId": "OgPEX5LyJQs",
-            "title": "Michael Pangilinan performs \"Rainbow\" (South Border) LIVE on Wish 107.5 Bus",
-            "count": 1,
-            "totalSeconds": 391
-          },
-          {
-            "videoId": "xLEQzfqO_l0",
-            "title": "Dimash Qudaibergen - Love Is Like A Dream (Live in Moscow, A Gift for Alla)",
-            "count": 1,
-            "totalSeconds": 381
-          },
-          {
-            "videoId": "cPRKsKwEdUQ",
-            "title": "Wu-Tang Clan - Triumph (Official HD Video) ft. Cappadonna",
-            "count": 1,
-            "totalSeconds": 375
-          },
-          {
-            "videoId": "Ub46phvbU1A",
-            "title": "Mansur Brown - Mansur's Message Pt. 2",
-            "count": 1,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "ZnrBbql6-EI",
-            "title": "Monochrome",
-            "count": 1,
-            "totalSeconds": 338
-          },
-          {
-            "videoId": "oXkKURgzYVY",
-            "title": "2Pac Ft. Danny Boy - I Ain´t Mad At Cha (Official HD Music Video Dirty)",
-            "count": 1,
-            "totalSeconds": 330
-          },
-          {
-            "videoId": "83IX8iKd_28",
-            "title": "The Dukes of September - Kid Charlemagne (Live)",
-            "count": 1,
-            "totalSeconds": 318
-          },
-          {
-            "videoId": "o8FNeG6lmvE",
-            "title": "Keith Jarrett & Jan Garbarek ~ Country",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "POE545pLLqE",
-            "title": "\"Rise Up\" cover by Morissette Amon - (Andra Day) LIVE on Wish 107.5 Full HD VIDEO",
-            "count": 1,
-            "totalSeconds": 298
-          },
-          {
-            "videoId": "Nw51iwTb9jc",
-            "title": "OPM MEDLEY ❤️",
-            "count": 1,
-            "totalSeconds": 292
-          },
-          {
-            "videoId": "PArF9k2SbQk",
-            "title": "Bone Thugs-n-Harmony - 1st of tha Month",
-            "count": 1,
-            "totalSeconds": 290
-          },
-          {
-            "videoId": "AXHcn1E1BWA",
-            "title": "Brendan MacFarlane #ColderWeather",
-            "count": 1,
-            "totalSeconds": 285
-          },
-          {
-            "videoId": "MeHDMaDDOuE",
-            "title": "Round One - Rodney Mullen",
-            "count": 1,
-            "totalSeconds": 283
-          },
-          {
-            "videoId": "ElW_V6SyfE8",
-            "title": "따라해 (Wannabe) by EPIK HIGH (Music Video)",
-            "count": 1,
-            "totalSeconds": 282
-          },
-          {
-            "videoId": "Bm5iA4Zupek",
-            "title": "Kanye West - Runaway (Video Version) ft. Pusha T",
-            "count": 1,
-            "totalSeconds": 278
-          },
-          {
-            "videoId": "OldqUCMaKUk",
-            "title": "Mariah Carey, Boyz II Men - One Sweet Day (from Fantasy: Live at Madison Square Garden)",
-            "count": 1,
-            "totalSeconds": 278
-          },
-          {
-            "videoId": "jx96Twg-Aew",
-            "title": "Childish Gambino - Sober",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "vx2u5uUu3DE",
-            "title": "Bon Jovi - It's My Life (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 267
-          },
-          {
-            "videoId": "JCOURZ-yx4E",
-            "title": "Nas - One Mic (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "ENXvZ9YRjbo",
-            "title": "Weezer - Say It Ain't So (Version 3)",
-            "count": 1,
-            "totalSeconds": 260
-          },
-          {
-            "videoId": "mfI1S0PKJR8",
-            "title": "New Order - True Faith (1987) (Official Music Video) [HD]",
-            "count": 1,
-            "totalSeconds": 260
-          },
-          {
-            "videoId": "5_iXZca2g2M",
-            "title": "The Offspring - Self Esteem | Moncton, NB Live (2026)",
-            "count": 1,
-            "totalSeconds": 255
-          },
-          {
-            "videoId": "bIEpNx38JuQ",
-            "title": "[1988] 30년의 역사를 도도하게 관통하는 명곡 응원가 무한궤도 - 그대에게 (응답하라 1988 삽입곡)",
-            "count": 1,
-            "totalSeconds": 251
-          },
-          {
-            "videoId": "M3cd0zxd7EU",
-            "title": "Kenny Loggins - Playing with the Boys (Official Video - Top Gun)",
-            "count": 1,
-            "totalSeconds": 250
-          },
-          {
-            "videoId": "fV4DiAyExN0",
-            "title": "Hoobastank - The Reason (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 248
-          },
-          {
-            "videoId": "HRs_B_O2ZbU",
-            "title": "LYDIA - '눈,코,입(EYES, NOSE, LIPS)' COVER VIDEO",
-            "count": 1,
-            "totalSeconds": 247
-          },
-          {
-            "videoId": "ZVJmMbf8wAo",
-            "title": "Chevelle - Closure (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 246
-          },
-          {
-            "videoId": "wO0A0XcWy88",
-            "title": "Peter Schilling - Major Tom (Coming Home) (Official Video)",
-            "count": 1,
-            "totalSeconds": 246
-          },
-          {
-            "videoId": "t7Csc6l4QLs",
-            "title": "REO Speedwagon - Take It On the Run (Official Audio)",
-            "count": 1,
-            "totalSeconds": 242
-          },
-          {
-            "videoId": "YTdxdr9pNnw",
-            "title": "New Edition - Mr. Telephone Man",
-            "count": 1,
-            "totalSeconds": 236
-          },
-          {
-            "videoId": "N7x1HC0bShw",
-            "title": "Tears (Korean music) - So Chan Whee(소찬휘)",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "Xdo2u0p2r04",
-            "title": "Dmx - Whats My Name ( Dirty ) Good Quality",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "VDuDQNkSC6g",
-            "title": "Machi No Dorufin",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "OLFcQqFVvZg",
-            "title": "It's Pizza Time!",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "xp5wID1FWOk",
-            "title": "Warren G ft. Nate Dogg & Michael Mcdonald - Regulate (Jammin Remix) (DJ EkSeL Edit)",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "Kz38eWpiFcg",
-            "title": "李玟 CoCo Lee《Before I Fall In Love》Official Video (4K UPGRADE)",
-            "count": 1,
-            "totalSeconds": 228
-          },
-          {
-            "videoId": "lAx7C_uUhFo",
-            "title": "[MV] 죠지 (george) - Boat / Official Music Video (Re-upload)",
-            "count": 1,
-            "totalSeconds": 227
-          },
-          {
-            "videoId": "7t3fVqHA9DI",
-            "title": "Brendan MacFarlane & Jake Clayton - Forgive Me For Loving You",
-            "count": 1,
-            "totalSeconds": 227
-          },
-          {
-            "videoId": "AhTAkvrD05E",
-            "title": "The Blasters - Dark Night",
-            "count": 1,
-            "totalSeconds": 225
-          },
-          {
-            "videoId": "dYL3U-zlM0o",
-            "title": "Slade - Run Runaway (Official Audio)",
-            "count": 1,
-            "totalSeconds": 224
-          },
-          {
-            "videoId": "VVB6FI8QTFg",
-            "title": "Backstreet Boys - I Want It That Way (2025 Version)",
-            "count": 1,
-            "totalSeconds": 223
-          },
-          {
-            "videoId": "tHGNrK66Byw",
-            "title": "Canibus - Buckingham Palace (Lyrics)",
-            "count": 1,
-            "totalSeconds": 222
-          },
-          {
-            "videoId": "Hq_QlQ86TZw",
-            "title": "Tell It to My Heart (Single Mix)",
-            "count": 1,
-            "totalSeconds": 219
-          },
-          {
-            "videoId": "knq5RroBzfE",
-            "title": "dts Digital Entertainment Tomoyasu Hotei Battle without Honor or Humanity",
-            "count": 1,
-            "totalSeconds": 218
-          },
-          {
-            "videoId": "Hg1ZJeyLVdY",
-            "title": "Wanna Be A Baller",
-            "count": 1,
-            "totalSeconds": 216
-          },
-          {
-            "videoId": "kspPE9E1yGM",
-            "title": "Justin Bieber vs. Slipknot - Psychosocial Baby",
-            "count": 1,
-            "totalSeconds": 215
-          },
-          {
-            "videoId": "uW7hjQ1sMdQ",
-            "title": "Weak",
-            "count": 1,
-            "totalSeconds": 212
-          },
-          {
-            "videoId": "FAoCaAnsHPE",
-            "title": "[MV] Primary(프라이머리) _ ~42 (feat. SAM KIM, eSNa)(~42 (feat. 샘김 (SAM KIM), 에스나 (eSNa)))",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "ZtXUbS2zmTA",
-            "title": "조이&웬디 - Stickwitu (♬원곡 Pussycat Dolls) | 오늘은 웬디 클립",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "8zsBNCABRzU",
-            "title": "Girl Yeah Right: Magic Board!!!",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "RlDzHQ9D028",
-            "title": "[4K] 에일리(AILEE)의 “WANNABE(by ITZY)” Band LIVE Ver. 숨도 안 쉬고 있지 노래 부르고 간 에일리💗[it’s KPOP LIVE 잇츠라이브]",
-            "count": 1,
-            "totalSeconds": 208
-          },
-          {
-            "videoId": "23F7lA8jbTE",
-            "title": "Partitio The Merchant Octopath Traveler II (Partitio's Theme)",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "i0voJE5bpow",
-            "title": "Elena's Stage - Beats in My Head (Arranged)",
-            "count": 1,
-            "totalSeconds": 202
-          },
-          {
-            "videoId": "5UMgw3V-Q5I",
-            "title": "“나로 바꾸자 Switch to me” by DAHYUN and CHAEYOUNG – Melody Project",
-            "count": 1,
-            "totalSeconds": 200
-          },
-          {
-            "videoId": "ipeN9r2V_eI",
-            "title": "Afroman - Because I Got High (Lyrics)",
-            "count": 1,
-            "totalSeconds": 198
-          },
-          {
-            "videoId": "sD8ZCyGN5Go",
-            "title": "Static in My Veins",
-            "count": 1,
-            "totalSeconds": 192
-          },
-          {
-            "videoId": "-KoXt9pZLGM",
-            "title": "Lee Greenwood - God Bless The U.S.A.",
-            "count": 1,
-            "totalSeconds": 190
-          },
-          {
-            "videoId": "KQetemT1sWc",
-            "title": "The Beatles - Here Comes The Sun (2019 Mix)",
-            "count": 1,
-            "totalSeconds": 186
-          },
-          {
-            "videoId": "syK4hVTxeHs",
-            "title": "Jazz funk Fusion in B minor by Yohan Kim",
-            "count": 1,
-            "totalSeconds": 185
-          },
-          {
-            "videoId": "1duaV6mEvAw",
-            "title": "[클린버전] 나상도 - 콕콕콕 ❤미스터트롯2 12화❤ TV CHOSUN 230309 방송",
-            "count": 1,
-            "totalSeconds": 178
-          },
-          {
-            "videoId": "Unjr5q9ebo4",
-            "title": "kid walks in guitar store and blows owner away with voice",
-            "count": 1,
-            "totalSeconds": 167
-          },
-          {
-            "videoId": "J5uvusfLLp8",
-            "title": "Crazy",
-            "count": 1,
-            "totalSeconds": 166
-          },
-          {
-            "videoId": "g1b1DjE-Oc4",
-            "title": "Fabulous Ones 1983 promo",
-            "count": 1,
-            "totalSeconds": 148
-          },
-          {
-            "videoId": "DS7VWx_giZg",
-            "title": "OH HAPPY DAY | Sister Act 2: 30th Reunion | The View | Whoopi Goldberg |",
-            "count": 1,
-            "totalSeconds": 143
-          },
-          {
-            "videoId": "skQNAGXKeq0",
-            "title": "The Primitives - Crash (Audio)",
-            "count": 1,
-            "totalSeconds": 142
-          },
-          {
-            "videoId": "uQlDJshq07M",
-            "title": "Norazo   She's gone 070526, Live",
-            "count": 1,
-            "totalSeconds": 132
-          },
-          {
-            "videoId": "hISXwdvwuBE",
-            "title": "IMPROVER - Tonight (BEATBOX)",
-            "count": 1,
-            "totalSeconds": 128
-          },
-          {
-            "videoId": "VGF4ibgcHQE",
-            "title": "Deep In The Heart Of Texas      Song",
-            "count": 1,
-            "totalSeconds": 120
-          },
-          {
-            "videoId": "VIwEEblt-SA",
-            "title": "Mega Man 2 - Metal Man (Piano)",
-            "count": 1,
-            "totalSeconds": 91
-          },
-          {
-            "videoId": "-EwwJnJPs8A",
-            "title": "The Simpsons - Flaming Moe's Song (Video)",
-            "count": 1,
-            "totalSeconds": 56
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "tdDFWz7HqZI",
-            "message": "for the boys",
-            "date": "2025-10-11T18:21:00.391Z"
-          }
-        ]
       },
       {
         "username": "keok",
@@ -120316,8 +120575,8 @@
       },
       {
         "username": "peterwt",
-        "totalRequests": 42,
-        "totalSeconds": 10482,
+        "totalRequests": 43,
+        "totalSeconds": 10691,
         "topSongs": [
           {
             "videoId": "-k1N5ltDve0",
@@ -120522,6 +120781,12 @@
             "title": "Journey - Wheel in the Sky (Official HD Video - 1978)",
             "count": 1,
             "totalSeconds": 212
+          },
+          {
+            "videoId": "pYW2GmHB5xs",
+            "title": "RWBY \"Red\" Trailer | Rooster Teeth",
+            "count": 1,
+            "totalSeconds": 209
           },
           {
             "videoId": "ilsZEmxe6s0",
@@ -121900,9 +122165,15 @@
       },
       {
         "username": "prayforsound",
-        "totalRequests": 20,
-        "totalSeconds": 3965,
+        "totalRequests": 21,
+        "totalSeconds": 4265,
         "topSongs": [
+          {
+            "videoId": "OtfJcTBklh8",
+            "title": "Porcupine Tree - Shesmovedon (Deadwing ver.)",
+            "count": 1,
+            "totalSeconds": 300
+          },
           {
             "videoId": "Cb7XdHyfgsA",
             "title": "Porcupine Tree Open Car (Live)",
@@ -123630,6 +123901,56 @@
         "messages": []
       },
       {
+        "username": "HirOnyx",
+        "totalRequests": 8,
+        "totalSeconds": 1773,
+        "topSongs": [
+          {
+            "videoId": "sGLKAtEGkMQ",
+            "title": "Iris Kymm - My Playlist (Lyrics)",
+            "count": 2,
+            "totalSeconds": 361
+          },
+          {
+            "videoId": "-DSsr4WGuDg",
+            "title": "I set the studio on fire!",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "9a1QcmpKGP8",
+            "title": "in between dreams",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "N2AR0RiVMn0",
+            "title": "Iris Kymm - omw (line rider)",
+            "count": 1,
+            "totalSeconds": 238
+          },
+          {
+            "videoId": "4xg6YAPUOno",
+            "title": "Iris Screams",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "fPov8jjEEWc",
+            "title": "Iris Kymm - Night Drive (Lyrics)",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "W80vcOJuQWw",
+            "title": "[MV] Iris Kymm - Chaser / Official Music Video",
+            "count": 1,
+            "totalSeconds": 208
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "its",
         "totalRequests": 8,
         "totalSeconds": 1559,
@@ -124058,50 +124379,6 @@
             "date": "2026-04-20T17:57:53.487Z"
           }
         ]
-      },
-      {
-        "username": "HirOnyx",
-        "totalRequests": 6,
-        "totalSeconds": 1383,
-        "topSongs": [
-          {
-            "videoId": "-DSsr4WGuDg",
-            "title": "I set the studio on fire!",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "9a1QcmpKGP8",
-            "title": "in between dreams",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "N2AR0RiVMn0",
-            "title": "Iris Kymm - omw (line rider)",
-            "count": 1,
-            "totalSeconds": 238
-          },
-          {
-            "videoId": "4xg6YAPUOno",
-            "title": "Iris Screams",
-            "count": 1,
-            "totalSeconds": 216
-          },
-          {
-            "videoId": "W80vcOJuQWw",
-            "title": "[MV] Iris Kymm - Chaser / Official Music Video",
-            "count": 1,
-            "totalSeconds": 208
-          },
-          {
-            "videoId": "sGLKAtEGkMQ",
-            "title": "Iris Kymm - My Playlist (Lyrics)",
-            "count": 1,
-            "totalSeconds": 181
-          }
-        ],
-        "messages": []
       },
       {
         "username": "Caneloops",
@@ -127636,5 +127913,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-30T02:50:56.949Z"
+  "lastUpdated": "2026-05-01T02:57:27.068Z"
 }
