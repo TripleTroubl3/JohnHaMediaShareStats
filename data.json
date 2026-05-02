@@ -1,6 +1,35 @@
 {
   "rawHistory": [
     {
+      "_id": "69f4698830c74b9492b8e2ed",
+      "song": {
+        "videoId": "sfC6ey0MYGY",
+        "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
+        "duration": 210,
+        "start": 0,
+        "end": 210,
+        "channel": "Deinonychus",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "HirOnyx",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 348758,
+          "likeCount": 10131,
+          "dislikeCount": 0
+        },
+        "_id": "69f39d9436d2d9f62382cf29"
+      },
+      "createdAt": "2026-05-01T08:51:20.999Z"
+    },
+    {
       "_id": "69f39d9bc31356933b09db7c",
       "song": {
         "videoId": "sGLKAtEGkMQ",
@@ -92109,8 +92138,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 682760,
-      "totalRequests": 3044,
+      "totalSeconds": 682970,
+      "totalRequests": 3045,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -102254,6 +102283,12 @@
           "title": "DYING FETUS - \"Your Treachery Will Die With You\" (Official Music Video)",
           "count": 1,
           "totalSeconds": 211
+        },
+        {
+          "videoId": "sfC6ey0MYGY",
+          "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
+          "count": 1,
+          "totalSeconds": 210
         },
         {
           "videoId": "fPov8jjEEWc",
@@ -123902,8 +123937,8 @@
       },
       {
         "username": "HirOnyx",
-        "totalRequests": 8,
-        "totalSeconds": 1773,
+        "totalRequests": 9,
+        "totalSeconds": 1983,
         "topSongs": [
           {
             "videoId": "sGLKAtEGkMQ",
@@ -123934,6 +123969,12 @@
             "title": "Iris Screams",
             "count": 1,
             "totalSeconds": 216
+          },
+          {
+            "videoId": "sfC6ey0MYGY",
+            "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
+            "count": 1,
+            "totalSeconds": 210
           },
           {
             "videoId": "fPov8jjEEWc",
@@ -127913,5 +127954,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-01T02:57:27.068Z"
+  "lastUpdated": "2026-05-02T02:38:17.063Z"
 }
