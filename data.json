@@ -1,6 +1,172 @@
 {
   "rawHistory": [
     {
+      "_id": "69fff16a59e5a4e330731397",
+      "song": {
+        "videoId": "0btmqDA95y4",
+        "title": "Bad bunny feat. Drake - Mia (Cover Acustico)",
+        "duration": 108,
+        "start": 3,
+        "end": 111,
+        "channel": "Kri Blandon",
+        "amount": 6.3,
+        "message": "",
+        "user": {
+          "username": "Anonymous",
+          "providerId": "",
+          "subscriber": false
+        },
+        "promoted": true,
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 22552,
+          "likeCount": 483,
+          "dislikeCount": 0
+        },
+        "_id": "69ffebaa57734bf28cb373f5"
+      },
+      "createdAt": "2026-05-10T02:46:02.023Z"
+    },
+    {
+      "_id": "69fff0eb57734bf28cb40454",
+      "song": {
+        "videoId": "WGYnM62jiNI",
+        "title": "Lay me down by Michael pangilinan",
+        "duration": 286,
+        "start": 0,
+        "end": 286,
+        "channel": "Mark Severino",
+        "amount": 32,
+        "message": "las fritas esta in labibliotec",
+        "user": {
+          "username": "peter33435",
+          "providerId": "",
+          "subscriber": true
+        },
+        "promoted": true,
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2359967,
+          "likeCount": 16371,
+          "dislikeCount": 0
+        },
+        "_id": "69ffeba159e5a4e3307236a7"
+      },
+      "createdAt": "2026-05-10T02:43:55.180Z"
+    },
+    {
+      "_id": "69ffefb957734bf28cb3e561",
+      "song": {
+        "videoId": "Sq6mSvWJh4c",
+        "title": "Aoaoaoaooaoeoeoeoeoeo",
+        "duration": 611,
+        "start": 0,
+        "end": 611,
+        "channel": "EclecticTV ",
+        "amount": 40,
+        "message": "Greenmen2000  ",
+        "user": {
+          "username": "Greenmen2000 ",
+          "providerId": "",
+          "subscriber": true
+        },
+        "promoted": true,
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2,
+          "likeCount": 0,
+          "dislikeCount": 0
+        },
+        "_id": "69ffe9cb57734bf28cb34457"
+      },
+      "createdAt": "2026-05-10T02:38:49.123Z"
+    },
+    {
+      "_id": "69ffed2ce9884fd44fc960da",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 249797,
+          "likeCount": 654,
+          "dislikeCount": 0
+        },
+        "_id": "69ffe521b9cd52bebadcf09d"
+      },
+      "createdAt": "2026-05-10T02:27:56.536Z"
+    },
+    {
+      "_id": "69ffe8e9e9884fd44fc8e2f9",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 52059,
+          "likeCount": 205,
+          "dislikeCount": 0
+        },
+        "_id": "69ffe529b9cd52bebadcf0b6"
+      },
+      "createdAt": "2026-05-10T02:09:45.061Z"
+    },
+    {
+      "_id": "69ffe531b9cd52bebadcf0ff",
+      "song": {
+        "videoId": "yYEz5DpBA_Y",
+        "title": "You don't need to kill a dragon for me",
+        "duration": 86,
+        "start": 0,
+        "end": 86,
+        "channel": "EclecticTV ",
+        "amount": 5,
+        "message": "Greenmen2000  ",
+        "user": {
+          "username": "Greenmen2000 ",
+          "providerId": "",
+          "subscriber": false
+        },
+        "promoted": true,
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8,
+          "likeCount": 0,
+          "dislikeCount": 0
+        },
+        "_id": "69fbc74dfa24da5ea6820f47"
+      },
+      "createdAt": "2026-05-10T01:53:53.684Z"
+    },
+    {
       "_id": "69fbcaab52882cabd32a8e94",
       "song": {
         "videoId": "qFfybn_W8Ak",
@@ -94515,8 +94681,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 700776,
-      "totalRequests": 3123,
+      "totalSeconds": 701867,
+      "totalRequests": 3127,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -97014,6 +97180,12 @@
           "title": "Muse - \"Knights Of Cydonia\" | Live at Hurricane Festival 2023",
           "count": 1,
           "totalSeconds": 618
+        },
+        {
+          "videoId": "Sq6mSvWJh4c",
+          "title": "Aoaoaoaooaoeoeoeoeoeo",
+          "count": 1,
+          "totalSeconds": 611
         },
         {
           "videoId": "0zDxaQphpqE",
@@ -99564,6 +99736,12 @@
           "title": "Los Ángeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live)",
           "count": 1,
           "totalSeconds": 287
+        },
+        {
+          "videoId": "WGYnM62jiNI",
+          "title": "Lay me down by Michael pangilinan",
+          "count": 1,
+          "totalSeconds": 286
         },
         {
           "videoId": "JXQJpyQBShU",
@@ -109820,6 +109998,12 @@
           "totalSeconds": 109
         },
         {
+          "videoId": "0btmqDA95y4",
+          "title": "Bad bunny feat. Drake - Mia (Cover Acustico)",
+          "count": 1,
+          "totalSeconds": 108
+        },
+        {
           "videoId": "fkq5ddlFCKc",
           "title": "[여자들의성대모사]하이퍼유니버스 시그널&커즈아이 이야기 No.5 하나여도괜찮아 (hyper universe signal & curse eye voice Impression)",
           "count": 1,
@@ -110208,6 +110392,12 @@
           "title": "Wii Music - Gaming Background Music (HD)",
           "count": 1,
           "totalSeconds": 87
+        },
+        {
+          "videoId": "yYEz5DpBA_Y",
+          "title": "You don't need to kill a dragon for me",
+          "count": 1,
+          "totalSeconds": 86
         },
         {
           "videoId": "VHZAUdzBeLQ",
@@ -122759,6 +122949,336 @@
         ]
       },
       {
+        "username": "peter33435",
+        "totalRequests": 52,
+        "totalSeconds": 14687,
+        "topSongs": [
+          {
+            "videoId": "L_XJ_s5IsQc",
+            "title": "Snarky Puppy - Lingus (We Like It Here)",
+            "count": 3,
+            "totalSeconds": 1489
+          },
+          {
+            "videoId": "nyYG70aM9Fw",
+            "title": "Stay With Me (Sam Smith looping KOver) - Kevin Olusola",
+            "count": 3,
+            "totalSeconds": 915
+          },
+          {
+            "videoId": "mLG8g2ooFSA",
+            "title": "Dimash Qudaibergen - Ave Maria (Live at New Wave 2021)",
+            "count": 2,
+            "totalSeconds": 534
+          },
+          {
+            "videoId": "oh2boa_8hHo",
+            "title": "Brendan MacFarlane - Thinking Out Loud",
+            "count": 2,
+            "totalSeconds": 498
+          },
+          {
+            "videoId": "O2GHoOj4alk",
+            "title": "Brian McKnight - Better",
+            "count": 2,
+            "totalSeconds": 448
+          },
+          {
+            "videoId": "5JHI5n9tW_g",
+            "title": "윤하의 별이 빛나는 밤에 - Yoo Seoung-woo - Waiting, 유승우 - 기다리다 20131019",
+            "count": 2,
+            "totalSeconds": 438
+          },
+          {
+            "videoId": "HYQ9wEsxjrQ",
+            "title": "Steve Gadd - Crazy Army (Drum solo Transcription)",
+            "count": 2,
+            "totalSeconds": 430
+          },
+          {
+            "videoId": "Jp3b69OZQoE",
+            "title": "[I'm LIVE] Yu Seung(유승우) & Tonight(오늘밤엔)",
+            "count": 2,
+            "totalSeconds": 420
+          },
+          {
+            "videoId": "ohNfQpf8SUY",
+            "title": "Michael McDonald - I Can Let Go Now",
+            "count": 2,
+            "totalSeconds": 346
+          },
+          {
+            "videoId": "_w-ibD-wBRo",
+            "title": "The Neville Brothers - Hey Pocky Way - 10/31/1991 - Municipal Auditorium New Orleans (Official)",
+            "count": 1,
+            "totalSeconds": 576
+          },
+          {
+            "videoId": "AFm5dAkdtlc",
+            "title": "The Windup - Keith Jarrett Belonging Quartet 1974",
+            "count": 1,
+            "totalSeconds": 530
+          },
+          {
+            "videoId": "OgPEX5LyJQs",
+            "title": "Michael Pangilinan performs \"Rainbow\" (South Border) LIVE on Wish 107.5 Bus",
+            "count": 1,
+            "totalSeconds": 391
+          },
+          {
+            "videoId": "KURfF4MVirU",
+            "title": "Shaun Martin - The Yellow Jacket (7 Summers)",
+            "count": 1,
+            "totalSeconds": 374
+          },
+          {
+            "videoId": "kWwnmCcK0xE",
+            "title": "Diana Krall   Live in Concert 2002 - Case of You - Best",
+            "count": 1,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "Huj1JG4jUYE",
+            "title": "Brandon \"TAZ\" Niederauer, MonoNeon, Ghost-Note in NYC at THE DROM",
+            "count": 1,
+            "totalSeconds": 361
+          },
+          {
+            "videoId": "l2mJd6S_EpQ",
+            "title": "Richard Tee ［ STROKIN' / Live Video ］ Steve Gadd ' 90",
+            "count": 1,
+            "totalSeconds": 359
+          },
+          {
+            "videoId": "8jrBwSYdZEQ",
+            "title": "Chick Corea Elektric Band Final Performance - Charged Particles/Got A Match? - Tokyo Jazz 2019",
+            "count": 1,
+            "totalSeconds": 343
+          },
+          {
+            "videoId": "8bfyS-S-IJs",
+            "title": "Randy Newman - Short People (Official Video)",
+            "count": 1,
+            "totalSeconds": 327
+          },
+          {
+            "videoId": "a0yO7Sy9IcY",
+            "title": "Dimash Qudaibergen & Igor Krutoy - Your Love (Live in Moscow 2020)",
+            "count": 1,
+            "totalSeconds": 324
+          },
+          {
+            "videoId": "DZ51JJJMooU",
+            "title": "will Kennedy Capetown",
+            "count": 1,
+            "totalSeconds": 313
+          },
+          {
+            "videoId": "RDVUGihJuP0",
+            "title": "Steps Ahead - Well In that Case (HQ - HD)",
+            "count": 1,
+            "totalSeconds": 312
+          },
+          {
+            "videoId": "ZUVNKibt6zM",
+            "title": "out of town",
+            "count": 1,
+            "totalSeconds": 305
+          },
+          {
+            "videoId": "p2FXQgtmPDw",
+            "title": "Morissette performs \"Akin Ka Na Lang\" LIVE on Wish 107.5 Bus",
+            "count": 1,
+            "totalSeconds": 289
+          },
+          {
+            "videoId": "WGYnM62jiNI",
+            "title": "Lay me down by Michael pangilinan",
+            "count": 1,
+            "totalSeconds": 286
+          },
+          {
+            "videoId": "GKmO6BXJSqU",
+            "title": "Brendan MacFarlane - Colder Weather (Zac Brown Cover)",
+            "count": 1,
+            "totalSeconds": 283
+          },
+          {
+            "videoId": "JXwG6rB60o0",
+            "title": "Zairo(자이로/안중재) & 멜로망스 정동환 - 강아지의 산책 / Puppy's Walking - THE ZAIRO CONCERT 20210404",
+            "count": 1,
+            "totalSeconds": 278
+          },
+          {
+            "videoId": "D6C9G-4-Kmo",
+            "title": "Got a Match? Dave Weckl with the Chick Corea Elektric Band 2017",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "JiKlVfrF79c",
+            "title": "Morissette performs \"Shine\" LIVE on Wish 107.5 Bus",
+            "count": 1,
+            "totalSeconds": 258
+          },
+          {
+            "videoId": "6RAvP8-Z8PA",
+            "title": "Got A Match? - Chick Corea Elektric Band, North Sea Jazz 2017",
+            "count": 1,
+            "totalSeconds": 257
+          },
+          {
+            "videoId": "ER4bFH0oT80",
+            "title": "brendan macfarlane money wont",
+            "count": 1,
+            "totalSeconds": 256
+          },
+          {
+            "videoId": "fgphPFNiVZw",
+            "title": "Bob Dylan - Maggie's Farm (Official Audio)",
+            "count": 1,
+            "totalSeconds": 237
+          },
+          {
+            "videoId": "2sF8c6LTvfw",
+            "title": "Dennis Chambers-Drum Solo",
+            "count": 1,
+            "totalSeconds": 235
+          },
+          {
+            "videoId": "6zOoKa3k03I",
+            "title": "SISTAR(씨스타) - Touch my body(터치마이바디) Acoustic Ver.",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "avjrJffxqu0",
+            "title": "Shanti Dope - Nadarang (Khel Pangilinan x Ryssi )",
+            "count": 1,
+            "totalSeconds": 228
+          },
+          {
+            "videoId": "a14mYmCBFRE",
+            "title": "LAGI - Skusta Clee (KAYE CAL Acoustic Cover)",
+            "count": 1,
+            "totalSeconds": 212
+          },
+          {
+            "videoId": "SMsggeiEOv8",
+            "title": "윤하의 별이 빛나는 밤에 - Yoo Seung-woo - Guilty, 유승우 - 죽일놈 20131116",
+            "count": 1,
+            "totalSeconds": 196
+          },
+          {
+            "videoId": "FBwByKFFVRY",
+            "title": "Tommy Emmanuel - Mombasa",
+            "count": 1,
+            "totalSeconds": 193
+          },
+          {
+            "videoId": "-HcKrd3K8_A",
+            "title": "Hiromi Uehara - The Tom and Jerry Show",
+            "count": 1,
+            "totalSeconds": 174
+          },
+          {
+            "videoId": "WmhtbiTZ0uA",
+            "title": "Will Kennedy AfricanBeat",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "mPSmK-HoOJ0",
+            "title": "No Such Thing - 자이로(zai.ro) John Mayer Cover (안중재 AhnJungJae)",
+            "count": 1,
+            "totalSeconds": 170
+          },
+          {
+            "videoId": "W-FDyuUf85I",
+            "title": "유승우(You SeungWoo) - Hello",
+            "count": 1,
+            "totalSeconds": 73
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "WGYnM62jiNI",
+            "message": "las fritas esta in labibliotec",
+            "date": "2026-05-10T02:43:55.180Z"
+          },
+          {
+            "videoId": "HYQ9wEsxjrQ",
+            "message": "no eating in new car.     ; ((",
+            "date": "2026-04-29T02:44:15.010Z"
+          },
+          {
+            "videoId": "FBwByKFFVRY",
+            "message": "Hi",
+            "date": "2026-04-06T22:38:10.954Z"
+          },
+          {
+            "videoId": "O2GHoOj4alk",
+            "message": "Hi",
+            "date": "2026-04-06T21:33:19.532Z"
+          },
+          {
+            "videoId": "O2GHoOj4alk",
+            "message": "Hi",
+            "date": "2026-04-02T20:55:26.192Z"
+          },
+          {
+            "videoId": "p2FXQgtmPDw",
+            "message": "you need money for uber ?",
+            "date": "2026-03-23T03:43:34.569Z"
+          },
+          {
+            "videoId": "a0yO7Sy9IcY",
+            "message": "you need money for uber ?",
+            "date": "2026-03-22T00:07:58.833Z"
+          },
+          {
+            "videoId": "5JHI5n9tW_g",
+            "message": "haven't been able too eat food in over 2 years and all you do is cook    :(",
+            "date": "2026-03-07T21:52:31.363Z"
+          },
+          {
+            "videoId": "nyYG70aM9Fw",
+            "message": "\nSteely Dan - Kid Charlemagne (Two Against Nature 2000)",
+            "date": "2026-02-21T04:33:15.475Z"
+          },
+          {
+            "videoId": "nyYG70aM9Fw",
+            "message": "\nSteely Dan - Kid Charlemagne (Two Against Nature 2000)",
+            "date": "2026-02-20T22:52:10.421Z"
+          },
+          {
+            "videoId": "Jp3b69OZQoE",
+            "message": "hi",
+            "date": "2026-02-11T22:56:11.982Z"
+          },
+          {
+            "videoId": "Jp3b69OZQoE",
+            "message": "hi",
+            "date": "2026-02-10T23:09:02.778Z"
+          },
+          {
+            "videoId": "ohNfQpf8SUY",
+            "message": "2026",
+            "date": "2026-01-13T23:17:33.784Z"
+          },
+          {
+            "videoId": "ohNfQpf8SUY",
+            "message": "You watching out for tsunami  in you https://youtube.com/shorts/UK0Hw-8GXZc?si=PnM2uw4CmSMID-pQ",
+            "date": "2025-11-16T00:07:11.452Z"
+          },
+          {
+            "videoId": "OgPEX5LyJQs",
+            "message": "You watching out for tsunami  in you area ?",
+            "date": "2025-11-11T22:09:27.815Z"
+          }
+        ]
+      },
+      {
         "username": "zimm_zimm",
         "totalRequests": 52,
         "totalSeconds": 12519,
@@ -123090,328 +123610,9 @@
         ]
       },
       {
-        "username": "peter33435",
-        "totalRequests": 51,
-        "totalSeconds": 14401,
-        "topSongs": [
-          {
-            "videoId": "L_XJ_s5IsQc",
-            "title": "Snarky Puppy - Lingus (We Like It Here)",
-            "count": 3,
-            "totalSeconds": 1489
-          },
-          {
-            "videoId": "nyYG70aM9Fw",
-            "title": "Stay With Me (Sam Smith looping KOver) - Kevin Olusola",
-            "count": 3,
-            "totalSeconds": 915
-          },
-          {
-            "videoId": "mLG8g2ooFSA",
-            "title": "Dimash Qudaibergen - Ave Maria (Live at New Wave 2021)",
-            "count": 2,
-            "totalSeconds": 534
-          },
-          {
-            "videoId": "oh2boa_8hHo",
-            "title": "Brendan MacFarlane - Thinking Out Loud",
-            "count": 2,
-            "totalSeconds": 498
-          },
-          {
-            "videoId": "O2GHoOj4alk",
-            "title": "Brian McKnight - Better",
-            "count": 2,
-            "totalSeconds": 448
-          },
-          {
-            "videoId": "5JHI5n9tW_g",
-            "title": "윤하의 별이 빛나는 밤에 - Yoo Seoung-woo - Waiting, 유승우 - 기다리다 20131019",
-            "count": 2,
-            "totalSeconds": 438
-          },
-          {
-            "videoId": "HYQ9wEsxjrQ",
-            "title": "Steve Gadd - Crazy Army (Drum solo Transcription)",
-            "count": 2,
-            "totalSeconds": 430
-          },
-          {
-            "videoId": "Jp3b69OZQoE",
-            "title": "[I'm LIVE] Yu Seung(유승우) & Tonight(오늘밤엔)",
-            "count": 2,
-            "totalSeconds": 420
-          },
-          {
-            "videoId": "ohNfQpf8SUY",
-            "title": "Michael McDonald - I Can Let Go Now",
-            "count": 2,
-            "totalSeconds": 346
-          },
-          {
-            "videoId": "_w-ibD-wBRo",
-            "title": "The Neville Brothers - Hey Pocky Way - 10/31/1991 - Municipal Auditorium New Orleans (Official)",
-            "count": 1,
-            "totalSeconds": 576
-          },
-          {
-            "videoId": "AFm5dAkdtlc",
-            "title": "The Windup - Keith Jarrett Belonging Quartet 1974",
-            "count": 1,
-            "totalSeconds": 530
-          },
-          {
-            "videoId": "OgPEX5LyJQs",
-            "title": "Michael Pangilinan performs \"Rainbow\" (South Border) LIVE on Wish 107.5 Bus",
-            "count": 1,
-            "totalSeconds": 391
-          },
-          {
-            "videoId": "KURfF4MVirU",
-            "title": "Shaun Martin - The Yellow Jacket (7 Summers)",
-            "count": 1,
-            "totalSeconds": 374
-          },
-          {
-            "videoId": "kWwnmCcK0xE",
-            "title": "Diana Krall   Live in Concert 2002 - Case of You - Best",
-            "count": 1,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "Huj1JG4jUYE",
-            "title": "Brandon \"TAZ\" Niederauer, MonoNeon, Ghost-Note in NYC at THE DROM",
-            "count": 1,
-            "totalSeconds": 361
-          },
-          {
-            "videoId": "l2mJd6S_EpQ",
-            "title": "Richard Tee ［ STROKIN' / Live Video ］ Steve Gadd ' 90",
-            "count": 1,
-            "totalSeconds": 359
-          },
-          {
-            "videoId": "8jrBwSYdZEQ",
-            "title": "Chick Corea Elektric Band Final Performance - Charged Particles/Got A Match? - Tokyo Jazz 2019",
-            "count": 1,
-            "totalSeconds": 343
-          },
-          {
-            "videoId": "8bfyS-S-IJs",
-            "title": "Randy Newman - Short People (Official Video)",
-            "count": 1,
-            "totalSeconds": 327
-          },
-          {
-            "videoId": "a0yO7Sy9IcY",
-            "title": "Dimash Qudaibergen & Igor Krutoy - Your Love (Live in Moscow 2020)",
-            "count": 1,
-            "totalSeconds": 324
-          },
-          {
-            "videoId": "DZ51JJJMooU",
-            "title": "will Kennedy Capetown",
-            "count": 1,
-            "totalSeconds": 313
-          },
-          {
-            "videoId": "RDVUGihJuP0",
-            "title": "Steps Ahead - Well In that Case (HQ - HD)",
-            "count": 1,
-            "totalSeconds": 312
-          },
-          {
-            "videoId": "ZUVNKibt6zM",
-            "title": "out of town",
-            "count": 1,
-            "totalSeconds": 305
-          },
-          {
-            "videoId": "p2FXQgtmPDw",
-            "title": "Morissette performs \"Akin Ka Na Lang\" LIVE on Wish 107.5 Bus",
-            "count": 1,
-            "totalSeconds": 289
-          },
-          {
-            "videoId": "GKmO6BXJSqU",
-            "title": "Brendan MacFarlane - Colder Weather (Zac Brown Cover)",
-            "count": 1,
-            "totalSeconds": 283
-          },
-          {
-            "videoId": "JXwG6rB60o0",
-            "title": "Zairo(자이로/안중재) & 멜로망스 정동환 - 강아지의 산책 / Puppy's Walking - THE ZAIRO CONCERT 20210404",
-            "count": 1,
-            "totalSeconds": 278
-          },
-          {
-            "videoId": "D6C9G-4-Kmo",
-            "title": "Got a Match? Dave Weckl with the Chick Corea Elektric Band 2017",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "JiKlVfrF79c",
-            "title": "Morissette performs \"Shine\" LIVE on Wish 107.5 Bus",
-            "count": 1,
-            "totalSeconds": 258
-          },
-          {
-            "videoId": "6RAvP8-Z8PA",
-            "title": "Got A Match? - Chick Corea Elektric Band, North Sea Jazz 2017",
-            "count": 1,
-            "totalSeconds": 257
-          },
-          {
-            "videoId": "ER4bFH0oT80",
-            "title": "brendan macfarlane money wont",
-            "count": 1,
-            "totalSeconds": 256
-          },
-          {
-            "videoId": "fgphPFNiVZw",
-            "title": "Bob Dylan - Maggie's Farm (Official Audio)",
-            "count": 1,
-            "totalSeconds": 237
-          },
-          {
-            "videoId": "2sF8c6LTvfw",
-            "title": "Dennis Chambers-Drum Solo",
-            "count": 1,
-            "totalSeconds": 235
-          },
-          {
-            "videoId": "6zOoKa3k03I",
-            "title": "SISTAR(씨스타) - Touch my body(터치마이바디) Acoustic Ver.",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "avjrJffxqu0",
-            "title": "Shanti Dope - Nadarang (Khel Pangilinan x Ryssi )",
-            "count": 1,
-            "totalSeconds": 228
-          },
-          {
-            "videoId": "a14mYmCBFRE",
-            "title": "LAGI - Skusta Clee (KAYE CAL Acoustic Cover)",
-            "count": 1,
-            "totalSeconds": 212
-          },
-          {
-            "videoId": "SMsggeiEOv8",
-            "title": "윤하의 별이 빛나는 밤에 - Yoo Seung-woo - Guilty, 유승우 - 죽일놈 20131116",
-            "count": 1,
-            "totalSeconds": 196
-          },
-          {
-            "videoId": "FBwByKFFVRY",
-            "title": "Tommy Emmanuel - Mombasa",
-            "count": 1,
-            "totalSeconds": 193
-          },
-          {
-            "videoId": "-HcKrd3K8_A",
-            "title": "Hiromi Uehara - The Tom and Jerry Show",
-            "count": 1,
-            "totalSeconds": 174
-          },
-          {
-            "videoId": "WmhtbiTZ0uA",
-            "title": "Will Kennedy AfricanBeat",
-            "count": 1,
-            "totalSeconds": 171
-          },
-          {
-            "videoId": "mPSmK-HoOJ0",
-            "title": "No Such Thing - 자이로(zai.ro) John Mayer Cover (안중재 AhnJungJae)",
-            "count": 1,
-            "totalSeconds": 170
-          },
-          {
-            "videoId": "W-FDyuUf85I",
-            "title": "유승우(You SeungWoo) - Hello",
-            "count": 1,
-            "totalSeconds": 73
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "HYQ9wEsxjrQ",
-            "message": "no eating in new car.     ; ((",
-            "date": "2026-04-29T02:44:15.010Z"
-          },
-          {
-            "videoId": "FBwByKFFVRY",
-            "message": "Hi",
-            "date": "2026-04-06T22:38:10.954Z"
-          },
-          {
-            "videoId": "O2GHoOj4alk",
-            "message": "Hi",
-            "date": "2026-04-06T21:33:19.532Z"
-          },
-          {
-            "videoId": "O2GHoOj4alk",
-            "message": "Hi",
-            "date": "2026-04-02T20:55:26.192Z"
-          },
-          {
-            "videoId": "p2FXQgtmPDw",
-            "message": "you need money for uber ?",
-            "date": "2026-03-23T03:43:34.569Z"
-          },
-          {
-            "videoId": "a0yO7Sy9IcY",
-            "message": "you need money for uber ?",
-            "date": "2026-03-22T00:07:58.833Z"
-          },
-          {
-            "videoId": "5JHI5n9tW_g",
-            "message": "haven't been able too eat food in over 2 years and all you do is cook    :(",
-            "date": "2026-03-07T21:52:31.363Z"
-          },
-          {
-            "videoId": "nyYG70aM9Fw",
-            "message": "\nSteely Dan - Kid Charlemagne (Two Against Nature 2000)",
-            "date": "2026-02-21T04:33:15.475Z"
-          },
-          {
-            "videoId": "nyYG70aM9Fw",
-            "message": "\nSteely Dan - Kid Charlemagne (Two Against Nature 2000)",
-            "date": "2026-02-20T22:52:10.421Z"
-          },
-          {
-            "videoId": "Jp3b69OZQoE",
-            "message": "hi",
-            "date": "2026-02-11T22:56:11.982Z"
-          },
-          {
-            "videoId": "Jp3b69OZQoE",
-            "message": "hi",
-            "date": "2026-02-10T23:09:02.778Z"
-          },
-          {
-            "videoId": "ohNfQpf8SUY",
-            "message": "2026",
-            "date": "2026-01-13T23:17:33.784Z"
-          },
-          {
-            "videoId": "ohNfQpf8SUY",
-            "message": "You watching out for tsunami  in you https://youtube.com/shorts/UK0Hw-8GXZc?si=PnM2uw4CmSMID-pQ",
-            "date": "2025-11-16T00:07:11.452Z"
-          },
-          {
-            "videoId": "OgPEX5LyJQs",
-            "message": "You watching out for tsunami  in you area ?",
-            "date": "2025-11-11T22:09:27.815Z"
-          }
-        ]
-      },
-      {
         "username": "Anonymous",
-        "totalRequests": 46,
-        "totalSeconds": 5842,
+        "totalRequests": 47,
+        "totalSeconds": 5950,
         "topSongs": [
           {
             "videoId": "sslLjdrRjnE",
@@ -123556,6 +123757,12 @@
             "title": "Wii Shop Channel But You Whip and Nae Nae...",
             "count": 1,
             "totalSeconds": 124
+          },
+          {
+            "videoId": "0btmqDA95y4",
+            "title": "Bad bunny feat. Drake - Mia (Cover Acustico)",
+            "count": 1,
+            "totalSeconds": 108
           },
           {
             "videoId": "VjccFcNq0WY",
@@ -127982,6 +128189,70 @@
         "messages": []
       },
       {
+        "username": "Greenmen2000 ",
+        "totalRequests": 5,
+        "totalSeconds": 1431,
+        "topSongs": [
+          {
+            "videoId": "Sq6mSvWJh4c",
+            "title": "Aoaoaoaooaoeoeoeoeoeo",
+            "count": 1,
+            "totalSeconds": 611
+          },
+          {
+            "videoId": "OUaYDMpkzz8",
+            "title": "Skeksk",
+            "count": 1,
+            "totalSeconds": 343
+          },
+          {
+            "videoId": "4YEASgnGscE",
+            "title": "Best of EclecticTV March 19th 2025 best of the week - Most viewed twitch clip and more",
+            "count": 1,
+            "totalSeconds": 220
+          },
+          {
+            "videoId": "vx2u5uUu3DE",
+            "title": "Bon Jovi - It's My Life (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "yYEz5DpBA_Y",
+            "title": "You don't need to kill a dragon for me",
+            "count": 1,
+            "totalSeconds": 86
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "Sq6mSvWJh4c",
+            "message": "Greenmen2000  ",
+            "date": "2026-05-10T02:38:49.123Z"
+          },
+          {
+            "videoId": "yYEz5DpBA_Y",
+            "message": "Greenmen2000  ",
+            "date": "2026-05-10T01:53:53.684Z"
+          },
+          {
+            "videoId": "4YEASgnGscE",
+            "message": "Greenmen2000  ",
+            "date": "2026-05-06T22:44:24.925Z"
+          },
+          {
+            "videoId": "OUaYDMpkzz8",
+            "message": "Greenmen2000  ",
+            "date": "2026-05-06T21:54:04.146Z"
+          },
+          {
+            "videoId": "vx2u5uUu3DE",
+            "message": "https://youtu.be/vx2u5uUu3DE?is=6rYjLKB3WLnP-vRI",
+            "date": "2026-05-05T19:18:43.087Z"
+          }
+        ]
+      },
+      {
         "username": "Teichi",
         "totalRequests": 5,
         "totalSeconds": 1328,
@@ -128643,48 +128914,6 @@
           }
         ],
         "messages": []
-      },
-      {
-        "username": "Greenmen2000 ",
-        "totalRequests": 3,
-        "totalSeconds": 734,
-        "topSongs": [
-          {
-            "videoId": "OUaYDMpkzz8",
-            "title": "Skeksk",
-            "count": 1,
-            "totalSeconds": 343
-          },
-          {
-            "videoId": "4YEASgnGscE",
-            "title": "Best of EclecticTV March 19th 2025 best of the week - Most viewed twitch clip and more",
-            "count": 1,
-            "totalSeconds": 220
-          },
-          {
-            "videoId": "vx2u5uUu3DE",
-            "title": "Bon Jovi - It's My Life (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 171
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "4YEASgnGscE",
-            "message": "Greenmen2000  ",
-            "date": "2026-05-06T22:44:24.925Z"
-          },
-          {
-            "videoId": "OUaYDMpkzz8",
-            "message": "Greenmen2000  ",
-            "date": "2026-05-06T21:54:04.146Z"
-          },
-          {
-            "videoId": "vx2u5uUu3DE",
-            "message": "https://youtu.be/vx2u5uUu3DE?is=6rYjLKB3WLnP-vRI",
-            "date": "2026-05-05T19:18:43.087Z"
-          }
-        ]
       },
       {
         "username": "MajorBurn",
@@ -131328,5 +131557,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-09T02:45:44.982Z"
+  "lastUpdated": "2026-05-10T02:52:11.000Z"
 }
