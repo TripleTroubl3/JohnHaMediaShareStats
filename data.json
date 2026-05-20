@@ -1,6 +1,806 @@
 {
   "rawHistory": [
     {
+      "_id": "6a0d003a7c09ff9534a67cf6",
+      "song": {
+        "videoId": "zY29-ipPFOo",
+        "title": "MICK GORDON - \"The Underking\" (Drum Cover)",
+        "duration": 374,
+        "start": 0,
+        "end": 374,
+        "channel": "lilithxm",
+        "amount": 13,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1747,
+          "likeCount": 112,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cfda0b1d2f741a87615bf"
+      },
+      "createdAt": "2026-05-20T00:28:42.854Z"
+    },
+    {
+      "_id": "6a0cfe3b05e965b0de1f876d",
+      "song": {
+        "videoId": "bAJ1WTGNISk",
+        "title": "Meshuggah - Bleed - Tomas Haake - Wincent Drumsticks",
+        "duration": 120,
+        "start": 60,
+        "end": 180,
+        "channel": "Wincent Drumsticks AB",
+        "amount": 4,
+        "message": "Try this",
+        "user": {
+          "username": "scuffedmaru",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8320996,
+          "likeCount": 80266,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cfb6fcbf9447b91e14811"
+      },
+      "createdAt": "2026-05-20T00:20:11.398Z"
+    },
+    {
+      "_id": "6a0cfb7cb1d2f741a875e84c",
+      "song": {
+        "videoId": "bU7odZcXn1k",
+        "title": "Xtrngr - Sunshine (Sina Remix)",
+        "duration": 300,
+        "start": 0,
+        "end": 300,
+        "channel": "Eton Messy",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 35167,
+          "likeCount": 422,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf8bb6d1e57f58c78e3a2"
+      },
+      "createdAt": "2026-05-20T00:08:28.159Z"
+    },
+    {
+      "_id": "6a0cf93c9056f67356158760",
+      "song": {
+        "videoId": "A3ihseDZWcI",
+        "title": "Mufasa - Push the Feeling on (black guy dancing)",
+        "duration": 61,
+        "start": 0,
+        "end": 61,
+        "channel": "PKL",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "peter 3343-",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8041658,
+          "likeCount": 147201,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf756b1d2f741a87555a4"
+      },
+      "createdAt": "2026-05-19T23:58:52.636Z"
+    },
+    {
+      "_id": "6a0cf7b67c09ff9534a51354",
+      "song": {
+        "videoId": "gGkBxb_HqFE",
+        "title": "Christy Moore - My Little Honda 50 (Official Music Video)",
+        "duration": 158,
+        "start": 0,
+        "end": 158,
+        "channel": "ChristyMooreVEVO",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "LyOnZy",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 587507,
+          "likeCount": 2351,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf7006d1e57f58c78ac66"
+      },
+      "createdAt": "2026-05-19T23:52:22.176Z"
+    },
+    {
+      "_id": "6a0cf712b1d2f741a87551bf",
+      "song": {
+        "videoId": "3l5nAh63W0o",
+        "title": "Metsatöll - Vimm (Official Music Video)",
+        "duration": 60,
+        "start": 145,
+        "end": 205,
+        "channel": "Spinefarm",
+        "amount": 2,
+        "message": "",
+        "user": {
+          "username": "Shadowlier",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 488636,
+          "likeCount": 5591,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf63b8b9dc8bfd687c288"
+      },
+      "createdAt": "2026-05-19T23:49:38.125Z"
+    },
+    {
+      "_id": "6a0cf64f6d1e57f58c7886a2",
+      "song": {
+        "videoId": "hnSNfxjrwck",
+        "title": "Scotland | Glasgow | Clanadonia",
+        "duration": 191,
+        "start": 0,
+        "end": 191,
+        "channel": "genkichris",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 23982949,
+          "likeCount": 408734,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf456b1d2f741a874d8d5"
+      },
+      "createdAt": "2026-05-19T23:46:23.352Z"
+    },
+    {
+      "_id": "6a0cf514538ad5bb1cd9c605",
+      "song": {
+        "videoId": "ONcVfjjD5sw",
+        "title": "Kunt and the Gang - Bangers and Mash",
+        "duration": 150,
+        "start": 0,
+        "end": 150,
+        "channel": "The Weird Weird World of Russ",
+        "amount": 5,
+        "message": "",
+        "user": {
+          "username": "DanHalen_",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 5461,
+          "likeCount": 38,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf44d05e965b0de1e4fcc"
+      },
+      "createdAt": "2026-05-19T23:41:08.826Z"
+    },
+    {
+      "_id": "6a0cf452b1d2f741a874d846",
+      "song": {
+        "videoId": "-IKHjUm9PAo",
+        "title": "video Weather Report w Jaco Pastorius Teen Town Midnight Special 1977",
+        "duration": 273,
+        "start": 0,
+        "end": 273,
+        "channel": "alebaj",
+        "amount": 20,
+        "message": "",
+        "user": {
+          "username": "peter33435",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 9472,
+          "likeCount": 85,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf08e9056f673561470a9"
+      },
+      "createdAt": "2026-05-19T23:37:54.259Z"
+    },
+    {
+      "_id": "6a0cf28f9056f6735614bb7d",
+      "song": {
+        "videoId": "p3EGfYcW2SA",
+        "title": "The Cinematic Orchestra - 'All That You Give (feat. Fontella Bass)' (Official Audio)",
+        "duration": 360,
+        "start": 0,
+        "end": 360,
+        "channel": "The Cinematic Orchestra",
+        "amount": 12,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 66603,
+          "likeCount": 917,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cf024b1d2f741a8742eb6"
+      },
+      "createdAt": "2026-05-19T23:30:23.312Z"
+    },
+    {
+      "_id": "6a0cf0c78b9dc8bfd686b6c6",
+      "song": {
+        "videoId": "IiHFnmI8pxg",
+        "title": "Joost Klein - Europapa (LIVE) | Netherlands 🇳🇱 | Second Semi-Final | Eurovision 2024",
+        "duration": 195,
+        "start": 5,
+        "end": 200,
+        "channel": "Eurovision Song Contest",
+        "amount": 6.5,
+        "message": "",
+        "user": {
+          "username": "LyOnZy",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 52988203,
+          "likeCount": 601544,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cefc59056f67356145ccb"
+      },
+      "createdAt": "2026-05-19T23:22:47.520Z"
+    },
+    {
+      "_id": "6a0cefc8cbf9447b91dfbefa",
+      "song": {
+        "videoId": "D1NdGBldg3w",
+        "title": "Electric Callboy - WE GOT THE MOVES (OFFICIAL VIDEO)",
+        "duration": 210,
+        "start": 7,
+        "end": 217,
+        "channel": "Electric Callboy",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "DanHalen_",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 75821755,
+          "likeCount": 733285,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cede150dea5556217efb7"
+      },
+      "createdAt": "2026-05-19T23:18:32.956Z"
+    },
+    {
+      "_id": "6a0ceeb87c09ff9534a3d743",
+      "song": {
+        "videoId": "ycLc8mLiEkQ",
+        "title": "Resignation - Lee Young Hyun (MULTI-LANGUAGE 2020 cover) ♡, 𝙼𝚘𝚛𝚒𝚜𝚜𝚎𝚝𝚝𝚎",
+        "duration": 317,
+        "start": 0,
+        "end": 317,
+        "channel": "Morissette",
+        "amount": 30,
+        "message": " ",
+        "user": {
+          "username": "peter33435",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8962447,
+          "likeCount": 165902,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cebda7c09ff9534a36267"
+      },
+      "createdAt": "2026-05-19T23:14:00.442Z"
+    },
+    {
+      "_id": "6a0cec1dcbf9447b91df504a",
+      "song": {
+        "videoId": "ruCD9sLVATA",
+        "title": "Singing live undercover pretending to be a track (ft. KimYeonWoo)[BGL : Background Live] | JAYKEEOUT",
+        "duration": 240,
+        "start": 482,
+        "end": 722,
+        "channel": "제이키아웃 JAYKEEOUT",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "Shadowlier",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 9211070,
+          "likeCount": 148652,
+          "dislikeCount": 0
+        },
+        "_id": "6a0ce97450dea555621736d8"
+      },
+      "createdAt": "2026-05-19T23:02:53.155Z"
+    },
+    {
+      "_id": "6a0ce9d305e965b0de1d15c5",
+      "song": {
+        "videoId": "55VPMpcgcvk",
+        "title": "Yuko Ogura - Onna no ko otoko no ko",
+        "duration": 189,
+        "start": 0,
+        "end": 189,
+        "channel": "Frikis al poder Kawaii",
+        "amount": 6.3,
+        "message": "",
+        "user": {
+          "username": "just_wein",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 151816,
+          "likeCount": 3449,
+          "dislikeCount": 0
+        },
+        "_id": "6a0ce4e6b1d2f741a8727053"
+      },
+      "createdAt": "2026-05-19T22:53:07.515Z"
+    },
+    {
+      "_id": "6a0ce65f6d1e57f58c7667cf",
+      "song": {
+        "videoId": "k9TQPEPS-zc",
+        "title": "You Are the End",
+        "duration": 139,
+        "start": 0,
+        "end": 139,
+        "channel": "Waveshaper - Topic",
+        "amount": 5,
+        "message": "Check out Furi. You might like it.",
+        "user": {
+          "username": "trent_raz0r",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 483737,
+          "likeCount": 4609,
+          "dislikeCount": 0
+        },
+        "_id": "6a0ce4de538ad5bb1cd7bc04"
+      },
+      "createdAt": "2026-05-19T22:38:23.838Z"
+    },
+    {
+      "_id": "6a0ce5bb9056f673561327f4",
+      "song": {
+        "videoId": "ECc0bn4Mwkc",
+        "title": "살겠다 _ 쇼빈(Showvin) _ Band Live Clip Ver.",
+        "duration": 330,
+        "start": 0,
+        "end": 330,
+        "channel": "Official NORAZO",
+        "amount": 11,
+        "message": "showvins  FeelsStrongMan  aka Zovin of norazo",
+        "user": {
+          "username": "LyOnZy",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 9609,
+          "likeCount": 662,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cdd3bc765d4262104c4fe"
+      },
+      "createdAt": "2026-05-19T22:35:39.093Z"
+    },
+    {
+      "_id": "6a0ce459538ad5bb1cd79a8c",
+      "song": {
+        "videoId": "WmvZFkaftUo",
+        "title": "[풀버전] 로제(ROSÉ)x온유(ONEW)의 〈기억을 걷는 시간〉♬ 원곡: 넬(NELL) | JTBC 210803 방송",
+        "duration": 253,
+        "start": 0,
+        "end": 253,
+        "channel": "바라던 바다",
+        "amount": 30,
+        "message": " ",
+        "user": {
+          "username": "peter33435",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 18820484,
+          "likeCount": 155820,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cdd2f6d1e57f58c74e2d0"
+      },
+      "createdAt": "2026-05-19T22:29:45.548Z"
+    },
+    {
+      "_id": "6a0ce319538ad5bb1cd75a01",
+      "song": {
+        "videoId": "mKWHa65cmns",
+        "title": "Dead Souls (2010 Remaster)",
+        "duration": 295,
+        "start": 0,
+        "end": 295,
+        "channel": "Joy Division - Topic",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "trent_raz0r",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1408966,
+          "likeCount": 19335,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cdc0205e965b0de1af8ea"
+      },
+      "createdAt": "2026-05-19T22:24:25.074Z"
+    },
+    {
+      "_id": "6a0ce1d36d1e57f58c758e16",
+      "song": {
+        "videoId": "bRazgMj_cfE",
+        "title": "iamamiwhoami; fountain",
+        "duration": 398,
+        "start": 0,
+        "end": 398,
+        "channel": "iamamiwhoami",
+        "amount": 14,
+        "message": "",
+        "user": {
+          "username": "trent_raz0r",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3694213,
+          "likeCount": 47696,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd78605e965b0de1a4db5"
+      },
+      "createdAt": "2026-05-19T22:18:59.818Z"
+    },
+    {
+      "_id": "6a0ce02ec765d426210543b5",
+      "song": {
+        "videoId": "lRqXxMdxMrg",
+        "title": "Sora 2 Makes Esfand REALIZE Something About Hachubby...",
+        "duration": 900,
+        "start": 0,
+        "end": 900,
+        "channel": "Esfand",
+        "amount": 30,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 24528,
+          "likeCount": 890,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd6da538ad5bb1cd5ae0b"
+      },
+      "createdAt": "2026-05-19T22:11:58.842Z"
+    },
+    {
+      "_id": "6a0cdc9a9056f6735611b6a3",
+      "song": {
+        "videoId": "20MzEpfU0j0",
+        "title": "Red Velvet (레드벨벳) Power Up (Piano Ver.) song cover",
+        "duration": 132,
+        "start": 0,
+        "end": 132,
+        "channel": "HAchubby Diary",
+        "amount": 4.4,
+        "message": "",
+        "user": {
+          "username": "al4da6",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 6482,
+          "likeCount": 294,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd640c765d4262103d64f"
+      },
+      "createdAt": "2026-05-19T21:56:42.068Z"
+    },
+    {
+      "_id": "6a0cdbf7c765d42621049023",
+      "song": {
+        "videoId": "8taPqxNjiz4",
+        "title": "Brown Eyed Girls(브라운아이드걸스) - KILL BILL(킬빌) MV",
+        "duration": 450,
+        "start": 0,
+        "end": 450,
+        "channel": "Brown Eyed Girls",
+        "amount": 15,
+        "message": "",
+        "user": {
+          "username": "Shadowlier",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 729863,
+          "likeCount": 14943,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd5fdcbf9447b91dbe69d"
+      },
+      "createdAt": "2026-05-19T21:53:59.037Z"
+    },
+    {
+      "_id": "6a0cd9af7c09ff9534a08d90",
+      "song": {
+        "videoId": "5p137EbW-cI",
+        "title": "Muppet Treasure Island - Shiver My Timbers",
+        "duration": 134,
+        "start": 0,
+        "end": 134,
+        "channel": "Comrade Hellas",
+        "amount": 5,
+        "message": "",
+        "user": {
+          "username": "just_wein",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 404669,
+          "likeCount": 0,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd5f8b1d2f741a870705e"
+      },
+      "createdAt": "2026-05-19T21:44:15.269Z"
+    },
+    {
+      "_id": "6a0cd848cbf9447b91dc0221",
+      "song": {
+        "videoId": "yom3f_NPqSY",
+        "title": "SUPER JUNIOR (슈퍼주니어) Lo Siento (Feat. Leslie Grace) (Acoustic Ver.) Cover by HAchubby 하츄비",
+        "duration": 138,
+        "start": 0,
+        "end": 138,
+        "channel": "HAchubby Diary",
+        "amount": 4.6,
+        "message": "",
+        "user": {
+          "username": "al4da6",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 4674,
+          "likeCount": 202,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cd5a6c765d4262103d34b"
+      },
+      "createdAt": "2026-05-19T21:38:16.708Z"
+    },
+    {
+      "_id": "6a0cd7b66d1e57f58c74362a",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 250780,
+          "likeCount": 660,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cc735cbf9447b91d9ca56"
+      },
+      "createdAt": "2026-05-19T21:35:50.498Z"
+    },
+    {
+      "_id": "6a0cd7ab538ad5bb1cd5bfe5",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 53298,
+          "likeCount": 208,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cc7347c09ff95349ee5ad"
+      },
+      "createdAt": "2026-05-19T21:35:39.756Z"
+    },
+    {
+      "_id": "6a0cc7447c09ff95349ee5df",
+      "song": {
+        "videoId": "Uvt5TZy0aAc",
+        "title": "AsaChan - Minkara",
+        "duration": 450,
+        "start": 0,
+        "end": 450,
+        "channel": "Adrian Portia",
+        "amount": 15,
+        "message": "next instrument?",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 6569291,
+          "likeCount": 70419,
+          "dislikeCount": 0
+        },
+        "_id": "6a0ba8ab95eb6fd35378031d"
+      },
+      "createdAt": "2026-05-19T20:25:40.181Z"
+    },
+    {
       "_id": "6a0ba8be1ef0d9b5b1ff412a",
       "song": {
         "videoId": "HamLxGxeDqI",
@@ -103822,8 +104622,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 769619,
-      "totalRequests": 3428,
+      "totalSeconds": 776436,
+      "totalRequests": 3454,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -106325,6 +107125,12 @@
           "totalSeconds": 277
         },
         {
+          "videoId": "yom3f_NPqSY",
+          "title": "SUPER JUNIOR (슈퍼주니어) Lo Siento (Feat. Leslie Grace) (Acoustic Ver.) Cover by HAchubby 하츄비",
+          "count": 2,
+          "totalSeconds": 276
+        },
+        {
           "videoId": "IwLSrNu1ppI",
           "title": "J-Cut & Kolt Siewerts - The Flute Tune (Soulpride Remix)",
           "count": 2,
@@ -106479,6 +107285,12 @@
           "title": "25 Min Countdown Timer (Roller Coaster) 🎢",
           "count": 1,
           "totalSeconds": 1507
+        },
+        {
+          "videoId": "lRqXxMdxMrg",
+          "title": "Sora 2 Makes Esfand REALIZE Something About Hachubby...",
+          "count": 1,
+          "totalSeconds": 900
         },
         {
           "videoId": "4Q2YBKFDXjQ",
@@ -106719,6 +107531,18 @@
           "title": "Classical Music for Brain Power | Mozart, Beethoven, Vivaldi...",
           "count": 1,
           "totalSeconds": 465
+        },
+        {
+          "videoId": "8taPqxNjiz4",
+          "title": "Brown Eyed Girls(브라운아이드걸스) - KILL BILL(킬빌) MV",
+          "count": 1,
+          "totalSeconds": 450
+        },
+        {
+          "videoId": "Uvt5TZy0aAc",
+          "title": "AsaChan - Minkara",
+          "count": 1,
+          "totalSeconds": 450
         },
         {
           "videoId": "x6_mbnsh6VU",
@@ -107021,6 +107845,12 @@
           "totalSeconds": 399
         },
         {
+          "videoId": "bRazgMj_cfE",
+          "title": "iamamiwhoami; fountain",
+          "count": 1,
+          "totalSeconds": 398
+        },
+        {
           "videoId": "AHhWet366b8",
           "title": "Tripmeister Eder   Tutenchamun   Goa Goa MPU, ja!   Trash in High Quality =P",
           "count": 1,
@@ -107183,6 +108013,12 @@
           "totalSeconds": 375
         },
         {
+          "videoId": "zY29-ipPFOo",
+          "title": "MICK GORDON - \"The Underking\" (Drum Cover)",
+          "count": 1,
+          "totalSeconds": 374
+        },
+        {
           "videoId": "KURfF4MVirU",
           "title": "Shaun Martin - The Yellow Jacket (7 Summers)",
           "count": 1,
@@ -107271,6 +108107,12 @@
           "title": "Brandon \"TAZ\" Niederauer, MonoNeon, Ghost-Note in NYC at THE DROM",
           "count": 1,
           "totalSeconds": 361
+        },
+        {
+          "videoId": "p3EGfYcW2SA",
+          "title": "The Cinematic Orchestra - 'All That You Give (feat. Fontella Bass)' (Official Audio)",
+          "count": 1,
+          "totalSeconds": 360
         },
         {
           "videoId": "7tqCc6H51jw",
@@ -107789,6 +108631,12 @@
           "totalSeconds": 331
         },
         {
+          "videoId": "ECc0bn4Mwkc",
+          "title": "살겠다 _ 쇼빈(Showvin) _ Band Live Clip Ver.",
+          "count": 1,
+          "totalSeconds": 330
+        },
+        {
           "videoId": "R0_pkbpj4Z8",
           "title": "Bohren & der Club of Gore - Im Rauch",
           "count": 1,
@@ -108089,6 +108937,12 @@
           "totalSeconds": 318
         },
         {
+          "videoId": "ycLc8mLiEkQ",
+          "title": "Resignation - Lee Young Hyun (MULTI-LANGUAGE 2020 cover) ♡, 𝙼𝚘𝚛𝚒𝚜𝚜𝚎𝚝𝚝𝚎",
+          "count": 1,
+          "totalSeconds": 317
+        },
+        {
           "videoId": "gZ_kez7WVUU",
           "title": "Deep Purple - Perfect Strangers (Official Music Video)",
           "count": 1,
@@ -108363,6 +109217,12 @@
           "title": "\"Incantation\"  Piano Music by David Hicken",
           "count": 1,
           "totalSeconds": 301
+        },
+        {
+          "videoId": "bU7odZcXn1k",
+          "title": "Xtrngr - Sunshine (Sina Remix)",
+          "count": 1,
+          "totalSeconds": 300
         },
         {
           "videoId": "q-KE9lvU810",
@@ -108831,6 +109691,12 @@
           "title": "Jonathon \"Boogie\" Long - \"Pray For Me\" (Live at the 2019 Dallas International Guitar Festival)",
           "count": 1,
           "totalSeconds": 296
+        },
+        {
+          "videoId": "mKWHa65cmns",
+          "title": "Dead Souls (2010 Remaster)",
+          "count": 1,
+          "totalSeconds": 295
         },
         {
           "videoId": "BoYsfGhRm6s",
@@ -109815,6 +110681,12 @@
           "title": "BATTLE BEAST - King For A Day (OFFICIAL VIDEO)",
           "count": 1,
           "totalSeconds": 274
+        },
+        {
+          "videoId": "-IKHjUm9PAo",
+          "title": "video Weather Report w Jaco Pastorius Teen Town Midnight Special 1977",
+          "count": 1,
+          "totalSeconds": 273
         },
         {
           "videoId": "MZjAantupsA",
@@ -111365,6 +112237,12 @@
           "totalSeconds": 254
         },
         {
+          "videoId": "WmvZFkaftUo",
+          "title": "[풀버전] 로제(ROSÉ)x온유(ONEW)의 〈기억을 걷는 시간〉♬ 원곡: 넬(NELL) | JTBC 210803 방송",
+          "count": 1,
+          "totalSeconds": 253
+        },
+        {
           "videoId": "Gvo-ylrnzmk",
           "title": "Tank",
           "count": 1,
@@ -112107,6 +112985,12 @@
           "title": "Muse - WON'T STAND DOWN (Official Video)",
           "count": 1,
           "totalSeconds": 241
+        },
+        {
+          "videoId": "ruCD9sLVATA",
+          "title": "Singing live undercover pretending to be a track (ft. KimYeonWoo)[BGL : Background Live] | JAYKEEOUT",
+          "count": 1,
+          "totalSeconds": 240
         },
         {
           "videoId": "91_dZzo04nI",
@@ -115199,6 +116083,12 @@
           "totalSeconds": 211
         },
         {
+          "videoId": "D1NdGBldg3w",
+          "title": "Electric Callboy - WE GOT THE MOVES (OFFICIAL VIDEO)",
+          "count": 1,
+          "totalSeconds": 210
+        },
+        {
           "videoId": "TQCJfAeH2Cg",
           "title": "Jetpack Blues, Sunset Hues",
           "count": 1,
@@ -116903,6 +117793,12 @@
           "totalSeconds": 196
         },
         {
+          "videoId": "IiHFnmI8pxg",
+          "title": "Joost Klein - Europapa (LIVE) | Netherlands 🇳🇱 | Second Semi-Final | Eurovision 2024",
+          "count": 1,
+          "totalSeconds": 195
+        },
+        {
           "videoId": "NUTGr5t3MoY",
           "title": "Green Day - Basket Case [Official Music Video] (4K Upgrade)",
           "count": 1,
@@ -117233,6 +118129,12 @@
           "totalSeconds": 192
         },
         {
+          "videoId": "hnSNfxjrwck",
+          "title": "Scotland | Glasgow | Clanadonia",
+          "count": 1,
+          "totalSeconds": 191
+        },
+        {
           "videoId": "98W9QuMq-2k",
           "title": "U2 - Vertigo (Official Music Video)",
           "count": 1,
@@ -117339,6 +118241,12 @@
           "title": "Damn NaM Spam - ayyybubu (feat. DrDisRespect)",
           "count": 1,
           "totalSeconds": 190
+        },
+        {
+          "videoId": "55VPMpcgcvk",
+          "title": "Yuko Ogura - Onna no ko otoko no ko",
+          "count": 1,
+          "totalSeconds": 189
         },
         {
           "videoId": "1BiWkZDiY7s",
@@ -119273,6 +120181,12 @@
           "totalSeconds": 159
         },
         {
+          "videoId": "gGkBxb_HqFE",
+          "title": "Christy Moore - My Little Honda 50 (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 158
+        },
+        {
           "videoId": "DrKMEZ2NrRQ",
           "title": "Letter in the Mail",
           "count": 1,
@@ -119517,6 +120431,12 @@
           "title": "[Dec 6th, '21] K-Dancer streamer competition with judges Charming_Jo & Tyongeee",
           "count": 1,
           "totalSeconds": 151
+        },
+        {
+          "videoId": "ONcVfjjD5sw",
+          "title": "Kunt and the Gang - Bangers and Mash",
+          "count": 1,
+          "totalSeconds": 150
         },
         {
           "videoId": "6UweMMO5TTQ",
@@ -119957,6 +120877,12 @@
           "totalSeconds": 140
         },
         {
+          "videoId": "k9TQPEPS-zc",
+          "title": "You Are the End",
+          "count": 1,
+          "totalSeconds": 139
+        },
+        {
           "videoId": "vraoiVCDdaM",
           "title": "Vampire Weekend - 'Holiday' (official video)",
           "count": 1,
@@ -119989,12 +120915,6 @@
         {
           "videoId": "KYDL_5aVKCc",
           "title": "RAMONES - S L U G  (2018 Mix)",
-          "count": 1,
-          "totalSeconds": 138
-        },
-        {
-          "videoId": "yom3f_NPqSY",
-          "title": "SUPER JUNIOR (슈퍼주니어) Lo Siento (Feat. Leslie Grace) (Acoustic Ver.) Cover by HAchubby 하츄비",
           "count": 1,
           "totalSeconds": 138
         },
@@ -120101,6 +121021,12 @@
           "totalSeconds": 135
         },
         {
+          "videoId": "5p137EbW-cI",
+          "title": "Muppet Treasure Island - Shiver My Timbers",
+          "count": 1,
+          "totalSeconds": 134
+        },
+        {
           "videoId": "6-FC0UDrS34",
           "title": "Bohemian rhapsody, Chicken 🐓",
           "count": 1,
@@ -120171,6 +121097,12 @@
           "title": "Hachu & The Yummy Yummies - Salami",
           "count": 1,
           "totalSeconds": 133
+        },
+        {
+          "videoId": "20MzEpfU0j0",
+          "title": "Red Velvet (레드벨벳) Power Up (Piano Ver.) song cover",
+          "count": 1,
+          "totalSeconds": 132
         },
         {
           "videoId": "EXo325iXK4A",
@@ -120363,6 +121295,12 @@
           "title": "Billy Herrington drinks beer at a gay bar... but its very sad - After dark",
           "count": 1,
           "totalSeconds": 121
+        },
+        {
+          "videoId": "bAJ1WTGNISk",
+          "title": "Meshuggah - Bleed - Tomas Haake - Wincent Drumsticks",
+          "count": 1,
+          "totalSeconds": 120
         },
         {
           "videoId": "5Co8WfGuy-k",
@@ -121349,6 +122287,12 @@
           "totalSeconds": 62
         },
         {
+          "videoId": "A3ihseDZWcI",
+          "title": "Mufasa - Push the Feeling on (black guy dancing)",
+          "count": 1,
+          "totalSeconds": 61
+        },
+        {
           "videoId": "DiUt0O4bRFY",
           "title": "Thank you for choosing EclecticTV.",
           "count": 1,
@@ -121365,6 +122309,12 @@
           "title": "Twitch Streamer Cries On Stream After Eating... (HAChubby)",
           "count": 1,
           "totalSeconds": 61
+        },
+        {
+          "videoId": "3l5nAh63W0o",
+          "title": "Metsatöll - Vimm (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 60
         },
         {
           "videoId": "UbfpnuvPHUo",
@@ -122079,8 +123029,8 @@
     "users": [
       {
         "username": "trent_raz0r",
-        "totalRequests": 391,
-        "totalSeconds": 94856,
+        "totalRequests": 394,
+        "totalSeconds": 95688,
         "topSongs": [
           {
             "videoId": "MIEDxtjNfSs",
@@ -122219,6 +123169,12 @@
             "title": "...And You Will Know Us By The Trail Of Dead - Will You Smile Again",
             "count": 1,
             "totalSeconds": 406
+          },
+          {
+            "videoId": "bRazgMj_cfE",
+            "title": "iamamiwhoami; fountain",
+            "count": 1,
+            "totalSeconds": 398
           },
           {
             "videoId": "uUqcBwQjj4k",
@@ -122579,6 +123535,12 @@
             "title": "Fade Into You",
             "count": 1,
             "totalSeconds": 296
+          },
+          {
+            "videoId": "mKWHa65cmns",
+            "title": "Dead Souls (2010 Remaster)",
+            "count": 1,
+            "totalSeconds": 295
           },
           {
             "videoId": "LWz0JC7afNQ",
@@ -124279,6 +125241,12 @@
             "totalSeconds": 140
           },
           {
+            "videoId": "k9TQPEPS-zc",
+            "title": "You Are the End",
+            "count": 1,
+            "totalSeconds": 139
+          },
+          {
             "videoId": "qCljI3cIObU",
             "title": "IC3PEAK - Dead But Pretty",
             "count": 1,
@@ -124358,6 +125326,11 @@
           }
         ],
         "messages": [
+          {
+            "videoId": "k9TQPEPS-zc",
+            "message": "Check out Furi. You might like it.",
+            "date": "2026-05-19T22:38:23.838Z"
+          },
           {
             "videoId": "F_6IjeprfEs",
             "message": "Lemme try something",
@@ -126555,8 +127528,8 @@
       },
       {
         "username": "al4da6",
-        "totalRequests": 209,
-        "totalSeconds": 40647,
+        "totalRequests": 211,
+        "totalSeconds": 40917,
         "topSongs": [
           {
             "videoId": "y2DqOGjGBbA",
@@ -126773,6 +127746,12 @@
             "title": "Subway Surfers Soundtrack | BLING (Lyric Video)",
             "count": 2,
             "totalSeconds": 294
+          },
+          {
+            "videoId": "yom3f_NPqSY",
+            "title": "SUPER JUNIOR (슈퍼주니어) Lo Siento (Feat. Leslie Grace) (Acoustic Ver.) Cover by HAchubby 하츄비",
+            "count": 2,
+            "totalSeconds": 276
           },
           {
             "videoId": "MveuK-S-5fs",
@@ -127147,12 +128126,6 @@
             "totalSeconds": 150
           },
           {
-            "videoId": "yom3f_NPqSY",
-            "title": "SUPER JUNIOR (슈퍼주니어) Lo Siento (Feat. Leslie Grace) (Acoustic Ver.) Cover by HAchubby 하츄비",
-            "count": 1,
-            "totalSeconds": 138
-          },
-          {
             "videoId": "KWIY_4ZEdYM",
             "title": "Ween - Ocean Man | Office Drummer [First Playthrough]",
             "count": 1,
@@ -127169,6 +128142,12 @@
             "title": "Hachu & The Yummy Yummies - Salami",
             "count": 1,
             "totalSeconds": 133
+          },
+          {
+            "videoId": "20MzEpfU0j0",
+            "title": "Red Velvet (레드벨벳) Power Up (Piano Ver.) song cover",
+            "count": 1,
+            "totalSeconds": 132
           },
           {
             "videoId": "2leeYfKeEII",
@@ -127273,8 +128252,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 157,
-        "totalSeconds": 39617,
+        "totalRequests": 160,
+        "totalSeconds": 40727,
         "topSongs": [
           {
             "videoId": "N_rFg5CGtk4",
@@ -127305,6 +128284,12 @@
             "title": "Led Zeppelin - Stairway To Heaven (Official Audio)",
             "count": 1,
             "totalSeconds": 480
+          },
+          {
+            "videoId": "Uvt5TZy0aAc",
+            "title": "AsaChan - Minkara",
+            "count": 1,
+            "totalSeconds": 450
           },
           {
             "videoId": "apK2jCrfnsk",
@@ -127353,6 +128338,12 @@
             "title": "NOMA - Brain Power - LYRICS!",
             "count": 1,
             "totalSeconds": 369
+          },
+          {
+            "videoId": "p3EGfYcW2SA",
+            "title": "The Cinematic Orchestra - 'All That You Give (feat. Fontella Bass)' (Official Audio)",
+            "count": 1,
+            "totalSeconds": 360
           },
           {
             "videoId": "xpCQE5jP538",
@@ -127431,6 +128422,12 @@
             "title": "Avenged Sevenfold - Hail To The King [Official Music Video]",
             "count": 1,
             "totalSeconds": 303
+          },
+          {
+            "videoId": "bU7odZcXn1k",
+            "title": "Xtrngr - Sunshine (Sina Remix)",
+            "count": 1,
+            "totalSeconds": 300
           },
           {
             "videoId": "qrn6GcDMHBY",
@@ -128209,6 +129206,11 @@
         ],
         "messages": [
           {
+            "videoId": "Uvt5TZy0aAc",
+            "message": "next instrument?",
+            "date": "2026-05-19T20:25:40.181Z"
+          },
+          {
             "videoId": "0iZHOADkhC8",
             "message": "PTSD beat",
             "date": "2026-05-17T16:40:41.996Z"
@@ -128302,11 +129304,6 @@
             "videoId": "9jK-NcRmVcw",
             "message": "requested by: gamerpool474_ph",
             "date": "2026-04-17T02:36:01.548Z"
-          },
-          {
-            "videoId": "VE2yYbRx6XA",
-            "message": "One to test the mic. I've seen you sing this before.",
-            "date": "2026-02-24T22:40:22.307Z"
           }
         ]
       },
@@ -132580,8 +133577,8 @@
       },
       {
         "username": "SeminoleGamer",
-        "totalRequests": 69,
-        "totalSeconds": 16866,
+        "totalRequests": 72,
+        "totalSeconds": 18331,
         "topSongs": [
           {
             "videoId": "CSN-WMD5hTU",
@@ -132606,6 +133603,12 @@
             "title": "When you're overqualified for the job",
             "count": 2,
             "totalSeconds": 322
+          },
+          {
+            "videoId": "lRqXxMdxMrg",
+            "title": "Sora 2 Makes Esfand REALIZE Something About Hachubby...",
+            "count": 1,
+            "totalSeconds": 900
           },
           {
             "videoId": "0zDxaQphpqE",
@@ -132642,6 +133645,12 @@
             "title": "Eagles - Hotel California (Live 1977) (Official Video) [HD]",
             "count": 1,
             "totalSeconds": 405
+          },
+          {
+            "videoId": "zY29-ipPFOo",
+            "title": "MICK GORDON - \"The Underking\" (Drum Cover)",
+            "count": 1,
+            "totalSeconds": 374
           },
           {
             "videoId": "ztk1V4utYdA",
@@ -132872,6 +133881,12 @@
             "totalSeconds": 203
           },
           {
+            "videoId": "hnSNfxjrwck",
+            "title": "Scotland | Glasgow | Clanadonia",
+            "count": 1,
+            "totalSeconds": 191
+          },
+          {
             "videoId": "lp5PwrOshgE",
             "title": "when you’re overqualified for the job",
             "count": 1,
@@ -132978,8 +133993,8 @@
       },
       {
         "username": "LyOnZy",
-        "totalRequests": 68,
-        "totalSeconds": 12128,
+        "totalRequests": 71,
+        "totalSeconds": 12811,
         "topSongs": [
           {
             "videoId": "sQ0hhnx3QSI",
@@ -132992,6 +134007,12 @@
             "title": "ITZY (있지) - WANNABE | Dance Cover by HAchubby",
             "count": 3,
             "totalSeconds": 254
+          },
+          {
+            "videoId": "ECc0bn4Mwkc",
+            "title": "살겠다 _ 쇼빈(Showvin) _ Band Live Clip Ver.",
+            "count": 1,
+            "totalSeconds": 330
           },
           {
             "videoId": "0jgrCKhxE1s",
@@ -133180,6 +134201,12 @@
             "totalSeconds": 197
           },
           {
+            "videoId": "IiHFnmI8pxg",
+            "title": "Joost Klein - Europapa (LIVE) | Netherlands 🇳🇱 | Second Semi-Final | Eurovision 2024",
+            "count": 1,
+            "totalSeconds": 195
+          },
+          {
             "videoId": "xMaE6toi4mk",
             "title": "The Clash - Should I Stay or Should I Go (Official Video)",
             "count": 1,
@@ -133238,6 +134265,12 @@
             "title": "No Particular Place To Go",
             "count": 1,
             "totalSeconds": 159
+          },
+          {
+            "videoId": "gGkBxb_HqFE",
+            "title": "Christy Moore - My Little Honda 50 (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 158
           },
           {
             "videoId": "afauzalmdZA",
@@ -133361,6 +134394,11 @@
           }
         ],
         "messages": [
+          {
+            "videoId": "ECc0bn4Mwkc",
+            "message": "showvins  FeelsStrongMan  aka Zovin of norazo",
+            "date": "2026-05-19T22:35:39.093Z"
+          },
           {
             "videoId": "y2DqOGjGBbA",
             "message": "pirate: you have the glasses on the wrong way Pepega ",
@@ -134275,8 +135313,8 @@
       },
       {
         "username": "peter33435",
-        "totalRequests": 58,
-        "totalSeconds": 17232,
+        "totalRequests": 61,
+        "totalSeconds": 18075,
         "topSongs": [
           {
             "videoId": "L_XJ_s5IsQc",
@@ -134411,6 +135449,12 @@
             "totalSeconds": 324
           },
           {
+            "videoId": "ycLc8mLiEkQ",
+            "title": "Resignation - Lee Young Hyun (MULTI-LANGUAGE 2020 cover) ♡, 𝙼𝚘𝚛𝚒𝚜𝚜𝚎𝚝𝚝𝚎",
+            "count": 1,
+            "totalSeconds": 317
+          },
+          {
             "videoId": "DZ51JJJMooU",
             "title": "will Kennedy Capetown",
             "count": 1,
@@ -134459,6 +135503,12 @@
             "totalSeconds": 278
           },
           {
+            "videoId": "-IKHjUm9PAo",
+            "title": "video Weather Report w Jaco Pastorius Teen Town Midnight Special 1977",
+            "count": 1,
+            "totalSeconds": 273
+          },
+          {
             "videoId": "G095dZjcAfA",
             "title": "Fixing A Broke Heart - Indecent Obsession (KAYE CAL X NOR RAYRAY Acoustic Cover)",
             "count": 1,
@@ -134487,6 +135537,12 @@
             "title": "brendan macfarlane money wont",
             "count": 1,
             "totalSeconds": 256
+          },
+          {
+            "videoId": "WmvZFkaftUo",
+            "title": "[풀버전] 로제(ROSÉ)x온유(ONEW)의 〈기억을 걷는 시간〉♬ 원곡: 넬(NELL) | JTBC 210803 방송",
+            "count": 1,
+            "totalSeconds": 253
           },
           {
             "videoId": "fgphPFNiVZw",
@@ -134640,8 +135696,8 @@
       },
       {
         "username": "Shadowlier",
-        "totalRequests": 58,
-        "totalSeconds": 11536,
+        "totalRequests": 61,
+        "totalSeconds": 12286,
         "topSongs": [
           {
             "videoId": "OOIHuFMWZ7Q",
@@ -134654,6 +135710,12 @@
             "title": "[Jan 10th, '20] VR Chat contest with HAchubby viewers - CLASSIC PC Stream",
             "count": 2,
             "totalSeconds": 180
+          },
+          {
+            "videoId": "8taPqxNjiz4",
+            "title": "Brown Eyed Girls(브라운아이드걸스) - KILL BILL(킬빌) MV",
+            "count": 1,
+            "totalSeconds": 450
           },
           {
             "videoId": "VOEr_z62_fw",
@@ -134750,6 +135812,12 @@
             "title": "[Eng Sub]  Yiruma(Lee Ru-ma,이루마)&Tim(팀) - River Flows In You vocal ver.",
             "count": 1,
             "totalSeconds": 243
+          },
+          {
+            "videoId": "ruCD9sLVATA",
+            "title": "Singing live undercover pretending to be a track (ft. KimYeonWoo)[BGL : Background Live] | JAYKEEOUT",
+            "count": 1,
+            "totalSeconds": 240
           },
           {
             "videoId": "A8d2Gx91zwk",
@@ -134942,6 +136010,12 @@
             "title": "Roxanne - Featuring Walter Geoffrey the Frenchie",
             "count": 1,
             "totalSeconds": 84
+          },
+          {
+            "videoId": "3l5nAh63W0o",
+            "title": "Metsatöll - Vimm (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 60
           },
           {
             "videoId": "lyHSjv9gxlE",
@@ -136605,6 +137679,188 @@
         "messages": []
       },
       {
+        "username": "DanHalen_",
+        "totalRequests": 30,
+        "totalSeconds": 4893,
+        "topSongs": [
+          {
+            "videoId": "P9Bv0j31sec",
+            "title": "\"Gentleman\"   PSY",
+            "count": 2,
+            "totalSeconds": 360
+          },
+          {
+            "videoId": "kixlMbYIGoc",
+            "title": "Buttman",
+            "count": 2,
+            "totalSeconds": 236
+          },
+          {
+            "videoId": "nKhN1t_7PEY",
+            "title": "Mr. Mister - Broken Wings (Official Video)",
+            "count": 1,
+            "totalSeconds": 289
+          },
+          {
+            "videoId": "bNHdpshFiZw",
+            "title": "Judas Priest - Delivering the Goods (Official Audio)",
+            "count": 1,
+            "totalSeconds": 260
+          },
+          {
+            "videoId": "4Kc4Np1rdPc",
+            "title": "\"Bring Me To Life\"    cover by Bev & Bob",
+            "count": 1,
+            "totalSeconds": 246
+          },
+          {
+            "videoId": "i8Jjy3Zy7kk",
+            "title": "DYING FETUS - \"Your Treachery Will Die With You\" (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 211
+          },
+          {
+            "videoId": "D1NdGBldg3w",
+            "title": "Electric Callboy - WE GOT THE MOVES (OFFICIAL VIDEO)",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "LG-X1iOQBXE",
+            "title": "\"Chop Suey\" System Of A Down",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "NRBqsJNxMfk",
+            "title": "バック・トゥ・ザ・フューチャー【 Back to the Future 】エレクトーン演奏",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "nwa1R0uXi_8",
+            "title": "FINAL FANTASY Ⅶ REMAKE【 更に闘う者達 】エレクトーン演奏",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "iJl06nxPub8",
+            "title": "Yoko Ono and John Zorn: Improvisation, Live in The Greene Space",
+            "count": 1,
+            "totalSeconds": 195
+          },
+          {
+            "videoId": "qXxp4pnYJZg",
+            "title": "BROJOB - BE MY VALENTINE (ft. Dickie Allen of Infant Annihilator)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "LTeCMoZCo24",
+            "title": "\"TEENIE WEENIE\" ft. Lucas Mann and Howie Favichia",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "4jixHk6N0_4",
+            "title": "Cannibal Corpse - I cum blood - Hellfest 2019",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "RHpWTC_QrwA",
+            "title": "DJ Blyatman - Gopnik",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "cbNnJLWhu8U",
+            "title": "SIERRA VEINS - UNBROKEN",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "7H5uAeFisOk",
+            "title": "PSY-TRANCE ◉ ERA - Ameno (Planet 6 Remix)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "-r8jlHDBMsw",
+            "title": "ALESTORM - Mexico (Official Video) | Napalm Records",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "m0TWmCWyxJc",
+            "title": "【 チョコボ・メドレー 】エレクトーン演奏",
+            "count": 1,
+            "totalSeconds": 151
+          },
+          {
+            "videoId": "ONcVfjjD5sw",
+            "title": "Kunt and the Gang - Bangers and Mash",
+            "count": 1,
+            "totalSeconds": 150
+          },
+          {
+            "videoId": "YnmjpuCm2PA",
+            "title": "😛 Vitas – Improvisation [Live in Vitebsk • 2001 • HD 50fps]",
+            "count": 1,
+            "totalSeconds": 146
+          },
+          {
+            "videoId": "T2zCkaIOmJg",
+            "title": "VAHTANG - Black Betty",
+            "count": 1,
+            "totalSeconds": 107
+          },
+          {
+            "videoId": "SImHi16cwqc",
+            "title": "Infant Annihilator - Cuntcrusher - Drum Play-through [OFFICIAL] [HD]",
+            "count": 1,
+            "totalSeconds": 103
+          },
+          {
+            "videoId": "w6VxutDk7G4",
+            "title": "Die Woodys - Fichtls Lied (Offizielles Musikvideo) | Terrabyte Music",
+            "count": 1,
+            "totalSeconds": 103
+          },
+          {
+            "videoId": "_B0CyOAO8y0",
+            "title": "Julius Fucik - Entry of the Gladiators",
+            "count": 1,
+            "totalSeconds": 103
+          },
+          {
+            "videoId": "hT7x1NvGf5k",
+            "title": "Hell - Clown Core",
+            "count": 1,
+            "totalSeconds": 96
+          },
+          {
+            "videoId": "_jgAVqSrRNg",
+            "title": "Family Guy fart song",
+            "count": 1,
+            "totalSeconds": 41
+          },
+          {
+            "videoId": "_-ywSPWu3K8",
+            "title": "You Suffer",
+            "count": 1,
+            "totalSeconds": 5
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "nwa1R0uXi_8",
+            "message": "That organ was a Yamaha Electone STAGEA and costs over $8000, and then you have to import it to the USA",
+            "date": "2026-04-09T23:15:26.188Z"
+          }
+        ]
+      },
+      {
         "username": "zedway",
         "totalRequests": 28,
         "totalSeconds": 7473,
@@ -137178,176 +138434,6 @@
             "videoId": "Y66j_BUCBMY",
             "message": "clappi",
             "date": "2026-03-01T01:39:49.270Z"
-          }
-        ]
-      },
-      {
-        "username": "DanHalen_",
-        "totalRequests": 28,
-        "totalSeconds": 4533,
-        "topSongs": [
-          {
-            "videoId": "P9Bv0j31sec",
-            "title": "\"Gentleman\"   PSY",
-            "count": 2,
-            "totalSeconds": 360
-          },
-          {
-            "videoId": "kixlMbYIGoc",
-            "title": "Buttman",
-            "count": 2,
-            "totalSeconds": 236
-          },
-          {
-            "videoId": "nKhN1t_7PEY",
-            "title": "Mr. Mister - Broken Wings (Official Video)",
-            "count": 1,
-            "totalSeconds": 289
-          },
-          {
-            "videoId": "bNHdpshFiZw",
-            "title": "Judas Priest - Delivering the Goods (Official Audio)",
-            "count": 1,
-            "totalSeconds": 260
-          },
-          {
-            "videoId": "4Kc4Np1rdPc",
-            "title": "\"Bring Me To Life\"    cover by Bev & Bob",
-            "count": 1,
-            "totalSeconds": 246
-          },
-          {
-            "videoId": "i8Jjy3Zy7kk",
-            "title": "DYING FETUS - \"Your Treachery Will Die With You\" (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 211
-          },
-          {
-            "videoId": "LG-X1iOQBXE",
-            "title": "\"Chop Suey\" System Of A Down",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "NRBqsJNxMfk",
-            "title": "バック・トゥ・ザ・フューチャー【 Back to the Future 】エレクトーン演奏",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "nwa1R0uXi_8",
-            "title": "FINAL FANTASY Ⅶ REMAKE【 更に闘う者達 】エレクトーン演奏",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "iJl06nxPub8",
-            "title": "Yoko Ono and John Zorn: Improvisation, Live in The Greene Space",
-            "count": 1,
-            "totalSeconds": 195
-          },
-          {
-            "videoId": "qXxp4pnYJZg",
-            "title": "BROJOB - BE MY VALENTINE (ft. Dickie Allen of Infant Annihilator)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "LTeCMoZCo24",
-            "title": "\"TEENIE WEENIE\" ft. Lucas Mann and Howie Favichia",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "4jixHk6N0_4",
-            "title": "Cannibal Corpse - I cum blood - Hellfest 2019",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "RHpWTC_QrwA",
-            "title": "DJ Blyatman - Gopnik",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "cbNnJLWhu8U",
-            "title": "SIERRA VEINS - UNBROKEN",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "7H5uAeFisOk",
-            "title": "PSY-TRANCE ◉ ERA - Ameno (Planet 6 Remix)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "-r8jlHDBMsw",
-            "title": "ALESTORM - Mexico (Official Video) | Napalm Records",
-            "count": 1,
-            "totalSeconds": 171
-          },
-          {
-            "videoId": "m0TWmCWyxJc",
-            "title": "【 チョコボ・メドレー 】エレクトーン演奏",
-            "count": 1,
-            "totalSeconds": 151
-          },
-          {
-            "videoId": "YnmjpuCm2PA",
-            "title": "😛 Vitas – Improvisation [Live in Vitebsk • 2001 • HD 50fps]",
-            "count": 1,
-            "totalSeconds": 146
-          },
-          {
-            "videoId": "T2zCkaIOmJg",
-            "title": "VAHTANG - Black Betty",
-            "count": 1,
-            "totalSeconds": 107
-          },
-          {
-            "videoId": "SImHi16cwqc",
-            "title": "Infant Annihilator - Cuntcrusher - Drum Play-through [OFFICIAL] [HD]",
-            "count": 1,
-            "totalSeconds": 103
-          },
-          {
-            "videoId": "w6VxutDk7G4",
-            "title": "Die Woodys - Fichtls Lied (Offizielles Musikvideo) | Terrabyte Music",
-            "count": 1,
-            "totalSeconds": 103
-          },
-          {
-            "videoId": "_B0CyOAO8y0",
-            "title": "Julius Fucik - Entry of the Gladiators",
-            "count": 1,
-            "totalSeconds": 103
-          },
-          {
-            "videoId": "hT7x1NvGf5k",
-            "title": "Hell - Clown Core",
-            "count": 1,
-            "totalSeconds": 96
-          },
-          {
-            "videoId": "_jgAVqSrRNg",
-            "title": "Family Guy fart song",
-            "count": 1,
-            "totalSeconds": 41
-          },
-          {
-            "videoId": "_-ywSPWu3K8",
-            "title": "You Suffer",
-            "count": 1,
-            "totalSeconds": 5
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "nwa1R0uXi_8",
-            "message": "That organ was a Yamaha Electone STAGEA and costs over $8000, and then you have to import it to the USA",
-            "date": "2026-04-09T23:15:26.188Z"
           }
         ]
       },
@@ -138043,6 +139129,140 @@
         "messages": []
       },
       {
+        "username": "just_wein",
+        "totalRequests": 20,
+        "totalSeconds": 4331,
+        "topSongs": [
+          {
+            "videoId": "lrj2y0ebUq8",
+            "title": "LA・LA・LA LOVE SONG ～ Suddenly ～ 接吻 ～ Ti Amo ～ いとしのエリー ～ 歌うたいのバラッド ～ 小さな恋のうた ～ LA・LA・LA LOVE SONG",
+            "count": 1,
+            "totalSeconds": 405
+          },
+          {
+            "videoId": "R7M3JBE9-v4",
+            "title": "Dress (bloody trinity mix)",
+            "count": 1,
+            "totalSeconds": 390
+          },
+          {
+            "videoId": "pJZt-2G59ZY",
+            "title": "Mariya Takeuchi - Oh No, Oh Yes",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "zLrL-3TDXG8",
+            "title": "MALIYA - Bass (Official Audio)",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "zWPsjhBaRb0",
+            "title": "Humko Humise Chura Lo Song | Mohabbatein | Shah Rukh Khan, Aishwarya Rai | Lata Mangeshkar, Udit N",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "3Xc2H7z8fbo",
+            "title": "RULE",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "85aXSwHFuH8",
+            "title": "BoA(보아) - FOX (color coded Lyrics Han/Rom/Eng)",
+            "count": 1,
+            "totalSeconds": 239
+          },
+          {
+            "videoId": "b7PfoEiNe-4",
+            "title": "Lucky Girl",
+            "count": 1,
+            "totalSeconds": 235
+          },
+          {
+            "videoId": "ac4e7PRl_Ec",
+            "title": "BoA 보아 '그런 너 (Disturbance)' MV",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "abnYTaVNTEo",
+            "title": "She's kinda scary but it's kinda sexy | Clip from 'My Wife Is A Gangster 3'",
+            "count": 1,
+            "totalSeconds": 228
+          },
+          {
+            "videoId": "Nb0iQZm7wh4",
+            "title": "Rina Sawayama - Cherry (Official Audio)",
+            "count": 1,
+            "totalSeconds": 206
+          },
+          {
+            "videoId": "9uIV6NxBspY",
+            "title": "MeloMance - I Want To Love (사랑하고 싶게 돼) (이번 생은 처음이라 OST) [Eng subs + Rom + Han]",
+            "count": 1,
+            "totalSeconds": 195
+          },
+          {
+            "videoId": "QBtAjQBwGaA",
+            "title": "BENI – 「恋音と雨空」 (Short ver.) From COVER ALBUM 「COVERS THE CITY」",
+            "count": 1,
+            "totalSeconds": 191
+          },
+          {
+            "videoId": "55VPMpcgcvk",
+            "title": "Yuko Ogura - Onna no ko otoko no ko",
+            "count": 1,
+            "totalSeconds": 189
+          },
+          {
+            "videoId": "8WWdOjxoQro",
+            "title": "Muppet Treasure Island OST,T2 \"Shiver My Timbers\"",
+            "count": 1,
+            "totalSeconds": 145
+          },
+          {
+            "videoId": "fo1j4L6MjKg",
+            "title": "Gremlins: Billy Meets Gizmo | Movie Scene (HD) | Warner Bros. Entertainment",
+            "count": 1,
+            "totalSeconds": 138
+          },
+          {
+            "videoId": "Ri8aqksdgjA",
+            "title": "[Jul 9th, '24] HAchubby plays American Truck Simulator - Part 1",
+            "count": 1,
+            "totalSeconds": 135
+          },
+          {
+            "videoId": "5p137EbW-cI",
+            "title": "Muppet Treasure Island - Shiver My Timbers",
+            "count": 1,
+            "totalSeconds": 134
+          },
+          {
+            "videoId": "p_bggBrUbCo",
+            "title": "Muppet Treasure Island - \"Cabin Fever\"",
+            "count": 1,
+            "totalSeconds": 126
+          },
+          {
+            "videoId": "HNR4hKbSH7I",
+            "title": "Not The Momma!",
+            "count": 1,
+            "totalSeconds": 94
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "Ri8aqksdgjA",
+            "message": "She tries her best",
+            "date": "2026-04-21T17:19:48.641Z"
+          }
+        ]
+      },
+      {
         "username": "superdavetn85",
         "totalRequests": 19,
         "totalSeconds": 3145,
@@ -138160,128 +139380,6 @@
             "videoId": "MOzjBO2dsmY",
             "message": "Happy 3:16 day! gachiFight",
             "date": "2026-03-16T22:29:24.908Z"
-          }
-        ]
-      },
-      {
-        "username": "just_wein",
-        "totalRequests": 18,
-        "totalSeconds": 4008,
-        "topSongs": [
-          {
-            "videoId": "lrj2y0ebUq8",
-            "title": "LA・LA・LA LOVE SONG ～ Suddenly ～ 接吻 ～ Ti Amo ～ いとしのエリー ～ 歌うたいのバラッド ～ 小さな恋のうた ～ LA・LA・LA LOVE SONG",
-            "count": 1,
-            "totalSeconds": 405
-          },
-          {
-            "videoId": "R7M3JBE9-v4",
-            "title": "Dress (bloody trinity mix)",
-            "count": 1,
-            "totalSeconds": 390
-          },
-          {
-            "videoId": "pJZt-2G59ZY",
-            "title": "Mariya Takeuchi - Oh No, Oh Yes",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "zLrL-3TDXG8",
-            "title": "MALIYA - Bass (Official Audio)",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "zWPsjhBaRb0",
-            "title": "Humko Humise Chura Lo Song | Mohabbatein | Shah Rukh Khan, Aishwarya Rai | Lata Mangeshkar, Udit N",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "3Xc2H7z8fbo",
-            "title": "RULE",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "85aXSwHFuH8",
-            "title": "BoA(보아) - FOX (color coded Lyrics Han/Rom/Eng)",
-            "count": 1,
-            "totalSeconds": 239
-          },
-          {
-            "videoId": "b7PfoEiNe-4",
-            "title": "Lucky Girl",
-            "count": 1,
-            "totalSeconds": 235
-          },
-          {
-            "videoId": "ac4e7PRl_Ec",
-            "title": "BoA 보아 '그런 너 (Disturbance)' MV",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "abnYTaVNTEo",
-            "title": "She's kinda scary but it's kinda sexy | Clip from 'My Wife Is A Gangster 3'",
-            "count": 1,
-            "totalSeconds": 228
-          },
-          {
-            "videoId": "Nb0iQZm7wh4",
-            "title": "Rina Sawayama - Cherry (Official Audio)",
-            "count": 1,
-            "totalSeconds": 206
-          },
-          {
-            "videoId": "9uIV6NxBspY",
-            "title": "MeloMance - I Want To Love (사랑하고 싶게 돼) (이번 생은 처음이라 OST) [Eng subs + Rom + Han]",
-            "count": 1,
-            "totalSeconds": 195
-          },
-          {
-            "videoId": "QBtAjQBwGaA",
-            "title": "BENI – 「恋音と雨空」 (Short ver.) From COVER ALBUM 「COVERS THE CITY」",
-            "count": 1,
-            "totalSeconds": 191
-          },
-          {
-            "videoId": "8WWdOjxoQro",
-            "title": "Muppet Treasure Island OST,T2 \"Shiver My Timbers\"",
-            "count": 1,
-            "totalSeconds": 145
-          },
-          {
-            "videoId": "fo1j4L6MjKg",
-            "title": "Gremlins: Billy Meets Gizmo | Movie Scene (HD) | Warner Bros. Entertainment",
-            "count": 1,
-            "totalSeconds": 138
-          },
-          {
-            "videoId": "Ri8aqksdgjA",
-            "title": "[Jul 9th, '24] HAchubby plays American Truck Simulator - Part 1",
-            "count": 1,
-            "totalSeconds": 135
-          },
-          {
-            "videoId": "p_bggBrUbCo",
-            "title": "Muppet Treasure Island - \"Cabin Fever\"",
-            "count": 1,
-            "totalSeconds": 126
-          },
-          {
-            "videoId": "HNR4hKbSH7I",
-            "title": "Not The Momma!",
-            "count": 1,
-            "totalSeconds": 94
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "Ri8aqksdgjA",
-            "message": "She tries her best",
-            "date": "2026-04-21T17:19:48.641Z"
           }
         ]
       },
@@ -139862,8 +140960,8 @@
       },
       {
         "username": "scuffedmaru",
-        "totalRequests": 8,
-        "totalSeconds": 1724,
+        "totalRequests": 9,
+        "totalSeconds": 1844,
         "topSongs": [
           {
             "videoId": "Lc3NYCAkzOY",
@@ -139906,9 +141004,20 @@
             "title": "Fito Olivares y La Pura Sabrosura - \"La Gallina\"",
             "count": 1,
             "totalSeconds": 156
+          },
+          {
+            "videoId": "bAJ1WTGNISk",
+            "title": "Meshuggah - Bleed - Tomas Haake - Wincent Drumsticks",
+            "count": 1,
+            "totalSeconds": 120
           }
         ],
         "messages": [
+          {
+            "videoId": "bAJ1WTGNISk",
+            "message": "Try this",
+            "date": "2026-05-20T00:20:11.398Z"
+          },
           {
             "videoId": "Bq_4sshF8D4",
             "message": "yep",
@@ -141643,6 +142752,32 @@
         ]
       },
       {
+        "username": "peter 3343-",
+        "totalRequests": 3,
+        "totalSeconds": 488,
+        "topSongs": [
+          {
+            "videoId": "aYYFmp9NBTk",
+            "title": "SONGS FOR LOVERS - COFFEE BREAK IS OVER",
+            "count": 1,
+            "totalSeconds": 242
+          },
+          {
+            "videoId": "pTt04A_Gph4",
+            "title": "Don't Dream It's Over",
+            "count": 1,
+            "totalSeconds": 185
+          },
+          {
+            "videoId": "A3ihseDZWcI",
+            "title": "Mufasa - Push the Feeling on (black guy dancing)",
+            "count": 1,
+            "totalSeconds": 61
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "Fenebly",
         "totalRequests": 3,
         "totalSeconds": 484,
@@ -142067,26 +143202,6 @@
             "title": "Hechizeros Band- El Sonidito (Version Original)",
             "count": 1,
             "totalSeconds": 205
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "peter 3343-",
-        "totalRequests": 2,
-        "totalSeconds": 427,
-        "topSongs": [
-          {
-            "videoId": "aYYFmp9NBTk",
-            "title": "SONGS FOR LOVERS - COFFEE BREAK IS OVER",
-            "count": 1,
-            "totalSeconds": 242
-          },
-          {
-            "videoId": "pTt04A_Gph4",
-            "title": "Don't Dream It's Over",
-            "count": 1,
-            "totalSeconds": 185
           }
         ],
         "messages": []
@@ -144370,5 +145485,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-19T03:29:52.750Z"
+  "lastUpdated": "2026-05-20T03:30:57.934Z"
 }
