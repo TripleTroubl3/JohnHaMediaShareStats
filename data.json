@@ -1,6 +1,81 @@
 {
   "rawHistory": [
     {
+      "_id": "6a0e736f368111c95c7fe982",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 250901,
+          "likeCount": 660,
+          "dislikeCount": 0
+        },
+        "_id": "6a0e73258b9dc8bfd6b5c5c0"
+      },
+      "createdAt": "2026-05-21T02:52:31.364Z"
+    },
+    {
+      "_id": "6a0e7350368111c95c7fe8dc",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 53448,
+          "likeCount": 210,
+          "dislikeCount": 0
+        },
+        "_id": "6a0e7324a3481bd65ac79155"
+      },
+      "createdAt": "2026-05-21T02:52:00.767Z"
+    },
+    {
+      "_id": "6a0e732809e8ec647116e35d",
+      "song": {
+        "videoId": "YO4MO-cx8xg",
+        "title": "Hachubby cosplays as grandma on Emiru's stream",
+        "duration": 135,
+        "start": 0,
+        "end": 135,
+        "channel": "twtchclps",
+        "amount": 4.5,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 19530,
+          "likeCount": 539,
+          "dislikeCount": 0
+        },
+        "_id": "6a0cfe6305e965b0de1f902c"
+      },
+      "createdAt": "2026-05-21T02:51:20.002Z"
+    },
+    {
       "_id": "6a0d003a7c09ff9534a67cf6",
       "song": {
         "videoId": "zY29-ipPFOo",
@@ -104622,8 +104697,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 776436,
-      "totalRequests": 3454,
+      "totalSeconds": 776571,
+      "totalRequests": 3455,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -120973,6 +121048,12 @@
           "totalSeconds": 136
         },
         {
+          "videoId": "YO4MO-cx8xg",
+          "title": "Hachubby cosplays as grandma on Emiru's stream",
+          "count": 1,
+          "totalSeconds": 135
+        },
+        {
           "videoId": "-tJYN-eG1zk",
           "title": "Queen - We Will Rock You (Official Video)",
           "count": 1,
@@ -128252,8 +128333,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 160,
-        "totalSeconds": 40727,
+        "totalRequests": 161,
+        "totalSeconds": 40862,
         "topSongs": [
           {
             "videoId": "N_rFg5CGtk4",
@@ -129130,6 +129211,12 @@
             "title": "Ehrling - Thokoloshi",
             "count": 1,
             "totalSeconds": 144
+          },
+          {
+            "videoId": "YO4MO-cx8xg",
+            "title": "Hachubby cosplays as grandma on Emiru's stream",
+            "count": 1,
+            "totalSeconds": 135
           },
           {
             "videoId": "SSbBvKaM6sk",
@@ -145485,5 +145572,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-20T03:30:57.934Z"
+  "lastUpdated": "2026-05-21T03:36:45.878Z"
 }
