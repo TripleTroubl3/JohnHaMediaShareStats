@@ -1,6 +1,81 @@
 {
   "rawHistory": [
     {
+      "_id": "6a271db6d4c7865e49dcf0b1",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 252580,
+          "likeCount": 665,
+          "dislikeCount": 0
+        },
+        "_id": "6a2634d825f69f179d285df9"
+      },
+      "createdAt": "2026-06-08T19:53:26.701Z"
+    },
+    {
+      "_id": "6a271daa12f9716092f8f9ff",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 252578,
+          "likeCount": 665,
+          "dislikeCount": 0
+        },
+        "_id": "6a262bad34029ce6427b5387"
+      },
+      "createdAt": "2026-06-08T19:53:14.805Z"
+    },
+    {
+      "_id": "6a271a812016fb5aa728138c",
+      "song": {
+        "videoId": "1Cw1ng75KP0",
+        "title": "Heart - Alone",
+        "duration": 216,
+        "start": 0,
+        "end": 216,
+        "channel": "HeartVEVO",
+        "amount": 7.2,
+        "message": "",
+        "user": {
+          "username": "uncle__mike__",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 504312670,
+          "likeCount": 1991089,
+          "dislikeCount": 0
+        },
+        "_id": "6a2633f7b617479b448a174a"
+      },
+      "createdAt": "2026-06-08T19:39:45.190Z"
+    },
+    {
       "_id": "6a2633fc40422cc18ae9a8e0",
       "song": {
         "videoId": "siwpn14IE7E",
@@ -121696,8 +121771,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 896040,
-      "totalRequests": 3969,
+      "totalSeconds": 896256,
+      "totalRequests": 3970,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -134251,6 +134326,12 @@
           "title": "DIMMU BORGIR - Progenies of The Great Apocalypse (OFFICIAL MUSIC VIDEO)",
           "count": 1,
           "totalSeconds": 217
+        },
+        {
+          "videoId": "1Cw1ng75KP0",
+          "title": "Heart - Alone",
+          "count": 1,
+          "totalSeconds": 216
         },
         {
           "videoId": "ZQ7oqmikZDQ",
@@ -152238,8 +152319,8 @@
       },
       {
         "username": "uncle__mike__",
-        "totalRequests": 102,
-        "totalSeconds": 25664,
+        "totalRequests": 103,
+        "totalSeconds": 25880,
         "topSongs": [
           {
             "videoId": "uT3SBzmDxGk",
@@ -152624,6 +152705,12 @@
             "title": "The J. Geils Band - Centerfold (Official Music Video)",
             "count": 1,
             "totalSeconds": 219
+          },
+          {
+            "videoId": "1Cw1ng75KP0",
+            "title": "Heart - Alone",
+            "count": 1,
+            "totalSeconds": 216
           },
           {
             "videoId": "ZQ7oqmikZDQ",
@@ -168320,5 +168407,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-08T03:56:25.835Z"
+  "lastUpdated": "2026-06-09T03:26:00.980Z"
 }
