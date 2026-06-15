@@ -1,6 +1,535 @@
 {
   "rawHistory": [
     {
+      "_id": "6a2f58ca8ccc1c0116b58fe8",
+      "song": {
+        "videoId": "opAy-ossUxE",
+        "title": "[리코더 악보]둥글게 둥글게_반주MR",
+        "duration": 125,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8987,
+          "likeCount": 45,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f57c1d677e52af9689659"
+      },
+      "createdAt": "2026-06-15T01:43:38.391Z"
+    },
+    {
+      "_id": "6a2f57c6e5eb7680de1a4c87",
+      "song": {
+        "videoId": "CiMNCX0-5aE",
+        "title": "[리코더 악보]도토리_반주MR",
+        "duration": 52,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2115,
+          "likeCount": 11,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f575df07f8ab1401a344e"
+      },
+      "createdAt": "2026-06-15T01:39:18.342Z"
+    },
+    {
+      "_id": "6a2f5761d7bc2e1373a328c0",
+      "song": {
+        "videoId": "fnGdejBWzak",
+        "title": "[리코더 악보]런던 다리 London Bridge is falling down_반주MR",
+        "duration": 45,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2413,
+          "likeCount": 11,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f5717e5eb7680de1a3244"
+      },
+      "createdAt": "2026-06-15T01:37:37.661Z"
+    },
+    {
+      "_id": "6a2f571cf07f8ab1401a331d",
+      "song": {
+        "videoId": "fpMznjzeefw",
+        "title": "[리코더 악보]왈츠",
+        "duration": 164,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1818,
+          "likeCount": 10,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f5642f07f8ab1401a2108"
+      },
+      "createdAt": "2026-06-15T01:36:28.267Z"
+    },
+    {
+      "_id": "6a2f5646f07f8ab1401a211a",
+      "song": {
+        "videoId": "sQQbd_AkQWk",
+        "title": "[리코더 악보]작은 별",
+        "duration": 37,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 781295,
+          "likeCount": 2084,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f5576f07f8ab1401a17d2"
+      },
+      "createdAt": "2026-06-15T01:32:54.253Z"
+    },
+    {
+      "_id": "6a2f55d202fe101ae4c530aa",
+      "song": {
+        "videoId": "-g8AtaLxSS0",
+        "title": "[리코더 악보]꼬마 눈사람_반주 MR",
+        "duration": 62,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2378,
+          "likeCount": 11,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f52ffd7bc2e1373a2af28"
+      },
+      "createdAt": "2026-06-15T01:30:58.454Z"
+    },
+    {
+      "_id": "6a2f539c02fe101ae4c4d8b4",
+      "song": {
+        "videoId": "NeE4GrgzDIo",
+        "title": "[리코더 악보]징글벨 락_음원 MR",
+        "duration": 139,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3778,
+          "likeCount": 12,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f512e02fe101ae4c47867"
+      },
+      "createdAt": "2026-06-15T01:21:32.797Z"
+    },
+    {
+      "_id": "6a2f513202fe101ae4c47873",
+      "song": {
+        "videoId": "aND-0LRrllo",
+        "title": "[리코더 악보]에델바이스",
+        "duration": 123,
+        "channel": "Recorder K _리코더K",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 22223,
+          "likeCount": 85,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f5085e5eb7680de1947da"
+      },
+      "createdAt": "2026-06-15T01:11:14.816Z"
+    },
+    {
+      "_id": "6a2f508bd677e52af967c746",
+      "song": {
+        "videoId": "xJl4XgPscKk",
+        "title": "fly me to the moon - frank sinatra (slowed n reverb)",
+        "duration": 172,
+        "channel": "starclouds",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 427374,
+          "likeCount": 9613,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4ec9f2ed77a9eaab5af5"
+      },
+      "createdAt": "2026-06-15T01:08:27.139Z"
+    },
+    {
+      "_id": "6a2f4ed0d7bc2e1373a226ec",
+      "song": {
+        "videoId": "LA4Iu_694z0",
+        "title": "Canon | Johann Pachelbel | Slow Piano C Major",
+        "duration": 141,
+        "channel": "Pianocake 🎵",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 485,
+          "likeCount": 3,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4cc0d677e52af9675a4e"
+      },
+      "createdAt": "2026-06-15T01:01:04.961Z"
+    },
+    {
+      "_id": "6a2f4cc9d677e52af9675a80",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4c83d7bc2e1373a206b8"
+      },
+      "createdAt": "2026-06-15T00:52:25.636Z"
+    },
+    {
+      "_id": "6a2f4cc7d7bc2e1373a208c9",
+      "song": {
+        "videoId": "udva588Qbec",
+        "title": "Pachelbel - Canon | EASY SLOW Piano Tutorial",
+        "duration": 276,
+        "channel": "PHianonize",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8667718,
+          "likeCount": 52892,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4c79d677e52af967512b"
+      },
+      "createdAt": "2026-06-15T00:52:23.275Z"
+    },
+    {
+      "_id": "6a2f4c7ef07f8ab14019246c",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4a4af2ed77a9eaaaf06a"
+      },
+      "createdAt": "2026-06-15T00:51:10.227Z"
+    },
+    {
+      "_id": "6a2f4c7cf2ed77a9eaab2b29",
+      "song": {
+        "videoId": "xJl4XgPscKk",
+        "title": "fly me to the moon - frank sinatra (slowed n reverb)",
+        "duration": 172,
+        "channel": "starclouds",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 427373,
+          "likeCount": 9613,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4a408ccc1c0116b3e7cf"
+      },
+      "createdAt": "2026-06-15T00:51:08.189Z"
+    },
+    {
+      "_id": "6a2f4a43f07f8ab14018e234",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f48f9f07f8ab14018c207"
+      },
+      "createdAt": "2026-06-15T00:41:39.861Z"
+    },
+    {
+      "_id": "6a2f4a42e5eb7680de187916",
+      "song": {
+        "videoId": "L4GdwnT5bdI",
+        "title": "Hanon #1 SLOW",
+        "duration": 261,
+        "channel": "Janesville Piano Lessons",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3038,
+          "likeCount": 71,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f48bdf2ed77a9eaaaba50"
+      },
+      "createdAt": "2026-06-15T00:41:38.476Z"
+    },
+    {
+      "_id": "6a2f48c5e5eb7680de18546f",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f47d4d677e52af966cbca"
+      },
+      "createdAt": "2026-06-15T00:35:17.084Z"
+    },
+    {
+      "_id": "6a2f48c0d7bc2e1373a166e1",
+      "song": {
+        "videoId": "8kFezbS9HhE",
+        "title": "Amazing Grace ♩=100 (Fast) Piano Accompaniment with metronome",
+        "duration": 59,
+        "channel": "CG Flute Academy",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 332,
+          "likeCount": 0,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f479902fe101ae4c34775"
+      },
+      "createdAt": "2026-06-15T00:35:12.853Z"
+    },
+    {
+      "_id": "6a2f47a702fe101ae4c34825",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f445ad677e52af96667bc"
+      },
+      "createdAt": "2026-06-15T00:30:31.825Z"
+    },
+    {
+      "_id": "6a2f4561f07f8ab140184c4e",
+      "song": {
+        "videoId": "AEgG63MCa0I",
+        "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
+        "duration": 227,
+        "channel": "ElvisPresleyVEVO",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2784405,
+          "likeCount": 32584,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f4439d677e52af9665ece"
+      },
+      "createdAt": "2026-06-15T00:20:49.204Z"
+    },
+    {
+      "_id": "6a2f445f02fe101ae4c2de99",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 253318,
+          "likeCount": 667,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f3f2bd7bc2e1373a035ab"
+      },
+      "createdAt": "2026-06-15T00:16:31.913Z"
+    },
+    {
+      "_id": "6a2f44518ccc1c0116b32252",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 56411,
+          "likeCount": 222,
+          "dislikeCount": 0
+        },
+        "_id": "6a2f3f308ccc1c0116b2468f"
+      },
+      "createdAt": "2026-06-15T00:16:17.137Z"
+    },
+    {
+      "_id": "6a2f3f60d7bc2e1373a03935",
+      "song": {
+        "videoId": "DhqbGYI970k",
+        "title": "To Live Is to Die (Remastered)",
+        "duration": 589,
+        "channel": "Metallica - Topic",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "25085732"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 7647604,
+          "likeCount": 87553,
+          "dislikeCount": 0
+        },
+        "_id": "6a2df085f332877f5f721ad0"
+      },
+      "createdAt": "2026-06-14T23:55:12.227Z"
+    },
+    {
       "_id": "6a2e07debf42b924b3218860",
       "song": {
         "videoId": "cxQMLCtoi_w",
@@ -129924,8 +130453,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 957444,
-      "totalRequests": 4229,
+      "totalSeconds": 960088,
+      "totalRequests": 4245,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -132167,6 +132696,12 @@
           "totalSeconds": 456
         },
         {
+          "videoId": "AEgG63MCa0I",
+          "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
+          "count": 2,
+          "totalSeconds": 454
+        },
+        {
           "videoId": "8mGBaXPlri8",
           "title": "t.A.T.u. - All The Things She Said (Official Music Video)",
           "count": 2,
@@ -132845,6 +133380,12 @@
           "totalSeconds": 346
         },
         {
+          "videoId": "xJl4XgPscKk",
+          "title": "fly me to the moon - frank sinatra (slowed n reverb)",
+          "count": 2,
+          "totalSeconds": 344
+        },
+        {
           "videoId": "75oWiWm-VaU",
           "title": "Everything HAchuMart ft. HAchubby & EXBC (Rokubop)",
           "count": 2,
@@ -133293,6 +133834,12 @@
           "title": "The Greatest Classical Masterpieces🎻Vivaldi, Paganini, Bach, Beethoven, Mozart",
           "count": 1,
           "totalSeconds": 600
+        },
+        {
+          "videoId": "DhqbGYI970k",
+          "title": "To Live Is to Die (Remastered)",
+          "count": 1,
+          "totalSeconds": 589
         },
         {
           "videoId": "NUPqaX3Wmc8",
@@ -137189,6 +137736,12 @@
           "totalSeconds": 277
         },
         {
+          "videoId": "udva588Qbec",
+          "title": "Pachelbel - Canon | EASY SLOW Piano Tutorial",
+          "count": 1,
+          "totalSeconds": 276
+        },
+        {
           "videoId": "1bO_AuaW-Ok",
           "title": "RYUJIN (GYZE) - SAMURAI METAL (OFFICIAL VIDEO)",
           "count": 1,
@@ -138345,6 +138898,12 @@
           "title": "Fleetwood Mac - Dreams (Official Music Video) [4K]",
           "count": 1,
           "totalSeconds": 262
+        },
+        {
+          "videoId": "L4GdwnT5bdI",
+          "title": "Hanon #1 SLOW",
+          "count": 1,
+          "totalSeconds": 261
         },
         {
           "videoId": "r3ocmQhc9is",
@@ -142137,12 +142696,6 @@
           "title": "DANCE WITH THE DEAD - Riot",
           "count": 1,
           "totalSeconds": 228
-        },
-        {
-          "videoId": "AEgG63MCa0I",
-          "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
-          "count": 1,
-          "totalSeconds": 227
         },
         {
           "videoId": "3dm_5qWWDV8",
@@ -148559,6 +149112,12 @@
           "totalSeconds": 165
         },
         {
+          "videoId": "fpMznjzeefw",
+          "title": "[리코더 악보]왈츠",
+          "count": 1,
+          "totalSeconds": 164
+        },
+        {
           "videoId": "2HlK96kSNt0",
           "title": "Ella Fitzgerald & Louis Jordan - Stone Cold Dead In The Market (He Had It Coming)",
           "count": 1,
@@ -149543,6 +150102,12 @@
           "totalSeconds": 142
         },
         {
+          "videoId": "LA4Iu_694z0",
+          "title": "Canon | Johann Pachelbel | Slow Piano C Major",
+          "count": 1,
+          "totalSeconds": 141
+        },
+        {
           "videoId": "YFUX1CHwcqg",
           "title": "Jari Sillanpää Gangnam style (Tähdet, tähdet 9.3.2014) HD",
           "count": 1,
@@ -149619,6 +150184,12 @@
           "title": "How can how we solve the planet's food waste problem? - BBC News",
           "count": 1,
           "totalSeconds": 140
+        },
+        {
+          "videoId": "NeE4GrgzDIo",
+          "title": "[리코더 악보]징글벨 락_음원 MR",
+          "count": 1,
+          "totalSeconds": 139
         },
         {
           "videoId": "1nCqRmx3Dnw",
@@ -150101,6 +150672,12 @@
           "totalSeconds": 126
         },
         {
+          "videoId": "opAy-ossUxE",
+          "title": "[리코더 악보]둥글게 둥글게_반주MR",
+          "count": 1,
+          "totalSeconds": 125
+        },
+        {
           "videoId": "JuSsvM8B4Jc",
           "title": "Interstellar Official Soundtrack | Cornfield Chase – Hans Zimmer | WaterTower",
           "count": 1,
@@ -150141,6 +150718,12 @@
           "title": "Leslie Nielsen in Detroit: Become Human",
           "count": 1,
           "totalSeconds": 124
+        },
+        {
+          "videoId": "aND-0LRrllo",
+          "title": "[리코더 악보]에델바이스",
+          "count": 1,
+          "totalSeconds": 123
         },
         {
           "videoId": "ymHdBYbg_6k",
@@ -151325,6 +151908,12 @@
           "totalSeconds": 63
         },
         {
+          "videoId": "-g8AtaLxSS0",
+          "title": "[리코더 악보]꼬마 눈사람_반주 MR",
+          "count": 1,
+          "totalSeconds": 62
+        },
+        {
           "videoId": "Sus5e5ojhXU",
           "title": "Myrtle Beach is Funny!",
           "count": 1,
@@ -151553,6 +152142,12 @@
           "totalSeconds": 60
         },
         {
+          "videoId": "8kFezbS9HhE",
+          "title": "Amazing Grace ♩=100 (Fast) Piano Accompaniment with metronome",
+          "count": 1,
+          "totalSeconds": 59
+        },
+        {
           "videoId": "tGqJFloXA0g",
           "title": "Aeoeieiieiekiiiiii",
           "count": 1,
@@ -151667,6 +152262,12 @@
           "totalSeconds": 53
         },
         {
+          "videoId": "CiMNCX0-5aE",
+          "title": "[리코더 악보]도토리_반주MR",
+          "count": 1,
+          "totalSeconds": 52
+        },
+        {
           "videoId": "ZtcZM8oMzHU",
           "title": "2NE1 - I am the NO NO NO (feat. NONONO Cat)",
           "count": 1,
@@ -151737,6 +152338,12 @@
           "title": "Fuckin Flies",
           "count": 1,
           "totalSeconds": 46
+        },
+        {
+          "videoId": "fnGdejBWzak",
+          "title": "[리코더 악보]런던 다리 London Bridge is falling down_반주MR",
+          "count": 1,
+          "totalSeconds": 45
         },
         {
           "videoId": "-GiFoOR9CeM",
@@ -151839,6 +152446,12 @@
           "title": "HAchubby:  1 slice, never fat.  2 slice, little fat.  3 slice, peepoFat.",
           "count": 1,
           "totalSeconds": 38
+        },
+        {
+          "videoId": "sQQbd_AkQWk",
+          "title": "[리코더 악보]작은 별",
+          "count": 1,
+          "totalSeconds": 37
         },
         {
           "videoId": "IMv4s49XGl4",
@@ -159439,8 +160052,8 @@
       },
       {
         "username": "dramajoe",
-        "totalRequests": 145,
-        "totalSeconds": 34534,
+        "totalRequests": 146,
+        "totalSeconds": 35123,
         "topSongs": [
           {
             "videoId": "oE56g61mW44",
@@ -159453,6 +160066,12 @@
             "title": "I Ain’t Gay (Official Lyric Video)",
             "count": 2,
             "totalSeconds": 248
+          },
+          {
+            "videoId": "DhqbGYI970k",
+            "title": "To Live Is to Die (Remastered)",
+            "count": 1,
+            "totalSeconds": 589
           },
           {
             "videoId": "3vSH9pMzHm0",
@@ -162445,6 +163064,602 @@
         ]
       },
       {
+        "username": "hachubby",
+        "totalRequests": 117,
+        "totalSeconds": 24697,
+        "topSongs": [
+          {
+            "videoId": "K0HSD_i2DvA",
+            "title": "Daft Punk - Around The World (Official Music Video Remastered)",
+            "count": 6,
+            "totalSeconds": 1452
+          },
+          {
+            "videoId": "qvVqwsXhHek",
+            "title": "HAchubby - See You Tomorrow (Bye Bye Song) [Acoustic Version]",
+            "count": 5,
+            "totalSeconds": 1695
+          },
+          {
+            "videoId": "j87tH9FFnFQ",
+            "title": "🎵 FUTURE GIRL (HAchubby song)",
+            "count": 3,
+            "totalSeconds": 645
+          },
+          {
+            "videoId": "pstVCGyaUBM",
+            "title": "Lorde - Buzzcut Season",
+            "count": 2,
+            "totalSeconds": 494
+          },
+          {
+            "videoId": "AEgG63MCa0I",
+            "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
+            "count": 2,
+            "totalSeconds": 454
+          },
+          {
+            "videoId": "lIxQe1R5hs0",
+            "title": "PinkPantheress - Stateside + Zara Larsson (Official Video)",
+            "count": 2,
+            "totalSeconds": 388
+          },
+          {
+            "videoId": "eVwvu3PCTow",
+            "title": "Norista - Day Off",
+            "count": 2,
+            "totalSeconds": 354
+          },
+          {
+            "videoId": "xJl4XgPscKk",
+            "title": "fly me to the moon - frank sinatra (slowed n reverb)",
+            "count": 2,
+            "totalSeconds": 344
+          },
+          {
+            "videoId": "z1vjYc4o3yQ",
+            "title": "Eberhard by Lyle Mays - Preview",
+            "count": 2,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "-qVtYr_WdHU",
+            "title": "BLACKPINK - 'How You Like That' - HAchubby Dance Cover",
+            "count": 2,
+            "totalSeconds": 196
+          },
+          {
+            "videoId": "UK0Hw-8GXZc",
+            "title": "I appreciate all of the love I've seen for my new single \"Balloon Pop,\" thank you so much! 🎹",
+            "count": 2,
+            "totalSeconds": 100
+          },
+          {
+            "videoId": "4z7oi-QxE8s",
+            "title": "Green Day - Jesus of Suburbia (Official Audio)",
+            "count": 1,
+            "totalSeconds": 549
+          },
+          {
+            "videoId": "6SFNW5F8K9Y",
+            "title": "Prince, Tom Petty, Steve Winwood, Jeff Lynne, more - \"While My Guitar Gently Weeps\" | 2004 Induction",
+            "count": 1,
+            "totalSeconds": 376
+          },
+          {
+            "videoId": "Xxpq252TFTU",
+            "title": "Primus - Holy Diver live with Puddles Pity Party (Dio cover) 8-10-24 Big Flats, NY",
+            "count": 1,
+            "totalSeconds": 358
+          },
+          {
+            "videoId": "QqnSw3J_eRc",
+            "title": "For My Ladies",
+            "count": 1,
+            "totalSeconds": 342
+          },
+          {
+            "videoId": "4nHJ9vIHdO0",
+            "title": "[MV] Toy, YOUNHA(토이, 윤하) _ It's sunny all day in Seoul today(오늘 서울은 하루종일 맑음)",
+            "count": 1,
+            "totalSeconds": 341
+          },
+          {
+            "videoId": "NfIwFiQWSxQ",
+            "title": "Michael Jackson - Stranger In Moscow (4K Video)",
+            "count": 1,
+            "totalSeconds": 340
+          },
+          {
+            "videoId": "pais41IW5dk",
+            "title": "Cisco Default Hold Music - [HQ Mono Audio] - Opus Number 1",
+            "count": 1,
+            "totalSeconds": 339
+          },
+          {
+            "videoId": "zFyndK9VOCk",
+            "title": "So Hyang - Arirang Alone  [Immortal Songs 2 #1]",
+            "count": 1,
+            "totalSeconds": 319
+          },
+          {
+            "videoId": "dkPS6t84qg4",
+            "title": "Dimash Kudaibergen & Igor Krutoy - Olimpico",
+            "count": 1,
+            "totalSeconds": 304
+          },
+          {
+            "videoId": "b0InrIp10b8",
+            "title": "God Gamer's Getaway – hachubby Hype Train Song",
+            "count": 1,
+            "totalSeconds": 302
+          },
+          {
+            "videoId": "a0ZhV4e7TYY",
+            "title": "Rekthan_ - Eclipse_hachubby-music-talent-show-2022",
+            "count": 1,
+            "totalSeconds": 299
+          },
+          {
+            "videoId": "eyb2NtPwcxc",
+            "title": "「OIRAN」(YouTube ver.) / NEMOPHILA",
+            "count": 1,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "Z1PloNGzuEI",
+            "title": "Bombay Bicycle Club - Still (Official Video)",
+            "count": 1,
+            "totalSeconds": 286
+          },
+          {
+            "videoId": "F2RnxZnubCM",
+            "title": "Titanic • My Heart Will Go On • Celine Dion",
+            "count": 1,
+            "totalSeconds": 284
+          },
+          {
+            "videoId": "447yaU_4DF8",
+            "title": "Kenny G - The Moment (Official Video)",
+            "count": 1,
+            "totalSeconds": 278
+          },
+          {
+            "videoId": "udva588Qbec",
+            "title": "Pachelbel - Canon | EASY SLOW Piano Tutorial",
+            "count": 1,
+            "totalSeconds": 276
+          },
+          {
+            "videoId": "kDdTf2EinCs",
+            "title": "ハク。\"それしか言えない\" Official Music Video",
+            "count": 1,
+            "totalSeconds": 275
+          },
+          {
+            "videoId": "e-ORhEE9VVg",
+            "title": "Taylor Swift - Blank Space",
+            "count": 1,
+            "totalSeconds": 273
+          },
+          {
+            "videoId": "QFRM-jOnszE",
+            "title": "Chubbyland Music Collective - Chubbyland Summer",
+            "count": 1,
+            "totalSeconds": 273
+          },
+          {
+            "videoId": "Yqn-oNFhDds",
+            "title": "HAchubby - 'I Wanna Leave Me'",
+            "count": 1,
+            "totalSeconds": 271
+          },
+          {
+            "videoId": "qbqxbGm9hBI",
+            "title": "The Moody Blues - Nights In White Satin (Lyric Video)",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "lZumx70VjU4",
+            "title": "Younha Winter Flower (Feat. RM of BTS) Lyrics (윤하 Winter Flower 가사) [Color Coded Lyrics/Han/Rom/Eng]",
+            "count": 1,
+            "totalSeconds": 262
+          },
+          {
+            "videoId": "L4GdwnT5bdI",
+            "title": "Hanon #1 SLOW",
+            "count": 1,
+            "totalSeconds": 261
+          },
+          {
+            "videoId": "r3ocmQhc9is",
+            "title": "☆음색깡패 다음 음색깡패☆ 어반자카파 - 널 사랑하지 않아♬ [유희열의 스케치북/You Heeyeol's Sketchbook] 20191220",
+            "count": 1,
+            "totalSeconds": 261
+          },
+          {
+            "videoId": "q-nHlU-cIck",
+            "title": "2NB Solji and Kim Song Yi singing",
+            "count": 1,
+            "totalSeconds": 258
+          },
+          {
+            "videoId": "jxiN0TP16Fs",
+            "title": "A Korean girl went to a karaoke!! She sang a kpop song.",
+            "count": 1,
+            "totalSeconds": 249
+          },
+          {
+            "videoId": "BgYwnUs6Ufg",
+            "title": "달좋은밤 DALJOHNBAM - 플래시백 FLASHBACK 스튜디오 라이브 STUDIO LIVE",
+            "count": 1,
+            "totalSeconds": 246
+          },
+          {
+            "videoId": "aog43IdC67A",
+            "title": "SHAUN | Way Back Home | Rooftop Live from Tokyo | Episode 6",
+            "count": 1,
+            "totalSeconds": 246
+          },
+          {
+            "videoId": "jdT4cTMdKks",
+            "title": "Pool Party Evacuation – hachubby Hype Train Song",
+            "count": 1,
+            "totalSeconds": 241
+          },
+          {
+            "videoId": "5Unq9aYsgXk",
+            "title": "Blue Ice",
+            "count": 1,
+            "totalSeconds": 238
+          },
+          {
+            "videoId": "aVdULtTRzkI",
+            "title": "Zekronz - Lost in Memories [Hachu's Music Show 2023]",
+            "count": 1,
+            "totalSeconds": 236
+          },
+          {
+            "videoId": "290fnKY3XVA",
+            "title": "[SuperStar K2] 장재인(Jang Jane) 3차예선(3rd preliminary round)",
+            "count": 1,
+            "totalSeconds": 232
+          },
+          {
+            "videoId": "pBuZEGYXA6E",
+            "title": "BTS (방탄소년단) 'IDOL' Official MV",
+            "count": 1,
+            "totalSeconds": 232
+          },
+          {
+            "videoId": "3c8SBGS_qB0",
+            "title": "오랜만에 들어보는 가비엔제이의 명곡 \"연애 소설\" 실감 라이브 [골방라이브] - KoonTV",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "PwTAGx1TNg4",
+            "title": "Mary Jane Girls - All Night Long",
+            "count": 1,
+            "totalSeconds": 229
+          },
+          {
+            "videoId": "Bg59q4puhmg",
+            "title": "Avril Lavigne - Girlfriend (Official Video)",
+            "count": 1,
+            "totalSeconds": 228
+          },
+          {
+            "videoId": "u1ZvPSpLxCg",
+            "title": "Tears For Fears - Mad World (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 226
+          },
+          {
+            "videoId": "62KD4C8rX7o",
+            "title": "추억의 명곡!! 가비엔제이가 부르는 '해바라기' 라이브 [골방라이브] - KoonTV",
+            "count": 1,
+            "totalSeconds": 223
+          },
+          {
+            "videoId": "utlpxDm4lGM",
+            "title": "Charming Jo & Yugwha   A",
+            "count": 1,
+            "totalSeconds": 223
+          },
+          {
+            "videoId": "q9ySYl-4SvU",
+            "title": "breathe ♫",
+            "count": 1,
+            "totalSeconds": 220
+          },
+          {
+            "videoId": "DOuhvBJqKVY",
+            "title": "BTS (방탄소년단) 'I NEED U' Official MV",
+            "count": 1,
+            "totalSeconds": 220
+          },
+          {
+            "videoId": "oOKAGpZ0c1k",
+            "title": "Tier 4 - 'Bang Bang' M/V ( HAchubby, Jinnytty, Yuggie_TV, Yunicorn19 )",
+            "count": 1,
+            "totalSeconds": 218
+          },
+          {
+            "videoId": "7wfYIMyS_dI",
+            "title": "Enya - Only Time (Official 4K Music Video)",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "dQw4w9WgXcQ",
+            "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+            "count": 1,
+            "totalSeconds": 214
+          },
+          {
+            "videoId": "9QvmbF2nMzQ",
+            "title": "Us Two (feat. Clacla, Iris Kymm, Katto404, Sriverz) [Lyric Video]",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "379mPFmeCWs",
+            "title": "Rokubop - Feeling I'm forgot ft. Yunicorn19, HAchubby, Yuggie_TV, Jinnytty",
+            "count": 1,
+            "totalSeconds": 208
+          },
+          {
+            "videoId": "vnJM5burmuo",
+            "title": "[TV선공개] 유재석 드럼에 한상원 기타...! 전원 기립박수 얻은 완벽한 연주...!!!",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "GbNBFb-LQzE",
+            "title": "Jonas Brothers - Coming Home This Christmas (Extended Music Videos) A Very Jonas Christmas Movie",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "_md16sTcnPM",
+            "title": "[직캠] 백예린(Yerin Baek) - Square 2017",
+            "count": 1,
+            "totalSeconds": 203
+          },
+          {
+            "videoId": "sJEvkxAcZwk",
+            "title": "Charming Jo - Waka Waka",
+            "count": 1,
+            "totalSeconds": 203
+          },
+          {
+            "videoId": "4gA5iaZ11lU",
+            "title": "La Chona - Los Tucanes De Tijuana (Clásicos de Los Tucanes)",
+            "count": 1,
+            "totalSeconds": 203
+          },
+          {
+            "videoId": "b9yJk4jP6-8",
+            "title": "Weak - SWV (Khel Pangilinan)",
+            "count": 1,
+            "totalSeconds": 197
+          },
+          {
+            "videoId": "1-AuFpLg4Ks",
+            "title": "🌮 taco song (hachubby)",
+            "count": 1,
+            "totalSeconds": 195
+          },
+          {
+            "videoId": "P_L89hNA2OQ",
+            "title": "The Weeknd - Blinding Lights | Cover by Charming Jo, yejuniverse, HAchubby and Rapapam",
+            "count": 1,
+            "totalSeconds": 191
+          },
+          {
+            "videoId": "xIejjXv7GOA",
+            "title": "keylimepie feat. HAchubby - Lemons And Tangerines (mix your colors edit)",
+            "count": 1,
+            "totalSeconds": 188
+          },
+          {
+            "videoId": "0vSxP3RwleU",
+            "title": "Always Calm - Korean Streamer | Cover by HAchubby",
+            "count": 1,
+            "totalSeconds": 187
+          },
+          {
+            "videoId": "1Xxe3S-CYiI",
+            "title": "Cyanide Sisters",
+            "count": 1,
+            "totalSeconds": 184
+          },
+          {
+            "videoId": "LP1k0mwB1Gs",
+            "title": "Chubbyland Music Collective - The Christmas Lullaby",
+            "count": 1,
+            "totalSeconds": 181
+          },
+          {
+            "videoId": "9XvY5TRYxoU",
+            "title": "[환승연애4 (EXchange4) OST Part 4] 수지 (Suzy) - 하루 (A Day) MV",
+            "count": 1,
+            "totalSeconds": 177
+          },
+          {
+            "videoId": "vpr2a1u1DuY",
+            "title": "CENTAVOES - To. HAchubby: Pink Shorts",
+            "count": 1,
+            "totalSeconds": 176
+          },
+          {
+            "videoId": "mPSmK-HoOJ0",
+            "title": "No Such Thing - 자이로(zai.ro) John Mayer Cover (안중재 AhnJungJae)",
+            "count": 1,
+            "totalSeconds": 170
+          },
+          {
+            "videoId": "qVG1_W8Ints",
+            "title": "Hachu's Burnt Tacos (Lyric Music Video) | 2023 Hachubby Music Talent Show Submission",
+            "count": 1,
+            "totalSeconds": 170
+          },
+          {
+            "videoId": "muWEOXE5zeQ",
+            "title": "Lana Del Rey - Take Me Home, Country Roads (Official Audio)",
+            "count": 1,
+            "totalSeconds": 167
+          },
+          {
+            "videoId": "fpMznjzeefw",
+            "title": "[리코더 악보]왈츠",
+            "count": 1,
+            "totalSeconds": 164
+          },
+          {
+            "videoId": "SsijTfaJwN0",
+            "title": "자이로(zai.ro) - Neon (John Mayer) cover (안중재 AhnJungJae)",
+            "count": 1,
+            "totalSeconds": 163
+          },
+          {
+            "videoId": "rN9viJlnir4",
+            "title": "Streamer University 2026 | Official Enrollment Trailer",
+            "count": 1,
+            "totalSeconds": 158
+          },
+          {
+            "videoId": "7UGNsJSJOeQ",
+            "title": "Korean Girl ♡ Jeolla-do Suncheon Travel VLOG",
+            "count": 1,
+            "totalSeconds": 158
+          },
+          {
+            "videoId": "IdIR1Dvwh7c",
+            "title": "Old town road but Farts 💨😱😃",
+            "count": 1,
+            "totalSeconds": 158
+          },
+          {
+            "videoId": "Oyu5sFzWLk8",
+            "title": "The Beatles - Taxman (remastered)",
+            "count": 1,
+            "totalSeconds": 157
+          },
+          {
+            "videoId": "skQNAGXKeq0",
+            "title": "The Primitives - Crash (Audio)",
+            "count": 1,
+            "totalSeconds": 156
+          },
+          {
+            "videoId": "w9719SCk38I",
+            "title": "보이스코리아-7회 이소정VS나들이.mp4",
+            "count": 1,
+            "totalSeconds": 154
+          },
+          {
+            "videoId": "2-0BUBCEVIg",
+            "title": "De Electronica's - Vogeltjesdans • Op Volle Toeren // Sterren NL",
+            "count": 1,
+            "totalSeconds": 154
+          },
+          {
+            "videoId": "SMERWovHROQ",
+            "title": "Malign & keylimepie – Pepega Clap (feat. RailingStarFox, lini13, Katto404, clacla_18)",
+            "count": 1,
+            "totalSeconds": 142
+          },
+          {
+            "videoId": "LA4Iu_694z0",
+            "title": "Canon | Johann Pachelbel | Slow Piano C Major",
+            "count": 1,
+            "totalSeconds": 141
+          },
+          {
+            "videoId": "NeE4GrgzDIo",
+            "title": "[리코더 악보]징글벨 락_음원 MR",
+            "count": 1,
+            "totalSeconds": 139
+          },
+          {
+            "videoId": "opAy-ossUxE",
+            "title": "[리코더 악보]둥글게 둥글게_반주MR",
+            "count": 1,
+            "totalSeconds": 125
+          },
+          {
+            "videoId": "aND-0LRrllo",
+            "title": "[리코더 악보]에델바이스",
+            "count": 1,
+            "totalSeconds": 123
+          },
+          {
+            "videoId": "y2DqOGjGBbA",
+            "title": "ITZY (있지) - WANNABE | Dance Cover by HAchubby",
+            "count": 1,
+            "totalSeconds": 86
+          },
+          {
+            "videoId": "kUrAhSzsqmM",
+            "title": "HAchubby - dancing to 4$ by 2DTL",
+            "count": 1,
+            "totalSeconds": 81
+          },
+          {
+            "videoId": "-g8AtaLxSS0",
+            "title": "[리코더 악보]꼬마 눈사람_반주 MR",
+            "count": 1,
+            "totalSeconds": 62
+          },
+          {
+            "videoId": "8kFezbS9HhE",
+            "title": "Amazing Grace ♩=100 (Fast) Piano Accompaniment with metronome",
+            "count": 1,
+            "totalSeconds": 59
+          },
+          {
+            "videoId": "_7ZyRB3-X7A",
+            "title": "i have a bad case of diarrhea",
+            "count": 1,
+            "totalSeconds": 53
+          },
+          {
+            "videoId": "CiMNCX0-5aE",
+            "title": "[리코더 악보]도토리_반주MR",
+            "count": 1,
+            "totalSeconds": 52
+          },
+          {
+            "videoId": "fnGdejBWzak",
+            "title": "[리코더 악보]런던 다리 London Bridge is falling down_반주MR",
+            "count": 1,
+            "totalSeconds": 45
+          },
+          {
+            "videoId": "sQQbd_AkQWk",
+            "title": "[리코더 악보]작은 별",
+            "count": 1,
+            "totalSeconds": 37
+          },
+          {
+            "videoId": "1U8cYAajtfs",
+            "title": "U II A IO UI A I O CAT x Turkish March Piano",
+            "count": 1,
+            "totalSeconds": 33
+          },
+          {
+            "videoId": "31bIfoE8_mU",
+            "title": "Steely Dan: Kid Charlemagne at VH1 Storytellers",
+            "count": 1,
+            "totalSeconds": 10
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "uncle__mike__",
         "totalRequests": 104,
         "totalSeconds": 26093,
@@ -163063,524 +164278,6 @@
             "date": "2026-06-01T21:31:23.217Z"
           }
         ]
-      },
-      {
-        "username": "hachubby",
-        "totalRequests": 102,
-        "totalSeconds": 22642,
-        "topSongs": [
-          {
-            "videoId": "K0HSD_i2DvA",
-            "title": "Daft Punk - Around The World (Official Music Video Remastered)",
-            "count": 6,
-            "totalSeconds": 1452
-          },
-          {
-            "videoId": "qvVqwsXhHek",
-            "title": "HAchubby - See You Tomorrow (Bye Bye Song) [Acoustic Version]",
-            "count": 5,
-            "totalSeconds": 1695
-          },
-          {
-            "videoId": "j87tH9FFnFQ",
-            "title": "🎵 FUTURE GIRL (HAchubby song)",
-            "count": 3,
-            "totalSeconds": 645
-          },
-          {
-            "videoId": "pstVCGyaUBM",
-            "title": "Lorde - Buzzcut Season",
-            "count": 2,
-            "totalSeconds": 494
-          },
-          {
-            "videoId": "lIxQe1R5hs0",
-            "title": "PinkPantheress - Stateside + Zara Larsson (Official Video)",
-            "count": 2,
-            "totalSeconds": 388
-          },
-          {
-            "videoId": "eVwvu3PCTow",
-            "title": "Norista - Day Off",
-            "count": 2,
-            "totalSeconds": 354
-          },
-          {
-            "videoId": "z1vjYc4o3yQ",
-            "title": "Eberhard by Lyle Mays - Preview",
-            "count": 2,
-            "totalSeconds": 288
-          },
-          {
-            "videoId": "-qVtYr_WdHU",
-            "title": "BLACKPINK - 'How You Like That' - HAchubby Dance Cover",
-            "count": 2,
-            "totalSeconds": 196
-          },
-          {
-            "videoId": "UK0Hw-8GXZc",
-            "title": "I appreciate all of the love I've seen for my new single \"Balloon Pop,\" thank you so much! 🎹",
-            "count": 2,
-            "totalSeconds": 100
-          },
-          {
-            "videoId": "4z7oi-QxE8s",
-            "title": "Green Day - Jesus of Suburbia (Official Audio)",
-            "count": 1,
-            "totalSeconds": 549
-          },
-          {
-            "videoId": "6SFNW5F8K9Y",
-            "title": "Prince, Tom Petty, Steve Winwood, Jeff Lynne, more - \"While My Guitar Gently Weeps\" | 2004 Induction",
-            "count": 1,
-            "totalSeconds": 376
-          },
-          {
-            "videoId": "Xxpq252TFTU",
-            "title": "Primus - Holy Diver live with Puddles Pity Party (Dio cover) 8-10-24 Big Flats, NY",
-            "count": 1,
-            "totalSeconds": 358
-          },
-          {
-            "videoId": "QqnSw3J_eRc",
-            "title": "For My Ladies",
-            "count": 1,
-            "totalSeconds": 342
-          },
-          {
-            "videoId": "4nHJ9vIHdO0",
-            "title": "[MV] Toy, YOUNHA(토이, 윤하) _ It's sunny all day in Seoul today(오늘 서울은 하루종일 맑음)",
-            "count": 1,
-            "totalSeconds": 341
-          },
-          {
-            "videoId": "NfIwFiQWSxQ",
-            "title": "Michael Jackson - Stranger In Moscow (4K Video)",
-            "count": 1,
-            "totalSeconds": 340
-          },
-          {
-            "videoId": "pais41IW5dk",
-            "title": "Cisco Default Hold Music - [HQ Mono Audio] - Opus Number 1",
-            "count": 1,
-            "totalSeconds": 339
-          },
-          {
-            "videoId": "zFyndK9VOCk",
-            "title": "So Hyang - Arirang Alone  [Immortal Songs 2 #1]",
-            "count": 1,
-            "totalSeconds": 319
-          },
-          {
-            "videoId": "dkPS6t84qg4",
-            "title": "Dimash Kudaibergen & Igor Krutoy - Olimpico",
-            "count": 1,
-            "totalSeconds": 304
-          },
-          {
-            "videoId": "b0InrIp10b8",
-            "title": "God Gamer's Getaway – hachubby Hype Train Song",
-            "count": 1,
-            "totalSeconds": 302
-          },
-          {
-            "videoId": "a0ZhV4e7TYY",
-            "title": "Rekthan_ - Eclipse_hachubby-music-talent-show-2022",
-            "count": 1,
-            "totalSeconds": 299
-          },
-          {
-            "videoId": "eyb2NtPwcxc",
-            "title": "「OIRAN」(YouTube ver.) / NEMOPHILA",
-            "count": 1,
-            "totalSeconds": 288
-          },
-          {
-            "videoId": "Z1PloNGzuEI",
-            "title": "Bombay Bicycle Club - Still (Official Video)",
-            "count": 1,
-            "totalSeconds": 286
-          },
-          {
-            "videoId": "F2RnxZnubCM",
-            "title": "Titanic • My Heart Will Go On • Celine Dion",
-            "count": 1,
-            "totalSeconds": 284
-          },
-          {
-            "videoId": "447yaU_4DF8",
-            "title": "Kenny G - The Moment (Official Video)",
-            "count": 1,
-            "totalSeconds": 278
-          },
-          {
-            "videoId": "kDdTf2EinCs",
-            "title": "ハク。\"それしか言えない\" Official Music Video",
-            "count": 1,
-            "totalSeconds": 275
-          },
-          {
-            "videoId": "e-ORhEE9VVg",
-            "title": "Taylor Swift - Blank Space",
-            "count": 1,
-            "totalSeconds": 273
-          },
-          {
-            "videoId": "QFRM-jOnszE",
-            "title": "Chubbyland Music Collective - Chubbyland Summer",
-            "count": 1,
-            "totalSeconds": 273
-          },
-          {
-            "videoId": "Yqn-oNFhDds",
-            "title": "HAchubby - 'I Wanna Leave Me'",
-            "count": 1,
-            "totalSeconds": 271
-          },
-          {
-            "videoId": "qbqxbGm9hBI",
-            "title": "The Moody Blues - Nights In White Satin (Lyric Video)",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "lZumx70VjU4",
-            "title": "Younha Winter Flower (Feat. RM of BTS) Lyrics (윤하 Winter Flower 가사) [Color Coded Lyrics/Han/Rom/Eng]",
-            "count": 1,
-            "totalSeconds": 262
-          },
-          {
-            "videoId": "r3ocmQhc9is",
-            "title": "☆음색깡패 다음 음색깡패☆ 어반자카파 - 널 사랑하지 않아♬ [유희열의 스케치북/You Heeyeol's Sketchbook] 20191220",
-            "count": 1,
-            "totalSeconds": 261
-          },
-          {
-            "videoId": "q-nHlU-cIck",
-            "title": "2NB Solji and Kim Song Yi singing",
-            "count": 1,
-            "totalSeconds": 258
-          },
-          {
-            "videoId": "jxiN0TP16Fs",
-            "title": "A Korean girl went to a karaoke!! She sang a kpop song.",
-            "count": 1,
-            "totalSeconds": 249
-          },
-          {
-            "videoId": "BgYwnUs6Ufg",
-            "title": "달좋은밤 DALJOHNBAM - 플래시백 FLASHBACK 스튜디오 라이브 STUDIO LIVE",
-            "count": 1,
-            "totalSeconds": 246
-          },
-          {
-            "videoId": "aog43IdC67A",
-            "title": "SHAUN | Way Back Home | Rooftop Live from Tokyo | Episode 6",
-            "count": 1,
-            "totalSeconds": 246
-          },
-          {
-            "videoId": "jdT4cTMdKks",
-            "title": "Pool Party Evacuation – hachubby Hype Train Song",
-            "count": 1,
-            "totalSeconds": 241
-          },
-          {
-            "videoId": "5Unq9aYsgXk",
-            "title": "Blue Ice",
-            "count": 1,
-            "totalSeconds": 238
-          },
-          {
-            "videoId": "aVdULtTRzkI",
-            "title": "Zekronz - Lost in Memories [Hachu's Music Show 2023]",
-            "count": 1,
-            "totalSeconds": 236
-          },
-          {
-            "videoId": "290fnKY3XVA",
-            "title": "[SuperStar K2] 장재인(Jang Jane) 3차예선(3rd preliminary round)",
-            "count": 1,
-            "totalSeconds": 232
-          },
-          {
-            "videoId": "pBuZEGYXA6E",
-            "title": "BTS (방탄소년단) 'IDOL' Official MV",
-            "count": 1,
-            "totalSeconds": 232
-          },
-          {
-            "videoId": "3c8SBGS_qB0",
-            "title": "오랜만에 들어보는 가비엔제이의 명곡 \"연애 소설\" 실감 라이브 [골방라이브] - KoonTV",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "PwTAGx1TNg4",
-            "title": "Mary Jane Girls - All Night Long",
-            "count": 1,
-            "totalSeconds": 229
-          },
-          {
-            "videoId": "Bg59q4puhmg",
-            "title": "Avril Lavigne - Girlfriend (Official Video)",
-            "count": 1,
-            "totalSeconds": 228
-          },
-          {
-            "videoId": "AEgG63MCa0I",
-            "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
-            "count": 1,
-            "totalSeconds": 227
-          },
-          {
-            "videoId": "u1ZvPSpLxCg",
-            "title": "Tears For Fears - Mad World (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 226
-          },
-          {
-            "videoId": "62KD4C8rX7o",
-            "title": "추억의 명곡!! 가비엔제이가 부르는 '해바라기' 라이브 [골방라이브] - KoonTV",
-            "count": 1,
-            "totalSeconds": 223
-          },
-          {
-            "videoId": "utlpxDm4lGM",
-            "title": "Charming Jo & Yugwha   A",
-            "count": 1,
-            "totalSeconds": 223
-          },
-          {
-            "videoId": "q9ySYl-4SvU",
-            "title": "breathe ♫",
-            "count": 1,
-            "totalSeconds": 220
-          },
-          {
-            "videoId": "DOuhvBJqKVY",
-            "title": "BTS (방탄소년단) 'I NEED U' Official MV",
-            "count": 1,
-            "totalSeconds": 220
-          },
-          {
-            "videoId": "oOKAGpZ0c1k",
-            "title": "Tier 4 - 'Bang Bang' M/V ( HAchubby, Jinnytty, Yuggie_TV, Yunicorn19 )",
-            "count": 1,
-            "totalSeconds": 218
-          },
-          {
-            "videoId": "7wfYIMyS_dI",
-            "title": "Enya - Only Time (Official 4K Music Video)",
-            "count": 1,
-            "totalSeconds": 216
-          },
-          {
-            "videoId": "dQw4w9WgXcQ",
-            "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
-            "count": 1,
-            "totalSeconds": 214
-          },
-          {
-            "videoId": "9QvmbF2nMzQ",
-            "title": "Us Two (feat. Clacla, Iris Kymm, Katto404, Sriverz) [Lyric Video]",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "379mPFmeCWs",
-            "title": "Rokubop - Feeling I'm forgot ft. Yunicorn19, HAchubby, Yuggie_TV, Jinnytty",
-            "count": 1,
-            "totalSeconds": 208
-          },
-          {
-            "videoId": "vnJM5burmuo",
-            "title": "[TV선공개] 유재석 드럼에 한상원 기타...! 전원 기립박수 얻은 완벽한 연주...!!!",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "GbNBFb-LQzE",
-            "title": "Jonas Brothers - Coming Home This Christmas (Extended Music Videos) A Very Jonas Christmas Movie",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "_md16sTcnPM",
-            "title": "[직캠] 백예린(Yerin Baek) - Square 2017",
-            "count": 1,
-            "totalSeconds": 203
-          },
-          {
-            "videoId": "sJEvkxAcZwk",
-            "title": "Charming Jo - Waka Waka",
-            "count": 1,
-            "totalSeconds": 203
-          },
-          {
-            "videoId": "4gA5iaZ11lU",
-            "title": "La Chona - Los Tucanes De Tijuana (Clásicos de Los Tucanes)",
-            "count": 1,
-            "totalSeconds": 203
-          },
-          {
-            "videoId": "b9yJk4jP6-8",
-            "title": "Weak - SWV (Khel Pangilinan)",
-            "count": 1,
-            "totalSeconds": 197
-          },
-          {
-            "videoId": "1-AuFpLg4Ks",
-            "title": "🌮 taco song (hachubby)",
-            "count": 1,
-            "totalSeconds": 195
-          },
-          {
-            "videoId": "P_L89hNA2OQ",
-            "title": "The Weeknd - Blinding Lights | Cover by Charming Jo, yejuniverse, HAchubby and Rapapam",
-            "count": 1,
-            "totalSeconds": 191
-          },
-          {
-            "videoId": "xIejjXv7GOA",
-            "title": "keylimepie feat. HAchubby - Lemons And Tangerines (mix your colors edit)",
-            "count": 1,
-            "totalSeconds": 188
-          },
-          {
-            "videoId": "0vSxP3RwleU",
-            "title": "Always Calm - Korean Streamer | Cover by HAchubby",
-            "count": 1,
-            "totalSeconds": 187
-          },
-          {
-            "videoId": "1Xxe3S-CYiI",
-            "title": "Cyanide Sisters",
-            "count": 1,
-            "totalSeconds": 184
-          },
-          {
-            "videoId": "LP1k0mwB1Gs",
-            "title": "Chubbyland Music Collective - The Christmas Lullaby",
-            "count": 1,
-            "totalSeconds": 181
-          },
-          {
-            "videoId": "9XvY5TRYxoU",
-            "title": "[환승연애4 (EXchange4) OST Part 4] 수지 (Suzy) - 하루 (A Day) MV",
-            "count": 1,
-            "totalSeconds": 177
-          },
-          {
-            "videoId": "vpr2a1u1DuY",
-            "title": "CENTAVOES - To. HAchubby: Pink Shorts",
-            "count": 1,
-            "totalSeconds": 176
-          },
-          {
-            "videoId": "mPSmK-HoOJ0",
-            "title": "No Such Thing - 자이로(zai.ro) John Mayer Cover (안중재 AhnJungJae)",
-            "count": 1,
-            "totalSeconds": 170
-          },
-          {
-            "videoId": "qVG1_W8Ints",
-            "title": "Hachu's Burnt Tacos (Lyric Music Video) | 2023 Hachubby Music Talent Show Submission",
-            "count": 1,
-            "totalSeconds": 170
-          },
-          {
-            "videoId": "muWEOXE5zeQ",
-            "title": "Lana Del Rey - Take Me Home, Country Roads (Official Audio)",
-            "count": 1,
-            "totalSeconds": 167
-          },
-          {
-            "videoId": "SsijTfaJwN0",
-            "title": "자이로(zai.ro) - Neon (John Mayer) cover (안중재 AhnJungJae)",
-            "count": 1,
-            "totalSeconds": 163
-          },
-          {
-            "videoId": "rN9viJlnir4",
-            "title": "Streamer University 2026 | Official Enrollment Trailer",
-            "count": 1,
-            "totalSeconds": 158
-          },
-          {
-            "videoId": "7UGNsJSJOeQ",
-            "title": "Korean Girl ♡ Jeolla-do Suncheon Travel VLOG",
-            "count": 1,
-            "totalSeconds": 158
-          },
-          {
-            "videoId": "IdIR1Dvwh7c",
-            "title": "Old town road but Farts 💨😱😃",
-            "count": 1,
-            "totalSeconds": 158
-          },
-          {
-            "videoId": "Oyu5sFzWLk8",
-            "title": "The Beatles - Taxman (remastered)",
-            "count": 1,
-            "totalSeconds": 157
-          },
-          {
-            "videoId": "skQNAGXKeq0",
-            "title": "The Primitives - Crash (Audio)",
-            "count": 1,
-            "totalSeconds": 156
-          },
-          {
-            "videoId": "w9719SCk38I",
-            "title": "보이스코리아-7회 이소정VS나들이.mp4",
-            "count": 1,
-            "totalSeconds": 154
-          },
-          {
-            "videoId": "2-0BUBCEVIg",
-            "title": "De Electronica's - Vogeltjesdans • Op Volle Toeren // Sterren NL",
-            "count": 1,
-            "totalSeconds": 154
-          },
-          {
-            "videoId": "SMERWovHROQ",
-            "title": "Malign & keylimepie – Pepega Clap (feat. RailingStarFox, lini13, Katto404, clacla_18)",
-            "count": 1,
-            "totalSeconds": 142
-          },
-          {
-            "videoId": "y2DqOGjGBbA",
-            "title": "ITZY (있지) - WANNABE | Dance Cover by HAchubby",
-            "count": 1,
-            "totalSeconds": 86
-          },
-          {
-            "videoId": "kUrAhSzsqmM",
-            "title": "HAchubby - dancing to 4$ by 2DTL",
-            "count": 1,
-            "totalSeconds": 81
-          },
-          {
-            "videoId": "_7ZyRB3-X7A",
-            "title": "i have a bad case of diarrhea",
-            "count": 1,
-            "totalSeconds": 53
-          },
-          {
-            "videoId": "1U8cYAajtfs",
-            "title": "U II A IO UI A I O CAT x Turkish March Piano",
-            "count": 1,
-            "totalSeconds": 33
-          },
-          {
-            "videoId": "31bIfoE8_mU",
-            "title": "Steely Dan: Kid Charlemagne at VH1 Storytellers",
-            "count": 1,
-            "totalSeconds": 10
-          }
-        ],
-        "messages": []
       },
       {
         "username": "top_fuel",
@@ -179487,5 +180184,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-14T03:59:17.474Z"
+  "lastUpdated": "2026-06-15T04:11:47.638Z"
 }
