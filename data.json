@@ -1,6 +1,227 @@
 {
   "rawHistory": [
     {
+      "_id": "6a5699598d6ae79ffd346467",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 0,
+        "channel": "HAchubby",
+        "voteskips": [],
+        "tags": [],
+        "_id": "6a56994c35a38b3e4ba3873e"
+      },
+      "createdAt": "2026-07-14T20:17:29.043Z"
+    },
+    {
+      "_id": "6a56994c35a38b3e4ba3873a",
+      "song": {
+        "videoId": "HgknAaKNaMM",
+        "title": "Carrie Underwood - The Champion ft. Ludacris (Official Music Video)",
+        "duration": 226,
+        "start": 0,
+        "end": 226,
+        "channel": "carrieunderwoodVEVO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "Benny5699",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 101815441,
+          "likeCount": 570089,
+          "dislikeCount": 0
+        },
+        "_id": "6a5695447999ae64ef4365e7"
+      },
+      "createdAt": "2026-07-14T20:17:16.011Z"
+    },
+    {
+      "_id": "6a5695768f26c6973f1f3ab3",
+      "song": {
+        "videoId": "idjM3Jrp4Yw",
+        "title": "Wazer Wifle! Open Minded (Official Video) FALLOUT RAP!",
+        "duration": 287,
+        "start": 0,
+        "end": 287,
+        "channel": "OpenMindedMN",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1314044,
+          "likeCount": 27198,
+          "dislikeCount": 0
+        },
+        "_id": "6a5691c635a38b3e4ba25391"
+      },
+      "createdAt": "2026-07-14T20:00:54.532Z"
+    },
+    {
+      "_id": "6a5693a78d6ae79ffd338bea",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 256259,
+          "likeCount": 680,
+          "dislikeCount": 0
+        },
+        "_id": "6a569167dc62baf41b41f99c"
+      },
+      "createdAt": "2026-07-14T19:53:11.054Z"
+    },
+    {
+      "_id": "6a569393512792af4051e059",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 256259,
+          "likeCount": 680,
+          "dislikeCount": 0
+        },
+        "_id": "6a5691678d6ae79ffd332b47"
+      },
+      "createdAt": "2026-07-14T19:52:51.436Z"
+    },
+    {
+      "_id": "6a56938c8f26c6973f1ee7cf",
+      "song": {
+        "videoId": "JVYf31eUqT0",
+        "title": "Real McCoy - Come and Get Your Love (Remastered Version 1995) HQ",
+        "duration": 193,
+        "start": 0,
+        "end": 193,
+        "channel": "VJ Fernando Junior",
+        "amount": 6.5,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 7485,
+          "likeCount": 168,
+          "dislikeCount": 0
+        },
+        "_id": "6a568a3f35a38b3e4ba134e1"
+      },
+      "createdAt": "2026-07-14T19:52:44.833Z"
+    },
+    {
+      "_id": "6a5690ef8f26c6973f1e926c",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 256113,
+          "likeCount": 679,
+          "dislikeCount": 0
+        },
+        "_id": "6a547e704aa64dc977a47491"
+      },
+      "createdAt": "2026-07-14T19:41:35.279Z"
+    },
+    {
+      "_id": "6a5690e68f26c6973f1e921c",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 59857,
+          "likeCount": 233,
+          "dislikeCount": 0
+        },
+        "_id": "6a547e764aa64dc977a474bb"
+      },
+      "createdAt": "2026-07-14T19:41:26.368Z"
+    },
+    {
+      "_id": "6a568fdb512792af405158b2",
+      "song": {
+        "videoId": "KJjiY1ROskE",
+        "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+        "duration": 225,
+        "start": 1,
+        "end": 226,
+        "channel": "fairyoons",
+        "amount": 7.78,
+        "message": "",
+        "user": {
+          "username": "jake_do",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 220327,
+          "likeCount": 1392,
+          "dislikeCount": 0
+        },
+        "_id": "6a54777fa250472537e4f184"
+      },
+      "createdAt": "2026-07-14T19:36:59.674Z"
+    },
+    {
       "_id": "6a54778a4e00973503b47f96",
       "song": {
         "videoId": "cxQMLCtoi_w",
@@ -142072,8 +142293,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1038084,
-      "totalRequests": 4611,
+      "totalSeconds": 1039015,
+      "totalRequests": 4615,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -149367,6 +149588,12 @@
           "totalSeconds": 288
         },
         {
+          "videoId": "idjM3Jrp4Yw",
+          "title": "Wazer Wifle! Open Minded (Official Video) FALLOUT RAP!",
+          "count": 1,
+          "totalSeconds": 287
+        },
+        {
           "videoId": "rZXvEcBKMT8",
           "title": "Eminem - Phenomenal (Lyric Video)",
           "count": 1,
@@ -155349,6 +155576,12 @@
           "totalSeconds": 227
         },
         {
+          "videoId": "HgknAaKNaMM",
+          "title": "Carrie Underwood - The Champion ft. Ludacris (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 226
+        },
+        {
           "videoId": "FdizL4on-Rc",
           "title": "LL COOL J - Going Back To Cali (Official Music Video)",
           "count": 1,
@@ -155449,6 +155682,12 @@
           "title": "The Black Keys - Gold On The Ceiling [Official Music Video]",
           "count": 1,
           "totalSeconds": 226
+        },
+        {
+          "videoId": "KJjiY1ROskE",
+          "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+          "count": 1,
+          "totalSeconds": 225
         },
         {
           "videoId": "pR5sDqm8Wys",
@@ -159475,6 +159714,12 @@
           "title": "Khalid - \"Better\" (Violin Cover) | DSharp",
           "count": 1,
           "totalSeconds": 194
+        },
+        {
+          "videoId": "JVYf31eUqT0",
+          "title": "Real McCoy - Come and Get Your Love (Remastered Version 1995) HQ",
+          "count": 1,
+          "totalSeconds": 193
         },
         {
           "videoId": "TcMV9YeT9Sw",
@@ -173992,8 +174237,8 @@
       },
       {
         "username": "SeminoleGamer",
-        "totalRequests": 154,
-        "totalSeconds": 41579,
+        "totalRequests": 155,
+        "totalSeconds": 41866,
         "topSongs": [
           {
             "videoId": "fuFbQ-Mewfw",
@@ -174264,6 +174509,12 @@
             "title": "Deee-Lite - Groove Is In The Heart (Official Video)",
             "count": 1,
             "totalSeconds": 291
+          },
+          {
+            "videoId": "idjM3Jrp4Yw",
+            "title": "Wazer Wifle! Open Minded (Official Video) FALLOUT RAP!",
+            "count": 1,
+            "totalSeconds": 287
           },
           {
             "videoId": "PX5OARoNFpg",
@@ -181039,8 +181290,8 @@
       },
       {
         "username": "zimm_zimm",
-        "totalRequests": 89,
-        "totalSeconds": 21128,
+        "totalRequests": 90,
+        "totalSeconds": 21321,
         "topSongs": [
           {
             "videoId": "amycQ8q01qE",
@@ -181521,6 +181772,12 @@
             "title": "Hearts2Hearts 하츠투하츠 'The Chase' MV",
             "count": 1,
             "totalSeconds": 194
+          },
+          {
+            "videoId": "JVYf31eUqT0",
+            "title": "Real McCoy - Come and Get Your Love (Remastered Version 1995) HQ",
+            "count": 1,
+            "totalSeconds": 193
           },
           {
             "videoId": "7odMzSb6WUQ",
@@ -183040,6 +183297,392 @@
         ]
       },
       {
+        "username": "Benny5699",
+        "totalRequests": 65,
+        "totalSeconds": 16289,
+        "topSongs": [
+          {
+            "videoId": "WyF8RHM1OCg",
+            "title": "Whitesnake - Here I Go Again '87 (Official Music Video)",
+            "count": 2,
+            "totalSeconds": 542
+          },
+          {
+            "videoId": "SRvCvsRp5ho",
+            "title": "Bon Jovi - Wanted Dead Or Alive (Official Music Video)",
+            "count": 2,
+            "totalSeconds": 500
+          },
+          {
+            "videoId": "FwZTgDjRLM0",
+            "title": "Selena - Como La Flor (Live From Astrodome)",
+            "count": 1,
+            "totalSeconds": 388
+          },
+          {
+            "videoId": "XbGs_qK2PQA",
+            "title": "Eminem - Rap God (Explicit)",
+            "count": 1,
+            "totalSeconds": 370
+          },
+          {
+            "videoId": "CD-E-LDc384",
+            "title": "Metallica: Enter Sandman (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 330
+          },
+          {
+            "videoId": "xFYQQPAOz7Y",
+            "title": "Eminem - Lose Yourself",
+            "count": 1,
+            "totalSeconds": 328
+          },
+          {
+            "videoId": "8lD5bfqzr6E",
+            "title": "Ozzy Osbourne - Crazy Train (Live)",
+            "count": 1,
+            "totalSeconds": 324
+          },
+          {
+            "videoId": "UbQhKxxrq04",
+            "title": "Eminem - No Love ft. Lil Wayne",
+            "count": 1,
+            "totalSeconds": 315
+          },
+          {
+            "videoId": "it_04dk_97E",
+            "title": "Yelawolf - Best Friend ft. Eminem",
+            "count": 1,
+            "totalSeconds": 305
+          },
+          {
+            "videoId": "DDWKuo3gXMQ",
+            "title": "Adele - When We Were Young (Live at The Church Studios)",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "v2AC41dglnM",
+            "title": "AC/DC - Thunderstruck (Official Video)",
+            "count": 1,
+            "totalSeconds": 293
+          },
+          {
+            "videoId": "opU1urLhw50",
+            "title": "Godsmack - Awake (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 291
+          },
+          {
+            "videoId": "Fp0BScQSSvg",
+            "title": "Machine Gun Kelly \"Rap Devil\" (Eminem Diss) (WSHH Exclusive - Official Music Video)",
+            "count": 1,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "rZXvEcBKMT8",
+            "title": "Eminem - Phenomenal (Lyric Video)",
+            "count": 1,
+            "totalSeconds": 287
+          },
+          {
+            "videoId": "J16lInLZRms",
+            "title": "Creed - Higher (Official HD Music Video)",
+            "count": 1,
+            "totalSeconds": 283
+          },
+          {
+            "videoId": "OYjZK_6i37M",
+            "title": "Godsmack - I Stand Alone",
+            "count": 1,
+            "totalSeconds": 282
+          },
+          {
+            "videoId": "o1tj2zJ2Wvg",
+            "title": "Guns N' Roses - Welcome To The Jungle",
+            "count": 1,
+            "totalSeconds": 280
+          },
+          {
+            "videoId": "O-fyNgHdmLI",
+            "title": "Creed - My Sacrifice (Official HD Music Video)",
+            "count": 1,
+            "totalSeconds": 280
+          },
+          {
+            "videoId": "Mb1ZvUDvLDY",
+            "title": "2Pac - Dear Mama",
+            "count": 1,
+            "totalSeconds": 276
+          },
+          {
+            "videoId": "NlmezywdxPI",
+            "title": "Eminem - Survival (Explicit)",
+            "count": 1,
+            "totalSeconds": 272
+          },
+          {
+            "videoId": "DWrMeBR8W-c",
+            "title": "Toby Keith - American Soldier",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "xvaEJzoaYZk",
+            "title": "Steve Earle - Copperhead Road (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "uelHwf8o7_U",
+            "title": "Eminem - Love The Way You Lie ft. Rihanna",
+            "count": 1,
+            "totalSeconds": 267
+          },
+          {
+            "videoId": "_9TShlMkQnc",
+            "title": "Tim McGraw - Live Like You Were Dying (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 267
+          },
+          {
+            "videoId": "b7P97b64Q5E",
+            "title": "Garth Brooks - Friends In Low Places (1080p60 HD)",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "WmoC5cj8sw4",
+            "title": "NWA- Express Yourself [ Dirty ]",
+            "count": 1,
+            "totalSeconds": 262
+          },
+          {
+            "videoId": "phaJXp_zMYM",
+            "title": "The Notorious B.I.G. - Big Poppa (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 262
+          },
+          {
+            "videoId": "XMh9vU4g0jc",
+            "title": "Toes (Greatest Hits Version)",
+            "count": 1,
+            "totalSeconds": 262
+          },
+          {
+            "videoId": "1zTThiqSUEA",
+            "title": "Garth Brooks  - Shameless",
+            "count": 1,
+            "totalSeconds": 261
+          },
+          {
+            "videoId": "SQCSxqScSVQ",
+            "title": "Coolio - Gangsta's Paradise (Official Music Video) [4K] ft. L.V.",
+            "count": 1,
+            "totalSeconds": 256
+          },
+          {
+            "videoId": "pAgnJDJN4VA",
+            "title": "AC/DC - Back In Black (Official 4K Video)",
+            "count": 1,
+            "totalSeconds": 254
+          },
+          {
+            "videoId": "FxQTY-W6GIo",
+            "title": "KILLSHOT [Official Audio]",
+            "count": 1,
+            "totalSeconds": 254
+          },
+          {
+            "videoId": "p3fhyC7O9So",
+            "title": "Godsmack  - I Fucking Hate You",
+            "count": 1,
+            "totalSeconds": 248
+          },
+          {
+            "videoId": "btPJPFnesV4",
+            "title": "Survivor - Eye Of The Tiger (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 245
+          },
+          {
+            "videoId": "RgKAFK5djSk",
+            "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+            "count": 1,
+            "totalSeconds": 238
+          },
+          {
+            "videoId": "mWRsgZuwf_8",
+            "title": "Imagine Dragons - Demons (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 237
+          },
+          {
+            "videoId": "99j0zLuNhi8",
+            "title": "Creed - With Arms Wide Open (Official HD Music Video)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "puJt66y0TBw",
+            "title": "Harry Chapin - Cats in the Cradle",
+            "count": 1,
+            "totalSeconds": 232
+          },
+          {
+            "videoId": "OMOGaugKpzs",
+            "title": "The Police - Every Breath You Take (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 229
+          },
+          {
+            "videoId": "Aiay8I5IPB8",
+            "title": "Nickelback - How You Remind Me [OFFICIAL VIDEO]",
+            "count": 1,
+            "totalSeconds": 229
+          },
+          {
+            "videoId": "HgknAaKNaMM",
+            "title": "Carrie Underwood - The Champion ft. Ludacris (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 226
+          },
+          {
+            "videoId": "9d28Jbx7q9Q",
+            "title": "House Of 1000 Corpses (From \"House Of 1000 Corpses\" Soundtrack)",
+            "count": 1,
+            "totalSeconds": 224
+          },
+          {
+            "videoId": "asxrMSVrJ08",
+            "title": "Blake Shelton - Ol' Red (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 222
+          },
+          {
+            "videoId": "eVTXPUF4Oz4",
+            "title": "In The End [Official HD Music Video] - Linkin Park",
+            "count": 1,
+            "totalSeconds": 219
+          },
+          {
+            "videoId": "HTvu1Yr3Ohk",
+            "title": "Trapt - Headstrong (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 218
+          },
+          {
+            "videoId": "3ftI4gpprfw",
+            "title": "Garth Brooks - Standing Outside the Fire",
+            "count": 1,
+            "totalSeconds": 217
+          },
+          {
+            "videoId": "RijB8wnJCN0",
+            "title": "Cypress Hill - Insane In The Brain (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 215
+          },
+          {
+            "videoId": "mRMCNHeVKKA",
+            "title": "Alice Cooper - School's Out (\"Pink Floyd: The Wall\" Music Video)",
+            "count": 1,
+            "totalSeconds": 213
+          },
+          {
+            "videoId": "7hx4gdlfamo",
+            "title": "Kenny Rogers - The Gambler",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "Lo2qQmj0_h4",
+            "title": "AC/DC - You Shook Me All Night Long (Official 4K Video)",
+            "count": 1,
+            "totalSeconds": 209
+          },
+          {
+            "videoId": "CSvFpBOe8eY",
+            "title": "System Of A Down - Chop Suey! (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 209
+          },
+          {
+            "videoId": "ZEWGyyLiqY4",
+            "title": "Blake Shelton - God's Country (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 208
+          },
+          {
+            "videoId": "RKGbjJarMeA",
+            "title": "Selena - Bidi Bidi Bom Bom",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "-tPcc1ftj8E",
+            "title": "Terry Jacks - Seasons In The Sun (Official Audio)",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "lOfZLb33uCg",
+            "title": "\"Weird\" Al Yankovic - Amish Paradise (Parody of \"Gangsta's Paradise\" - Official Video)",
+            "count": 1,
+            "totalSeconds": 206
+          },
+          {
+            "videoId": "IJyX07YuzDk",
+            "title": "The Dance - Garth Brooks",
+            "count": 1,
+            "totalSeconds": 204
+          },
+          {
+            "videoId": "Co5n2RVbWM0",
+            "title": "Drowning Pool - Step Up",
+            "count": 1,
+            "totalSeconds": 203
+          },
+          {
+            "videoId": "ruNrdmjcNTc",
+            "title": "Toby Keith - Courtesy Of The Red, White And Blue (The Angry American) (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 200
+          },
+          {
+            "videoId": "NDOPlpH6NZM",
+            "title": "Guns N' Roses - Yesterdays",
+            "count": 1,
+            "totalSeconds": 200
+          },
+          {
+            "videoId": "MaAF_3WMJGM",
+            "title": "Toby Keith - Made In America (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 194
+          },
+          {
+            "videoId": "kn6-c223DUU",
+            "title": "B.o.B - Airplanes (feat. Hayley Williams of Paramore) [Official Video]",
+            "count": 1,
+            "totalSeconds": 192
+          },
+          {
+            "videoId": "kXYiU_JCYtU",
+            "title": "Numb (Official Music Video) [4K UPGRADE] – Linkin Park",
+            "count": 1,
+            "totalSeconds": 188
+          },
+          {
+            "videoId": "Jp6j5HJ-Cok",
+            "title": "The Real Ritchie Valens - La Bamba",
+            "count": 1,
+            "totalSeconds": 124
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "DanHalen_",
         "totalRequests": 65,
         "totalSeconds": 11985,
@@ -183423,386 +184066,6 @@
             "date": "2026-04-09T23:15:26.188Z"
           }
         ]
-      },
-      {
-        "username": "Benny5699",
-        "totalRequests": 64,
-        "totalSeconds": 16063,
-        "topSongs": [
-          {
-            "videoId": "WyF8RHM1OCg",
-            "title": "Whitesnake - Here I Go Again '87 (Official Music Video)",
-            "count": 2,
-            "totalSeconds": 542
-          },
-          {
-            "videoId": "SRvCvsRp5ho",
-            "title": "Bon Jovi - Wanted Dead Or Alive (Official Music Video)",
-            "count": 2,
-            "totalSeconds": 500
-          },
-          {
-            "videoId": "FwZTgDjRLM0",
-            "title": "Selena - Como La Flor (Live From Astrodome)",
-            "count": 1,
-            "totalSeconds": 388
-          },
-          {
-            "videoId": "XbGs_qK2PQA",
-            "title": "Eminem - Rap God (Explicit)",
-            "count": 1,
-            "totalSeconds": 370
-          },
-          {
-            "videoId": "CD-E-LDc384",
-            "title": "Metallica: Enter Sandman (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 330
-          },
-          {
-            "videoId": "xFYQQPAOz7Y",
-            "title": "Eminem - Lose Yourself",
-            "count": 1,
-            "totalSeconds": 328
-          },
-          {
-            "videoId": "8lD5bfqzr6E",
-            "title": "Ozzy Osbourne - Crazy Train (Live)",
-            "count": 1,
-            "totalSeconds": 324
-          },
-          {
-            "videoId": "UbQhKxxrq04",
-            "title": "Eminem - No Love ft. Lil Wayne",
-            "count": 1,
-            "totalSeconds": 315
-          },
-          {
-            "videoId": "it_04dk_97E",
-            "title": "Yelawolf - Best Friend ft. Eminem",
-            "count": 1,
-            "totalSeconds": 305
-          },
-          {
-            "videoId": "DDWKuo3gXMQ",
-            "title": "Adele - When We Were Young (Live at The Church Studios)",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "v2AC41dglnM",
-            "title": "AC/DC - Thunderstruck (Official Video)",
-            "count": 1,
-            "totalSeconds": 293
-          },
-          {
-            "videoId": "opU1urLhw50",
-            "title": "Godsmack - Awake (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 291
-          },
-          {
-            "videoId": "Fp0BScQSSvg",
-            "title": "Machine Gun Kelly \"Rap Devil\" (Eminem Diss) (WSHH Exclusive - Official Music Video)",
-            "count": 1,
-            "totalSeconds": 288
-          },
-          {
-            "videoId": "rZXvEcBKMT8",
-            "title": "Eminem - Phenomenal (Lyric Video)",
-            "count": 1,
-            "totalSeconds": 287
-          },
-          {
-            "videoId": "J16lInLZRms",
-            "title": "Creed - Higher (Official HD Music Video)",
-            "count": 1,
-            "totalSeconds": 283
-          },
-          {
-            "videoId": "OYjZK_6i37M",
-            "title": "Godsmack - I Stand Alone",
-            "count": 1,
-            "totalSeconds": 282
-          },
-          {
-            "videoId": "o1tj2zJ2Wvg",
-            "title": "Guns N' Roses - Welcome To The Jungle",
-            "count": 1,
-            "totalSeconds": 280
-          },
-          {
-            "videoId": "O-fyNgHdmLI",
-            "title": "Creed - My Sacrifice (Official HD Music Video)",
-            "count": 1,
-            "totalSeconds": 280
-          },
-          {
-            "videoId": "Mb1ZvUDvLDY",
-            "title": "2Pac - Dear Mama",
-            "count": 1,
-            "totalSeconds": 276
-          },
-          {
-            "videoId": "NlmezywdxPI",
-            "title": "Eminem - Survival (Explicit)",
-            "count": 1,
-            "totalSeconds": 272
-          },
-          {
-            "videoId": "DWrMeBR8W-c",
-            "title": "Toby Keith - American Soldier",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "xvaEJzoaYZk",
-            "title": "Steve Earle - Copperhead Road (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "uelHwf8o7_U",
-            "title": "Eminem - Love The Way You Lie ft. Rihanna",
-            "count": 1,
-            "totalSeconds": 267
-          },
-          {
-            "videoId": "_9TShlMkQnc",
-            "title": "Tim McGraw - Live Like You Were Dying (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 267
-          },
-          {
-            "videoId": "b7P97b64Q5E",
-            "title": "Garth Brooks - Friends In Low Places (1080p60 HD)",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "WmoC5cj8sw4",
-            "title": "NWA- Express Yourself [ Dirty ]",
-            "count": 1,
-            "totalSeconds": 262
-          },
-          {
-            "videoId": "phaJXp_zMYM",
-            "title": "The Notorious B.I.G. - Big Poppa (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 262
-          },
-          {
-            "videoId": "XMh9vU4g0jc",
-            "title": "Toes (Greatest Hits Version)",
-            "count": 1,
-            "totalSeconds": 262
-          },
-          {
-            "videoId": "1zTThiqSUEA",
-            "title": "Garth Brooks  - Shameless",
-            "count": 1,
-            "totalSeconds": 261
-          },
-          {
-            "videoId": "SQCSxqScSVQ",
-            "title": "Coolio - Gangsta's Paradise (Official Music Video) [4K] ft. L.V.",
-            "count": 1,
-            "totalSeconds": 256
-          },
-          {
-            "videoId": "pAgnJDJN4VA",
-            "title": "AC/DC - Back In Black (Official 4K Video)",
-            "count": 1,
-            "totalSeconds": 254
-          },
-          {
-            "videoId": "FxQTY-W6GIo",
-            "title": "KILLSHOT [Official Audio]",
-            "count": 1,
-            "totalSeconds": 254
-          },
-          {
-            "videoId": "p3fhyC7O9So",
-            "title": "Godsmack  - I Fucking Hate You",
-            "count": 1,
-            "totalSeconds": 248
-          },
-          {
-            "videoId": "btPJPFnesV4",
-            "title": "Survivor - Eye Of The Tiger (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 245
-          },
-          {
-            "videoId": "RgKAFK5djSk",
-            "title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
-            "count": 1,
-            "totalSeconds": 238
-          },
-          {
-            "videoId": "mWRsgZuwf_8",
-            "title": "Imagine Dragons - Demons (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 237
-          },
-          {
-            "videoId": "99j0zLuNhi8",
-            "title": "Creed - With Arms Wide Open (Official HD Music Video)",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "puJt66y0TBw",
-            "title": "Harry Chapin - Cats in the Cradle",
-            "count": 1,
-            "totalSeconds": 232
-          },
-          {
-            "videoId": "OMOGaugKpzs",
-            "title": "The Police - Every Breath You Take (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 229
-          },
-          {
-            "videoId": "Aiay8I5IPB8",
-            "title": "Nickelback - How You Remind Me [OFFICIAL VIDEO]",
-            "count": 1,
-            "totalSeconds": 229
-          },
-          {
-            "videoId": "9d28Jbx7q9Q",
-            "title": "House Of 1000 Corpses (From \"House Of 1000 Corpses\" Soundtrack)",
-            "count": 1,
-            "totalSeconds": 224
-          },
-          {
-            "videoId": "asxrMSVrJ08",
-            "title": "Blake Shelton - Ol' Red (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 222
-          },
-          {
-            "videoId": "eVTXPUF4Oz4",
-            "title": "In The End [Official HD Music Video] - Linkin Park",
-            "count": 1,
-            "totalSeconds": 219
-          },
-          {
-            "videoId": "HTvu1Yr3Ohk",
-            "title": "Trapt - Headstrong (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 218
-          },
-          {
-            "videoId": "3ftI4gpprfw",
-            "title": "Garth Brooks - Standing Outside the Fire",
-            "count": 1,
-            "totalSeconds": 217
-          },
-          {
-            "videoId": "RijB8wnJCN0",
-            "title": "Cypress Hill - Insane In The Brain (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 215
-          },
-          {
-            "videoId": "mRMCNHeVKKA",
-            "title": "Alice Cooper - School's Out (\"Pink Floyd: The Wall\" Music Video)",
-            "count": 1,
-            "totalSeconds": 213
-          },
-          {
-            "videoId": "7hx4gdlfamo",
-            "title": "Kenny Rogers - The Gambler",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "Lo2qQmj0_h4",
-            "title": "AC/DC - You Shook Me All Night Long (Official 4K Video)",
-            "count": 1,
-            "totalSeconds": 209
-          },
-          {
-            "videoId": "CSvFpBOe8eY",
-            "title": "System Of A Down - Chop Suey! (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 209
-          },
-          {
-            "videoId": "ZEWGyyLiqY4",
-            "title": "Blake Shelton - God's Country (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 208
-          },
-          {
-            "videoId": "RKGbjJarMeA",
-            "title": "Selena - Bidi Bidi Bom Bom",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "-tPcc1ftj8E",
-            "title": "Terry Jacks - Seasons In The Sun (Official Audio)",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "lOfZLb33uCg",
-            "title": "\"Weird\" Al Yankovic - Amish Paradise (Parody of \"Gangsta's Paradise\" - Official Video)",
-            "count": 1,
-            "totalSeconds": 206
-          },
-          {
-            "videoId": "IJyX07YuzDk",
-            "title": "The Dance - Garth Brooks",
-            "count": 1,
-            "totalSeconds": 204
-          },
-          {
-            "videoId": "Co5n2RVbWM0",
-            "title": "Drowning Pool - Step Up",
-            "count": 1,
-            "totalSeconds": 203
-          },
-          {
-            "videoId": "ruNrdmjcNTc",
-            "title": "Toby Keith - Courtesy Of The Red, White And Blue (The Angry American) (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 200
-          },
-          {
-            "videoId": "NDOPlpH6NZM",
-            "title": "Guns N' Roses - Yesterdays",
-            "count": 1,
-            "totalSeconds": 200
-          },
-          {
-            "videoId": "MaAF_3WMJGM",
-            "title": "Toby Keith - Made In America (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 194
-          },
-          {
-            "videoId": "kn6-c223DUU",
-            "title": "B.o.B - Airplanes (feat. Hayley Williams of Paramore) [Official Video]",
-            "count": 1,
-            "totalSeconds": 192
-          },
-          {
-            "videoId": "kXYiU_JCYtU",
-            "title": "Numb (Official Music Video) [4K UPGRADE] – Linkin Park",
-            "count": 1,
-            "totalSeconds": 188
-          },
-          {
-            "videoId": "Jp6j5HJ-Cok",
-            "title": "The Real Ritchie Valens - La Bamba",
-            "count": 1,
-            "totalSeconds": 124
-          }
-        ],
-        "messages": []
       },
       {
         "username": "Anonymous",
@@ -190237,6 +190500,68 @@
         "messages": []
       },
       {
+        "username": "jake_do",
+        "totalRequests": 9,
+        "totalSeconds": 1983,
+        "topSongs": [
+          {
+            "videoId": "fIkZOLsnoqY",
+            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
+            "count": 2,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "u8pVZ5hTGJQ",
+            "title": "Goodbye Stranger (Remastered 2010)",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "Atvsg_zogxo",
+            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
+            "count": 1,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "IEfpwek6P_A",
+            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "KJjiY1ROskE",
+            "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+            "count": 1,
+            "totalSeconds": 225
+          },
+          {
+            "videoId": "onnQMyVlN5Q",
+            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
+            "count": 1,
+            "totalSeconds": 211
+          },
+          {
+            "videoId": "G7KNmW9a75Y",
+            "title": "Miley Cyrus - Flowers (Official Video)",
+            "count": 1,
+            "totalSeconds": 182
+          },
+          {
+            "videoId": "SdW0rF4_oDE",
+            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
+            "count": 1,
+            "totalSeconds": 180
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "SdW0rF4_oDE",
+            "message": "Vitas ",
+            "date": "2026-04-21T19:33:37.463Z"
+          }
+        ]
+      },
+      {
         "username": "HirOnyx",
         "totalRequests": 9,
         "totalSeconds": 1983,
@@ -190479,62 +190804,6 @@
             "videoId": "17lkdqoLt44",
             "message": "Love you and your instruments!!! ",
             "date": "2026-06-04T19:02:35.062Z"
-          }
-        ]
-      },
-      {
-        "username": "jake_do",
-        "totalRequests": 8,
-        "totalSeconds": 1758,
-        "topSongs": [
-          {
-            "videoId": "fIkZOLsnoqY",
-            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
-            "count": 2,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "u8pVZ5hTGJQ",
-            "title": "Goodbye Stranger (Remastered 2010)",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "Atvsg_zogxo",
-            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
-            "count": 1,
-            "totalSeconds": 288
-          },
-          {
-            "videoId": "IEfpwek6P_A",
-            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "onnQMyVlN5Q",
-            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
-            "count": 1,
-            "totalSeconds": 211
-          },
-          {
-            "videoId": "G7KNmW9a75Y",
-            "title": "Miley Cyrus - Flowers (Official Video)",
-            "count": 1,
-            "totalSeconds": 182
-          },
-          {
-            "videoId": "SdW0rF4_oDE",
-            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
-            "count": 1,
-            "totalSeconds": 180
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "SdW0rF4_oDE",
-            "message": "Vitas ",
-            "date": "2026-04-21T19:33:37.463Z"
           }
         ]
       },
@@ -195994,5 +196263,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-14T02:24:25.654Z"
+  "lastUpdated": "2026-07-15T02:22:21.049Z"
 }
