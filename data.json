@@ -1,6 +1,65 @@
 {
   "rawHistory": [
     {
+      "_id": "6a5bbc7cd4225072e38280e9",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 256339,
+          "likeCount": 679,
+          "dislikeCount": 0
+        },
+        "_id": "6a5786aad619de6b07a6270e"
+      },
+      "createdAt": "2026-07-18T17:48:44.257Z"
+    },
+    {
+      "_id": "6a5bbc576dba0923ec7fd3cd",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 60141,
+          "likeCount": 234,
+          "dislikeCount": 0
+        },
+        "_id": "6a5786b3d619de6b07a62744"
+      },
+      "createdAt": "2026-07-18T17:48:07.333Z"
+    },
+    {
+      "_id": "6a5bbb0a7f3d1756545a0347",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 0,
+        "channel": "HAchubby",
+        "voteskips": [],
+        "tags": [],
+        "_id": "6a5699598d6ae79ffd34646a"
+      },
+      "createdAt": "2026-07-18T17:42:34.541Z"
+    },
+    {
       "_id": "6a578674b67adda4cc04b4bf",
       "song": {
         "videoId": "cxQMLCtoi_w",
@@ -196302,5 +196361,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-18T02:23:35.998Z"
+  "lastUpdated": "2026-07-19T02:35:38.282Z"
 }
