@@ -1,6 +1,144 @@
 {
   "rawHistory": [
     {
+      "_id": "6a606a4c9b6cc1dc091e84b0",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 61236,
+          "likeCount": 237,
+          "dislikeCount": 0
+        },
+        "_id": "6a606461357a9d4131cb29d8"
+      },
+      "createdAt": "2026-07-22T06:59:24.799Z"
+    },
+    {
+      "_id": "6a6067d79b6cc1dc091e36d1",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 257098,
+          "likeCount": 682,
+          "dislikeCount": 0
+        },
+        "_id": "6a6064606ce06ce42ca47448"
+      },
+      "createdAt": "2026-07-22T06:48:55.216Z"
+    },
+    {
+      "_id": "6a6067d15f69dc13b7d381ee",
+      "song": {
+        "videoId": "j87tH9FFnFQ",
+        "title": "🎵 FUTURE GIRL (HAchubby song)",
+        "duration": 215,
+        "channel": "Rokubop",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 11779,
+          "likeCount": 426,
+          "dislikeCount": 0
+        },
+        "_id": "6a606462f8b171c284ee1661"
+      },
+      "createdAt": "2026-07-22T06:48:49.380Z"
+    },
+    {
+      "_id": "6a60646a5f69dc13b7d2fbf5",
+      "song": {
+        "videoId": "Yqn-oNFhDds",
+        "title": "HAchubby - 'I Wanna Leave Me'",
+        "duration": 271,
+        "channel": "HAchubby",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 178235,
+          "likeCount": 15643,
+          "dislikeCount": 0
+        },
+        "_id": "6a5bbc0064d7b96a50cd2b86"
+      },
+      "createdAt": "2026-07-22T06:34:18.054Z"
+    },
+    {
+      "_id": "6a6063f1fab955aa5447560d",
+      "song": {
+        "videoId": "QfSIAxphB7E",
+        "title": "HAchubby - Go spam! Spam chat! (Rokubop)",
+        "duration": 161,
+        "channel": "Rokubop",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3605,
+          "likeCount": 151,
+          "dislikeCount": 0
+        },
+        "_id": "6a5bbbfdda1bee41eaa4daa8"
+      },
+      "createdAt": "2026-07-22T06:32:17.793Z"
+    },
+    {
+      "_id": "6a6063459b6cc1dc091db835",
+      "song": {
+        "videoId": "j87tH9FFnFQ",
+        "title": "🎵 FUTURE GIRL (HAchubby song)",
+        "duration": 215,
+        "channel": "Rokubop",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 11768,
+          "likeCount": 426,
+          "dislikeCount": 0
+        },
+        "_id": "6a5bbbf9247ba9f552ef154a"
+      },
+      "createdAt": "2026-07-22T06:29:25.278Z"
+    },
+    {
       "_id": "6a5bbc7cd4225072e38280e9",
       "song": {
         "videoId": "cxQMLCtoi_w",
@@ -142391,8 +142529,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1039015,
-      "totalRequests": 4615,
+      "totalSeconds": 1039877,
+      "totalRequests": 4619,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -142524,9 +142662,14 @@
         {
           "videoId": "Yqn-oNFhDds",
           "title": "HAchubby - 'I Wanna Leave Me'",
-          "count": 8,
-          "totalSeconds": 1846,
+          "count": 9,
+          "totalSeconds": 2117,
           "users": [
+            {
+              "username": "top_fuel",
+              "count": 1,
+              "totalSeconds": 271
+            },
             {
               "username": "dramajoe",
               "count": 1,
@@ -142570,6 +142713,39 @@
           ]
         },
         {
+          "videoId": "j87tH9FFnFQ",
+          "title": "🎵 FUTURE GIRL (HAchubby song)",
+          "count": 9,
+          "totalSeconds": 1930,
+          "users": [
+            {
+              "username": "top_fuel",
+              "count": 3,
+              "totalSeconds": 645
+            },
+            {
+              "username": "hachubby",
+              "count": 3,
+              "totalSeconds": 645
+            },
+            {
+              "username": "Ankpell3",
+              "count": 1,
+              "totalSeconds": 215
+            },
+            {
+              "username": "Spacey75",
+              "count": 1,
+              "totalSeconds": 215
+            },
+            {
+              "username": "illastration1",
+              "count": 1,
+              "totalSeconds": 210
+            }
+          ]
+        },
+        {
           "videoId": "2WSQoCrCZLY",
           "title": "TEMPO | \"JUST A SIMP\" Jake 'N' Bake Feat. HAchubby Official Music Video",
           "count": 8,
@@ -142602,39 +142778,6 @@
               "username": "DADCAT_",
               "count": 1,
               "totalSeconds": 257
-            }
-          ]
-        },
-        {
-          "videoId": "j87tH9FFnFQ",
-          "title": "🎵 FUTURE GIRL (HAchubby song)",
-          "count": 7,
-          "totalSeconds": 1500,
-          "users": [
-            {
-              "username": "hachubby",
-              "count": 3,
-              "totalSeconds": 645
-            },
-            {
-              "username": "Ankpell3",
-              "count": 1,
-              "totalSeconds": 215
-            },
-            {
-              "username": "Spacey75",
-              "count": 1,
-              "totalSeconds": 215
-            },
-            {
-              "username": "top_fuel",
-              "count": 1,
-              "totalSeconds": 215
-            },
-            {
-              "username": "illastration1",
-              "count": 1,
-              "totalSeconds": 210
             }
           ]
         },
@@ -142972,6 +143115,34 @@
               "username": "dernamename",
               "count": 1,
               "totalSeconds": 177
+            }
+          ]
+        },
+        {
+          "videoId": "QfSIAxphB7E",
+          "title": "HAchubby - Go spam! Spam chat! (Rokubop)",
+          "count": 5,
+          "totalSeconds": 802,
+          "users": [
+            {
+              "username": "top_fuel",
+              "count": 2,
+              "totalSeconds": 322
+            },
+            {
+              "username": "uberkrn",
+              "count": 1,
+              "totalSeconds": 161
+            },
+            {
+              "username": "Spacey75",
+              "count": 1,
+              "totalSeconds": 160
+            },
+            {
+              "username": "al4da6",
+              "count": 1,
+              "totalSeconds": 159
             }
           ]
         },
@@ -143328,34 +143499,6 @@
               "username": "al4da6",
               "count": 1,
               "totalSeconds": 165
-            }
-          ]
-        },
-        {
-          "videoId": "QfSIAxphB7E",
-          "title": "HAchubby - Go spam! Spam chat! (Rokubop)",
-          "count": 4,
-          "totalSeconds": 641,
-          "users": [
-            {
-              "username": "uberkrn",
-              "count": 1,
-              "totalSeconds": 161
-            },
-            {
-              "username": "top_fuel",
-              "count": 1,
-              "totalSeconds": 161
-            },
-            {
-              "username": "Spacey75",
-              "count": 1,
-              "totalSeconds": 160
-            },
-            {
-              "username": "al4da6",
-              "count": 1,
-              "totalSeconds": 159
             }
           ]
         },
@@ -179656,8 +179799,8 @@
       },
       {
         "username": "top_fuel",
-        "totalRequests": 100,
-        "totalSeconds": 32571,
+        "totalRequests": 104,
+        "totalSeconds": 33433,
         "topSongs": [
           {
             "videoId": "QulWH99y5B0",
@@ -179670,6 +179813,12 @@
             "title": "Zekronz - Lost in Memories [Hachu's Music Show 2023]",
             "count": 3,
             "totalSeconds": 708
+          },
+          {
+            "videoId": "j87tH9FFnFQ",
+            "title": "🎵 FUTURE GIRL (HAchubby song)",
+            "count": 3,
+            "totalSeconds": 645
           },
           {
             "videoId": "qvVqwsXhHek",
@@ -179706,6 +179855,12 @@
             "title": "AngelsKimi & HAchubby - Chocolate Chip Country (Rokubop)",
             "count": 2,
             "totalSeconds": 354
+          },
+          {
+            "videoId": "QfSIAxphB7E",
+            "title": "HAchubby - Go spam! Spam chat! (Rokubop)",
+            "count": 2,
+            "totalSeconds": 322
           },
           {
             "videoId": "_zfWYfgMk1c",
@@ -179798,6 +179953,12 @@
             "totalSeconds": 273
           },
           {
+            "videoId": "Yqn-oNFhDds",
+            "title": "HAchubby - 'I Wanna Leave Me'",
+            "count": 1,
+            "totalSeconds": 271
+          },
+          {
             "videoId": "JqBcj4WyHMo",
             "title": "You're Gonna Need Me",
             "count": 1,
@@ -179880,12 +180041,6 @@
             "title": "Robyn - Call Your Girlfriend",
             "count": 1,
             "totalSeconds": 216
-          },
-          {
-            "videoId": "j87tH9FFnFQ",
-            "title": "🎵 FUTURE GIRL (HAchubby song)",
-            "count": 1,
-            "totalSeconds": 215
           },
           {
             "videoId": "ESdFYreLCGo",
@@ -180024,12 +180179,6 @@
             "title": "Ms. Hibby Freestyle (By NatalieImCanadian) For Hachubby Music Contest",
             "count": 1,
             "totalSeconds": 168
-          },
-          {
-            "videoId": "QfSIAxphB7E",
-            "title": "HAchubby - Go spam! Spam chat! (Rokubop)",
-            "count": 1,
-            "totalSeconds": 161
           },
           {
             "videoId": "XXptZv9L3lU",
@@ -196361,5 +196510,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-22T02:32:35.533Z"
+  "lastUpdated": "2026-07-23T02:37:29.314Z"
 }
