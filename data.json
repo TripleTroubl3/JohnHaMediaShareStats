@@ -1,6 +1,388 @@
 {
   "rawHistory": [
     {
+      "_id": "6a6a6d2eded5f3ebccfa25e3",
+      "song": {
+        "videoId": "8PYq4eUMUJk",
+        "title": "scratch the paint!",
+        "duration": 120,
+        "start": 0,
+        "end": 120,
+        "channel": "jayx3 - Topic",
+        "amount": 4,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1,
+          "likeCount": 0,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a6821ded5f3ebccf91796"
+      },
+      "createdAt": "2026-07-29T21:14:22.458Z"
+    },
+    {
+      "_id": "6a6a6825a526f44e808c4cc3",
+      "song": {
+        "videoId": "7sbw__MsJZ0",
+        "title": "Delta Heavy & Dirty Audio - Stay (Maduk Remix)",
+        "duration": 226,
+        "start": 0,
+        "end": 226,
+        "channel": "Liquicity",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1395024,
+          "likeCount": 17549,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a6349d5b99f9e86ae7a3f"
+      },
+      "createdAt": "2026-07-29T20:52:53.114Z"
+    },
+    {
+      "_id": "6a6a64dfc9f3d9f651afe7ab",
+      "song": {
+        "videoId": "UH1CMCtV4to",
+        "title": "Bryan Ferry - Slave To Love (Official Music Video)",
+        "duration": 261,
+        "start": 0,
+        "end": 261,
+        "channel": "BryanFerryVEVO",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "FatHonger",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 95754811,
+          "likeCount": 415107,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a62cd193fcb340bf2f4a1"
+      },
+      "createdAt": "2026-07-29T20:38:55.131Z"
+    },
+    {
+      "_id": "6a6a63a8c9f3d9f651af9cdf",
+      "song": {
+        "videoId": "_cWd930iSlY",
+        "title": "♂ Its raining Van ♂",
+        "duration": 253,
+        "start": 0,
+        "end": 253,
+        "channel": "duyui",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "Mildoog",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 677394,
+          "likeCount": 5506,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5e999d88d3eb44d4f0c6"
+      },
+      "createdAt": "2026-07-29T20:33:44.866Z"
+    },
+    {
+      "_id": "6a6a62a0a526f44e808b39fc",
+      "song": {
+        "videoId": "xuZA6qiJVfU",
+        "title": "The Cars - Drive (Official Music Video)",
+        "duration": 240,
+        "start": 0,
+        "end": 240,
+        "channel": "RHINO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "romix123",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 283337088,
+          "likeCount": 1414202,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5ddfd5b99f9e86ad98cc"
+      },
+      "createdAt": "2026-07-29T20:29:20.541Z"
+    },
+    {
+      "_id": "6a6a61a8a526f44e808affe5",
+      "song": {
+        "videoId": "iIJC8CvmqrI",
+        "title": "The Pointer Sisters - I'm So Excited (Lyrics)",
+        "duration": 234,
+        "start": 0,
+        "end": 234,
+        "channel": "Royal Music",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3429099,
+          "likeCount": 23344,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5c2bd5b99f9e86ad5dbd"
+      },
+      "createdAt": "2026-07-29T20:25:12.518Z"
+    },
+    {
+      "_id": "6a6a6096d5b99f9e86adf306",
+      "song": {
+        "videoId": "bWcASV2sey0",
+        "title": "Bonnie Tyler - Holding Out For A Hero (Official HD Video)",
+        "duration": 285,
+        "start": 0,
+        "end": 285,
+        "channel": "bonnietylerVEVO",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "SameRandomGuy",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 314551767,
+          "likeCount": 2234199,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5b59d5b99f9e86ad43c9"
+      },
+      "createdAt": "2026-07-29T20:20:38.721Z"
+    },
+    {
+      "_id": "6a6a5f5bded5f3ebccf778eb",
+      "song": {
+        "videoId": "aNgPq3Jg29A",
+        "title": "Christina Aguilera ft. Missy elliot - Car Wash (Lyrics)",
+        "duration": 240,
+        "start": 0,
+        "end": 240,
+        "channel": "Music Crown ",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "al4da6",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 237082,
+          "likeCount": 1768,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5b3b685c8802086f6702"
+      },
+      "createdAt": "2026-07-29T20:15:23.959Z"
+    },
+    {
+      "_id": "6a6a5dc1ded5f3ebccf7279a",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 257961,
+          "likeCount": 683,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5d83a526f44e808a6564"
+      },
+      "createdAt": "2026-07-29T20:08:33.720Z"
+    },
+    {
+      "_id": "6a6a5da8ded5f3ebccf71ef8",
+      "song": {
+        "videoId": "CDKaxKpdJF4",
+        "title": "Playlunch cover The Weather Girls’ ‘It's Raining Men’ for Like A Version",
+        "duration": 216,
+        "start": 0,
+        "end": 216,
+        "channel": "triple j",
+        "amount": 7.2,
+        "message": "",
+        "user": {
+          "username": "LYonZY",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 312608,
+          "likeCount": 8825,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5a4d3dfc3315e49358c8"
+      },
+      "createdAt": "2026-07-29T20:08:08.198Z"
+    },
+    {
+      "_id": "6a6a5b6a685c8802086f6f51",
+      "song": {
+        "videoId": "Hvf0WDQHdr8",
+        "title": "Car Wash | \"Workin' at the Car Wash, Yeah!\" Theme Song",
+        "duration": 240,
+        "start": 0,
+        "end": 240,
+        "channel": "Universal Pictures",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1153350,
+          "likeCount": 10963,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a5a47d5b99f9e86ad20b0"
+      },
+      "createdAt": "2026-07-29T19:58:34.087Z"
+    },
+    {
+      "_id": "6a6a5a6b685c8802086f2955",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 257849,
+          "likeCount": 683,
+          "dislikeCount": 0
+        },
+        "_id": "6a693b57193fcb340bbf1cf9"
+      },
+      "createdAt": "2026-07-29T19:54:19.446Z"
+    },
+    {
+      "_id": "6a6a59fbded5f3ebccf67ecc",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 62283,
+          "likeCount": 239,
+          "dislikeCount": 0
+        },
+        "_id": "6a693b56193fcb340bbf1cd4"
+      },
+      "createdAt": "2026-07-29T19:52:27.056Z"
+    },
+    {
+      "_id": "6a6a5982c9f3d9f651ad8e48",
+      "song": {
+        "videoId": "o8FNeG6lmvE",
+        "title": "Keith Jarrett & Jan Garbarek ~ Country",
+        "duration": 300,
+        "channel": "onegoodman009",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "25085732"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 364116,
+          "likeCount": 1946,
+          "dislikeCount": 0
+        },
+        "_id": "6a692d227bc9d26856bbffe6"
+      },
+      "createdAt": "2026-07-29T19:50:26.279Z"
+    },
+    {
       "_id": "6a692d84d8e5ec02dcdd161f",
       "song": {
         "videoId": "kLRGpQcbkFA",
@@ -145931,8 +146313,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1065506,
-      "totalRequests": 4733,
+      "totalSeconds": 1068121,
+      "totalRequests": 4744,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -147771,6 +148153,12 @@
           "totalSeconds": 602
         },
         {
+          "videoId": "o8FNeG6lmvE",
+          "title": "Keith Jarrett & Jan Garbarek ~ Country",
+          "count": 2,
+          "totalSeconds": 600
+        },
+        {
           "videoId": "amycQ8q01qE",
           "title": "CHVRCHES - Leave A Trace (Goldroom Remix)",
           "count": 2,
@@ -148309,6 +148697,12 @@
           "title": "Franz Ferdinand - Take Me Out (Video)",
           "count": 2,
           "totalSeconds": 481
+        },
+        {
+          "videoId": "xuZA6qiJVfU",
+          "title": "The Cars - Drive (Official Music Video)",
+          "count": 2,
+          "totalSeconds": 480
         },
         {
           "videoId": "6_PAHbqq-o4",
@@ -152505,12 +152899,6 @@
           "totalSeconds": 300
         },
         {
-          "videoId": "o8FNeG6lmvE",
-          "title": "Keith Jarrett & Jan Garbarek ~ Country",
-          "count": 1,
-          "totalSeconds": 300
-        },
-        {
           "videoId": "WXv31OmnKqQ",
           "title": "Rammstein - Mein Herz Brennt (Official Video)",
           "count": 1,
@@ -153511,6 +153899,12 @@
           "title": "カラス - うぴ子【MV】CROW - UPIKO",
           "count": 1,
           "totalSeconds": 286
+        },
+        {
+          "videoId": "bWcASV2sey0",
+          "title": "Bonnie Tyler - Holding Out For A Hero (Official HD Video)",
+          "count": 1,
+          "totalSeconds": 285
         },
         {
           "videoId": "wdGBY4WMU7o",
@@ -155313,6 +155707,12 @@
           "totalSeconds": 262
         },
         {
+          "videoId": "UH1CMCtV4to",
+          "title": "Bryan Ferry - Slave To Love (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 261
+        },
+        {
           "videoId": "Gc38R0Kpei4",
           "title": "Cosa sarà",
           "count": 1,
@@ -156205,6 +156605,12 @@
           "title": "I'm Just a Memer (feat. Sordiway)",
           "count": 1,
           "totalSeconds": 254
+        },
+        {
+          "videoId": "_cWd930iSlY",
+          "title": "♂ Its raining Van ♂",
+          "count": 1,
+          "totalSeconds": 253
         },
         {
           "videoId": "53GIADHxVzM",
@@ -157191,6 +157597,18 @@
           "totalSeconds": 241
         },
         {
+          "videoId": "aNgPq3Jg29A",
+          "title": "Christina Aguilera ft. Missy elliot - Car Wash (Lyrics)",
+          "count": 1,
+          "totalSeconds": 240
+        },
+        {
+          "videoId": "Hvf0WDQHdr8",
+          "title": "Car Wash | \"Workin' at the Car Wash, Yeah!\" Theme Song",
+          "count": 1,
+          "totalSeconds": 240
+        },
+        {
           "videoId": "GOJk0HW_hJw",
           "title": "Whitesnake - Is This Love (Official Music Video)",
           "count": 1,
@@ -157517,12 +157935,6 @@
         {
           "videoId": "cLxIB_lrwk0",
           "title": "Scritti Politti - Perfect Way",
-          "count": 1,
-          "totalSeconds": 240
-        },
-        {
-          "videoId": "xuZA6qiJVfU",
-          "title": "The Cars - Drive (Official Music Video)",
           "count": 1,
           "totalSeconds": 240
         },
@@ -158491,6 +158903,12 @@
           "title": "Hitchiker - 11 (Eleven)",
           "count": 1,
           "totalSeconds": 235
+        },
+        {
+          "videoId": "iIJC8CvmqrI",
+          "title": "The Pointer Sisters - I'm So Excited (Lyrics)",
+          "count": 1,
+          "totalSeconds": 234
         },
         {
           "videoId": "rXPfovXw2tw",
@@ -159553,6 +159971,12 @@
           "title": "Karnivool -  Shutterspeed",
           "count": 1,
           "totalSeconds": 227
+        },
+        {
+          "videoId": "7sbw__MsJZ0",
+          "title": "Delta Heavy & Dirty Audio - Stay (Maduk Remix)",
+          "count": 1,
+          "totalSeconds": 226
         },
         {
           "videoId": "7LXpnNKNxJI",
@@ -160819,6 +161243,12 @@
           "title": "DIMMU BORGIR - Progenies of The Great Apocalypse (OFFICIAL MUSIC VIDEO)",
           "count": 1,
           "totalSeconds": 217
+        },
+        {
+          "videoId": "CDKaxKpdJF4",
+          "title": "Playlunch cover The Weather Girls’ ‘It's Raining Men’ for Like A Version",
+          "count": 1,
+          "totalSeconds": 216
         },
         {
           "videoId": "Ph-CA_tu5KA",
@@ -168391,6 +168821,12 @@
           "title": "Billy Herrington drinks beer at a gay bar... but its very sad - After dark",
           "count": 1,
           "totalSeconds": 121
+        },
+        {
+          "videoId": "8PYq4eUMUJk",
+          "title": "scratch the paint!",
+          "count": 1,
+          "totalSeconds": 120
         },
         {
           "videoId": "JE-Nyt4Bmi8",
@@ -176249,8 +176685,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 242,
-        "totalSeconds": 61048,
+        "totalRequests": 246,
+        "totalSeconds": 61868,
         "topSongs": [
           {
             "videoId": "h-mUGj41hWA",
@@ -176991,6 +177427,12 @@
             "totalSeconds": 243
           },
           {
+            "videoId": "Hvf0WDQHdr8",
+            "title": "Car Wash | \"Workin' at the Car Wash, Yeah!\" Theme Song",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
             "videoId": "rz-2GO1lE6g",
             "title": "Skee-Lo - I Wish (Lyrics)",
             "count": 1,
@@ -177093,6 +177535,12 @@
             "totalSeconds": 235
           },
           {
+            "videoId": "iIJC8CvmqrI",
+            "title": "The Pointer Sisters - I'm So Excited (Lyrics)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
             "videoId": "-5Ae-LhMIG0",
             "title": "Future Islands - Seasons (Waiting On You) (Official Video)",
             "count": 1,
@@ -177139,6 +177587,12 @@
             "title": "Taj - BLR & Rave & Crave",
             "count": 1,
             "totalSeconds": 227
+          },
+          {
+            "videoId": "7sbw__MsJZ0",
+            "title": "Delta Heavy & Dirty Audio - Stay (Maduk Remix)",
+            "count": 1,
+            "totalSeconds": 226
           },
           {
             "videoId": "qsp_B6A8G1w",
@@ -177555,6 +178009,12 @@
             "totalSeconds": 128
           },
           {
+            "videoId": "8PYq4eUMUJk",
+            "title": "scratch the paint!",
+            "count": 1,
+            "totalSeconds": 120
+          },
+          {
             "videoId": "YuKfiH0Scao",
             "title": "Bill Withers - Ain't No Sunshine (Official Audio)",
             "count": 1,
@@ -177750,8 +178210,8 @@
       },
       {
         "username": "al4da6",
-        "totalRequests": 240,
-        "totalSeconds": 46516,
+        "totalRequests": 241,
+        "totalSeconds": 46756,
         "topSongs": [
           {
             "videoId": "y2DqOGjGBbA",
@@ -178136,6 +178596,12 @@
             "title": "The Chainsmokers & Coldplay - Something Just Like This (Lyrics)",
             "count": 1,
             "totalSeconds": 241
+          },
+          {
+            "videoId": "aNgPq3Jg29A",
+            "title": "Christina Aguilera ft. Missy elliot - Car Wash (Lyrics)",
+            "count": 1,
+            "totalSeconds": 240
           },
           {
             "videoId": "h6C_QUyGlEQ",
@@ -179471,9 +179937,15 @@
       },
       {
         "username": "dramajoe",
-        "totalRequests": 153,
-        "totalSeconds": 36623,
+        "totalRequests": 154,
+        "totalSeconds": 36923,
         "topSongs": [
+          {
+            "videoId": "o8FNeG6lmvE",
+            "title": "Keith Jarrett & Jan Garbarek ~ Country",
+            "count": 2,
+            "totalSeconds": 600
+          },
           {
             "videoId": "oE56g61mW44",
             "title": "Isn't She Lovely",
@@ -179609,12 +180081,6 @@
           {
             "videoId": "vS9zrec72ZU",
             "title": "Izzo (H.O.V.A.) (Live On MTV Unplugged / 2001)",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "o8FNeG6lmvE",
-            "title": "Keith Jarrett & Jan Garbarek ~ Country",
             "count": 1,
             "totalSeconds": 300
           },
@@ -180385,8 +180851,8 @@
       },
       {
         "username": "SameRandomGuy",
-        "totalRequests": 152,
-        "totalSeconds": 33213,
+        "totalRequests": 153,
+        "totalSeconds": 33498,
         "topSongs": [
           {
             "videoId": "Y8JFxS1HlDo",
@@ -180651,6 +181117,12 @@
             "title": "David Hicken - Chiang Mai Rhapsody (Original Piano Music)",
             "count": 1,
             "totalSeconds": 291
+          },
+          {
+            "videoId": "bWcASV2sey0",
+            "title": "Bonnie Tyler - Holding Out For A Hero (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 285
           },
           {
             "videoId": "SzGIk5_pm6o",
@@ -181200,8 +181672,8 @@
       },
       {
         "username": "FatHonger",
-        "totalRequests": 139,
-        "totalSeconds": 33859,
+        "totalRequests": 140,
+        "totalSeconds": 34120,
         "topSongs": [
           {
             "videoId": "kfVsfOSbJY0",
@@ -181538,6 +182010,12 @@
             "title": "Vampire Weekend - M79 - Pitchfork Live",
             "count": 1,
             "totalSeconds": 266
+          },
+          {
+            "videoId": "UH1CMCtV4to",
+            "title": "Bryan Ferry - Slave To Love (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 261
           },
           {
             "videoId": "9b8erWuBA44",
@@ -194229,6 +194707,120 @@
         ]
       },
       {
+        "username": "romix123",
+        "totalRequests": 15,
+        "totalSeconds": 3444,
+        "topSongs": [
+          {
+            "videoId": "w4Km-16EJRw",
+            "title": "北斗が如く OST - Receive You 〜North Star〜",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "tHS1Yv9ZK0o",
+            "title": "H-Town Knockin Da Boots *Official Music Video*",
+            "count": 1,
+            "totalSeconds": 275
+          },
+          {
+            "videoId": "rOXaPE6gklI",
+            "title": "Robert Tepper - No Easy Way out (Official Video)",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "orq8o54psSI",
+            "title": "Forbidden Love",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "f5PDERBzkF4",
+            "title": "[M/V] MAAN - Come Around",
+            "count": 1,
+            "totalSeconds": 263
+          },
+          {
+            "videoId": "B9dSYgd5Elk",
+            "title": "MGMT - Time to Pretend (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 259
+          },
+          {
+            "videoId": "KwO5Sblj0Zk",
+            "title": "Shin Sung-woo - Toward tomorrow, 신성우 - 내일을 향해, Saturday Night Music Show 19921121",
+            "count": 1,
+            "totalSeconds": 258
+          },
+          {
+            "videoId": "D00M2KZH1J0",
+            "title": "Daryl Hall & John Oates - Out Of Touch (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 257
+          },
+          {
+            "videoId": "xuZA6qiJVfU",
+            "title": "The Cars - Drive (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "X51HkUJh0pE",
+            "title": "[Engsub] The First Poem - Shin Sung Woo (1994)",
+            "count": 1,
+            "totalSeconds": 218
+          },
+          {
+            "videoId": "siwpn14IE7E",
+            "title": "Kenny Loggins - Danger Zone (Official Video - Top Gun)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "WABOrIYhR94",
+            "title": "Post Malone - Cooped Up (Official Music Video) ft. Roddy Ricch",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "SkH3MTG2aAE",
+            "title": "Joe Esposito - You're The Best (LYRICS)",
+            "count": 1,
+            "totalSeconds": 176
+          },
+          {
+            "videoId": "pwn_pK3vvOA",
+            "title": "[M/V] Startline (스타트라인) - Today",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "MJsloJmMbis",
+            "title": "Daryl Hall & John Oates - Rich Girl • TopPop",
+            "count": 1,
+            "totalSeconds": 141
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "w4Km-16EJRw",
+            "message": "Receive You ~North Star~ - Fist of the North Star: Lost Paradise OST",
+            "date": "2026-04-21T20:20:12.384Z"
+          },
+          {
+            "videoId": "tHS1Yv9ZK0o",
+            "message": "H-Town Knockin Da Boots ",
+            "date": "2026-04-09T21:52:36.616Z"
+          },
+          {
+            "videoId": "KwO5Sblj0Zk",
+            "message": "Korean rock music?",
+            "date": "2026-03-28T20:32:24.883Z"
+          }
+        ]
+      },
+      {
         "username": "odoTV",
         "totalRequests": 14,
         "totalSeconds": 3912,
@@ -194319,114 +194911,6 @@
           }
         ],
         "messages": []
-      },
-      {
-        "username": "romix123",
-        "totalRequests": 14,
-        "totalSeconds": 3204,
-        "topSongs": [
-          {
-            "videoId": "w4Km-16EJRw",
-            "title": "北斗が如く OST - Receive You 〜North Star〜",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "tHS1Yv9ZK0o",
-            "title": "H-Town Knockin Da Boots *Official Music Video*",
-            "count": 1,
-            "totalSeconds": 275
-          },
-          {
-            "videoId": "rOXaPE6gklI",
-            "title": "Robert Tepper - No Easy Way out (Official Video)",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "orq8o54psSI",
-            "title": "Forbidden Love",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "f5PDERBzkF4",
-            "title": "[M/V] MAAN - Come Around",
-            "count": 1,
-            "totalSeconds": 263
-          },
-          {
-            "videoId": "B9dSYgd5Elk",
-            "title": "MGMT - Time to Pretend (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 259
-          },
-          {
-            "videoId": "KwO5Sblj0Zk",
-            "title": "Shin Sung-woo - Toward tomorrow, 신성우 - 내일을 향해, Saturday Night Music Show 19921121",
-            "count": 1,
-            "totalSeconds": 258
-          },
-          {
-            "videoId": "D00M2KZH1J0",
-            "title": "Daryl Hall & John Oates - Out Of Touch (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 257
-          },
-          {
-            "videoId": "X51HkUJh0pE",
-            "title": "[Engsub] The First Poem - Shin Sung Woo (1994)",
-            "count": 1,
-            "totalSeconds": 218
-          },
-          {
-            "videoId": "siwpn14IE7E",
-            "title": "Kenny Loggins - Danger Zone (Official Video - Top Gun)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "WABOrIYhR94",
-            "title": "Post Malone - Cooped Up (Official Music Video) ft. Roddy Ricch",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "SkH3MTG2aAE",
-            "title": "Joe Esposito - You're The Best (LYRICS)",
-            "count": 1,
-            "totalSeconds": 176
-          },
-          {
-            "videoId": "pwn_pK3vvOA",
-            "title": "[M/V] Startline (스타트라인) - Today",
-            "count": 1,
-            "totalSeconds": 171
-          },
-          {
-            "videoId": "MJsloJmMbis",
-            "title": "Daryl Hall & John Oates - Rich Girl • TopPop",
-            "count": 1,
-            "totalSeconds": 141
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "w4Km-16EJRw",
-            "message": "Receive You ~North Star~ - Fist of the North Star: Lost Paradise OST",
-            "date": "2026-04-21T20:20:12.384Z"
-          },
-          {
-            "videoId": "tHS1Yv9ZK0o",
-            "message": "H-Town Knockin Da Boots ",
-            "date": "2026-04-09T21:52:36.616Z"
-          },
-          {
-            "videoId": "KwO5Sblj0Zk",
-            "message": "Korean rock music?",
-            "date": "2026-03-28T20:32:24.883Z"
-          }
-        ]
       },
       {
         "username": "DADCAT_",
@@ -194606,6 +195090,92 @@
             "title": "Page 15 Book 1",
             "count": 1,
             "totalSeconds": 60
+          }
+        ],
+        "messages": []
+      },
+      {
+        "username": "Mildoog",
+        "totalRequests": 13,
+        "totalSeconds": 2724,
+        "topSongs": [
+          {
+            "videoId": "lZbfNtDCHdM",
+            "title": "Hermeto Pascoal - Música da Lagoa (Sinfonia do Alto Ribeira, 1985)",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "_cWd930iSlY",
+            "title": "♂ Its raining Van ♂",
+            "count": 1,
+            "totalSeconds": 253
+          },
+          {
+            "videoId": "Re4aDJL3heA",
+            "title": "New Order - World In Motion (Official Music Video) [HD Upgrade]",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "El9RVWYfY5k",
+            "title": "Haru Yo Koi (Feudal Japan Version)",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "va6nPu-1auE",
+            "title": "Fat Les - Vindaloo (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "2iaCZ83em9c",
+            "title": "HAchubby - Onion HA Say Yo! (Rokubop)",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "ub9dmKupZQw",
+            "title": "♂ THE FLUTE TUNE ♂ [RIGHT VERSION]",
+            "count": 1,
+            "totalSeconds": 207
+          },
+          {
+            "videoId": "4F_RCWVoL4s",
+            "title": "Neil Diamond - Sweet Caroline (Audio)",
+            "count": 1,
+            "totalSeconds": 201
+          },
+          {
+            "videoId": "4FGMjzYD_Nc",
+            "title": "♂ Push it To the Limit ♂",
+            "count": 1,
+            "totalSeconds": 189
+          },
+          {
+            "videoId": "gl75qr9unQc",
+            "title": "Korean Streamer (HAchubby) remix",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "BXm-d9zt-4Q",
+            "title": "[GACHIMUCHI] DEJA♂️VU",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "q4xs00a3zYc",
+            "title": "♂ Caramellvansen ♂",
+            "count": 1,
+            "totalSeconds": 175
+          },
+          {
+            "videoId": "ADvwyiSDAr4",
+            "title": "Tomoyasu Hotei - Battle Without Honor or Humanity (Gachi Remix) Right Version",
+            "count": 1,
+            "totalSeconds": 146
           }
         ],
         "messages": []
@@ -194862,86 +195432,6 @@
             "title": "Metalocalypse: Dethklok | Thunderhorse (Lyric Video) | Adult Swim",
             "count": 1,
             "totalSeconds": 166
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "Mildoog",
-        "totalRequests": 12,
-        "totalSeconds": 2471,
-        "topSongs": [
-          {
-            "videoId": "lZbfNtDCHdM",
-            "title": "Hermeto Pascoal - Música da Lagoa (Sinfonia do Alto Ribeira, 1985)",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "Re4aDJL3heA",
-            "title": "New Order - World In Motion (Official Music Video) [HD Upgrade]",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "El9RVWYfY5k",
-            "title": "Haru Yo Koi (Feudal Japan Version)",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "va6nPu-1auE",
-            "title": "Fat Les - Vindaloo (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "2iaCZ83em9c",
-            "title": "HAchubby - Onion HA Say Yo! (Rokubop)",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "ub9dmKupZQw",
-            "title": "♂ THE FLUTE TUNE ♂ [RIGHT VERSION]",
-            "count": 1,
-            "totalSeconds": 207
-          },
-          {
-            "videoId": "4F_RCWVoL4s",
-            "title": "Neil Diamond - Sweet Caroline (Audio)",
-            "count": 1,
-            "totalSeconds": 201
-          },
-          {
-            "videoId": "4FGMjzYD_Nc",
-            "title": "♂ Push it To the Limit ♂",
-            "count": 1,
-            "totalSeconds": 189
-          },
-          {
-            "videoId": "gl75qr9unQc",
-            "title": "Korean Streamer (HAchubby) remix",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "BXm-d9zt-4Q",
-            "title": "[GACHIMUCHI] DEJA♂️VU",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "q4xs00a3zYc",
-            "title": "♂ Caramellvansen ♂",
-            "count": 1,
-            "totalSeconds": 175
-          },
-          {
-            "videoId": "ADvwyiSDAr4",
-            "title": "Tomoyasu Hotei - Battle Without Honor or Humanity (Gachi Remix) Right Version",
-            "count": 1,
-            "totalSeconds": 146
           }
         ],
         "messages": []
@@ -195425,6 +195915,94 @@
         "messages": []
       },
       {
+        "username": "LYonZY",
+        "totalRequests": 9,
+        "totalSeconds": 2355,
+        "topSongs": [
+          {
+            "videoId": "Cslu7zFmPjM",
+            "title": "[FREE MATCH] Invisible Man vs. Invisible Stan | #JJSB3",
+            "count": 1,
+            "totalSeconds": 501
+          },
+          {
+            "videoId": "XkIztstvRKc",
+            "title": "Metallica: Whiskey in the Jar (Live in Dublin, Ireland - June 21, 2026)",
+            "count": 1,
+            "totalSeconds": 396
+          },
+          {
+            "videoId": "uQJSibRjnR8",
+            "title": "train to the galaxy - AnnoyingBox",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "e_FeUkG0vWI",
+            "title": "Van Halen  Jump Backing Track No Keyboard With Vocals(Orginal Track)",
+            "count": 1,
+            "totalSeconds": 220
+          },
+          {
+            "videoId": "yUr8QyTCph8",
+            "title": "David Tennant performs 500 Miles by The Proclaimers with the help of a few famous faces... | BAFTA",
+            "count": 1,
+            "totalSeconds": 217
+          },
+          {
+            "videoId": "CDKaxKpdJF4",
+            "title": "Playlunch cover The Weather Girls’ ‘It's Raining Men’ for Like A Version",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "2szPlkk8nLU",
+            "title": "BTS - Black Swan (Medieval Cover / Bardcore)",
+            "count": 1,
+            "totalSeconds": 209
+          },
+          {
+            "videoId": "MGScXhnB0Uo",
+            "title": "Fancy THEE (TWICE) [BardCore/MedievalStyle]",
+            "count": 1,
+            "totalSeconds": 150
+          },
+          {
+            "videoId": "3lOP5sNnvBA",
+            "title": "The Swedish Chef makes poutine in Montreal",
+            "count": 1,
+            "totalSeconds": 146
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "e_FeUkG0vWI",
+            "message": "removed lead keyboard  😄 have fun",
+            "date": "2026-07-27T19:08:11.986Z"
+          },
+          {
+            "videoId": "3lOP5sNnvBA",
+            "message": "Poutine ",
+            "date": "2026-07-23T20:41:56.900Z"
+          },
+          {
+            "videoId": "uQJSibRjnR8",
+            "message": "Forsen: Stan AnnoyingBox.  (and their new 2nd ep)",
+            "date": "2026-07-13T02:00:41.588Z"
+          },
+          {
+            "videoId": "Cslu7zFmPjM",
+            "message": "Forsen: best wrestling match of all time. brother vs brother",
+            "date": "2026-07-10T21:25:06.095Z"
+          },
+          {
+            "videoId": "yUr8QyTCph8",
+            "message": "trekking song 3Head ",
+            "date": "2026-07-10T20:49:30.456Z"
+          }
+        ]
+      },
+      {
         "username": "Sanna8888",
         "totalRequests": 9,
         "totalSeconds": 2097,
@@ -195629,88 +196207,6 @@
           }
         ],
         "messages": []
-      },
-      {
-        "username": "LYonZY",
-        "totalRequests": 8,
-        "totalSeconds": 2139,
-        "topSongs": [
-          {
-            "videoId": "Cslu7zFmPjM",
-            "title": "[FREE MATCH] Invisible Man vs. Invisible Stan | #JJSB3",
-            "count": 1,
-            "totalSeconds": 501
-          },
-          {
-            "videoId": "XkIztstvRKc",
-            "title": "Metallica: Whiskey in the Jar (Live in Dublin, Ireland - June 21, 2026)",
-            "count": 1,
-            "totalSeconds": 396
-          },
-          {
-            "videoId": "uQJSibRjnR8",
-            "title": "train to the galaxy - AnnoyingBox",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "e_FeUkG0vWI",
-            "title": "Van Halen  Jump Backing Track No Keyboard With Vocals(Orginal Track)",
-            "count": 1,
-            "totalSeconds": 220
-          },
-          {
-            "videoId": "yUr8QyTCph8",
-            "title": "David Tennant performs 500 Miles by The Proclaimers with the help of a few famous faces... | BAFTA",
-            "count": 1,
-            "totalSeconds": 217
-          },
-          {
-            "videoId": "2szPlkk8nLU",
-            "title": "BTS - Black Swan (Medieval Cover / Bardcore)",
-            "count": 1,
-            "totalSeconds": 209
-          },
-          {
-            "videoId": "MGScXhnB0Uo",
-            "title": "Fancy THEE (TWICE) [BardCore/MedievalStyle]",
-            "count": 1,
-            "totalSeconds": 150
-          },
-          {
-            "videoId": "3lOP5sNnvBA",
-            "title": "The Swedish Chef makes poutine in Montreal",
-            "count": 1,
-            "totalSeconds": 146
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "e_FeUkG0vWI",
-            "message": "removed lead keyboard  😄 have fun",
-            "date": "2026-07-27T19:08:11.986Z"
-          },
-          {
-            "videoId": "3lOP5sNnvBA",
-            "message": "Poutine ",
-            "date": "2026-07-23T20:41:56.900Z"
-          },
-          {
-            "videoId": "uQJSibRjnR8",
-            "message": "Forsen: Stan AnnoyingBox.  (and their new 2nd ep)",
-            "date": "2026-07-13T02:00:41.588Z"
-          },
-          {
-            "videoId": "Cslu7zFmPjM",
-            "message": "Forsen: best wrestling match of all time. brother vs brother",
-            "date": "2026-07-10T21:25:06.095Z"
-          },
-          {
-            "videoId": "yUr8QyTCph8",
-            "message": "trekking song 3Head ",
-            "date": "2026-07-10T20:49:30.456Z"
-          }
-        ]
       },
       {
         "username": "its",
@@ -201160,5 +201656,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-29T02:30:58.848Z"
+  "lastUpdated": "2026-07-30T02:13:15.735Z"
 }
