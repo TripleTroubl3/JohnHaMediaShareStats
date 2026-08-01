@@ -1,6 +1,539 @@
 {
   "rawHistory": [
     {
+      "_id": "6a6d2b017e825d783fb2921e",
+      "song": {
+        "videoId": "dmcNbsLCpBQ",
+        "title": "Wouldn't It Be Nice (Remastered 1999)",
+        "duration": 150,
+        "start": 0,
+        "end": 150,
+        "channel": "The Beach Boys - Topic",
+        "amount": 5,
+        "message": "",
+        "user": {
+          "username": "HAchubby",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 19660722,
+          "likeCount": 216165,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d2a0484fcf171aa5657e6"
+      },
+      "createdAt": "2026-07-31T23:08:49.947Z"
+    },
+    {
+      "_id": "6a6d2a236bebc21e7b35c910",
+      "song": {
+        "videoId": "01yUzXQctcM",
+        "title": "Mos Def - Ms. Fat Booty (Official Video) [Explicit]",
+        "duration": 240,
+        "start": 0,
+        "end": 240,
+        "channel": "UPROXX",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 32444972,
+          "likeCount": 335465,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d17a43a7adf584068e646"
+      },
+      "createdAt": "2026-07-31T23:05:07.300Z"
+    },
+    {
+      "_id": "6a6d1d33922d40adab5b98d0",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 258219,
+          "likeCount": 680,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d1bea1e900e4f187e75f9"
+      },
+      "createdAt": "2026-07-31T22:09:55.953Z"
+    },
+    {
+      "_id": "6a6d1d2e3a7adf58406a2922",
+      "song": {
+        "videoId": "EjemGEThgp8",
+        "title": "Trevor Something - Parasite",
+        "duration": 208,
+        "start": 0,
+        "end": 208,
+        "channel": "NewRetroWave",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 130096,
+          "likeCount": 1190,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d179084fcf171aa52ee0c"
+      },
+      "createdAt": "2026-07-31T22:09:50.496Z"
+    },
+    {
+      "_id": "6a6d17e81e900e4f187dce0e",
+      "song": {
+        "videoId": "U6BDbXIah-Y",
+        "title": "CORTIS (코르티스) 'REDRED' Official MV",
+        "duration": 180,
+        "start": 0,
+        "end": 180,
+        "channel": "HYBE LABELS",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "lourdzk",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 56593294,
+          "likeCount": 1394874,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d0b0084fcf171aa509e0c"
+      },
+      "createdAt": "2026-07-31T21:47:20.593Z"
+    },
+    {
+      "_id": "6a6d1728c26ca5725502ef62",
+      "song": {
+        "videoId": "8F2s8ivKXNY",
+        "title": "Oliver Tree - Life Goes On [Music Video]",
+        "duration": 207,
+        "start": 0,
+        "end": 207,
+        "channel": "Oliver Tree",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "keok",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 644603657,
+          "likeCount": 10096499,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d0af984fcf171aa5096d3"
+      },
+      "createdAt": "2026-07-31T21:44:08.994Z"
+    },
+    {
+      "_id": "6a6d16503a7adf584068ad03",
+      "song": {
+        "videoId": "GgbPLAev5T8",
+        "title": "Millionaire - Queens of The Stone Age (HD)",
+        "duration": 156,
+        "start": 0,
+        "end": 156,
+        "channel": "MrBlargeddy",
+        "amount": 6,
+        "message": "Keytar suggestion",
+        "user": {
+          "username": "trent_raz0r",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1586593,
+          "likeCount": 12306,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d0add7e825d783fabc570"
+      },
+      "createdAt": "2026-07-31T21:40:32.141Z"
+    },
+    {
+      "_id": "6a6d15806bebc21e7b32b934",
+      "song": {
+        "videoId": "nsX979LauNY",
+        "title": "L'amour Toujours (Hardstyle)",
+        "duration": 217,
+        "start": 0,
+        "end": 217,
+        "channel": "Teddy Specter - Topic",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "JuFo3",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 6299649,
+          "likeCount": 49510,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d0a31e0d7ba56f1efa52b"
+      },
+      "createdAt": "2026-07-31T21:37:04.027Z"
+    },
+    {
+      "_id": "6a6d14993a7adf5840684c01",
+      "song": {
+        "videoId": "VhCgysyIyMU",
+        "title": "DJ Ten - The Inner Voice ft. Trevor Something - [RETROLOGICAL 2.0]",
+        "duration": 319,
+        "start": 0,
+        "end": 319,
+        "channel": "DJ Ten (Official)",
+        "amount": 11,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 223619,
+          "likeCount": 2747,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d094d3a7adf5840661341"
+      },
+      "createdAt": "2026-07-31T21:33:13.605Z"
+    },
+    {
+      "_id": "6a6d101532c75b01d75a694f",
+      "song": {
+        "videoId": "JZ2ixY2CpNc",
+        "title": "chamillionaire-ridin' dirty(dirty version) LYRICS",
+        "duration": 255,
+        "start": 0,
+        "end": 255,
+        "channel": "ChloeGaming",
+        "amount": 8.5,
+        "message": "",
+        "user": {
+          "username": "HAchubby",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3853385,
+          "likeCount": 34444,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d089c6bebc21e7b303c82"
+      },
+      "createdAt": "2026-07-31T21:13:57.465Z"
+    },
+    {
+      "_id": "6a6d0ef284fcf171aa516f77",
+      "song": {
+        "videoId": "rhzmNRtIp8k",
+        "title": "Foo Fighters - Times Like These (Official HD Video)",
+        "duration": 231,
+        "start": 0,
+        "end": 231,
+        "channel": "foofightersVEVO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "mousnot",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 87244868,
+          "likeCount": 395994,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d0806c26ca57255001769"
+      },
+      "createdAt": "2026-07-31T21:09:06.814Z"
+    },
+    {
+      "_id": "6a6d0df17e825d783fac64f5",
+      "song": {
+        "videoId": "V7O5HSFEt9o",
+        "title": "Cascada - Bad Boy [GACHI REMIX]",
+        "duration": 160,
+        "start": 0,
+        "end": 160,
+        "channel": "OnlyRight",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "JuFo3",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2519,
+          "likeCount": 38,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d08031e900e4f187a532f"
+      },
+      "createdAt": "2026-07-31T21:04:49.898Z"
+    },
+    {
+      "_id": "6a6d0d46922d40adab58ac15",
+      "song": {
+        "videoId": "06MV87zoZaY",
+        "title": "Lady Gaga - Alejandro",
+        "duration": 270,
+        "start": 0,
+        "end": 270,
+        "channel": "musiclover11",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 7409353,
+          "likeCount": 63331,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d07fa6bebc21e7b301557"
+      },
+      "createdAt": "2026-07-31T21:01:58.919Z"
+    },
+    {
+      "_id": "6a6d0beb922d40adab587f77",
+      "song": {
+        "videoId": "mOrngHvNcGk",
+        "title": "Cascada - Everytime We Touch [GACHI REMIX]",
+        "duration": 154,
+        "start": 0,
+        "end": 154,
+        "channel": "OnlyRight",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "JuFo3",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3099,
+          "likeCount": 55,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d07f47e825d783fab0c25"
+      },
+      "createdAt": "2026-07-31T20:56:11.719Z"
+    },
+    {
+      "_id": "6a6d0b4ae0d7ba56f1f007ac",
+      "song": {
+        "videoId": "E1fzJ_AYajA",
+        "title": "Len - Steal My Sunshine",
+        "duration": 227,
+        "start": 0,
+        "end": 227,
+        "channel": "LenVEVO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 95656280,
+          "likeCount": 529485,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d07ec6bebc21e7b300dd3"
+      },
+      "createdAt": "2026-07-31T20:53:30.540Z"
+    },
+    {
+      "_id": "6a6d0a3784fcf171aa5054b3",
+      "song": {
+        "videoId": "ctL1r742ETI",
+        "title": "Mario Kart Music to Study /Work FAST | Tenpers",
+        "duration": 600,
+        "start": 0,
+        "end": 600,
+        "channel": "Moki",
+        "amount": 20,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 4605027,
+          "likeCount": 50565,
+          "dislikeCount": 0
+        },
+        "_id": "6a6d043532c75b01d75859da"
+      },
+      "createdAt": "2026-07-31T20:48:55.216Z"
+    },
+    {
+      "_id": "6a6d07cd84fcf171aa4fee74",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 257962,
+          "likeCount": 683,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a724c3dfc3315e497a048"
+      },
+      "createdAt": "2026-07-31T20:38:37.327Z"
+    },
+    {
+      "_id": "6a6d07a07e825d783faaf78d",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 62372,
+          "likeCount": 239,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a724bb1d1c800478b2c29"
+      },
+      "createdAt": "2026-07-31T20:37:52.636Z"
+    },
+    {
+      "_id": "6a6d03a53a7adf584064be46",
+      "song": {
+        "videoId": "lXPbJwX8tvc",
+        "title": "Netherfriends- Burning Money",
+        "duration": 175,
+        "start": 0,
+        "end": 175,
+        "channel": "Netherfriends",
+        "amount": 6,
+        "message": "Hachu theme song",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 42441,
+          "likeCount": 527,
+          "dislikeCount": 0
+        },
+        "_id": "6a6a6d279d88d3eb44d7daf7"
+      },
+      "createdAt": "2026-07-31T20:20:53.224Z"
+    },
+    {
       "_id": "6a6a6d2eded5f3ebccfa25e3",
       "song": {
         "videoId": "8PYq4eUMUJk",
@@ -146313,8 +146846,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1068121,
-      "totalRequests": 4744,
+      "totalSeconds": 1071870,
+      "totalRequests": 4760,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -147517,6 +148050,12 @@
           "totalSeconds": 976
         },
         {
+          "videoId": "VhCgysyIyMU",
+          "title": "DJ Ten - The Inner Voice ft. Trevor Something - [RETROLOGICAL 2.0]",
+          "count": 3,
+          "totalSeconds": 953
+        },
+        {
           "videoId": "w5aszEEPBcE",
           "title": "HAchubby Highlight - Cover of TWICE (트와이스) - SLEEP TIGHT GOOD NIGHT (잘자요 굿나잇)",
           "count": 3,
@@ -148121,12 +148660,6 @@
           "title": "So Hyang - Arirang Alone  [Immortal Songs 2 #1]",
           "count": 2,
           "totalSeconds": 638
-        },
-        {
-          "videoId": "VhCgysyIyMU",
-          "title": "DJ Ten - The Inner Voice ft. Trevor Something - [RETROLOGICAL 2.0]",
-          "count": 2,
-          "totalSeconds": 634
         },
         {
           "videoId": "MmbvxyRjMc0",
@@ -149725,6 +150258,12 @@
           "totalSeconds": 308
         },
         {
+          "videoId": "GgbPLAev5T8",
+          "title": "Millionaire - Queens of The Stone Age (HD)",
+          "count": 2,
+          "totalSeconds": 306
+        },
+        {
           "videoId": "LPAVDHo1Elc",
           "title": "The Strokes - 12:51 (Official HD Video)",
           "count": 2,
@@ -150095,6 +150634,12 @@
           "title": "Aoaoaoaooaoeoeoeoeoeo",
           "count": 1,
           "totalSeconds": 611
+        },
+        {
+          "videoId": "ctL1r742ETI",
+          "title": "Mario Kart Music to Study /Work FAST | Tenpers",
+          "count": 1,
+          "totalSeconds": 600
         },
         {
           "videoId": "iucW5evsuLE",
@@ -154717,6 +155262,12 @@
           "totalSeconds": 271
         },
         {
+          "videoId": "06MV87zoZaY",
+          "title": "Lady Gaga - Alejandro",
+          "count": 1,
+          "totalSeconds": 270
+        },
+        {
           "videoId": "Cljv_ZP7ZLg",
           "title": "Ozzy Osbourne Perry Mason Official Music Video",
           "count": 1,
@@ -156421,6 +156972,12 @@
           "totalSeconds": 256
         },
         {
+          "videoId": "JZ2ixY2CpNc",
+          "title": "chamillionaire-ridin' dirty(dirty version) LYRICS",
+          "count": 1,
+          "totalSeconds": 255
+        },
+        {
           "videoId": "DcCutLLrhfw",
           "title": "Elaine (일레인) - Wake Up | It’s Okay to Not Be Okay (사이코지만 괜찮아) SPECIAL OST MV | ซับไทย",
           "count": 1,
@@ -157595,6 +158152,12 @@
           "title": "Muse - WON'T STAND DOWN (Official Video)",
           "count": 1,
           "totalSeconds": 241
+        },
+        {
+          "videoId": "01yUzXQctcM",
+          "title": "Mos Def - Ms. Fat Booty (Official Video) [Explicit]",
+          "count": 1,
+          "totalSeconds": 240
         },
         {
           "videoId": "aNgPq3Jg29A",
@@ -159367,6 +159930,12 @@
           "totalSeconds": 232
         },
         {
+          "videoId": "rhzmNRtIp8k",
+          "title": "Foo Fighters - Times Like These (Official HD Video)",
+          "count": 1,
+          "totalSeconds": 231
+        },
+        {
           "videoId": "AZRR01YOKcM",
           "title": "Whiteberry「夏祭り」MUSIC VIDEO",
           "count": 1,
@@ -159893,6 +160462,12 @@
           "title": "DANCE WITH THE DEAD - Riot",
           "count": 1,
           "totalSeconds": 228
+        },
+        {
+          "videoId": "E1fzJ_AYajA",
+          "title": "Len - Steal My Sunshine",
+          "count": 1,
+          "totalSeconds": 227
         },
         {
           "videoId": "g59LK0bnCKA",
@@ -161185,6 +161760,12 @@
           "totalSeconds": 218
         },
         {
+          "videoId": "nsX979LauNY",
+          "title": "L'amour Toujours (Hardstyle)",
+          "count": 1,
+          "totalSeconds": 217
+        },
+        {
           "videoId": "HduYdWUK_UE",
           "title": "ROSÉ - number one girl [Lyrics/가사해석]",
           "count": 1,
@@ -162475,6 +163056,12 @@
           "totalSeconds": 209
         },
         {
+          "videoId": "EjemGEThgp8",
+          "title": "Trevor Something - Parasite",
+          "count": 1,
+          "totalSeconds": 208
+        },
+        {
           "videoId": "M11SvDtPBhA",
           "title": "Miley Cyrus - Party In The U.S.A. (Official Video)",
           "count": 1,
@@ -162575,6 +163162,12 @@
           "title": "[MV] Iris Kymm - Chaser / Official Music Video",
           "count": 1,
           "totalSeconds": 208
+        },
+        {
+          "videoId": "8F2s8ivKXNY",
+          "title": "Oliver Tree - Life Goes On [Music Video]",
+          "count": 1,
+          "totalSeconds": 207
         },
         {
           "videoId": "fE6w_LdkFHg",
@@ -165343,6 +165936,12 @@
           "totalSeconds": 181
         },
         {
+          "videoId": "U6BDbXIah-Y",
+          "title": "CORTIS (코르티스) 'REDRED' Official MV",
+          "count": 1,
+          "totalSeconds": 180
+        },
+        {
           "videoId": "VerK4zwMRQw",
           "title": "Kate Bush - Hounds of Love - Official Music Video",
           "count": 1,
@@ -166235,6 +166834,12 @@
           "title": "CENTAVOES - To. HAchubby: Pink Shorts",
           "count": 1,
           "totalSeconds": 176
+        },
+        {
+          "videoId": "lXPbJwX8tvc",
+          "title": "Netherfriends- Burning Money",
+          "count": 1,
+          "totalSeconds": 175
         },
         {
           "videoId": "fPGI_f9iDXM",
@@ -167161,6 +167766,12 @@
           "totalSeconds": 161
         },
         {
+          "videoId": "V7O5HSFEt9o",
+          "title": "Cascada - Bad Boy [GACHI REMIX]",
+          "count": 1,
+          "totalSeconds": 160
+        },
+        {
           "videoId": "esBNCgyf4Lc",
           "title": "SWIM",
           "count": 1,
@@ -167419,6 +168030,12 @@
           "totalSeconds": 155
         },
         {
+          "videoId": "mOrngHvNcGk",
+          "title": "Cascada - Everytime We Touch [GACHI REMIX]",
+          "count": 1,
+          "totalSeconds": 154
+        },
+        {
           "videoId": "w9719SCk38I",
           "title": "보이스코리아-7회 이소정VS나들이.mp4",
           "count": 1,
@@ -167555,6 +168172,12 @@
           "title": "[Dec 6th, '21] K-Dancer streamer competition with judges Charming_Jo & Tyongeee",
           "count": 1,
           "totalSeconds": 151
+        },
+        {
+          "videoId": "dmcNbsLCpBQ",
+          "title": "Wouldn't It Be Nice (Remastered 1999)",
+          "count": 1,
+          "totalSeconds": 150
         },
         {
           "videoId": "MGScXhnB0Uo",
@@ -167715,12 +168338,6 @@
         {
           "videoId": "8zv3ZtoArFU",
           "title": "MARIO DUPLANTIER DRUM SOLO 2026 \"AVALANCHE\"",
-          "count": 1,
-          "totalSeconds": 150
-        },
-        {
-          "videoId": "GgbPLAev5T8",
-          "title": "Millionaire - Queens of The Stone Age (HD)",
           "count": 1,
           "totalSeconds": 150
         },
@@ -171215,8 +171832,8 @@
     "users": [
       {
         "username": "trent_raz0r",
-        "totalRequests": 498,
-        "totalSeconds": 121861,
+        "totalRequests": 499,
+        "totalSeconds": 122017,
         "topSongs": [
           {
             "videoId": "MIEDxtjNfSs",
@@ -173853,6 +174470,12 @@
             "totalSeconds": 157
           },
           {
+            "videoId": "GgbPLAev5T8",
+            "title": "Millionaire - Queens of The Stone Age (HD)",
+            "count": 1,
+            "totalSeconds": 156
+          },
+          {
             "videoId": "2UppUCB5V-w",
             "title": "I Put A Spell On You",
             "count": 1,
@@ -174065,6 +174688,11 @@
         ],
         "messages": [
           {
+            "videoId": "GgbPLAev5T8",
+            "message": "Keytar suggestion",
+            "date": "2026-07-31T21:40:32.141Z"
+          },
+          {
             "videoId": "djV11Xbc914",
             "message": "Keytar suggestion",
             "date": "2026-07-28T21:58:25.527Z"
@@ -174158,18 +174786,13 @@
             "videoId": "2IUTe_7wp9I",
             "message": "Your singing voice is fine, dude.",
             "date": "2025-11-01T21:27:48.286Z"
-          },
-          {
-            "videoId": "NwVtIPeYIeQ",
-            "message": "<3",
-            "date": "2025-07-25T22:42:33.959Z"
           }
         ]
       },
       {
         "username": "JuFo3",
-        "totalRequests": 481,
-        "totalSeconds": 115745,
+        "totalRequests": 484,
+        "totalSeconds": 116276,
         "topSongs": [
           {
             "videoId": "MV_3Dpw-BRY",
@@ -175732,6 +176355,12 @@
             "totalSeconds": 218
           },
           {
+            "videoId": "nsX979LauNY",
+            "title": "L'amour Toujours (Hardstyle)",
+            "count": 1,
+            "totalSeconds": 217
+          },
+          {
             "videoId": "qFfybn_W8Ak",
             "title": "Carpenter Brut - Roller Mobster",
             "count": 1,
@@ -176344,6 +176973,12 @@
             "totalSeconds": 162
           },
           {
+            "videoId": "V7O5HSFEt9o",
+            "title": "Cascada - Bad Boy [GACHI REMIX]",
+            "count": 1,
+            "totalSeconds": 160
+          },
+          {
             "videoId": "NdqbI0_0GsM",
             "title": "♂️ AssClap ♂️ (Right version) REUPLOAD",
             "count": 1,
@@ -176366,6 +177001,12 @@
             "title": "Ｇａｃｈｉｍｕｃｈｉ ｗｉｌｌ ｂｅ Ｈａｒｄｓｔｙｌｅ",
             "count": 1,
             "totalSeconds": 155
+          },
+          {
+            "videoId": "mOrngHvNcGk",
+            "title": "Cascada - Everytime We Touch [GACHI REMIX]",
+            "count": 1,
+            "totalSeconds": 154
           },
           {
             "videoId": "dBN86y30Ufc",
@@ -176685,8 +177326,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 246,
-        "totalSeconds": 61868,
+        "totalRequests": 250,
+        "totalSeconds": 62872,
         "topSongs": [
           {
             "videoId": "h-mUGj41hWA",
@@ -176695,16 +177336,16 @@
             "totalSeconds": 1122
           },
           {
+            "videoId": "VhCgysyIyMU",
+            "title": "DJ Ten - The Inner Voice ft. Trevor Something - [RETROLOGICAL 2.0]",
+            "count": 3,
+            "totalSeconds": 953
+          },
+          {
             "videoId": "N_rFg5CGtk4",
             "title": "Blood On The Motorway",
             "count": 2,
             "totalSeconds": 1018
-          },
-          {
-            "videoId": "VhCgysyIyMU",
-            "title": "DJ Ten - The Inner Voice ft. Trevor Something - [RETROLOGICAL 2.0]",
-            "count": 2,
-            "totalSeconds": 634
           },
           {
             "videoId": "Sq7-DC8iCIo",
@@ -177157,6 +177798,12 @@
             "totalSeconds": 271
           },
           {
+            "videoId": "06MV87zoZaY",
+            "title": "Lady Gaga - Alejandro",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
             "videoId": "cE-bnWqLqxE",
             "title": "Lauryn Hill - Ex-Factor (Official HD Video)",
             "count": 1,
@@ -177425,6 +178072,12 @@
             "title": "Fugees - Fu-Gee-La (Official HD Video)",
             "count": 1,
             "totalSeconds": 243
+          },
+          {
+            "videoId": "01yUzXQctcM",
+            "title": "Mos Def - Ms. Fat Booty (Official Video) [Explicit]",
+            "count": 1,
+            "totalSeconds": 240
           },
           {
             "videoId": "Hvf0WDQHdr8",
@@ -177925,6 +178578,12 @@
             "totalSeconds": 179
           },
           {
+            "videoId": "lXPbJwX8tvc",
+            "title": "Netherfriends- Burning Money",
+            "count": 1,
+            "totalSeconds": 175
+          },
+          {
             "videoId": "gSbf5z7__eI",
             "title": "Scenic World",
             "count": 1,
@@ -178107,6 +178766,11 @@
         ],
         "messages": [
           {
+            "videoId": "lXPbJwX8tvc",
+            "message": "Hachu theme song",
+            "date": "2026-07-31T20:20:53.224Z"
+          },
+          {
             "videoId": "CmwRQqJsegw",
             "message": "Requested this before but for drums.",
             "date": "2026-07-27T20:35:48.256Z"
@@ -178200,11 +178864,6 @@
             "videoId": "ICJs1CxCRt0",
             "message": "request by Hachu",
             "date": "2026-04-17T05:15:12.143Z"
-          },
-          {
-            "videoId": "jsNrfPJ77yo",
-            "message": "chill song",
-            "date": "2026-04-17T04:48:26.465Z"
           }
         ]
       },
@@ -179083,8 +179742,8 @@
       },
       {
         "username": "SeminoleGamer",
-        "totalRequests": 157,
-        "totalSeconds": 42485,
+        "totalRequests": 158,
+        "totalSeconds": 43085,
         "topSongs": [
           {
             "videoId": "fuFbQ-Mewfw",
@@ -179193,6 +179852,12 @@
             "title": "Bone-Crushing NHL Hits",
             "count": 1,
             "totalSeconds": 750
+          },
+          {
+            "videoId": "ctL1r742ETI",
+            "title": "Mario Kart Music to Study /Work FAST | Tenpers",
+            "count": 1,
+            "totalSeconds": 600
           },
           {
             "videoId": "0zDxaQphpqE",
@@ -185685,8 +186350,8 @@
       },
       {
         "username": "zimm_zimm",
-        "totalRequests": 93,
-        "totalSeconds": 22042,
+        "totalRequests": 95,
+        "totalSeconds": 22477,
         "topSongs": [
           {
             "videoId": "amycQ8q01qE",
@@ -185989,6 +186654,12 @@
             "totalSeconds": 229
           },
           {
+            "videoId": "E1fzJ_AYajA",
+            "title": "Len - Steal My Sunshine",
+            "count": 1,
+            "totalSeconds": 227
+          },
+          {
             "videoId": "zx2lII7mVco",
             "title": "[Yunicorn] BLUE - Yunicorn19",
             "count": 1,
@@ -186113,6 +186784,12 @@
             "title": "Trevor Something - Do It Again",
             "count": 1,
             "totalSeconds": 210
+          },
+          {
+            "videoId": "EjemGEThgp8",
+            "title": "Trevor Something - Parasite",
+            "count": 1,
+            "totalSeconds": 208
           },
           {
             "videoId": "M11SvDtPBhA",
@@ -186244,8 +186921,8 @@
       },
       {
         "username": "keok",
-        "totalRequests": 92,
-        "totalSeconds": 25238,
+        "totalRequests": 93,
+        "totalSeconds": 25445,
         "topSongs": [
           {
             "videoId": "7esiUmkHB2Q",
@@ -186666,6 +187343,12 @@
             "title": "Rokubop - Feeling I'm forgot ft. Yunicorn19, HAchubby, Yuggie_TV, Jinnytty",
             "count": 1,
             "totalSeconds": 208
+          },
+          {
+            "videoId": "8F2s8ivKXNY",
+            "title": "Oliver Tree - Life Goes On [Music Video]",
+            "count": 1,
+            "totalSeconds": 207
           },
           {
             "videoId": "s9qbvmJegUs",
@@ -197037,6 +197720,44 @@
         "messages": []
       },
       {
+        "username": "HAchubby",
+        "totalRequests": 5,
+        "totalSeconds": 1086,
+        "topSongs": [
+          {
+            "videoId": "OcVmaIlHZ1o",
+            "title": "[IU] 'Love poem' Live Clip",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "JZ2ixY2CpNc",
+            "title": "chamillionaire-ridin' dirty(dirty version) LYRICS",
+            "count": 1,
+            "totalSeconds": 255
+          },
+          {
+            "videoId": "9EMriLYsA3A",
+            "title": "Jermaine Dupri - Welcome To Atlanta (Feat. Ludacris) (HQ)",
+            "count": 1,
+            "totalSeconds": 203
+          },
+          {
+            "videoId": "_opQpDYh33I",
+            "title": "Jenevieve - Hvnly (feat. JIHYO of TWICE) [Official Music Video]",
+            "count": 1,
+            "totalSeconds": 178
+          },
+          {
+            "videoId": "dmcNbsLCpBQ",
+            "title": "Wouldn't It Be Nice (Remastered 1999)",
+            "count": 1,
+            "totalSeconds": 150
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "Cyrid5",
         "totalRequests": 5,
         "totalSeconds": 826,
@@ -198004,32 +198725,6 @@
         "messages": []
       },
       {
-        "username": "HAchubby",
-        "totalRequests": 3,
-        "totalSeconds": 681,
-        "topSongs": [
-          {
-            "videoId": "OcVmaIlHZ1o",
-            "title": "[IU] 'Love poem' Live Clip",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "9EMriLYsA3A",
-            "title": "Jermaine Dupri - Welcome To Atlanta (Feat. Ludacris) (HQ)",
-            "count": 1,
-            "totalSeconds": 203
-          },
-          {
-            "videoId": "_opQpDYh33I",
-            "title": "Jenevieve - Hvnly (feat. JIHYO of TWICE) [Official Music Video]",
-            "count": 1,
-            "totalSeconds": 178
-          }
-        ],
-        "messages": []
-      },
-      {
         "username": "It_wasn't_me",
         "totalRequests": 3,
         "totalSeconds": 651,
@@ -198677,6 +199372,26 @@
         "messages": []
       },
       {
+        "username": "mousnot",
+        "totalRequests": 2,
+        "totalSeconds": 604,
+        "topSongs": [
+          {
+            "videoId": "sq-v18O93lE",
+            "title": "Turn The Page--Metallica",
+            "count": 1,
+            "totalSeconds": 373
+          },
+          {
+            "videoId": "rhzmNRtIp8k",
+            "title": "Foo Fighters - Times Like These (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 231
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "Hennrx",
         "totalRequests": 2,
         "totalSeconds": 567,
@@ -199060,6 +199775,26 @@
           {
             "videoId": "xIejjXv7GOA",
             "title": "keylimepie feat. HAchubby - Lemons And Tangerines (mix your colors edit)",
+            "count": 1,
+            "totalSeconds": 180
+          }
+        ],
+        "messages": []
+      },
+      {
+        "username": "lourdzk",
+        "totalRequests": 2,
+        "totalSeconds": 403,
+        "topSongs": [
+          {
+            "videoId": "fAy_Ih3gy-c",
+            "title": "PRISET - CONFUSED (Lyric Video)",
+            "count": 1,
+            "totalSeconds": 223
+          },
+          {
+            "videoId": "U6BDbXIah-Y",
+            "title": "CORTIS (코르티스) 'REDRED' Official MV",
             "count": 1,
             "totalSeconds": 180
           }
@@ -199595,20 +200330,6 @@
             "date": "2026-03-29T00:31:55.279Z"
           }
         ]
-      },
-      {
-        "username": "mousnot",
-        "totalRequests": 1,
-        "totalSeconds": 373,
-        "topSongs": [
-          {
-            "videoId": "sq-v18O93lE",
-            "title": "Turn The Page--Metallica",
-            "count": 1,
-            "totalSeconds": 373
-          }
-        ],
-        "messages": []
       },
       {
         "username": "lero",
@@ -200196,20 +200917,6 @@
             "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
             "count": 1,
             "totalSeconds": 224
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "lourdzk",
-        "totalRequests": 1,
-        "totalSeconds": 223,
-        "topSongs": [
-          {
-            "videoId": "fAy_Ih3gy-c",
-            "title": "PRISET - CONFUSED (Lyric Video)",
-            "count": 1,
-            "totalSeconds": 223
           }
         ],
         "messages": []
@@ -201656,5 +202363,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-31T02:42:14.370Z"
+  "lastUpdated": "2026-08-01T02:40:50.603Z"
 }
