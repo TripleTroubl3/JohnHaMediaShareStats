@@ -1,6 +1,197 @@
 {
   "rawHistory": [
     {
+      "_id": "6a7401f8ddecd829579362fa",
+      "song": {
+        "videoId": "lE0S4YpB1xU",
+        "title": "Travis Scott - FE!N (Tavatli Techno Remix)",
+        "duration": 210,
+        "start": 0,
+        "end": 210,
+        "channel": "wannabebroken",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "karnageXp",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2359842,
+          "likeCount": 36829,
+          "dislikeCount": 0
+        },
+        "_id": "6a73feccccd2debf6dd2ead8"
+      },
+      "createdAt": "2026-08-06T03:39:36.555Z"
+    },
+    {
+      "_id": "6a74010d3be467ca0a89c82b",
+      "song": {
+        "videoId": "vIhAJ3iUpsU",
+        "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Lyric video)",
+        "duration": 138,
+        "start": 0,
+        "end": 138,
+        "channel": "David Guetta",
+        "amount": 5,
+        "message": "",
+        "user": {
+          "username": "BFlow_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 6856401,
+          "likeCount": 75930,
+          "dislikeCount": 0
+        },
+        "_id": "6a73fe92ccd2debf6dd2e969"
+      },
+      "createdAt": "2026-08-06T03:35:41.561Z"
+    },
+    {
+      "_id": "6a73ffa5fc5c26483d40f5d8",
+      "song": {
+        "videoId": "G8RY_XOqJf4",
+        "title": "Haddaway - What Is Love (lyrics)",
+        "duration": 270,
+        "start": 0,
+        "end": 270,
+        "channel": "Wind Music",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 28830071,
+          "likeCount": 321926,
+          "dislikeCount": 0
+        },
+        "_id": "6a73fe7d199700affd838646"
+      },
+      "createdAt": "2026-08-06T03:29:41.504Z"
+    },
+    {
+      "_id": "6a73fe84fc5c26483d40bd11",
+      "song": {
+        "videoId": "axWlQUExPYk",
+        "title": "KREAM - Wicked Game",
+        "duration": 179,
+        "start": 0,
+        "end": 179,
+        "channel": "KREAM",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "BFlow_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 7892611,
+          "likeCount": 66386,
+          "dislikeCount": 0
+        },
+        "_id": "6a73f845fc5c26483d3ff8da"
+      },
+      "createdAt": "2026-08-06T03:24:52.072Z"
+    },
+    {
+      "_id": "6a73f91e199700affd8297ec",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 258927,
+          "likeCount": 680,
+          "dislikeCount": 0
+        },
+        "_id": "6a73da637e3f4be198fa1093"
+      },
+      "createdAt": "2026-08-06T03:01:50.062Z"
+    },
+    {
+      "_id": "6a73f8a3fd191bbcc720cbbd",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 63558,
+          "likeCount": 242,
+          "dislikeCount": 0
+        },
+        "_id": "6a73da617e3f4be198fa107c"
+      },
+      "createdAt": "2026-08-06T02:59:47.009Z"
+    },
+    {
+      "_id": "6a73f858fd191bbcc720c347",
+      "song": {
+        "videoId": "MCEMHLDR6ms",
+        "title": "1 Hour Of Super Mario Bros Castle Theme",
+        "duration": 300,
+        "start": 0,
+        "end": 300,
+        "channel": "Rodreges742",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 116230,
+          "likeCount": 1171,
+          "dislikeCount": 0
+        },
+        "_id": "6a73d7793be467ca0a82f1eb"
+      },
+      "createdAt": "2026-08-06T02:58:32.871Z"
+    },
+    {
       "_id": "6a73d806283c74bd1502d437",
       "song": {
         "videoId": "FmA6U5rXl38",
@@ -152049,8 +152240,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1106299,
-      "totalRequests": 4916,
+      "totalSeconds": 1107396,
+      "totalRequests": 4921,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -158596,6 +158787,12 @@
           "totalSeconds": 301
         },
         {
+          "videoId": "MCEMHLDR6ms",
+          "title": "1 Hour Of Super Mario Bros Castle Theme",
+          "count": 1,
+          "totalSeconds": 300
+        },
+        {
           "videoId": "RP0_8J7uxhs",
           "title": "Laura Branigan - Self Control (Official Music Video)",
           "count": 1,
@@ -160736,6 +160933,12 @@
           "title": "You're Gonna Need Me",
           "count": 1,
           "totalSeconds": 271
+        },
+        {
+          "videoId": "G8RY_XOqJf4",
+          "title": "Haddaway - What Is Love (lyrics)",
+          "count": 1,
+          "totalSeconds": 270
         },
         {
           "videoId": "G4Vv4U7JHGM",
@@ -168004,6 +168207,12 @@
           "totalSeconds": 211
         },
         {
+          "videoId": "lE0S4YpB1xU",
+          "title": "Travis Scott - FE!N (Tavatli Techno Remix)",
+          "count": 1,
+          "totalSeconds": 210
+        },
+        {
           "videoId": "eBy1G0StaJw",
           "title": "[Jan 27th, '23] HA News, New rock song premiere, English Academy, and Reacting to clips - PC Stream",
           "count": 1,
@@ -172300,6 +172509,12 @@
           "totalSeconds": 180
         },
         {
+          "videoId": "axWlQUExPYk",
+          "title": "KREAM - Wicked Game",
+          "count": 1,
+          "totalSeconds": 179
+        },
+        {
           "videoId": "xFT8sncDyRo",
           "title": "ILLIT (아일릿) - It’s Me (트로트 버전) [MV]",
           "count": 1,
@@ -174716,6 +174931,12 @@
           "title": "Pete & Bas - T-Pain",
           "count": 1,
           "totalSeconds": 139
+        },
+        {
+          "videoId": "vIhAJ3iUpsU",
+          "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Lyric video)",
+          "count": 1,
+          "totalSeconds": 138
         },
         {
           "videoId": "doXGTHQsOs0",
@@ -183324,8 +183545,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 261,
-        "totalSeconds": 65446,
+        "totalRequests": 262,
+        "totalSeconds": 65716,
         "topSongs": [
           {
             "videoId": "h-mUGj41hWA",
@@ -183806,6 +184027,12 @@
             "title": "Clint Mansell - Waves Crashing on Distant Shores of Time (San Junipero OST)",
             "count": 1,
             "totalSeconds": 271
+          },
+          {
+            "videoId": "G8RY_XOqJf4",
+            "title": "Haddaway - What Is Love (lyrics)",
+            "count": 1,
+            "totalSeconds": 270
           },
           {
             "videoId": "q5rliCxX8xc",
@@ -185812,8 +186039,8 @@
       },
       {
         "username": "SeminoleGamer",
-        "totalRequests": 165,
-        "totalSeconds": 45528,
+        "totalRequests": 166,
+        "totalSeconds": 45828,
         "topSongs": [
           {
             "videoId": "fuFbQ-Mewfw",
@@ -186066,6 +186293,12 @@
             "title": "RED DEAD REDEMPTION 2 RAP by JT Music - \"Ride or Die\"",
             "count": 1,
             "totalSeconds": 324
+          },
+          {
+            "videoId": "MCEMHLDR6ms",
+            "title": "1 Hour Of Super Mario Bros Castle Theme",
+            "count": 1,
+            "totalSeconds": 300
           },
           {
             "videoId": "2-xDz2gi-II",
@@ -203744,6 +203977,56 @@
         "messages": []
       },
       {
+        "username": "BFlow_",
+        "totalRequests": 7,
+        "totalSeconds": 1573,
+        "topSongs": [
+          {
+            "videoId": "Kho-uYq1FgA",
+            "title": "EL CONDOR PASA - Raimy Salazar (Official Video) Extended Version",
+            "count": 1,
+            "totalSeconds": 420
+          },
+          {
+            "videoId": "4gi0MZpeEVc",
+            "title": "Aji Sang Aji - Sunrise in the Evening",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "GoYJi7lIM8U",
+            "title": "EANÁIR - Son Ar Chistr (Watermill Live Session)",
+            "count": 1,
+            "totalSeconds": 258
+          },
+          {
+            "videoId": "tX8Xe_OvNgU",
+            "title": "Alok - Around (Official Visualizer)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "axWlQUExPYk",
+            "title": "KREAM - Wicked Game",
+            "count": 1,
+            "totalSeconds": 179
+          },
+          {
+            "videoId": "vIhAJ3iUpsU",
+            "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Lyric video)",
+            "count": 1,
+            "totalSeconds": 138
+          },
+          {
+            "videoId": "JUcHAgsBgTM",
+            "title": "The Kiffness x Gay Cat - Look I'm Gay (Why Are You Gay?)",
+            "count": 1,
+            "totalSeconds": 74
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "IDidDidI",
         "totalRequests": 7,
         "totalSeconds": 1418,
@@ -204493,44 +204776,6 @@
             "title": "PSY - 'That That (prod. & feat. SUGA of BTS)' MV",
             "count": 1,
             "totalSeconds": 180
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "BFlow_",
-        "totalRequests": 5,
-        "totalSeconds": 1256,
-        "topSongs": [
-          {
-            "videoId": "Kho-uYq1FgA",
-            "title": "EL CONDOR PASA - Raimy Salazar (Official Video) Extended Version",
-            "count": 1,
-            "totalSeconds": 420
-          },
-          {
-            "videoId": "4gi0MZpeEVc",
-            "title": "Aji Sang Aji - Sunrise in the Evening",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "GoYJi7lIM8U",
-            "title": "EANÁIR - Son Ar Chistr (Watermill Live Session)",
-            "count": 1,
-            "totalSeconds": 258
-          },
-          {
-            "videoId": "tX8Xe_OvNgU",
-            "title": "Alok - Around (Official Visualizer)",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "JUcHAgsBgTM",
-            "title": "The Kiffness x Gay Cat - Look I'm Gay (Why Are You Gay?)",
-            "count": 1,
-            "totalSeconds": 74
           }
         ],
         "messages": []
@@ -206254,6 +206499,26 @@
         "messages": []
       },
       {
+        "username": "karnageXp",
+        "totalRequests": 2,
+        "totalSeconds": 454,
+        "topSongs": [
+          {
+            "videoId": "JE2ixx7DTaw",
+            "title": "Tokyo Drift / Eurobeat Remix",
+            "count": 1,
+            "totalSeconds": 244
+          },
+          {
+            "videoId": "lE0S4YpB1xU",
+            "title": "Travis Scott - FE!N (Tavatli Techno Remix)",
+            "count": 1,
+            "totalSeconds": 210
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": ": )",
         "totalRequests": 2,
         "totalSeconds": 454,
@@ -207574,20 +207839,6 @@
             "title": "Seven Lions feat. HALIENE - Rush Over Me (Acoustic) [Music Video] | Ophelia Records",
             "count": 1,
             "totalSeconds": 246
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "karnageXp",
-        "totalRequests": 1,
-        "totalSeconds": 244,
-        "topSongs": [
-          {
-            "videoId": "JE2ixx7DTaw",
-            "title": "Tokyo Drift / Eurobeat Remix",
-            "count": 1,
-            "totalSeconds": 244
           }
         ],
         "messages": []
@@ -209216,5 +209467,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-06T02:27:30.740Z"
+  "lastUpdated": "2026-08-07T08:54:25.288Z"
 }
