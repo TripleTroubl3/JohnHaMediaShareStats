@@ -1,6 +1,359 @@
 {
   "rawHistory": [
     {
+      "_id": "6a7bb5e317c864f626686172",
+      "song": {
+        "videoId": "DM1UkOX6hIU",
+        "title": "ALL THE LOVE (feat. Andre Troutman)",
+        "duration": 230,
+        "start": 0,
+        "end": 230,
+        "channel": "Kanye West - Topic",
+        "amount": 7.77,
+        "message": "",
+        "user": {
+          "username": "jake_do",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 8948395,
+          "likeCount": 136106,
+          "dislikeCount": 0
+        },
+        "_id": "6a7baeba9213cf326d77e0cc"
+      },
+      "createdAt": "2026-08-11T23:53:07.827Z"
+    },
+    {
+      "_id": "6a7bb0f8fc5c26483dee1c2a",
+      "song": {
+        "videoId": "rAwBDREk_p4",
+        "title": "Cabaret Nocturne - Blind Trust",
+        "duration": 409,
+        "start": 0,
+        "end": 409,
+        "channel": "Discothèques Souterraines 77-86 (80s Alternative)",
+        "amount": 14,
+        "message": "GoslingDrive",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 23,
+          "likeCount": 3,
+          "dislikeCount": 0
+        },
+        "_id": "6a7bae669213cf326d77b944"
+      },
+      "createdAt": "2026-08-11T23:32:08.390Z"
+    },
+    {
+      "_id": "6a7baf24fc5c26483dedbc5f",
+      "song": {
+        "videoId": "eY-7q42UZR0",
+        "title": "Impossible Germany",
+        "duration": 358,
+        "start": 0,
+        "end": 358,
+        "channel": "Wilco - Topic",
+        "amount": 12,
+        "message": "",
+        "user": {
+          "username": "FatHonger",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1192818,
+          "likeCount": 13264,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b92299213cf326d70e2bd"
+      },
+      "createdAt": "2026-08-11T23:24:20.560Z"
+    },
+    {
+      "_id": "6a7bac959213cf326d777d22",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 64290,
+          "likeCount": 243,
+          "dislikeCount": 0
+        },
+        "_id": "6a7bab2e3be467ca0a385322"
+      },
+      "createdAt": "2026-08-11T23:13:25.979Z"
+    },
+    {
+      "_id": "6a7bab3378b80cc0ffaf8149",
+      "song": {
+        "videoId": "QJ1LOC_4n0g",
+        "title": "Vogue",
+        "duration": 315,
+        "start": 0,
+        "end": 315,
+        "channel": "Madonna - Topic",
+        "amount": 10.5,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 4198666,
+          "likeCount": 41178,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b90d078b80cc0ffa8fec1"
+      },
+      "createdAt": "2026-08-11T23:07:31.555Z"
+    },
+    {
+      "_id": "6a7b921d9213cf326d70db67",
+      "song": {
+        "videoId": "hq0rZ3IiyWw",
+        "title": "Foo Fighters - Everlong",
+        "duration": 251,
+        "start": 0,
+        "end": 251,
+        "channel": "Foo Fighters",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "mousnot",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 13903893,
+          "likeCount": 122827,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b8c2a6d0e170b41980016"
+      },
+      "createdAt": "2026-08-11T21:20:29.187Z"
+    },
+    {
+      "_id": "6a7b90dbfc5c26483de647b7",
+      "song": {
+        "videoId": "fPov8jjEEWc",
+        "title": "Iris Kymm - Night Drive (Lyrics)",
+        "duration": 210,
+        "start": 0,
+        "end": 210,
+        "channel": "Iris Kymm",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "HirOnyx",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1233,
+          "likeCount": 79,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b6dd217c864f6265771fc"
+      },
+      "createdAt": "2026-08-11T21:15:07.626Z"
+    },
+    {
+      "_id": "6a7b8ff86d0e170b4198d692",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 64268,
+          "likeCount": 243,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b8f999213cf326d705526"
+      },
+      "createdAt": "2026-08-11T21:11:20.408Z"
+    },
+    {
+      "_id": "6a7b8fa13be467ca0a31950e",
+      "song": {
+        "videoId": "j8retF0o3Ds",
+        "title": "Tender Torture",
+        "duration": 213,
+        "start": 0,
+        "end": 213,
+        "channel": "Release - Topic",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "HerbFerguson",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 9804,
+          "likeCount": 120,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b64d520d38e77e7e1d6f5"
+      },
+      "createdAt": "2026-08-11T21:09:53.976Z"
+    },
+    {
+      "_id": "6a7b64d8283c74bd159fa961",
+      "song": {
+        "videoId": "M6Ggp3TJjuE",
+        "title": "Willie Nelson - On The Road Again (Lyric Video)",
+        "duration": 141,
+        "start": 0,
+        "end": 141,
+        "channel": "niodread",
+        "amount": 4.7,
+        "message": "hachuDriving ",
+        "user": {
+          "username": "LYonZY",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2229353,
+          "likeCount": 24370,
+          "dislikeCount": 0
+        },
+        "_id": "6a7b64336d0e170b418f6257"
+      },
+      "createdAt": "2026-08-11T18:07:20.311Z"
+    },
+    {
+      "_id": "6a7b643d6d0e170b418f6299",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 259662,
+          "likeCount": 682,
+          "dislikeCount": 0
+        },
+        "_id": "6a7a699a9213cf326d317cd8"
+      },
+      "createdAt": "2026-08-11T18:04:45.349Z"
+    },
+    {
+      "_id": "6a7b6307fc5c26483ddb526e",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 64181,
+          "likeCount": 242,
+          "dislikeCount": 0
+        },
+        "_id": "6a7a6997c45157309a5bdf9f"
+      },
+      "createdAt": "2026-08-11T17:59:35.492Z"
+    },
+    {
+      "_id": "6a7b62a23be467ca0a26f809",
+      "song": {
+        "videoId": "S_hQAQ_zBtg",
+        "title": "The Best Things to Do in Boston, Massachusetts 🇺🇸 | Travel Guide PlanetofHotels #Boston",
+        "duration": 480,
+        "start": 0,
+        "end": 480,
+        "channel": "Planet of Hotels",
+        "amount": 16,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 453496,
+          "likeCount": 3747,
+          "dislikeCount": 0
+        },
+        "_id": "6a7a60083be467ca0aefea7a"
+      },
+      "createdAt": "2026-08-11T17:57:54.010Z"
+    },
+    {
       "_id": "6a7a60439213cf326d2f7e9c",
       "song": {
         "videoId": "uKqriTRYInY",
@@ -158820,8 +159173,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1157505,
-      "totalRequests": 5136,
+      "totalSeconds": 1160112,
+      "totalRequests": 5145,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -161916,6 +162269,12 @@
           "totalSeconds": 421
         },
         {
+          "videoId": "fPov8jjEEWc",
+          "title": "Iris Kymm - Night Drive (Lyrics)",
+          "count": 2,
+          "totalSeconds": 420
+        },
+        {
           "videoId": "XRQxpx4NGUk",
           "title": "NAYEON \"NO PROBLEM (Feat. Felix of Stray Kids)\" Band Live Clip",
           "count": 2,
@@ -163284,6 +163643,12 @@
           "totalSeconds": 495
         },
         {
+          "videoId": "S_hQAQ_zBtg",
+          "title": "The Best Things to Do in Boston, Massachusetts 🇺🇸 | Travel Guide PlanetofHotels #Boston",
+          "count": 1,
+          "totalSeconds": 480
+        },
+        {
           "videoId": "QkF3oxziUI4",
           "title": "Led Zeppelin - Stairway To Heaven (Official Audio)",
           "count": 1,
@@ -163672,6 +164037,12 @@
           "title": "WaterSign:Work To Do",
           "count": 1,
           "totalSeconds": 413
+        },
+        {
+          "videoId": "rAwBDREk_p4",
+          "title": "Cabaret Nocturne - Blind Trust",
+          "count": 1,
+          "totalSeconds": 409
         },
         {
           "videoId": "G02wKufX3nw",
@@ -164356,6 +164727,12 @@
           "title": "Richard Tee ［ STROKIN' / Live Video ］ Steve Gadd ' 90",
           "count": 1,
           "totalSeconds": 359
+        },
+        {
+          "videoId": "eY-7q42UZR0",
+          "title": "Impossible Germany",
+          "count": 1,
+          "totalSeconds": 358
         },
         {
           "videoId": "miJAfs7jhak",
@@ -165310,6 +165687,12 @@
           "title": "Come Back",
           "count": 1,
           "totalSeconds": 316
+        },
+        {
+          "videoId": "QJ1LOC_4n0g",
+          "title": "Vogue",
+          "count": 1,
+          "totalSeconds": 315
         },
         {
           "videoId": "A_kloG2Z7tU",
@@ -170178,6 +170561,12 @@
           "totalSeconds": 252
         },
         {
+          "videoId": "hq0rZ3IiyWw",
+          "title": "Foo Fighters - Everlong",
+          "count": 1,
+          "totalSeconds": 251
+        },
+        {
           "videoId": "hic-dnps6MU",
           "title": "The Rolling Stones - Miss You - OFFICIAL PROMO",
           "count": 1,
@@ -173052,6 +173441,12 @@
           "totalSeconds": 231
         },
         {
+          "videoId": "DM1UkOX6hIU",
+          "title": "ALL THE LOVE (feat. Andre Troutman)",
+          "count": 1,
+          "totalSeconds": 230
+        },
+        {
           "videoId": "RE7ZmN2BSfM",
           "title": "♠ Motörhead   Whiplash ♠1",
           "count": 1,
@@ -175230,6 +175625,12 @@
           "totalSeconds": 214
         },
         {
+          "videoId": "j8retF0o3Ds",
+          "title": "Tender Torture",
+          "count": 1,
+          "totalSeconds": 213
+        },
+        {
           "videoId": "EFEmTsfFL5A",
           "title": "Paramore: Ain't It Fun [OFFICIAL VIDEO]",
           "count": 1,
@@ -175730,12 +176131,6 @@
         {
           "videoId": "sfC6ey0MYGY",
           "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
-          "count": 1,
-          "totalSeconds": 210
-        },
-        {
-          "videoId": "fPov8jjEEWc",
-          "title": "Iris Kymm - Night Drive (Lyrics)",
           "count": 1,
           "totalSeconds": 210
         },
@@ -182326,6 +182721,12 @@
           "title": "keylimepie demo x I wanna leave me",
           "count": 1,
           "totalSeconds": 142
+        },
+        {
+          "videoId": "M6Ggp3TJjuE",
+          "title": "Willie Nelson - On The Road Again (Lyric Video)",
+          "count": 1,
+          "totalSeconds": 141
         },
         {
           "videoId": "UvQ5T72ja4A",
@@ -191384,8 +191785,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 268,
-        "totalSeconds": 67179,
+        "totalRequests": 270,
+        "totalSeconds": 68068,
         "topSongs": [
           {
             "videoId": "h-mUGj41hWA",
@@ -191472,6 +191873,12 @@
             "totalSeconds": 504
           },
           {
+            "videoId": "S_hQAQ_zBtg",
+            "title": "The Best Things to Do in Boston, Massachusetts 🇺🇸 | Travel Guide PlanetofHotels #Boston",
+            "count": 1,
+            "totalSeconds": 480
+          },
+          {
             "videoId": "QkF3oxziUI4",
             "title": "Led Zeppelin - Stairway To Heaven (Official Audio)",
             "count": 1,
@@ -191512,6 +191919,12 @@
             "title": "Pink Floyd - Comfortably numb",
             "count": 1,
             "totalSeconds": 415
+          },
+          {
+            "videoId": "rAwBDREk_p4",
+            "title": "Cabaret Nocturne - Blind Trust",
+            "count": 1,
+            "totalSeconds": 409
           },
           {
             "videoId": "ODwZzMLv7zU",
@@ -192914,6 +193327,11 @@
         ],
         "messages": [
           {
+            "videoId": "rAwBDREk_p4",
+            "message": "GoslingDrive",
+            "date": "2026-08-11T23:32:08.390Z"
+          },
+          {
             "videoId": "Q4OQU8qlSgo",
             "message": "Prayge jejus, please bless this cx-5 and may it keep our boss hachubby safe on the road. Amen",
             "date": "2026-08-01T20:17:26.721Z"
@@ -193007,11 +193425,6 @@
             "videoId": "kR2LZjkE7uE",
             "message": "British Hachu",
             "date": "2026-04-27T03:24:43.712Z"
-          },
-          {
-            "videoId": "tCGmrFyXlGw",
-            "message": "Never change for anyone Hachu.",
-            "date": "2026-04-21T17:03:29.586Z"
           }
         ]
       },
@@ -196867,8 +197280,8 @@
       },
       {
         "username": "FatHonger",
-        "totalRequests": 153,
-        "totalSeconds": 36834,
+        "totalRequests": 154,
+        "totalSeconds": 37192,
         "topSongs": [
           {
             "videoId": "kfVsfOSbJY0",
@@ -197001,6 +197414,12 @@
             "title": "Brain Damage/Eclipse by Pink Floyd [HQ]",
             "count": 1,
             "totalSeconds": 360
+          },
+          {
+            "videoId": "eY-7q42UZR0",
+            "title": "Impossible Germany",
+            "count": 1,
+            "totalSeconds": 358
           },
           {
             "videoId": "P6H50fU4rDQ",
@@ -199171,8 +199590,8 @@
       },
       {
         "username": "zimm_zimm",
-        "totalRequests": 111,
-        "totalSeconds": 26516,
+        "totalRequests": 112,
+        "totalSeconds": 26831,
         "topSongs": [
           {
             "videoId": "amycQ8q01qE",
@@ -199227,6 +199646,12 @@
             "title": "Phil Collins - Sussudio (Official Music Video) [HD Upgrade]",
             "count": 1,
             "totalSeconds": 318
+          },
+          {
+            "videoId": "QJ1LOC_4n0g",
+            "title": "Vogue",
+            "count": 1,
+            "totalSeconds": 315
           },
           {
             "videoId": "q-KE9lvU810",
@@ -211595,6 +212020,133 @@
         "messages": []
       },
       {
+        "username": "LYonZY",
+        "totalRequests": 13,
+        "totalSeconds": 3102,
+        "topSongs": [
+          {
+            "videoId": "Cslu7zFmPjM",
+            "title": "[FREE MATCH] Invisible Man vs. Invisible Stan | #JJSB3",
+            "count": 1,
+            "totalSeconds": 501
+          },
+          {
+            "videoId": "XkIztstvRKc",
+            "title": "Metallica: Whiskey in the Jar (Live in Dublin, Ireland - June 21, 2026)",
+            "count": 1,
+            "totalSeconds": 396
+          },
+          {
+            "videoId": "uQJSibRjnR8",
+            "title": "train to the galaxy - AnnoyingBox",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "CffkSvcTmgQ",
+            "title": "Glen Hansard & Markéta Irglová perform Falling Slowly | The Late Late Show | RTÉ One",
+            "count": 1,
+            "totalSeconds": 228
+          },
+          {
+            "videoId": "e_FeUkG0vWI",
+            "title": "Van Halen  Jump Backing Track No Keyboard With Vocals(Orginal Track)",
+            "count": 1,
+            "totalSeconds": 220
+          },
+          {
+            "videoId": "yUr8QyTCph8",
+            "title": "David Tennant performs 500 Miles by The Proclaimers with the help of a few famous faces... | BAFTA",
+            "count": 1,
+            "totalSeconds": 217
+          },
+          {
+            "videoId": "CDKaxKpdJF4",
+            "title": "Playlunch cover The Weather Girls’ ‘It's Raining Men’ for Like A Version",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "2szPlkk8nLU",
+            "title": "BTS - Black Swan (Medieval Cover / Bardcore)",
+            "count": 1,
+            "totalSeconds": 209
+          },
+          {
+            "videoId": "raE7uP2L1Vo",
+            "title": "Whitney Shafer - All My Exes Live In Texas - K-ROSE",
+            "count": 1,
+            "totalSeconds": 192
+          },
+          {
+            "videoId": "NWoL65SexB4",
+            "title": "I Love a Rainy Night (2009 Remaster)",
+            "count": 1,
+            "totalSeconds": 186
+          },
+          {
+            "videoId": "MGScXhnB0Uo",
+            "title": "Fancy THEE (TWICE) [BardCore/MedievalStyle]",
+            "count": 1,
+            "totalSeconds": 150
+          },
+          {
+            "videoId": "3lOP5sNnvBA",
+            "title": "The Swedish Chef makes poutine in Montreal",
+            "count": 1,
+            "totalSeconds": 146
+          },
+          {
+            "videoId": "M6Ggp3TJjuE",
+            "title": "Willie Nelson - On The Road Again (Lyric Video)",
+            "count": 1,
+            "totalSeconds": 141
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "M6Ggp3TJjuE",
+            "message": "hachuDriving ",
+            "date": "2026-08-11T18:07:20.311Z"
+          },
+          {
+            "videoId": "raE7uP2L1Vo",
+            "message": "forsen: You're listening to K-Rose, the home of classic country!",
+            "date": "2026-08-04T21:03:25.630Z"
+          },
+          {
+            "videoId": "CffkSvcTmgQ",
+            "message": "since the male singer glen hansard passed recently, here is one of their last performances of the song together.",
+            "date": "2026-08-04T20:53:13.925Z"
+          },
+          {
+            "videoId": "e_FeUkG0vWI",
+            "message": "removed lead keyboard  😄 have fun",
+            "date": "2026-07-27T19:08:11.986Z"
+          },
+          {
+            "videoId": "3lOP5sNnvBA",
+            "message": "Poutine ",
+            "date": "2026-07-23T20:41:56.900Z"
+          },
+          {
+            "videoId": "uQJSibRjnR8",
+            "message": "Forsen: Stan AnnoyingBox.  (and their new 2nd ep)",
+            "date": "2026-07-13T02:00:41.588Z"
+          },
+          {
+            "videoId": "Cslu7zFmPjM",
+            "message": "Forsen: best wrestling match of all time. brother vs brother",
+            "date": "2026-07-10T21:25:06.095Z"
+          },
+          {
+            "videoId": "yUr8QyTCph8",
+            "message": "trekking song 3Head ",
+            "date": "2026-07-10T20:49:30.456Z"
+          }
+        ]
+      },
+      {
         "username": "MostlyKappa",
         "totalRequests": 13,
         "totalSeconds": 1647,
@@ -211676,122 +212228,6 @@
             "videoId": "y6120QOlsfU",
             "message": "just because lul",
             "date": "2025-07-25T21:07:35.520Z"
-          }
-        ]
-      },
-      {
-        "username": "LYonZY",
-        "totalRequests": 12,
-        "totalSeconds": 2961,
-        "topSongs": [
-          {
-            "videoId": "Cslu7zFmPjM",
-            "title": "[FREE MATCH] Invisible Man vs. Invisible Stan | #JJSB3",
-            "count": 1,
-            "totalSeconds": 501
-          },
-          {
-            "videoId": "XkIztstvRKc",
-            "title": "Metallica: Whiskey in the Jar (Live in Dublin, Ireland - June 21, 2026)",
-            "count": 1,
-            "totalSeconds": 396
-          },
-          {
-            "videoId": "uQJSibRjnR8",
-            "title": "train to the galaxy - AnnoyingBox",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "CffkSvcTmgQ",
-            "title": "Glen Hansard & Markéta Irglová perform Falling Slowly | The Late Late Show | RTÉ One",
-            "count": 1,
-            "totalSeconds": 228
-          },
-          {
-            "videoId": "e_FeUkG0vWI",
-            "title": "Van Halen  Jump Backing Track No Keyboard With Vocals(Orginal Track)",
-            "count": 1,
-            "totalSeconds": 220
-          },
-          {
-            "videoId": "yUr8QyTCph8",
-            "title": "David Tennant performs 500 Miles by The Proclaimers with the help of a few famous faces... | BAFTA",
-            "count": 1,
-            "totalSeconds": 217
-          },
-          {
-            "videoId": "CDKaxKpdJF4",
-            "title": "Playlunch cover The Weather Girls’ ‘It's Raining Men’ for Like A Version",
-            "count": 1,
-            "totalSeconds": 216
-          },
-          {
-            "videoId": "2szPlkk8nLU",
-            "title": "BTS - Black Swan (Medieval Cover / Bardcore)",
-            "count": 1,
-            "totalSeconds": 209
-          },
-          {
-            "videoId": "raE7uP2L1Vo",
-            "title": "Whitney Shafer - All My Exes Live In Texas - K-ROSE",
-            "count": 1,
-            "totalSeconds": 192
-          },
-          {
-            "videoId": "NWoL65SexB4",
-            "title": "I Love a Rainy Night (2009 Remaster)",
-            "count": 1,
-            "totalSeconds": 186
-          },
-          {
-            "videoId": "MGScXhnB0Uo",
-            "title": "Fancy THEE (TWICE) [BardCore/MedievalStyle]",
-            "count": 1,
-            "totalSeconds": 150
-          },
-          {
-            "videoId": "3lOP5sNnvBA",
-            "title": "The Swedish Chef makes poutine in Montreal",
-            "count": 1,
-            "totalSeconds": 146
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "raE7uP2L1Vo",
-            "message": "forsen: You're listening to K-Rose, the home of classic country!",
-            "date": "2026-08-04T21:03:25.630Z"
-          },
-          {
-            "videoId": "CffkSvcTmgQ",
-            "message": "since the male singer glen hansard passed recently, here is one of their last performances of the song together.",
-            "date": "2026-08-04T20:53:13.925Z"
-          },
-          {
-            "videoId": "e_FeUkG0vWI",
-            "message": "removed lead keyboard  😄 have fun",
-            "date": "2026-07-27T19:08:11.986Z"
-          },
-          {
-            "videoId": "3lOP5sNnvBA",
-            "message": "Poutine ",
-            "date": "2026-07-23T20:41:56.900Z"
-          },
-          {
-            "videoId": "uQJSibRjnR8",
-            "message": "Forsen: Stan AnnoyingBox.  (and their new 2nd ep)",
-            "date": "2026-07-13T02:00:41.588Z"
-          },
-          {
-            "videoId": "Cslu7zFmPjM",
-            "message": "Forsen: best wrestling match of all time. brother vs brother",
-            "date": "2026-07-10T21:25:06.095Z"
-          },
-          {
-            "videoId": "yUr8QyTCph8",
-            "message": "trekking song 3Head ",
-            "date": "2026-07-10T20:49:30.456Z"
           }
         ]
       },
@@ -212110,6 +212546,130 @@
         ]
       },
       {
+        "username": "jake_do",
+        "totalRequests": 10,
+        "totalSeconds": 2213,
+        "topSongs": [
+          {
+            "videoId": "fIkZOLsnoqY",
+            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
+            "count": 2,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "u8pVZ5hTGJQ",
+            "title": "Goodbye Stranger (Remastered 2010)",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "Atvsg_zogxo",
+            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
+            "count": 1,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "IEfpwek6P_A",
+            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "DM1UkOX6hIU",
+            "title": "ALL THE LOVE (feat. Andre Troutman)",
+            "count": 1,
+            "totalSeconds": 230
+          },
+          {
+            "videoId": "KJjiY1ROskE",
+            "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+            "count": 1,
+            "totalSeconds": 225
+          },
+          {
+            "videoId": "onnQMyVlN5Q",
+            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
+            "count": 1,
+            "totalSeconds": 211
+          },
+          {
+            "videoId": "G7KNmW9a75Y",
+            "title": "Miley Cyrus - Flowers (Official Video)",
+            "count": 1,
+            "totalSeconds": 182
+          },
+          {
+            "videoId": "SdW0rF4_oDE",
+            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
+            "count": 1,
+            "totalSeconds": 180
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "SdW0rF4_oDE",
+            "message": "Vitas ",
+            "date": "2026-04-21T19:33:37.463Z"
+          }
+        ]
+      },
+      {
+        "username": "HirOnyx",
+        "totalRequests": 10,
+        "totalSeconds": 2193,
+        "topSongs": [
+          {
+            "videoId": "fPov8jjEEWc",
+            "title": "Iris Kymm - Night Drive (Lyrics)",
+            "count": 2,
+            "totalSeconds": 420
+          },
+          {
+            "videoId": "sGLKAtEGkMQ",
+            "title": "Iris Kymm - My Playlist (Lyrics)",
+            "count": 2,
+            "totalSeconds": 361
+          },
+          {
+            "videoId": "-DSsr4WGuDg",
+            "title": "I set the studio on fire!",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "9a1QcmpKGP8",
+            "title": "in between dreams",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "N2AR0RiVMn0",
+            "title": "Iris Kymm - omw (line rider)",
+            "count": 1,
+            "totalSeconds": 238
+          },
+          {
+            "videoId": "4xg6YAPUOno",
+            "title": "Iris Screams",
+            "count": 1,
+            "totalSeconds": 216
+          },
+          {
+            "videoId": "sfC6ey0MYGY",
+            "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "W80vcOJuQWw",
+            "title": "[MV] Iris Kymm - Chaser / Official Music Video",
+            "count": 1,
+            "totalSeconds": 208
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "brucetaylor777",
         "totalRequests": 10,
         "totalSeconds": 1987,
@@ -212394,119 +212954,63 @@
         ]
       },
       {
-        "username": "jake_do",
+        "username": "HerbFerguson",
         "totalRequests": 9,
-        "totalSeconds": 1983,
+        "totalSeconds": 2115,
         "topSongs": [
           {
-            "videoId": "fIkZOLsnoqY",
-            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
-            "count": 2,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "u8pVZ5hTGJQ",
-            "title": "Goodbye Stranger (Remastered 2010)",
+            "videoId": "4A_tSyJBsRQ",
+            "title": "MESHUGGAH - New Millennium Cyanide Christ (Official Music Video)",
             "count": 1,
-            "totalSeconds": 300
+            "totalSeconds": 343
           },
           {
-            "videoId": "Atvsg_zogxo",
-            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
+            "videoId": "0zqXU_buXZM",
+            "title": "Silvergun Superman",
             "count": 1,
-            "totalSeconds": 288
+            "totalSeconds": 317
           },
           {
-            "videoId": "IEfpwek6P_A",
-            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
+            "videoId": "PYDpM7ljMHk",
+            "title": "OZZY OSBOURNE - \"Lightning Strikes\" (Official Video)",
             "count": 1,
-            "totalSeconds": 233
+            "totalSeconds": 317
           },
           {
-            "videoId": "KJjiY1ROskE",
-            "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+            "videoId": "FdFO3OyPYHI",
+            "title": "Tom Waits - \"Rosie\"",
             "count": 1,
-            "totalSeconds": 225
+            "totalSeconds": 243
           },
           {
-            "videoId": "onnQMyVlN5Q",
-            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
-            "count": 1,
-            "totalSeconds": 211
-          },
-          {
-            "videoId": "G7KNmW9a75Y",
-            "title": "Miley Cyrus - Flowers (Official Video)",
-            "count": 1,
-            "totalSeconds": 182
-          },
-          {
-            "videoId": "SdW0rF4_oDE",
-            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
-            "count": 1,
-            "totalSeconds": 180
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "SdW0rF4_oDE",
-            "message": "Vitas ",
-            "date": "2026-04-21T19:33:37.463Z"
-          }
-        ]
-      },
-      {
-        "username": "HirOnyx",
-        "totalRequests": 9,
-        "totalSeconds": 1983,
-        "topSongs": [
-          {
-            "videoId": "sGLKAtEGkMQ",
-            "title": "Iris Kymm - My Playlist (Lyrics)",
-            "count": 2,
-            "totalSeconds": 361
-          },
-          {
-            "videoId": "-DSsr4WGuDg",
-            "title": "I set the studio on fire!",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "9a1QcmpKGP8",
-            "title": "in between dreams",
+            "videoId": "95YrS4tKNhc",
+            "title": "Tom Waits - \"Fish And Bird\"",
             "count": 1,
             "totalSeconds": 240
           },
           {
-            "videoId": "N2AR0RiVMn0",
-            "title": "Iris Kymm - omw (line rider)",
+            "videoId": "j8retF0o3Ds",
+            "title": "Tender Torture",
             "count": 1,
-            "totalSeconds": 238
+            "totalSeconds": 213
           },
           {
-            "videoId": "4xg6YAPUOno",
-            "title": "Iris Screams",
+            "videoId": "gUyuEyVb6KU",
+            "title": "Ladyhawke | Dusk Till Dawn (Official Video)",
             "count": 1,
-            "totalSeconds": 216
+            "totalSeconds": 162
           },
           {
-            "videoId": "sfC6ey0MYGY",
-            "title": "Rick Astley - Never Gonna Give You Up [Trombone Champ Custom]",
+            "videoId": "jjnt-KS0ozE",
+            "title": "Innervision",
             "count": 1,
-            "totalSeconds": 210
+            "totalSeconds": 154
           },
           {
-            "videoId": "fPov8jjEEWc",
-            "title": "Iris Kymm - Night Drive (Lyrics)",
+            "videoId": "lbbsFzPObLk",
+            "title": "Tijuana Taxi",
             "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "W80vcOJuQWw",
-            "title": "[MV] Iris Kymm - Chaser / Official Music Video",
-            "count": 1,
-            "totalSeconds": 208
+            "totalSeconds": 126
           }
         ],
         "messages": []
@@ -212569,62 +213073,6 @@
             "title": "BTS ( 방탄소년단 ) The truth untold 전하지 못한 진심 (Piano Ver.) Cover by HAchubby 하츄비",
             "count": 1,
             "totalSeconds": 153
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "HerbFerguson",
-        "totalRequests": 8,
-        "totalSeconds": 1902,
-        "topSongs": [
-          {
-            "videoId": "4A_tSyJBsRQ",
-            "title": "MESHUGGAH - New Millennium Cyanide Christ (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 343
-          },
-          {
-            "videoId": "0zqXU_buXZM",
-            "title": "Silvergun Superman",
-            "count": 1,
-            "totalSeconds": 317
-          },
-          {
-            "videoId": "PYDpM7ljMHk",
-            "title": "OZZY OSBOURNE - \"Lightning Strikes\" (Official Video)",
-            "count": 1,
-            "totalSeconds": 317
-          },
-          {
-            "videoId": "FdFO3OyPYHI",
-            "title": "Tom Waits - \"Rosie\"",
-            "count": 1,
-            "totalSeconds": 243
-          },
-          {
-            "videoId": "95YrS4tKNhc",
-            "title": "Tom Waits - \"Fish And Bird\"",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "gUyuEyVb6KU",
-            "title": "Ladyhawke | Dusk Till Dawn (Official Video)",
-            "count": 1,
-            "totalSeconds": 162
-          },
-          {
-            "videoId": "jjnt-KS0ozE",
-            "title": "Innervision",
-            "count": 1,
-            "totalSeconds": 154
-          },
-          {
-            "videoId": "lbbsFzPObLk",
-            "title": "Tijuana Taxi",
-            "count": 1,
-            "totalSeconds": 126
           }
         ],
         "messages": []
@@ -213915,6 +214363,38 @@
         "messages": []
       },
       {
+        "username": "mousnot",
+        "totalRequests": 4,
+        "totalSeconds": 1053,
+        "topSongs": [
+          {
+            "videoId": "sq-v18O93lE",
+            "title": "Turn The Page--Metallica",
+            "count": 1,
+            "totalSeconds": 373
+          },
+          {
+            "videoId": "hq0rZ3IiyWw",
+            "title": "Foo Fighters - Everlong",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
+            "videoId": "rhzmNRtIp8k",
+            "title": "Foo Fighters - Times Like These (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "7CUz7Ec7cWc",
+            "title": "hate that i made you love me",
+            "count": 1,
+            "totalSeconds": 198
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "stol142",
         "totalRequests": 4,
         "totalSeconds": 1016,
@@ -214432,32 +214912,6 @@
             "title": "Be as ONE (Korean Ver.)",
             "count": 1,
             "totalSeconds": 228
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "mousnot",
-        "totalRequests": 3,
-        "totalSeconds": 802,
-        "topSongs": [
-          {
-            "videoId": "sq-v18O93lE",
-            "title": "Turn The Page--Metallica",
-            "count": 1,
-            "totalSeconds": 373
-          },
-          {
-            "videoId": "rhzmNRtIp8k",
-            "title": "Foo Fighters - Times Like These (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "7CUz7Ec7cWc",
-            "title": "hate that i made you love me",
-            "count": 1,
-            "totalSeconds": 198
           }
         ],
         "messages": []
@@ -218459,5 +218913,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-11T08:49:19.926Z"
+  "lastUpdated": "2026-08-12T09:07:50.698Z"
 }
