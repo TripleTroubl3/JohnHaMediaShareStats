@@ -1,6 +1,104 @@
 {
   "rawHistory": [
     {
+      "_id": "6a7e256f8e2779ae8bce8612",
+      "song": {
+        "videoId": "OOM6TiWJdps",
+        "title": "Prince - Purple Rain (Lyrics)",
+        "duration": 246,
+        "channel": "7clouds Rock",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 20811360,
+          "likeCount": 142872,
+          "dislikeCount": 0
+        },
+        "_id": "6a7e2474d9d3d5b6c2e5ce7a"
+      },
+      "createdAt": "2026-08-13T20:13:35.329Z"
+    },
+    {
+      "_id": "6a7e247702cd59f4b043de52",
+      "song": {
+        "videoId": "1k8craCGpgs",
+        "title": "Journey - Don't Stop Believin' (Official Audio)",
+        "duration": 251,
+        "channel": "journeyVEVO",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 383873572,
+          "likeCount": 2210429,
+          "dislikeCount": 0
+        },
+        "_id": "6a7e230afc5c26483d79c4d0"
+      },
+      "createdAt": "2026-08-13T20:09:27.805Z"
+    },
+    {
+      "_id": "6a7e230f283c74bd153ae771",
+      "song": {
+        "videoId": "YkADj0TPrJA",
+        "title": "Phil Collins - In The Air Tonight (Official Music Video)",
+        "duration": 294,
+        "channel": "Phil Collins",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 344519993,
+          "likeCount": 2403571,
+          "dislikeCount": 0
+        },
+        "_id": "6a7e21a3b4bfba542ef38c86"
+      },
+      "createdAt": "2026-08-13T20:03:27.224Z"
+    },
+    {
+      "_id": "6a7e21aab4bfba542ef38caa",
+      "song": {
+        "videoId": "zi3hItzxRwg",
+        "title": "Livin' On A Prayer",
+        "duration": 249,
+        "start": 0,
+        "end": 249,
+        "channel": "Bon Jovi - Topic",
+        "amount": 8.3,
+        "message": "",
+        "user": {
+          "username": "renato_2154",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 247190,
+          "likeCount": 2468,
+          "dislikeCount": 0
+        },
+        "_id": "6a7d0ce49213cf326dc0d046"
+      },
+      "createdAt": "2026-08-13T19:57:30.508Z"
+    },
+    {
       "_id": "6a7d0ed8fb03e06bc4d5d3d2",
       "song": {
         "videoId": "Qw7WkFkBEu0",
@@ -159944,8 +160042,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1166304,
-      "totalRequests": 5170,
+      "totalSeconds": 1167344,
+      "totalRequests": 5174,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -162354,6 +162452,12 @@
           "title": "Kent - Palace & Main (Official Music Video)",
           "count": 2,
           "totalSeconds": 504
+        },
+        {
+          "videoId": "1k8craCGpgs",
+          "title": "Journey - Don't Stop Believin' (Official Audio)",
+          "count": 2,
+          "totalSeconds": 502
         },
         {
           "videoId": "YORMa1GJnws",
@@ -167648,6 +167752,12 @@
           "totalSeconds": 295
         },
         {
+          "videoId": "YkADj0TPrJA",
+          "title": "Phil Collins - In The Air Tonight (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 294
+        },
+        {
           "videoId": "-Udnb6F1A0g",
           "title": "Apache",
           "count": 1,
@@ -171446,12 +171556,6 @@
           "totalSeconds": 251
         },
         {
-          "videoId": "1k8craCGpgs",
-          "title": "Journey - Don't Stop Believin' (Official Audio)",
-          "count": 1,
-          "totalSeconds": 251
-        },
-        {
           "videoId": "KsznX5j2oQ0",
           "title": "새소년 (SE SO NEON) '난춘(亂春) (NAN CHUN)' Official MV",
           "count": 1,
@@ -171540,6 +171644,12 @@
           "title": "Anri - Windy Summer",
           "count": 1,
           "totalSeconds": 250
+        },
+        {
+          "videoId": "zi3hItzxRwg",
+          "title": "Livin' On A Prayer",
+          "count": 1,
+          "totalSeconds": 249
         },
         {
           "videoId": "KtNYA4pAGjI",
@@ -171714,6 +171824,12 @@
           "title": "Michael Jackson - Thriller (original Indian version)",
           "count": 1,
           "totalSeconds": 247
+        },
+        {
+          "videoId": "OOM6TiWJdps",
+          "title": "Prince - Purple Rain (Lyrics)",
+          "count": 1,
+          "totalSeconds": 246
         },
         {
           "videoId": "BgYwnUs6Ufg",
@@ -199164,8 +199280,8 @@
       },
       {
         "username": "hachubby",
-        "totalRequests": 133,
-        "totalSeconds": 27517,
+        "totalRequests": 136,
+        "totalSeconds": 28308,
         "topSongs": [
           {
             "videoId": "K0HSD_i2DvA",
@@ -199318,6 +199434,12 @@
             "totalSeconds": 299
           },
           {
+            "videoId": "YkADj0TPrJA",
+            "title": "Phil Collins - In The Air Tonight (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 294
+          },
+          {
             "videoId": "eyb2NtPwcxc",
             "title": "「OIRAN」(YouTube ver.) / NEMOPHILA",
             "count": 1,
@@ -199402,6 +199524,12 @@
             "totalSeconds": 258
           },
           {
+            "videoId": "1k8craCGpgs",
+            "title": "Journey - Don't Stop Believin' (Official Audio)",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
             "videoId": "jxiN0TP16Fs",
             "title": "A Korean girl went to a karaoke!! She sang a kpop song.",
             "count": 1,
@@ -199412,6 +199540,12 @@
             "title": "Karina Pasian - Slow Motion - LOWER Key (Piano Karaoke Instrumental)",
             "count": 1,
             "totalSeconds": 247
+          },
+          {
+            "videoId": "OOM6TiWJdps",
+            "title": "Prince - Purple Rain (Lyrics)",
+            "count": 1,
+            "totalSeconds": 246
           },
           {
             "videoId": "BgYwnUs6Ufg",
@@ -209824,6 +209958,158 @@
         ]
       },
       {
+        "username": "renato_2154",
+        "totalRequests": 25,
+        "totalSeconds": 4698,
+        "topSongs": [
+          {
+            "videoId": "SiQzf2MyHl0",
+            "title": "Jjiniya (찐이야)",
+            "count": 2,
+            "totalSeconds": 384
+          },
+          {
+            "videoId": "NNiTxUEnmKI",
+            "title": "The Final Countdown",
+            "count": 1,
+            "totalSeconds": 309
+          },
+          {
+            "videoId": "5f9JV9R34B0",
+            "title": "Champions",
+            "count": 1,
+            "totalSeconds": 255
+          },
+          {
+            "videoId": "DwRndYRTuyw",
+            "title": "Dionysus",
+            "count": 1,
+            "totalSeconds": 250
+          },
+          {
+            "videoId": "zi3hItzxRwg",
+            "title": "Livin' On A Prayer",
+            "count": 1,
+            "totalSeconds": 249
+          },
+          {
+            "videoId": "RCYDsNxdWkA",
+            "title": "MIC Drop",
+            "count": 1,
+            "totalSeconds": 239
+          },
+          {
+            "videoId": "RBaSiVjtKR4",
+            "title": "Body to Body",
+            "count": 1,
+            "totalSeconds": 190
+          },
+          {
+            "videoId": "LBhcqYqeu0U",
+            "title": "LEMONADE",
+            "count": 1,
+            "totalSeconds": 187
+          },
+          {
+            "videoId": "8IoB2N8N5hM",
+            "title": "BLACKHOLE",
+            "count": 1,
+            "totalSeconds": 182
+          },
+          {
+            "videoId": "KyF0AMcunVg",
+            "title": "Switchblade (feat. Ty Dolla $ign)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "Qye9VHIv6qM",
+            "title": "NORMAL (Explicit Ver.)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "QWDayFgPDjQ",
+            "title": "FYA",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "SpkOesMnW9U",
+            "title": "Hooligan",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "TfAiFxoXVlE",
+            "title": "BANG BANG",
+            "count": 1,
+            "totalSeconds": 179
+          },
+          {
+            "videoId": "Gy32XOFT2ww",
+            "title": "BOOMPALA",
+            "count": 1,
+            "totalSeconds": 177
+          },
+          {
+            "videoId": "QSw4GnxCzdc",
+            "title": "tier4 - 'Summer Fire'🎵M/V(Yunicorn19, HAchubby, Jinnytty, Yuggie_TV)",
+            "count": 1,
+            "totalSeconds": 174
+          },
+          {
+            "videoId": "3N1k6ir55-Y",
+            "title": "Please",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "EC9_h_elSAY",
+            "title": "Aliens",
+            "count": 1,
+            "totalSeconds": 168
+          },
+          {
+            "videoId": "w0t18LgzTSA",
+            "title": "KISS N TELL",
+            "count": 1,
+            "totalSeconds": 165
+          },
+          {
+            "videoId": "TfzU9XOEnkk",
+            "title": "they don't know 'bout us",
+            "count": 1,
+            "totalSeconds": 165
+          },
+          {
+            "videoId": "esBNCgyf4Lc",
+            "title": "SWIM",
+            "count": 1,
+            "totalSeconds": 160
+          },
+          {
+            "videoId": "XDzGoMtSqZA",
+            "title": "It's Me",
+            "count": 1,
+            "totalSeconds": 139
+          },
+          {
+            "videoId": "ArHGiOxYwHM",
+            "title": "진 (Jin) ‘슈퍼 참치 (Super Tuna)’ Special Video",
+            "count": 1,
+            "totalSeconds": 131
+          },
+          {
+            "videoId": "-hILbsSiv3g",
+            "title": "SSIBAL REMIX AUGUST D SUGA DDAY TOUR CONCERT IN SEOUL FINAL DAY 3",
+            "count": 1,
+            "totalSeconds": 104
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "prayforsound",
         "totalRequests": 24,
         "totalSeconds": 4807,
@@ -210151,152 +210437,6 @@
             "date": "2025-11-11T21:47:12.726Z"
           }
         ]
-      },
-      {
-        "username": "renato_2154",
-        "totalRequests": 24,
-        "totalSeconds": 4449,
-        "topSongs": [
-          {
-            "videoId": "SiQzf2MyHl0",
-            "title": "Jjiniya (찐이야)",
-            "count": 2,
-            "totalSeconds": 384
-          },
-          {
-            "videoId": "NNiTxUEnmKI",
-            "title": "The Final Countdown",
-            "count": 1,
-            "totalSeconds": 309
-          },
-          {
-            "videoId": "5f9JV9R34B0",
-            "title": "Champions",
-            "count": 1,
-            "totalSeconds": 255
-          },
-          {
-            "videoId": "DwRndYRTuyw",
-            "title": "Dionysus",
-            "count": 1,
-            "totalSeconds": 250
-          },
-          {
-            "videoId": "RCYDsNxdWkA",
-            "title": "MIC Drop",
-            "count": 1,
-            "totalSeconds": 239
-          },
-          {
-            "videoId": "RBaSiVjtKR4",
-            "title": "Body to Body",
-            "count": 1,
-            "totalSeconds": 190
-          },
-          {
-            "videoId": "LBhcqYqeu0U",
-            "title": "LEMONADE",
-            "count": 1,
-            "totalSeconds": 187
-          },
-          {
-            "videoId": "8IoB2N8N5hM",
-            "title": "BLACKHOLE",
-            "count": 1,
-            "totalSeconds": 182
-          },
-          {
-            "videoId": "KyF0AMcunVg",
-            "title": "Switchblade (feat. Ty Dolla $ign)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "Qye9VHIv6qM",
-            "title": "NORMAL (Explicit Ver.)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "QWDayFgPDjQ",
-            "title": "FYA",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "SpkOesMnW9U",
-            "title": "Hooligan",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "TfAiFxoXVlE",
-            "title": "BANG BANG",
-            "count": 1,
-            "totalSeconds": 179
-          },
-          {
-            "videoId": "Gy32XOFT2ww",
-            "title": "BOOMPALA",
-            "count": 1,
-            "totalSeconds": 177
-          },
-          {
-            "videoId": "QSw4GnxCzdc",
-            "title": "tier4 - 'Summer Fire'🎵M/V(Yunicorn19, HAchubby, Jinnytty, Yuggie_TV)",
-            "count": 1,
-            "totalSeconds": 174
-          },
-          {
-            "videoId": "3N1k6ir55-Y",
-            "title": "Please",
-            "count": 1,
-            "totalSeconds": 171
-          },
-          {
-            "videoId": "EC9_h_elSAY",
-            "title": "Aliens",
-            "count": 1,
-            "totalSeconds": 168
-          },
-          {
-            "videoId": "w0t18LgzTSA",
-            "title": "KISS N TELL",
-            "count": 1,
-            "totalSeconds": 165
-          },
-          {
-            "videoId": "TfzU9XOEnkk",
-            "title": "they don't know 'bout us",
-            "count": 1,
-            "totalSeconds": 165
-          },
-          {
-            "videoId": "esBNCgyf4Lc",
-            "title": "SWIM",
-            "count": 1,
-            "totalSeconds": 160
-          },
-          {
-            "videoId": "XDzGoMtSqZA",
-            "title": "It's Me",
-            "count": 1,
-            "totalSeconds": 139
-          },
-          {
-            "videoId": "ArHGiOxYwHM",
-            "title": "진 (Jin) ‘슈퍼 참치 (Super Tuna)’ Special Video",
-            "count": 1,
-            "totalSeconds": 131
-          },
-          {
-            "videoId": "-hILbsSiv3g",
-            "title": "SSIBAL REMIX AUGUST D SUGA DDAY TOUR CONCERT IN SEOUL FINAL DAY 3",
-            "count": 1,
-            "totalSeconds": 104
-          }
-        ],
-        "messages": []
       },
       {
         "username": "loved_by_aII",
@@ -219980,5 +220120,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-13T09:07:46.557Z"
+  "lastUpdated": "2026-08-14T09:04:09.418Z"
 }
