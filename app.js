@@ -224,7 +224,7 @@ function reRenderTable(dataset, currentCount, sortState, tbodySelector, createRo
 
 function renderData(data) {
     if (data.lastUpdated) {
-        document.getElementById('last-updated').textContent = `Last updated: ${new Date(data.lastUpdated).toLocaleString()}`;
+        document.getElementById('last-updated').textContent = `Last updated: ${new Date(data.lastUpdated).toLocaleString('en-US', { timeZone: 'America/Chicago', timeZoneName: 'short' })}`;
     }
 
     // Render Global Stats
