@@ -150,16 +150,34 @@ function renderMoreGlobalSongs() {
 
 
 function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, searchField, isSongs) {
-    const query = event.target.value.toLowerCase();
+    const rawQuery = event.target.value;
+    const parsedQuery = parseSearchQuery(rawQuery);
     const tbody = document.querySelector(tbodySelector);
     const showMoreContainer = document.getElementById(showMoreId);
 
     tbody.innerHTML = '';
 
-    if (query) {
+    if (rawQuery.trim().length > 0) {
         let filteredData = dataset.filter(item => {
             const val = item[searchField];
-            return val ? val.toLowerCase().includes(query) : false;
+            if (!val) return false;
+
+            const text = val.toLowerCase();
+
+            if (parsedQuery.type === 'exact_phrase') {
+                return text.includes(parsedQuery.term.toLowerCase());
+            } else if (parsedQuery.type === 'whole_fuzzy') {
+                return fuzzyMatch(parsedQuery.term, text);
+            } else {
+                for (let termObj of parsedQuery.terms) {
+                    if (termObj.type === 'exact') {
+                        if (!text.includes(termObj.term.toLowerCase())) return false;
+                    } else if (termObj.type === 'fuzzy') {
+                        if (!fuzzyMatch(termObj.term, text)) return false;
+                    }
+                }
+                return true;
+            }
         });
 
         // Apply current sort on search results
@@ -420,4 +438,74 @@ function escapeHtml(unsafe) {
          .replace(/>/g, "&gt;")
          .replace(/"/g, "&quot;")
          .replace(/'/g, "&#039;");
+}
+
+function parseSearchQuery(query) {
+    query = query.trim();
+    if (query.startsWith('*"') && query.endsWith('"*') && query.length >= 4) {
+        return { type: 'whole_fuzzy', term: query.slice(2, -2) };
+    }
+    if (query.startsWith('"') && query.endsWith('"') && query.length >= 2) {
+        return { type: 'exact_phrase', term: query.slice(1, -1) };
+    }
+
+    let isGlobalFuzzy = false;
+    if (query.startsWith('*') && query.endsWith('*') && query.length >= 2) {
+        isGlobalFuzzy = true;
+        query = query.slice(1, -1);
+    }
+
+    const words = query.split(/\s+/).filter(w => w.length > 0);
+    const terms = words.map(word => {
+        let isFuzzy = isGlobalFuzzy;
+        let w = word;
+
+        if (!isGlobalFuzzy && w.startsWith('*') && w.endsWith('*') && w.length >= 2) {
+            isFuzzy = true;
+            w = w.slice(1, -1);
+        }
+
+        return { type: isFuzzy ? 'fuzzy' : 'exact', term: w };
+    });
+
+    return { type: 'words', terms: terms };
+}
+
+function fuzzyMatch(pattern, text) {
+    if (pattern.length === 0) return true;
+    if (text.length === 0) return false;
+
+    pattern = pattern.toLowerCase();
+    text = text.toLowerCase();
+
+    let maxErrors = 0;
+    if (pattern.length <= 3) maxErrors = 0;
+    else if (pattern.length <= 5) maxErrors = 1;
+    else maxErrors = 2;
+
+    const m = pattern.length;
+    const n = text.length;
+
+    let dp1 = new Array(m + 1).fill(0).map((_, i) => i);
+
+    let minGlobalError = m;
+
+    for (let j = 1; j <= n; j++) {
+        let nextDp = new Array(m + 1).fill(0);
+        nextDp[0] = 0;
+
+        for (let i = 1; i <= m; i++) {
+            let cost = (pattern[i - 1] === text[j - 1]) ? 0 : 1;
+            nextDp[i] = Math.min(
+                dp1[i] + 1,       // Deletion
+                nextDp[i - 1] + 1, // Insertion
+                dp1[i - 1] + cost   // Substitution
+            );
+        }
+        dp1 = nextDp;
+        minGlobalError = Math.min(minGlobalError, dp1[m]);
+        if (minGlobalError <= maxErrors) return true;
+    }
+
+    return minGlobalError <= maxErrors;
 }
