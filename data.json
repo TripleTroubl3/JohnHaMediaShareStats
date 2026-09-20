@@ -1,6 +1,694 @@
 {
   "rawHistory": [
     {
+      "_id": "6aaf4b9c5038cbf3788a714f",
+      "song": {
+        "videoId": "wefpMEZD2vA",
+        "title": "포미닛_오늘 뭐해 (Whatcha Doin' Today  by 4MINUTE of M COUNTDOWN 2014.3.20)",
+        "duration": 210,
+        "start": 0,
+        "end": 210,
+        "channel": "Mnet TV",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "LYonZY",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1824632,
+          "likeCount": 9607,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf49b6ba61111fb8cf3172"
+      },
+      "createdAt": "2026-09-20T02:57:32.339Z"
+    },
+    {
+      "_id": "6aaf4aac4a5adfdd749cd5cf",
+      "song": {
+        "videoId": "5NZsCYOM4j0",
+        "title": "Stabbing Westward - Save Yourself",
+        "duration": 228,
+        "start": 0,
+        "end": 228,
+        "channel": "StabbingWestwardVEVO",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 13924691,
+          "likeCount": 126777,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf49b05038cbf3788a1ce2"
+      },
+      "createdAt": "2026-09-20T02:53:32.683Z"
+    },
+    {
+      "_id": "6aaf49b94a5adfdd749cb5f4",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 264833,
+          "likeCount": 697,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf471e8cfe787a0da43d07"
+      },
+      "createdAt": "2026-09-20T02:49:29.994Z"
+    },
+    {
+      "_id": "6aaf4983ba61111fb8cf1cf5",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel",
+          "providerId": "21662669"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 70284,
+          "likeCount": 255,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf471c96b28911c94c7b38"
+      },
+      "createdAt": "2026-09-20T02:48:35.810Z"
+    },
+    {
+      "_id": "6aaf49578cfe787a0da4a9e9",
+      "song": {
+        "videoId": "zE9h0ElJj1M",
+        "title": "Thin Lizzy - The Boys Are Back In Town (Sight And Sound In Concert, January 26, 1983)",
+        "duration": 283,
+        "start": 0,
+        "end": 283,
+        "channel": "Thin Lizzy Official",
+        "amount": 10,
+        "message": "best Irish band, r.i.p phil",
+        "user": {
+          "username": "LYonZY",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 204959,
+          "likeCount": 3964,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf44e78cfe787a0da3b826"
+      },
+      "createdAt": "2026-09-20T02:47:51.398Z"
+    },
+    {
+      "_id": "6aaf4782ba61111fb8cee491",
+      "song": {
+        "videoId": "eB3eXQOUvA8",
+        "title": "GTA Vice City Theme",
+        "duration": 125,
+        "start": 0,
+        "end": 125,
+        "channel": "InstrumentManiac",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "Shiv26",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 3492767,
+          "likeCount": 113404,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf43068cfe787a0da36815"
+      },
+      "createdAt": "2026-09-20T02:40:02.855Z"
+    },
+    {
+      "_id": "6aaf46fd4a5adfdd749c365b",
+      "song": {
+        "videoId": "KmWE9UBFwtY",
+        "title": "Europe - Carrie (Official Video)",
+        "duration": 271,
+        "start": 0,
+        "end": 271,
+        "channel": "EuropeVEVO",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "DanHalen_",
+          "providerId": "",
+          "subscriber": false
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 301186703,
+          "likeCount": 1401124,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf4084a94a9f5442c39fa7"
+      },
+      "createdAt": "2026-09-20T02:37:49.637Z"
+    },
+    {
+      "_id": "6aaf45c396b28911c94c4dbb",
+      "song": {
+        "videoId": "1mjlM_RnsVE",
+        "title": "Skillet - Monster (Official Video)",
+        "duration": 187,
+        "start": 0,
+        "end": 187,
+        "channel": "Atlantic Records",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "peterwt",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 562272975,
+          "likeCount": 4755275,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf404796b28911c94b275f"
+      },
+      "createdAt": "2026-09-20T02:32:35.305Z"
+    },
+    {
+      "_id": "6aaf44f68cfe787a0da3b908",
+      "song": {
+        "videoId": "howljt9SagY",
+        "title": "[MV] WILD WILD (와일드 와일드) - Boiler Room",
+        "duration": 185,
+        "start": 0,
+        "end": 185,
+        "channel": "OGAM Entertainment",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "JadaMaru",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 5798445,
+          "likeCount": 217056,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf4006a94a9f5442c3915e"
+      },
+      "createdAt": "2026-09-20T02:29:10.565Z"
+    },
+    {
+      "_id": "6aaf4424ba61111fb8ce5653",
+      "song": {
+        "videoId": "e3-5YC_oHjE",
+        "title": "U2 - I Still Haven't Found What I'm Looking For (Official Music Video)",
+        "duration": 276,
+        "start": 0,
+        "end": 276,
+        "channel": "U2VEVO",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "uberkrn",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 271106245,
+          "likeCount": 1414587,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf40005829a4b206e1cd4b"
+      },
+      "createdAt": "2026-09-20T02:25:40.141Z"
+    },
+    {
+      "_id": "6aaf42feba61111fb8ce3373",
+      "song": {
+        "videoId": "qnVCMHYEZnI",
+        "title": "Apocalypse PS1 Soundtrack - #7 Plague (HD) (Poe - Control)",
+        "duration": 223,
+        "start": 0,
+        "end": 223,
+        "channel": "Panda Gemini",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "trent_raz0r",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 72720,
+          "likeCount": 983,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3ff996b28911c94b1eec"
+      },
+      "createdAt": "2026-09-20T02:20:46.581Z"
+    },
+    {
+      "_id": "6aaf4200ba61111fb8cdff70",
+      "song": {
+        "videoId": "gGNfaRMS75k",
+        "title": "Hotline Miami Soundtrack ~ Perturbator",
+        "duration": 277,
+        "start": 0,
+        "end": 277,
+        "channel": "Zektrum",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1546043,
+          "likeCount": 11977,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3f135829a4b206e184dd"
+      },
+      "createdAt": "2026-09-20T02:16:32.228Z"
+    },
+    {
+      "_id": "6aaf40e296b28911c94b3c61",
+      "song": {
+        "videoId": "E3xbLcTj_bs",
+        "title": "Genesis - Tonight, Tonight, Tonight (Official Music Video)",
+        "duration": 379,
+        "start": 0,
+        "end": 379,
+        "channel": "Genesis",
+        "amount": 12,
+        "message": "",
+        "user": {
+          "username": "mousnot",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2629193,
+          "likeCount": 25506,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3ef2ba61111fb8cd392b"
+      },
+      "createdAt": "2026-09-20T02:11:46.502Z"
+    },
+    {
+      "_id": "6aaf3f5c4a5adfdd749b19a7",
+      "song": {
+        "videoId": "xPU8OAjjS4k",
+        "title": "3 Doors Down - Kryptonite (Official Video)",
+        "duration": 235,
+        "start": 0,
+        "end": 235,
+        "channel": "3DoorsDownVEVO",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "peterwt",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 582429224,
+          "likeCount": 2285633,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3d3bba61111fb8ccd21e"
+      },
+      "createdAt": "2026-09-20T02:05:16.501Z"
+    },
+    {
+      "_id": "6aaf3e68a94a9f5442c332ef",
+      "song": {
+        "videoId": "vWD7k6TrJ-g",
+        "title": "Chromatics - Tick Of The Clock",
+        "duration": 289,
+        "start": 0,
+        "end": 289,
+        "channel": "Hey Shmoley!",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 20776453,
+          "likeCount": 133675,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3d13ba61111fb8ccca00"
+      },
+      "createdAt": "2026-09-20T02:01:12.470Z"
+    },
+    {
+      "_id": "6aaf3d318cfe787a0da21a7a",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 264832,
+          "likeCount": 697,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3bd58cfe787a0da1dcae"
+      },
+      "createdAt": "2026-09-20T01:56:01.189Z"
+    },
+    {
+      "_id": "6aaf3bee8cfe787a0da1dd8e",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 70282,
+          "likeCount": 255,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf3bd296b28911c94a5e6f"
+      },
+      "createdAt": "2026-09-20T01:50:38.488Z"
+    },
+    {
+      "_id": "6aaf3bd84a5adfdd749a5df8",
+      "song": {
+        "videoId": "Qt6Y9_7QeHQ",
+        "title": "JENNIE (제니) 'Fallen Angel' (Color Coded Lyrics)",
+        "duration": 197,
+        "channel": "Jaeguchi",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 469069,
+          "likeCount": 5298,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf333e4a5adfdd7498de89"
+      },
+      "createdAt": "2026-09-20T01:50:16.706Z"
+    },
+    {
+      "_id": "6aaf33401d2194471eb8ccf0",
+      "song": {
+        "videoId": "pZ1NdE69VTs",
+        "title": "ROSÉ - number one girl (official music video)",
+        "duration": 218,
+        "channel": "ROSÉ",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 160007478,
+          "likeCount": 2714009,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf2f088cfe787a0d9f74e1"
+      },
+      "createdAt": "2026-09-20T01:13:36.556Z"
+    },
+    {
+      "_id": "6aaf30355829a4b206deac19",
+      "song": {
+        "videoId": "Ut1OzEVUiM4",
+        "title": "Red Velvet 레드벨벳 'Birthday' MV",
+        "duration": 245,
+        "start": 0,
+        "end": 245,
+        "channel": "SMTOWN",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 37055845,
+          "likeCount": 869978,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf2f06c17a98763742229a"
+      },
+      "createdAt": "2026-09-20T01:00:37.812Z"
+    },
+    {
+      "_id": "6aaf2f354a5adfdd74980ba1",
+      "song": {
+        "videoId": "R9At2ICm4LQ",
+        "title": "Red Velvet 레드벨벳 'Feel My Rhythm' MV",
+        "duration": 238,
+        "start": 0,
+        "end": 238,
+        "channel": "SMTOWN",
+        "amount": 8,
+        "message": "",
+        "user": {
+          "username": "zimm_zimm",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 91372393,
+          "likeCount": 2397251,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf2d315829a4b206de3497"
+      },
+      "createdAt": "2026-09-20T00:56:21.269Z"
+    },
+    {
+      "_id": "6aaf2deb96b28911c94812ab",
+      "song": {
+        "videoId": "Lufa9QAFFeY",
+        "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+        "duration": 182,
+        "channel": "ROSÉ",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 20436572,
+          "likeCount": 882925,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf2b7dc17a9876374188b9"
+      },
+      "createdAt": "2026-09-20T00:50:51.677Z"
+    },
+    {
+      "_id": "6aaf2b7e1d2194471eb7978d",
+      "song": {
+        "videoId": "RdUV9Ms5GM4",
+        "title": "IU 'Dear my crazy soulmate' MV",
+        "duration": 211,
+        "channel": "이지금 [IU Official]",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 24166201,
+          "likeCount": 241299,
+          "dislikeCount": 0
+        },
+        "_id": "6aaf2a83e0ef152093c19734"
+      },
+      "createdAt": "2026-09-20T00:40:30.515Z"
+    },
+    {
+      "_id": "6aaf2a8ee0ef152093c197b8",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 264351,
+          "likeCount": 697,
+          "dislikeCount": 0
+        },
+        "_id": "6aab4e9dca265123dd1c2e35"
+      },
+      "createdAt": "2026-09-20T00:36:30.956Z"
+    },
+    {
+      "_id": "6aaf2a858cfe787a0d9ec1e4",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 69822,
+          "likeCount": 256,
+          "dislikeCount": 0
+        },
+        "_id": "6aab4e9ba99ef9735a6967ac"
+      },
+      "createdAt": "2026-09-20T00:36:21.711Z"
+    },
+    {
+      "_id": "6aaf2a4a5829a4b206ddc2d9",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby",
+          "providerId": "195166073"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 264351,
+          "likeCount": 697,
+          "dislikeCount": 0
+        },
+        "_id": "6aab4b74e4cbdce689a35bdf"
+      },
+      "createdAt": "2026-09-20T00:35:22.505Z"
+    },
+    {
       "_id": "6aab4ea9ca265123dd1c356c",
       "song": {
         "videoId": "Ctehhk90kXA",
@@ -183852,8 +184540,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1347537,
-      "totalRequests": 5958,
+      "totalSeconds": 1351996,
+      "totalRequests": 5977,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -185434,6 +186122,12 @@
           "totalSeconds": 696
         },
         {
+          "videoId": "xPU8OAjjS4k",
+          "title": "3 Doors Down - Kryptonite (Official Video)",
+          "count": 3,
+          "totalSeconds": 695
+        },
+        {
           "videoId": "kfVsfOSbJY0",
           "title": "Rebecca Black - Friday",
           "count": 3,
@@ -186244,6 +186938,12 @@
           "totalSeconds": 579
         },
         {
+          "videoId": "vWD7k6TrJ-g",
+          "title": "Chromatics - Tick Of The Clock",
+          "count": 2,
+          "totalSeconds": 578
+        },
+        {
           "videoId": "p2FXQgtmPDw",
           "title": "Morissette performs \"Akin Ka Na Lang\" LIVE on Wish 107.5 Bus",
           "count": 2,
@@ -186952,12 +187652,6 @@
           "totalSeconds": 460
         },
         {
-          "videoId": "xPU8OAjjS4k",
-          "title": "3 Doors Down - Kryptonite (Official Video)",
-          "count": 2,
-          "totalSeconds": 460
-        },
-        {
           "videoId": "OJ62RzJkYUo",
           "title": "Pixies - Where Is My Mind? (Official Lyric Video)",
           "count": 2,
@@ -187228,6 +187922,12 @@
           "totalSeconds": 437
         },
         {
+          "videoId": "pZ1NdE69VTs",
+          "title": "ROSÉ - number one girl (official music video)",
+          "count": 2,
+          "totalSeconds": 436
+        },
+        {
           "videoId": "ysYyCElzB0A",
           "title": "Shanice - I Love Your Smile",
           "count": 2,
@@ -187442,6 +188142,12 @@
           "title": "Us Two (feat. Clacla, Iris Kymm, Katto404, Sriverz) [Lyric Video]",
           "count": 2,
           "totalSeconds": 420
+        },
+        {
+          "videoId": "wefpMEZD2vA",
+          "title": "포미닛_오늘 뭐해 (Whatcha Doin' Today  by 4MINUTE of M COUNTDOWN 2014.3.20)",
+          "count": 2,
+          "totalSeconds": 418
         },
         {
           "videoId": "0b09TUxBNgQ",
@@ -187756,6 +188462,12 @@
           "totalSeconds": 375
         },
         {
+          "videoId": "1mjlM_RnsVE",
+          "title": "Skillet - Monster (Official Video)",
+          "count": 2,
+          "totalSeconds": 374
+        },
+        {
           "videoId": "R6UcL3HfnII",
           "title": "Geese - Cobra",
           "count": 2,
@@ -187784,6 +188496,12 @@
           "title": "The Offspring - Why Don't You Get A Job? (Official Music Video)",
           "count": 2,
           "totalSeconds": 372
+        },
+        {
+          "videoId": "howljt9SagY",
+          "title": "[MV] WILD WILD (와일드 와일드) - Boiler Room",
+          "count": 2,
+          "totalSeconds": 370
         },
         {
           "videoId": "0vSxP3RwleU",
@@ -189794,6 +190512,12 @@
           "title": "Devil May Cry 5 OST - Devil Trigger - Full Game Edit",
           "count": 1,
           "totalSeconds": 380
+        },
+        {
+          "videoId": "E3xbLcTj_bs",
+          "title": "Genesis - Tonight, Tonight, Tonight (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 379
         },
         {
           "videoId": "OStfY_R2Nhs",
@@ -192898,12 +193622,6 @@
           "totalSeconds": 290
         },
         {
-          "videoId": "vWD7k6TrJ-g",
-          "title": "Chromatics - Tick Of The Clock",
-          "count": 1,
-          "totalSeconds": 289
-        },
-        {
           "videoId": "LOKIhefi9_w",
           "title": "Major Threat",
           "count": 1,
@@ -193336,6 +194054,12 @@
           "totalSeconds": 284
         },
         {
+          "videoId": "zE9h0ElJj1M",
+          "title": "Thin Lizzy - The Boys Are Back In Town (Sight And Sound In Concert, January 26, 1983)",
+          "count": 1,
+          "totalSeconds": 283
+        },
+        {
           "videoId": "IqD1Geojf0Y",
           "title": "黛青塔娜&HAYA樂團-迷路的羊羔",
           "count": 1,
@@ -193744,6 +194468,12 @@
           "totalSeconds": 278
         },
         {
+          "videoId": "gGNfaRMS75k",
+          "title": "Hotline Miami Soundtrack ~ Perturbator",
+          "count": 1,
+          "totalSeconds": 277
+        },
+        {
           "videoId": "vSyH7__qb0M",
           "title": "Janine Berdin - Friendship Over (Official Music Video)",
           "count": 1,
@@ -193790,6 +194520,12 @@
           "title": "You Can Have It All",
           "count": 1,
           "totalSeconds": 277
+        },
+        {
+          "videoId": "e3-5YC_oHjE",
+          "title": "U2 - I Still Haven't Found What I'm Looking For (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 276
         },
         {
           "videoId": "pQ65pizgD9I",
@@ -194084,6 +194820,12 @@
           "title": "Dr. Dre - Still D.R.E. ft. Snoop Dogg",
           "count": 1,
           "totalSeconds": 272
+        },
+        {
+          "videoId": "KmWE9UBFwtY",
+          "title": "Europe - Carrie (Official Video)",
+          "count": 1,
+          "totalSeconds": 271
         },
         {
           "videoId": "Ul6WFyTpR8E",
@@ -197206,6 +197948,12 @@
           "totalSeconds": 246
         },
         {
+          "videoId": "Ut1OzEVUiM4",
+          "title": "Red Velvet 레드벨벳 'Birthday' MV",
+          "count": 1,
+          "totalSeconds": 245
+        },
+        {
           "videoId": "9CNb6P-vcdM",
           "title": "Blue Water - Nadia: The Secret Of Blue Water Opening [Full]",
           "count": 1,
@@ -198716,6 +199464,12 @@
           "title": "Tame Impala - Is It True (Official Audio)",
           "count": 1,
           "totalSeconds": 239
+        },
+        {
+          "videoId": "R9At2ICm4LQ",
+          "title": "Red Velvet 레드벨벳 'Feel My Rhythm' MV",
+          "count": 1,
+          "totalSeconds": 238
         },
         {
           "videoId": "QvL--i2ICLU",
@@ -200440,6 +201194,12 @@
           "totalSeconds": 229
         },
         {
+          "videoId": "5NZsCYOM4j0",
+          "title": "Stabbing Westward - Save Yourself",
+          "count": 1,
+          "totalSeconds": 228
+        },
+        {
           "videoId": "UKmrgTlfdx8",
           "title": "ZOLA JESUS - EXHUMED (OFFICIAL VIDEO)",
           "count": 1,
@@ -201218,6 +201978,12 @@
           "title": "Charli XCX - Enemy [Official Vertical Video]",
           "count": 1,
           "totalSeconds": 224
+        },
+        {
+          "videoId": "qnVCMHYEZnI",
+          "title": "Apocalypse PS1 Soundtrack - #7 Plague (HD) (Poe - Control)",
+          "count": 1,
+          "totalSeconds": 223
         },
         {
           "videoId": "w3NyycHR3fE",
@@ -202036,12 +202802,6 @@
           "totalSeconds": 219
         },
         {
-          "videoId": "pZ1NdE69VTs",
-          "title": "ROSÉ - number one girl (official music video)",
-          "count": 1,
-          "totalSeconds": 218
-        },
-        {
           "videoId": "rp53irFjzYg",
           "title": "Groove Coverage - God is a Girl (Official Video)",
           "count": 1,
@@ -202772,6 +203532,12 @@
           "title": "Mansur Brown - Love Is Mine",
           "count": 1,
           "totalSeconds": 212
+        },
+        {
+          "videoId": "RdUV9Ms5GM4",
+          "title": "IU 'Dear my crazy soulmate' MV",
+          "count": 1,
+          "totalSeconds": 211
         },
         {
           "videoId": "zuuObGsB0No",
@@ -203756,12 +204522,6 @@
           "title": "Why is your name HAchubby?",
           "count": 1,
           "totalSeconds": 209
-        },
-        {
-          "videoId": "wefpMEZD2vA",
-          "title": "포미닛_오늘 뭐해 (Whatcha Doin' Today  by 4MINUTE of M COUNTDOWN 2014.3.20)",
-          "count": 1,
-          "totalSeconds": 208
         },
         {
           "videoId": "_wz3AaER2rQ",
@@ -205444,6 +206204,12 @@
           "totalSeconds": 198
         },
         {
+          "videoId": "Qt6Y9_7QeHQ",
+          "title": "JENNIE (제니) 'Fallen Angel' (Color Coded Lyrics)",
+          "count": 1,
+          "totalSeconds": 197
+        },
+        {
           "videoId": "72DGvh2i0A0",
           "title": "Wide Awake",
           "count": 1,
@@ -206854,12 +207620,6 @@
           "totalSeconds": 187
         },
         {
-          "videoId": "1mjlM_RnsVE",
-          "title": "Skillet - Monster (Official Video)",
-          "count": 1,
-          "totalSeconds": 187
-        },
-        {
           "videoId": "euu1topuEv0",
           "title": "We Will Rock You, Bossa Nova! Mashup (Elvis vs RHCP vs Queen vs Flo Rida vs Cee Lo Green)",
           "count": 1,
@@ -206990,12 +207750,6 @@
           "title": "Bicycling to Afghanistan",
           "count": 1,
           "totalSeconds": 186
-        },
-        {
-          "videoId": "howljt9SagY",
-          "title": "[MV] WILD WILD (와일드 와일드) - Boiler Room",
-          "count": 1,
-          "totalSeconds": 185
         },
         {
           "videoId": "AE1ct5yEuVY",
@@ -207224,6 +207978,12 @@
           "title": "이루리 Luli lee - 불꽃 Flame Official M/V",
           "count": 1,
           "totalSeconds": 183
+        },
+        {
+          "videoId": "Lufa9QAFFeY",
+          "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+          "count": 1,
+          "totalSeconds": 182
         },
         {
           "videoId": "1xQe5F4F7Bs",
@@ -211762,6 +212522,12 @@
           "totalSeconds": 126
         },
         {
+          "videoId": "eB3eXQOUvA8",
+          "title": "GTA Vice City Theme",
+          "count": 1,
+          "totalSeconds": 125
+        },
+        {
           "videoId": "fj1ClU7gRUU",
           "title": "HaIP",
           "count": 1,
@@ -214652,8 +215418,8 @@
     "users": [
       {
         "username": "trent_raz0r",
-        "totalRequests": 612,
-        "totalSeconds": 149962,
+        "totalRequests": 613,
+        "totalSeconds": 150185,
         "topSongs": [
           {
             "videoId": "MIEDxtjNfSs",
@@ -216766,6 +217532,12 @@
             "title": "Diana King - Shy Guy",
             "count": 1,
             "totalSeconds": 224
+          },
+          {
+            "videoId": "qnVCMHYEZnI",
+            "title": "Apocalypse PS1 Soundtrack - #7 Plague (HD) (Poe - Control)",
+            "count": 1,
+            "totalSeconds": 223
           },
           {
             "videoId": "W6nF4gCIfG0",
@@ -225120,8 +225892,8 @@
       },
       {
         "username": "hachubby",
-        "totalRequests": 211,
-        "totalSeconds": 48565,
+        "totalRequests": 215,
+        "totalSeconds": 49373,
         "topSongs": [
           {
             "videoId": "K0HSD_i2DvA",
@@ -225176,6 +225948,12 @@
             "title": "Elvis Presley - Amazing Grace (Official Audio) ft. The Royal Philharmonic Orchestra",
             "count": 2,
             "totalSeconds": 454
+          },
+          {
+            "videoId": "pZ1NdE69VTs",
+            "title": "ROSÉ - number one girl (official music video)",
+            "count": 2,
+            "totalSeconds": 436
           },
           {
             "videoId": "ONzuVds6hPE",
@@ -225706,12 +226484,6 @@
             "totalSeconds": 220
           },
           {
-            "videoId": "pZ1NdE69VTs",
-            "title": "ROSÉ - number one girl (official music video)",
-            "count": 1,
-            "totalSeconds": 218
-          },
-          {
             "videoId": "oOKAGpZ0c1k",
             "title": "Tier 4 - 'Bang Bang' M/V ( HAchubby, Jinnytty, Yuggie_TV, Yunicorn19 )",
             "count": 1,
@@ -225752,6 +226524,12 @@
             "title": "Red Velvet 레드벨벳 '러시안 룰렛 (Russian Roulette)' MV",
             "count": 1,
             "totalSeconds": 212
+          },
+          {
+            "videoId": "RdUV9Ms5GM4",
+            "title": "IU 'Dear my crazy soulmate' MV",
+            "count": 1,
+            "totalSeconds": 211
           },
           {
             "videoId": "3iM_06QeZi8",
@@ -225826,6 +226604,12 @@
             "totalSeconds": 198
           },
           {
+            "videoId": "Qt6Y9_7QeHQ",
+            "title": "JENNIE (제니) 'Fallen Angel' (Color Coded Lyrics)",
+            "count": 1,
+            "totalSeconds": 197
+          },
+          {
             "videoId": "BkLKEsh6tZU",
             "title": "IU '스물셋(Twenty-three)' MV (Performance Ver.)",
             "count": 1,
@@ -225890,6 +226674,12 @@
             "title": "Overworld Theme - Super Mario: World",
             "count": 1,
             "totalSeconds": 183
+          },
+          {
+            "videoId": "Lufa9QAFFeY",
+            "title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+            "count": 1,
+            "totalSeconds": 182
           },
           {
             "videoId": "LP1k0mwB1Gs",
@@ -229285,14 +230075,20 @@
       },
       {
         "username": "zimm_zimm",
-        "totalRequests": 146,
-        "totalSeconds": 34131,
+        "totalRequests": 151,
+        "totalSeconds": 35408,
         "topSongs": [
           {
             "videoId": "amycQ8q01qE",
             "title": "CHVRCHES - Leave A Trace (Goldroom Remix)",
             "count": 2,
             "totalSeconds": 600
+          },
+          {
+            "videoId": "vWD7k6TrJ-g",
+            "title": "Chromatics - Tick Of The Clock",
+            "count": 2,
+            "totalSeconds": 578
           },
           {
             "videoId": "ZpJ5IRqoxGE",
@@ -229397,12 +230193,6 @@
             "totalSeconds": 294
           },
           {
-            "videoId": "vWD7k6TrJ-g",
-            "title": "Chromatics - Tick Of The Clock",
-            "count": 1,
-            "totalSeconds": 289
-          },
-          {
             "videoId": "gqUJdcCjUIA",
             "title": "The Naked And Famous - Hearts Like Ours",
             "count": 1,
@@ -229425,6 +230215,12 @@
             "title": "Duran Duran - Ordinary World (Official Music Video)",
             "count": 1,
             "totalSeconds": 280
+          },
+          {
+            "videoId": "gGNfaRMS75k",
+            "title": "Hotline Miami Soundtrack ~ Perturbator",
+            "count": 1,
+            "totalSeconds": 277
           },
           {
             "videoId": "PvF9PAxe5Ng",
@@ -229601,6 +230397,12 @@
             "totalSeconds": 249
           },
           {
+            "videoId": "Ut1OzEVUiM4",
+            "title": "Red Velvet 레드벨벳 'Birthday' MV",
+            "count": 1,
+            "totalSeconds": 245
+          },
+          {
             "videoId": "3-UAKEJDOXw",
             "title": "Excision & Downlink - \"Robo Kitty\" [Official Upload]",
             "count": 1,
@@ -229635,6 +230437,12 @@
             "title": "Mandy Moore - Candy (Official Video)",
             "count": 1,
             "totalSeconds": 239
+          },
+          {
+            "videoId": "R9At2ICm4LQ",
+            "title": "Red Velvet 레드벨벳 'Feel My Rhythm' MV",
+            "count": 1,
+            "totalSeconds": 238
           },
           {
             "videoId": "p3j2NYZ8FKs",
@@ -229707,6 +230515,12 @@
             "title": "Phoebe Ryan - Ignition / Do You... (Mashup) (Official Video)",
             "count": 1,
             "totalSeconds": 229
+          },
+          {
+            "videoId": "5NZsCYOM4j0",
+            "title": "Stabbing Westward - Save Yourself",
+            "count": 1,
+            "totalSeconds": 228
           },
           {
             "videoId": "E1fzJ_AYajA",
@@ -236186,8 +237000,8 @@
       },
       {
         "username": "peterwt",
-        "totalRequests": 69,
-        "totalSeconds": 16694,
+        "totalRequests": 71,
+        "totalSeconds": 17116,
         "topSongs": [
           {
             "videoId": "olgEvtCjOgQ",
@@ -236202,10 +237016,22 @@
             "totalSeconds": 534
           },
           {
+            "videoId": "xPU8OAjjS4k",
+            "title": "3 Doors Down - Kryptonite (Official Video)",
+            "count": 2,
+            "totalSeconds": 460
+          },
+          {
             "videoId": "-k1N5ltDve0",
             "title": "HAchubby - It's End of the Stream PepeLaugh",
             "count": 2,
             "totalSeconds": 446
+          },
+          {
+            "videoId": "1mjlM_RnsVE",
+            "title": "Skillet - Monster (Official Video)",
+            "count": 2,
+            "totalSeconds": 374
           },
           {
             "videoId": "wRp-Bl_46HU",
@@ -236418,12 +237244,6 @@
             "totalSeconds": 228
           },
           {
-            "videoId": "xPU8OAjjS4k",
-            "title": "3 Doors Down - Kryptonite (Official Video)",
-            "count": 1,
-            "totalSeconds": 225
-          },
-          {
             "videoId": "p2tPDhUHHOQ",
             "title": "소향 (Sohyang) - '꽃비' MV",
             "count": 1,
@@ -236514,12 +237334,6 @@
             "totalSeconds": 193
           },
           {
-            "videoId": "1mjlM_RnsVE",
-            "title": "Skillet - Monster (Official Video)",
-            "count": 1,
-            "totalSeconds": 187
-          },
-          {
             "videoId": "g6jZoGT4sCk",
             "title": "AUDREY NUNA - Mine (Official Music Video)",
             "count": 1,
@@ -236601,8 +237415,8 @@
       },
       {
         "username": "DanHalen_",
-        "totalRequests": 69,
-        "totalSeconds": 12812,
+        "totalRequests": 70,
+        "totalSeconds": 13083,
         "topSongs": [
           {
             "videoId": "P9Bv0j31sec",
@@ -236717,6 +237531,12 @@
             "title": "Focus - Hocus Pocus Live '73",
             "count": 1,
             "totalSeconds": 278
+          },
+          {
+            "videoId": "KmWE9UBFwtY",
+            "title": "Europe - Carrie (Official Video)",
+            "count": 1,
+            "totalSeconds": 271
           },
           {
             "videoId": "IC-wDpwzEt4",
@@ -238225,9 +239045,15 @@
       },
       {
         "username": "LYonZY",
-        "totalRequests": 53,
-        "totalSeconds": 10926,
+        "totalRequests": 55,
+        "totalSeconds": 11419,
         "topSongs": [
+          {
+            "videoId": "wefpMEZD2vA",
+            "title": "포미닛_오늘 뭐해 (Whatcha Doin' Today  by 4MINUTE of M COUNTDOWN 2014.3.20)",
+            "count": 2,
+            "totalSeconds": 418
+          },
           {
             "videoId": "Cslu7zFmPjM",
             "title": "[FREE MATCH] Invisible Man vs. Invisible Stan | #JJSB3",
@@ -238263,6 +239089,12 @@
             "title": "train to the galaxy - AnnoyingBox",
             "count": 1,
             "totalSeconds": 300
+          },
+          {
+            "videoId": "zE9h0ElJj1M",
+            "title": "Thin Lizzy - The Boys Are Back In Town (Sight And Sound In Concert, January 26, 1983)",
+            "count": 1,
+            "totalSeconds": 283
           },
           {
             "videoId": "UxFhbqvEd2w",
@@ -238347,12 +239179,6 @@
             "title": "BTS - Black Swan (Medieval Cover / Bardcore)",
             "count": 1,
             "totalSeconds": 209
-          },
-          {
-            "videoId": "wefpMEZD2vA",
-            "title": "포미닛_오늘 뭐해 (Whatcha Doin' Today  by 4MINUTE of M COUNTDOWN 2014.3.20)",
-            "count": 1,
-            "totalSeconds": 208
           },
           {
             "videoId": "DrYJr1a47yE",
@@ -238549,6 +239375,11 @@
         ],
         "messages": [
           {
+            "videoId": "zE9h0ElJj1M",
+            "message": "best Irish band, r.i.p phil",
+            "date": "2026-09-20T02:47:51.398Z"
+          },
+          {
             "videoId": "q_eo5j5sib8",
             "message": "chart lets play a game. how many cuts do you count, i remember over 120 hafchupls",
             "date": "2026-09-17T02:02:53.921Z"
@@ -238642,11 +239473,6 @@
             "videoId": "M6Ggp3TJjuE",
             "message": "hachuDriving ",
             "date": "2026-08-11T18:07:20.311Z"
-          },
-          {
-            "videoId": "raE7uP2L1Vo",
-            "message": "forsen: You're listening to K-Rose, the home of classic country!",
-            "date": "2026-08-04T21:03:25.630Z"
           }
         ]
       },
@@ -238936,8 +239762,8 @@
       },
       {
         "username": "uberkrn",
-        "totalRequests": 46,
-        "totalSeconds": 8733,
+        "totalRequests": 47,
+        "totalSeconds": 9009,
         "topSongs": [
           {
             "videoId": "UYxRZh2usx4",
@@ -238956,6 +239782,12 @@
             "title": "서태지 ( Seotaiji ) -   난 알아요 (I know) ( '04  zero tour) (4K)",
             "count": 1,
             "totalSeconds": 279
+          },
+          {
+            "videoId": "e3-5YC_oHjE",
+            "title": "U2 - I Still Haven't Found What I'm Looking For (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 276
           },
           {
             "videoId": "UXNP1la_z9M",
@@ -241268,6 +242100,181 @@
         "messages": []
       },
       {
+        "username": "JadaMaru",
+        "totalRequests": 27,
+        "totalSeconds": 4522,
+        "topSongs": [
+          {
+            "videoId": "kBn_lQBh9JA",
+            "title": "Dance of the Dream Man (Instrumental)",
+            "count": 2,
+            "totalSeconds": 432
+          },
+          {
+            "videoId": "1wsJCsEgu2M",
+            "title": "Funkhauser",
+            "count": 1,
+            "totalSeconds": 420
+          },
+          {
+            "videoId": "9HZyn1TT3i4",
+            "title": "Tori Amos - Precious Things (Live at Glastonbury Festival 1998) [1080P Upscale, Remastered Audio]",
+            "count": 1,
+            "totalSeconds": 366
+          },
+          {
+            "videoId": "v6DNqjCyA20",
+            "title": "Bubblegum Crisis - OVA 1 - Konya wa Hurricane",
+            "count": 1,
+            "totalSeconds": 282
+          },
+          {
+            "videoId": "AdIgXD1-93U",
+            "title": "Tori Amos - Past the Mission (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
+            "videoId": "MwqPwEJ7m_I",
+            "title": "Delbert McClinton -Lone Star Blues-",
+            "count": 1,
+            "totalSeconds": 240
+          },
+          {
+            "videoId": "geQtv5z1QBY",
+            "title": "Gabrielle Aplin - Run for Cover | A Plague Tale: Innocence OST",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "Dg4S3NyzwF8",
+            "title": "How Japan Has a Beef With Foreign Tourists Now",
+            "count": 1,
+            "totalSeconds": 200
+          },
+          {
+            "videoId": "howljt9SagY",
+            "title": "[MV] WILD WILD (와일드 와일드) - Boiler Room",
+            "count": 1,
+            "totalSeconds": 185
+          },
+          {
+            "videoId": "BT6l6ZqxqUg",
+            "title": "Silversun Pickups - Ribbons and Detours",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "ex4SrdtvHwE",
+            "title": "'Golden' from 'Kpop Demon Hunters' Performed by Ejae, Audrey Nuna, and Rei Ami | 98th Oscars (2026)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "duEzMp0ZhEA",
+            "title": "You Spin Me Round (Like a Record)",
+            "count": 1,
+            "totalSeconds": 164
+          },
+          {
+            "videoId": "gNpi7MZl9AU",
+            "title": "Dove Cameron - Boyfriend (Lyrics) \"I could be a better boyfriend than him\"",
+            "count": 1,
+            "totalSeconds": 155
+          },
+          {
+            "videoId": "xMo7ugWudCA",
+            "title": "36 Baldur's Gate 3 Original Soundtrack - Raphael's Final Act",
+            "count": 1,
+            "totalSeconds": 150
+          },
+          {
+            "videoId": "MYcqToQzzGY",
+            "title": "The JeffersonsTheme Song",
+            "count": 1,
+            "totalSeconds": 129
+          },
+          {
+            "videoId": "_Nu7jd37-i0",
+            "title": "TES III: Morrowind Main Theme - Nerevar Rising - Cover by Dryante",
+            "count": 1,
+            "totalSeconds": 120
+          },
+          {
+            "videoId": "LAv-hW_rEkg",
+            "title": "Acapella / Vocal. \"Baldur's Gate III - Down By The River\"",
+            "count": 1,
+            "totalSeconds": 119
+          },
+          {
+            "videoId": "nJD-Ufi1jGk",
+            "title": "Morrowind Theme Song",
+            "count": 1,
+            "totalSeconds": 115
+          },
+          {
+            "videoId": "oAXrRWLKzko",
+            "title": "Ergo Proxy OP [HD]",
+            "count": 1,
+            "totalSeconds": 105
+          },
+          {
+            "videoId": "icOD6Lm08lg",
+            "title": "Fargo (TV series) OST - Wrench and Numbers",
+            "count": 1,
+            "totalSeconds": 105
+          },
+          {
+            "videoId": "_lCLP22sT2w",
+            "title": "Abba Dancing queen but is more thicc",
+            "count": 1,
+            "totalSeconds": 100
+          },
+          {
+            "videoId": "dMdt7RSCFBQ",
+            "title": "ABBA - Dancing Queen (playing over intercom in 1976 empty mall food court)",
+            "count": 1,
+            "totalSeconds": 100
+          },
+          {
+            "videoId": "h5L9-wNnPOA",
+            "title": "Mountain Dew Super Bowl Commercial (2025) Featuring SEAL And Becky G",
+            "count": 1,
+            "totalSeconds": 70
+          },
+          {
+            "videoId": "sPHyruEazuQ",
+            "title": "Mega rubber chicken for 1 hour",
+            "count": 1,
+            "totalSeconds": 60
+          },
+          {
+            "videoId": "umF4uIHsVhM",
+            "title": "screaming goat 1 hour",
+            "count": 1,
+            "totalSeconds": 60
+          },
+          {
+            "videoId": "OvsccePfM4k",
+            "title": "Full Metal Gachi",
+            "count": 1,
+            "totalSeconds": 24
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "oAXrRWLKzko",
+            "message": "What about this one",
+            "date": "2026-08-17T20:39:24.101Z"
+          },
+          {
+            "videoId": "dMdt7RSCFBQ",
+            "message": "Let's get the dancing started chat.",
+            "date": "2024-08-30T18:02:20.174Z"
+          }
+        ]
+      },
+      {
         "username": "hagggar",
         "totalRequests": 26,
         "totalSeconds": 5453,
@@ -241623,175 +242630,6 @@
             "videoId": "Bq_4sshF8D4",
             "message": "yep",
             "date": "2025-11-11T21:47:12.726Z"
-          }
-        ]
-      },
-      {
-        "username": "JadaMaru",
-        "totalRequests": 26,
-        "totalSeconds": 4337,
-        "topSongs": [
-          {
-            "videoId": "kBn_lQBh9JA",
-            "title": "Dance of the Dream Man (Instrumental)",
-            "count": 2,
-            "totalSeconds": 432
-          },
-          {
-            "videoId": "1wsJCsEgu2M",
-            "title": "Funkhauser",
-            "count": 1,
-            "totalSeconds": 420
-          },
-          {
-            "videoId": "9HZyn1TT3i4",
-            "title": "Tori Amos - Precious Things (Live at Glastonbury Festival 1998) [1080P Upscale, Remastered Audio]",
-            "count": 1,
-            "totalSeconds": 366
-          },
-          {
-            "videoId": "v6DNqjCyA20",
-            "title": "Bubblegum Crisis - OVA 1 - Konya wa Hurricane",
-            "count": 1,
-            "totalSeconds": 282
-          },
-          {
-            "videoId": "AdIgXD1-93U",
-            "title": "Tori Amos - Past the Mission (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 251
-          },
-          {
-            "videoId": "MwqPwEJ7m_I",
-            "title": "Delbert McClinton -Lone Star Blues-",
-            "count": 1,
-            "totalSeconds": 240
-          },
-          {
-            "videoId": "geQtv5z1QBY",
-            "title": "Gabrielle Aplin - Run for Cover | A Plague Tale: Innocence OST",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "Dg4S3NyzwF8",
-            "title": "How Japan Has a Beef With Foreign Tourists Now",
-            "count": 1,
-            "totalSeconds": 200
-          },
-          {
-            "videoId": "BT6l6ZqxqUg",
-            "title": "Silversun Pickups - Ribbons and Detours",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "ex4SrdtvHwE",
-            "title": "'Golden' from 'Kpop Demon Hunters' Performed by Ejae, Audrey Nuna, and Rei Ami | 98th Oscars (2026)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "duEzMp0ZhEA",
-            "title": "You Spin Me Round (Like a Record)",
-            "count": 1,
-            "totalSeconds": 164
-          },
-          {
-            "videoId": "gNpi7MZl9AU",
-            "title": "Dove Cameron - Boyfriend (Lyrics) \"I could be a better boyfriend than him\"",
-            "count": 1,
-            "totalSeconds": 155
-          },
-          {
-            "videoId": "xMo7ugWudCA",
-            "title": "36 Baldur's Gate 3 Original Soundtrack - Raphael's Final Act",
-            "count": 1,
-            "totalSeconds": 150
-          },
-          {
-            "videoId": "MYcqToQzzGY",
-            "title": "The JeffersonsTheme Song",
-            "count": 1,
-            "totalSeconds": 129
-          },
-          {
-            "videoId": "_Nu7jd37-i0",
-            "title": "TES III: Morrowind Main Theme - Nerevar Rising - Cover by Dryante",
-            "count": 1,
-            "totalSeconds": 120
-          },
-          {
-            "videoId": "LAv-hW_rEkg",
-            "title": "Acapella / Vocal. \"Baldur's Gate III - Down By The River\"",
-            "count": 1,
-            "totalSeconds": 119
-          },
-          {
-            "videoId": "nJD-Ufi1jGk",
-            "title": "Morrowind Theme Song",
-            "count": 1,
-            "totalSeconds": 115
-          },
-          {
-            "videoId": "oAXrRWLKzko",
-            "title": "Ergo Proxy OP [HD]",
-            "count": 1,
-            "totalSeconds": 105
-          },
-          {
-            "videoId": "icOD6Lm08lg",
-            "title": "Fargo (TV series) OST - Wrench and Numbers",
-            "count": 1,
-            "totalSeconds": 105
-          },
-          {
-            "videoId": "_lCLP22sT2w",
-            "title": "Abba Dancing queen but is more thicc",
-            "count": 1,
-            "totalSeconds": 100
-          },
-          {
-            "videoId": "dMdt7RSCFBQ",
-            "title": "ABBA - Dancing Queen (playing over intercom in 1976 empty mall food court)",
-            "count": 1,
-            "totalSeconds": 100
-          },
-          {
-            "videoId": "h5L9-wNnPOA",
-            "title": "Mountain Dew Super Bowl Commercial (2025) Featuring SEAL And Becky G",
-            "count": 1,
-            "totalSeconds": 70
-          },
-          {
-            "videoId": "sPHyruEazuQ",
-            "title": "Mega rubber chicken for 1 hour",
-            "count": 1,
-            "totalSeconds": 60
-          },
-          {
-            "videoId": "umF4uIHsVhM",
-            "title": "screaming goat 1 hour",
-            "count": 1,
-            "totalSeconds": 60
-          },
-          {
-            "videoId": "OvsccePfM4k",
-            "title": "Full Metal Gachi",
-            "count": 1,
-            "totalSeconds": 24
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "oAXrRWLKzko",
-            "message": "What about this one",
-            "date": "2026-08-17T20:39:24.101Z"
-          },
-          {
-            "videoId": "dMdt7RSCFBQ",
-            "message": "Let's get the dancing started chat.",
-            "date": "2024-08-30T18:02:20.174Z"
           }
         ]
       },
@@ -246831,6 +247669,50 @@
         ]
       },
       {
+        "username": "mousnot",
+        "totalRequests": 6,
+        "totalSeconds": 1676,
+        "topSongs": [
+          {
+            "videoId": "E3xbLcTj_bs",
+            "title": "Genesis - Tonight, Tonight, Tonight (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 379
+          },
+          {
+            "videoId": "sq-v18O93lE",
+            "title": "Turn The Page--Metallica",
+            "count": 1,
+            "totalSeconds": 373
+          },
+          {
+            "videoId": "hq0rZ3IiyWw",
+            "title": "Foo Fighters - Everlong",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
+            "videoId": "dX3k_QDnzHE",
+            "title": "M83 'Midnight City' Official video",
+            "count": 1,
+            "totalSeconds": 244
+          },
+          {
+            "videoId": "rhzmNRtIp8k",
+            "title": "Foo Fighters - Times Like These (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "7CUz7Ec7cWc",
+            "title": "hate that i made you love me",
+            "count": 1,
+            "totalSeconds": 198
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "VanishmentThisWorld",
         "totalRequests": 6,
         "totalSeconds": 1523,
@@ -247284,44 +248166,6 @@
             "title": "The Clash - Julie's Been Working for the Drug Squad (Remastered - Official Audio)",
             "count": 1,
             "totalSeconds": 180
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "mousnot",
-        "totalRequests": 5,
-        "totalSeconds": 1297,
-        "topSongs": [
-          {
-            "videoId": "sq-v18O93lE",
-            "title": "Turn The Page--Metallica",
-            "count": 1,
-            "totalSeconds": 373
-          },
-          {
-            "videoId": "hq0rZ3IiyWw",
-            "title": "Foo Fighters - Everlong",
-            "count": 1,
-            "totalSeconds": 251
-          },
-          {
-            "videoId": "dX3k_QDnzHE",
-            "title": "M83 'Midnight City' Official video",
-            "count": 1,
-            "totalSeconds": 244
-          },
-          {
-            "videoId": "rhzmNRtIp8k",
-            "title": "Foo Fighters - Times Like These (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "7CUz7Ec7cWc",
-            "title": "hate that i made you love me",
-            "count": 1,
-            "totalSeconds": 198
           }
         ],
         "messages": []
@@ -248027,6 +248871,38 @@
         ]
       },
       {
+        "username": "Shiv26",
+        "totalRequests": 4,
+        "totalSeconds": 711,
+        "topSongs": [
+          {
+            "videoId": "wmin5WkOuPw",
+            "title": "The Prodigy - Firestarter (Official Video)",
+            "count": 1,
+            "totalSeconds": 226
+          },
+          {
+            "videoId": "lu9Ylxc0IZM",
+            "title": "Sabrina Carpenter - Looking at Me (Audio Only)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "xIejjXv7GOA",
+            "title": "keylimepie feat. HAchubby - Lemons And Tangerines (mix your colors edit)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "eB3eXQOUvA8",
+            "title": "GTA Vice City Theme",
+            "count": 1,
+            "totalSeconds": 125
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "gr8mate",
         "totalRequests": 4,
         "totalSeconds": 708,
@@ -248616,32 +249492,6 @@
             "date": "2026-06-11T20:53:21.824Z"
           }
         ]
-      },
-      {
-        "username": "Shiv26",
-        "totalRequests": 3,
-        "totalSeconds": 586,
-        "topSongs": [
-          {
-            "videoId": "wmin5WkOuPw",
-            "title": "The Prodigy - Firestarter (Official Video)",
-            "count": 1,
-            "totalSeconds": 226
-          },
-          {
-            "videoId": "lu9Ylxc0IZM",
-            "title": "Sabrina Carpenter - Looking at Me (Audio Only)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "xIejjXv7GOA",
-            "title": "keylimepie feat. HAchubby - Lemons And Tangerines (mix your colors edit)",
-            "count": 1,
-            "totalSeconds": 180
-          }
-        ],
-        "messages": []
       },
       {
         "username": "dinosaursaregood",
@@ -252524,5 +253374,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-19T12:14:42.437Z"
+  "lastUpdated": "2026-09-20T12:49:19.879Z"
 }
