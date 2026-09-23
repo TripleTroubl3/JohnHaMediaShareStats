@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 function setupEventListeners() {
+    setupColorChooser();
     const showMoreSongsBtn = document.getElementById('show-more-songs');
     if (showMoreSongsBtn) {
         showMoreSongsBtn.addEventListener('click', () => {
@@ -508,4 +509,40 @@ function fuzzyMatch(pattern, text) {
     }
 
     return minGlobalError <= maxErrors;
+}
+
+function setupColorChooser() {
+    const bubbles = document.querySelectorAll('.color-bubble');
+    if (!bubbles.length) return;
+
+    // Load saved color or default to #C41D48
+    const savedColor = localStorage.getItem('preferredAccentColor') || '#C41D48';
+
+    function setAccentColor(color, hoverColor) {
+        document.documentElement.style.setProperty('--accent-color', color);
+        document.documentElement.style.setProperty('--accent-hover', hoverColor);
+
+        bubbles.forEach(bubble => {
+            const bColor = bubble.getAttribute('data-color');
+            bubble.style.backgroundColor = bColor;
+            if (bColor.toLowerCase() === color.toLowerCase()) {
+                bubble.classList.add('active');
+            } else {
+                bubble.classList.remove('active');
+            }
+        });
+    }
+
+    // Find initial matching bubble or default to first
+    let initialBubble = Array.from(bubbles).find(b => b.getAttribute('data-color').toLowerCase() === savedColor.toLowerCase()) || bubbles[0];
+    setAccentColor(initialBubble.getAttribute('data-color'), initialBubble.getAttribute('data-hover'));
+
+    bubbles.forEach(bubble => {
+        bubble.addEventListener('click', () => {
+            const color = bubble.getAttribute('data-color');
+            const hover = bubble.getAttribute('data-hover');
+            setAccentColor(color, hover);
+            localStorage.setItem('preferredAccentColor', color);
+        });
+    });
 }

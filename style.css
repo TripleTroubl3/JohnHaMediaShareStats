@@ -2,8 +2,8 @@
     --bg-color: #121212;
     --card-bg: #1e1e1e;
     --text-color: #e0e0e0;
-    --accent-color: #bb86fc;
-    --accent-hover: #9965f4;
+    --accent-color: #C41D48;
+    --accent-hover: #9E1639;
     --border-color: #333;
     --tooltip-bg: #333;
     --tooltip-text: #fff;
@@ -25,10 +25,36 @@ body {
 }
 
 header {
+    position: relative;
     text-align: center;
     margin-bottom: 40px;
     padding-bottom: 20px;
     border-bottom: 1px solid var(--border-color);
+}
+
+.color-chooser {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.color-bubble {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    cursor: pointer;
+    padding: 0;
+    outline: none;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.color-bubble.active {
+    border-color: #ffffff;
+    box-shadow: 0 0 4px rgba(255, 255, 255, 0.6);
 }
 
 h1, h2, h3 {
