@@ -1,6 +1,254 @@
 {
   "rawHistory": [
     {
+      "_id": "6ac860bdd141a822f61425ae",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 267385,
+          "likeCount": 699,
+          "dislikeCount": 0
+        },
+        "_id": "6ac8607d24507f0a4331a1ef"
+      },
+      "createdAt": "2026-10-09T03:34:21.912Z"
+    },
+    {
+      "_id": "6ac860aa6b77fea3bba98e68",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "hachubby"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 73435,
+          "likeCount": 261,
+          "dislikeCount": 0
+        },
+        "_id": "6ac8607b24507f0a4331a1d3"
+      },
+      "createdAt": "2026-10-09T03:34:02.413Z"
+    },
+    {
+      "_id": "6ac8608ad141a822f6141d79",
+      "song": {
+        "videoId": "6VOu-Zq1L1M",
+        "title": "Enough Space",
+        "duration": 157,
+        "start": 0,
+        "end": 157,
+        "channel": "Foo Fighters - Topic",
+        "amount": 6,
+        "message": "wake up music",
+        "user": {
+          "username": "snakebeatr",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1016062,
+          "likeCount": 12004,
+          "dislikeCount": 0
+        },
+        "_id": "6ac85cbd6b77fea3bba8e235"
+      },
+      "createdAt": "2026-10-09T03:33:30.467Z"
+    },
+    {
+      "_id": "6ac85ccc8ff1dac0ef64bbf0",
+      "song": {
+        "videoId": "BfrUQA2tb6M",
+        "title": "Eminence Front",
+        "duration": 340,
+        "start": 0,
+        "end": 340,
+        "channel": "The Who - Topic",
+        "amount": 11,
+        "message": "",
+        "user": {
+          "username": "mousnot",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 35033675,
+          "likeCount": 246599,
+          "dislikeCount": 0
+        },
+        "_id": "6ac859b2d141a822f612e545"
+      },
+      "createdAt": "2026-10-09T03:17:32.548Z"
+    },
+    {
+      "_id": "6ac85acc92ab09ec95549f27",
+      "song": {
+        "videoId": "JT2SsWOCoEw",
+        "title": "K's Choice - Not An Addict",
+        "duration": 261,
+        "start": 0,
+        "end": 261,
+        "channel": "kelinhauk",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "SnowCrash00",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 5243596,
+          "likeCount": 48900,
+          "dislikeCount": 0
+        },
+        "_id": "6ac8598b6674c97726e53ef0"
+      },
+      "createdAt": "2026-10-09T03:09:00.277Z"
+    },
+    {
+      "_id": "6ac859996674c97726e53fbe",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 267385,
+          "likeCount": 699,
+          "dislikeCount": 0
+        },
+        "_id": "6ac8593292ab09ec95544959"
+      },
+      "createdAt": "2026-10-09T03:03:53.319Z"
+    },
+    {
+      "_id": "6ac859916b77fea3bba87477",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "hachubby"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 267385,
+          "likeCount": 699,
+          "dislikeCount": 0
+        },
+        "_id": "6ac85930d141a822f612bf04"
+      },
+      "createdAt": "2026-10-09T03:03:45.389Z"
+    },
+    {
+      "_id": "6ac859408ff1dac0ef641c26",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 267212,
+          "likeCount": 701,
+          "dislikeCount": 0
+        },
+        "_id": "6ac70e9fa3912ccb1104345e"
+      },
+      "createdAt": "2026-10-09T03:02:24.130Z"
+    },
+    {
+      "_id": "6ac8590e6674c97726e52d7f",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 73274,
+          "likeCount": 260,
+          "dislikeCount": 0
+        },
+        "_id": "6ac70e9ea3912ccb11043448"
+      },
+      "createdAt": "2026-10-09T03:01:34.810Z"
+    },
+    {
+      "_id": "6ac859006b77fea3bba8604a",
+      "song": {
+        "videoId": "5ZnSdJhmzDc",
+        "title": "Alex LeMirage & Fi Sullivan - MEMORY (Official Audio)",
+        "duration": 197,
+        "start": 0,
+        "end": 197,
+        "channel": "Alex LeMirage",
+        "amount": 6,
+        "message": "",
+        "user": {
+          "username": "BFlow_",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1793065,
+          "likeCount": 24967,
+          "dislikeCount": 0
+        },
+        "_id": "6ac70e90fec9cf0121be1099"
+      },
+      "createdAt": "2026-10-09T03:01:20.599Z"
+    },
+    {
       "_id": "6ac70ea53e7b902a42a09a72",
       "song": {
         "videoId": "dTGEw_x8d10",
@@ -200248,8 +200496,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1462217,
-      "totalRequests": 6461,
+      "totalSeconds": 1463172,
+      "totalRequests": 6465,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -207556,6 +207804,12 @@
           "totalSeconds": 341
         },
         {
+          "videoId": "BfrUQA2tb6M",
+          "title": "Eminence Front",
+          "count": 1,
+          "totalSeconds": 340
+        },
+        {
           "videoId": "qQkBeOisNM0",
           "title": "Fun.: Some Nights [OFFICIAL VIDEO]",
           "count": 1,
@@ -212738,6 +212992,12 @@
           "title": "Fleetwood Mac - Dreams (Official Music Video) [4K]",
           "count": 1,
           "totalSeconds": 262
+        },
+        {
+          "videoId": "JT2SsWOCoEw",
+          "title": "K's Choice - Not An Addict",
+          "count": 1,
+          "totalSeconds": 261
         },
         {
           "videoId": "4bf5VcLiFR0",
@@ -223582,6 +223842,12 @@
           "totalSeconds": 198
         },
         {
+          "videoId": "5ZnSdJhmzDc",
+          "title": "Alex LeMirage & Fi Sullivan - MEMORY (Official Audio)",
+          "count": 1,
+          "totalSeconds": 197
+        },
+        {
           "videoId": "M7zxAI3GW2o",
           "title": "Crystal Castles - Concrete",
           "count": 1,
@@ -228374,6 +228640,12 @@
           "title": "Arremangala Arrempujala",
           "count": 1,
           "totalSeconds": 158
+        },
+        {
+          "videoId": "6VOu-Zq1L1M",
+          "title": "Enough Space",
+          "count": 1,
+          "totalSeconds": 157
         },
         {
           "videoId": "megCUbCNCsM",
@@ -253306,8 +253578,8 @@
       },
       {
         "username": "SnowCrash00",
-        "totalRequests": 100,
-        "totalSeconds": 20398,
+        "totalRequests": 101,
+        "totalSeconds": 20659,
         "topSongs": [
           {
             "videoId": "6rW0PrlMntY",
@@ -253416,6 +253688,12 @@
             "title": "Korn - Freak On a Leash (Official HD Video)",
             "count": 1,
             "totalSeconds": 267
+          },
+          {
+            "videoId": "JT2SsWOCoEw",
+            "title": "K's Choice - Not An Addict",
+            "count": 1,
+            "totalSeconds": 261
           },
           {
             "videoId": "kqD9bucWjUk",
@@ -265447,6 +265725,214 @@
         ]
       },
       {
+        "username": "BFlow_",
+        "totalRequests": 16,
+        "totalSeconds": 3201,
+        "topSongs": [
+          {
+            "videoId": "Kho-uYq1FgA",
+            "title": "EL CONDOR PASA - Raimy Salazar (Official Video) Extended Version",
+            "count": 1,
+            "totalSeconds": 420
+          },
+          {
+            "videoId": "4gi0MZpeEVc",
+            "title": "Aji Sang Aji - Sunrise in the Evening",
+            "count": 1,
+            "totalSeconds": 270
+          },
+          {
+            "videoId": "GoYJi7lIM8U",
+            "title": "EANÁIR - Son Ar Chistr (Watermill Live Session)",
+            "count": 1,
+            "totalSeconds": 258
+          },
+          {
+            "videoId": "UGQtpWH_gnA",
+            "title": "Blasterjaxx - Unfaithful (Official Audio)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "tX8Xe_OvNgU",
+            "title": "Alok - Around (Official Visualizer)",
+            "count": 1,
+            "totalSeconds": 234
+          },
+          {
+            "videoId": "9jHY6yFEA3Y",
+            "title": "Loreen - Tattoo (JESPER JUUL REMIX)",
+            "count": 1,
+            "totalSeconds": 205
+          },
+          {
+            "videoId": "5ZnSdJhmzDc",
+            "title": "Alex LeMirage & Fi Sullivan - MEMORY (Official Audio)",
+            "count": 1,
+            "totalSeconds": 197
+          },
+          {
+            "videoId": "PcCD9n0ZYew",
+            "title": "Loreen - Tattoo (Official Audio)",
+            "count": 1,
+            "totalSeconds": 184
+          },
+          {
+            "videoId": "axWlQUExPYk",
+            "title": "KREAM - Wicked Game",
+            "count": 1,
+            "totalSeconds": 179
+          },
+          {
+            "videoId": "PIuxzen7iRA",
+            "title": "W&W x AXMO x André Schnura - Danza Kuduro (feat. Lucenzo & Don Omar)",
+            "count": 1,
+            "totalSeconds": 173
+          },
+          {
+            "videoId": "KZqtXkVDlNY",
+            "title": "HYPERKID - All The Things She Said",
+            "count": 1,
+            "totalSeconds": 167
+          },
+          {
+            "videoId": "65r7oLV4y8M",
+            "title": "BUNT. - Clouds (Lyrics) ft. Nate Traveller",
+            "count": 1,
+            "totalSeconds": 159
+          },
+          {
+            "videoId": "megCUbCNCsM",
+            "title": "The Stickmen Project - Take My Breath Away (LIVE STUDIO VERSION)",
+            "count": 1,
+            "totalSeconds": 157
+          },
+          {
+            "videoId": "vRP0XW6x1Yo",
+            "title": "Mason Trent - A New Day Has Come (Lyrics)",
+            "count": 1,
+            "totalSeconds": 152
+          },
+          {
+            "videoId": "vIhAJ3iUpsU",
+            "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Lyric video)",
+            "count": 1,
+            "totalSeconds": 138
+          },
+          {
+            "videoId": "JUcHAgsBgTM",
+            "title": "The Kiffness x Gay Cat - Look I'm Gay (Why Are You Gay?)",
+            "count": 1,
+            "totalSeconds": 74
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "UGQtpWH_gnA",
+            "message": "Blink blink. She keeps me locked in her closet with no food or water",
+            "date": "2026-08-15T17:53:10.017Z"
+          }
+        ]
+      },
+      {
+        "username": "mousnot",
+        "totalRequests": 15,
+        "totalSeconds": 4171,
+        "topSongs": [
+          {
+            "videoId": "E3xbLcTj_bs",
+            "title": "Genesis - Tonight, Tonight, Tonight (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 379
+          },
+          {
+            "videoId": "sq-v18O93lE",
+            "title": "Turn The Page--Metallica",
+            "count": 1,
+            "totalSeconds": 373
+          },
+          {
+            "videoId": "BauxVSmSD_c",
+            "title": "Take A Picture",
+            "count": 1,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "jq1oyB1CNa4",
+            "title": "Phil Collins - Take Me Home (Official Audio)",
+            "count": 1,
+            "totalSeconds": 354
+          },
+          {
+            "videoId": "MtPsAf3bgAA",
+            "title": "Halo 3 Warthog Run Music FULL VERSION PERFECT QUALITY",
+            "count": 1,
+            "totalSeconds": 350
+          },
+          {
+            "videoId": "BfrUQA2tb6M",
+            "title": "Eminence Front",
+            "count": 1,
+            "totalSeconds": 340
+          },
+          {
+            "videoId": "hq0rZ3IiyWw",
+            "title": "Foo Fighters - Everlong",
+            "count": 1,
+            "totalSeconds": 251
+          },
+          {
+            "videoId": "dX3k_QDnzHE",
+            "title": "M83 'Midnight City' Official video",
+            "count": 1,
+            "totalSeconds": 244
+          },
+          {
+            "videoId": "gvdevpv5B5M",
+            "title": "Foo Fighters- Learn to Fly [HD]",
+            "count": 1,
+            "totalSeconds": 237
+          },
+          {
+            "videoId": "lreFBmP-VyE",
+            "title": "Backstreet Boys - Larger Than Life (Official Audio)",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "rhzmNRtIp8k",
+            "title": "Foo Fighters - Times Like These (Official HD Video)",
+            "count": 1,
+            "totalSeconds": 231
+          },
+          {
+            "videoId": "SmBf69QCtH4",
+            "title": "Bodyrock",
+            "count": 1,
+            "totalSeconds": 217
+          },
+          {
+            "videoId": "F0N7aNy-9tg",
+            "title": "Tame Impala, JENNIE - Dracula (Lyrics)",
+            "count": 1,
+            "totalSeconds": 210
+          },
+          {
+            "videoId": "7CUz7Ec7cWc",
+            "title": "hate that i made you love me",
+            "count": 1,
+            "totalSeconds": 198
+          },
+          {
+            "videoId": "pT_Y-eodTv4",
+            "title": "Moby - 'Lift Me Up' (Evan Bernard Version) (Official Video)",
+            "count": 1,
+            "totalSeconds": 190
+          }
+        ],
+        "messages": []
+      },
+      {
         "username": "bigbubs4lyfe",
         "totalRequests": 15,
         "totalSeconds": 3525,
@@ -265540,202 +266026,6 @@
             "title": "Metalocalypse: Dethklok | Thunderhorse (Lyric Video) | Adult Swim",
             "count": 1,
             "totalSeconds": 166
-          }
-        ],
-        "messages": []
-      },
-      {
-        "username": "BFlow_",
-        "totalRequests": 15,
-        "totalSeconds": 3004,
-        "topSongs": [
-          {
-            "videoId": "Kho-uYq1FgA",
-            "title": "EL CONDOR PASA - Raimy Salazar (Official Video) Extended Version",
-            "count": 1,
-            "totalSeconds": 420
-          },
-          {
-            "videoId": "4gi0MZpeEVc",
-            "title": "Aji Sang Aji - Sunrise in the Evening",
-            "count": 1,
-            "totalSeconds": 270
-          },
-          {
-            "videoId": "GoYJi7lIM8U",
-            "title": "EANÁIR - Son Ar Chistr (Watermill Live Session)",
-            "count": 1,
-            "totalSeconds": 258
-          },
-          {
-            "videoId": "UGQtpWH_gnA",
-            "title": "Blasterjaxx - Unfaithful (Official Audio)",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "tX8Xe_OvNgU",
-            "title": "Alok - Around (Official Visualizer)",
-            "count": 1,
-            "totalSeconds": 234
-          },
-          {
-            "videoId": "9jHY6yFEA3Y",
-            "title": "Loreen - Tattoo (JESPER JUUL REMIX)",
-            "count": 1,
-            "totalSeconds": 205
-          },
-          {
-            "videoId": "PcCD9n0ZYew",
-            "title": "Loreen - Tattoo (Official Audio)",
-            "count": 1,
-            "totalSeconds": 184
-          },
-          {
-            "videoId": "axWlQUExPYk",
-            "title": "KREAM - Wicked Game",
-            "count": 1,
-            "totalSeconds": 179
-          },
-          {
-            "videoId": "PIuxzen7iRA",
-            "title": "W&W x AXMO x André Schnura - Danza Kuduro (feat. Lucenzo & Don Omar)",
-            "count": 1,
-            "totalSeconds": 173
-          },
-          {
-            "videoId": "KZqtXkVDlNY",
-            "title": "HYPERKID - All The Things She Said",
-            "count": 1,
-            "totalSeconds": 167
-          },
-          {
-            "videoId": "65r7oLV4y8M",
-            "title": "BUNT. - Clouds (Lyrics) ft. Nate Traveller",
-            "count": 1,
-            "totalSeconds": 159
-          },
-          {
-            "videoId": "megCUbCNCsM",
-            "title": "The Stickmen Project - Take My Breath Away (LIVE STUDIO VERSION)",
-            "count": 1,
-            "totalSeconds": 157
-          },
-          {
-            "videoId": "vRP0XW6x1Yo",
-            "title": "Mason Trent - A New Day Has Come (Lyrics)",
-            "count": 1,
-            "totalSeconds": 152
-          },
-          {
-            "videoId": "vIhAJ3iUpsU",
-            "title": "David Guetta, Anne-Marie, Coi Leray - Baby Don’t Hurt Me (Lyric video)",
-            "count": 1,
-            "totalSeconds": 138
-          },
-          {
-            "videoId": "JUcHAgsBgTM",
-            "title": "The Kiffness x Gay Cat - Look I'm Gay (Why Are You Gay?)",
-            "count": 1,
-            "totalSeconds": 74
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "UGQtpWH_gnA",
-            "message": "Blink blink. She keeps me locked in her closet with no food or water",
-            "date": "2026-08-15T17:53:10.017Z"
-          }
-        ]
-      },
-      {
-        "username": "mousnot",
-        "totalRequests": 14,
-        "totalSeconds": 3831,
-        "topSongs": [
-          {
-            "videoId": "E3xbLcTj_bs",
-            "title": "Genesis - Tonight, Tonight, Tonight (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 379
-          },
-          {
-            "videoId": "sq-v18O93lE",
-            "title": "Turn The Page--Metallica",
-            "count": 1,
-            "totalSeconds": 373
-          },
-          {
-            "videoId": "BauxVSmSD_c",
-            "title": "Take A Picture",
-            "count": 1,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "jq1oyB1CNa4",
-            "title": "Phil Collins - Take Me Home (Official Audio)",
-            "count": 1,
-            "totalSeconds": 354
-          },
-          {
-            "videoId": "MtPsAf3bgAA",
-            "title": "Halo 3 Warthog Run Music FULL VERSION PERFECT QUALITY",
-            "count": 1,
-            "totalSeconds": 350
-          },
-          {
-            "videoId": "hq0rZ3IiyWw",
-            "title": "Foo Fighters - Everlong",
-            "count": 1,
-            "totalSeconds": 251
-          },
-          {
-            "videoId": "dX3k_QDnzHE",
-            "title": "M83 'Midnight City' Official video",
-            "count": 1,
-            "totalSeconds": 244
-          },
-          {
-            "videoId": "gvdevpv5B5M",
-            "title": "Foo Fighters- Learn to Fly [HD]",
-            "count": 1,
-            "totalSeconds": 237
-          },
-          {
-            "videoId": "lreFBmP-VyE",
-            "title": "Backstreet Boys - Larger Than Life (Official Audio)",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "rhzmNRtIp8k",
-            "title": "Foo Fighters - Times Like These (Official HD Video)",
-            "count": 1,
-            "totalSeconds": 231
-          },
-          {
-            "videoId": "SmBf69QCtH4",
-            "title": "Bodyrock",
-            "count": 1,
-            "totalSeconds": 217
-          },
-          {
-            "videoId": "F0N7aNy-9tg",
-            "title": "Tame Impala, JENNIE - Dracula (Lyrics)",
-            "count": 1,
-            "totalSeconds": 210
-          },
-          {
-            "videoId": "7CUz7Ec7cWc",
-            "title": "hate that i made you love me",
-            "count": 1,
-            "totalSeconds": 198
-          },
-          {
-            "videoId": "pT_Y-eodTv4",
-            "title": "Moby - 'Lift Me Up' (Evan Bernard Version) (Official Video)",
-            "count": 1,
-            "totalSeconds": 190
           }
         ],
         "messages": []
@@ -269447,6 +269737,49 @@
         "messages": []
       },
       {
+        "username": "snakebeatr",
+        "totalRequests": 4,
+        "totalSeconds": 658,
+        "topSongs": [
+          {
+            "videoId": "UroPqMsr3UU",
+            "title": "Interpol - Slow Hands",
+            "count": 1,
+            "totalSeconds": 171
+          },
+          {
+            "videoId": "XvDZuptvupk",
+            "title": "Queens of the Stone Age-Feel Good Hit of the Summer",
+            "count": 1,
+            "totalSeconds": 165
+          },
+          {
+            "videoId": "e_656J62gYI",
+            "title": "How You Like That 【BLACKPINK | 블랙핑크】 Cover by A-YEON",
+            "count": 1,
+            "totalSeconds": 165
+          },
+          {
+            "videoId": "6VOu-Zq1L1M",
+            "title": "Enough Space",
+            "count": 1,
+            "totalSeconds": 157
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "6VOu-Zq1L1M",
+            "message": "wake up music",
+            "date": "2026-10-09T03:33:30.467Z"
+          },
+          {
+            "videoId": "e_656J62gYI",
+            "message": "korean rock drummer",
+            "date": "2026-04-27T06:04:07.116Z"
+          }
+        ]
+      },
+      {
         "username": "Agapepitoch10",
         "totalRequests": 4,
         "totalSeconds": 658,
@@ -270138,38 +270471,6 @@
             "videoId": "Y-NjZp7Aurg",
             "message": "try to keep up HoboMaxLevel",
             "date": "2026-06-04T20:27:42.815Z"
-          }
-        ]
-      },
-      {
-        "username": "snakebeatr",
-        "totalRequests": 3,
-        "totalSeconds": 501,
-        "topSongs": [
-          {
-            "videoId": "UroPqMsr3UU",
-            "title": "Interpol - Slow Hands",
-            "count": 1,
-            "totalSeconds": 171
-          },
-          {
-            "videoId": "XvDZuptvupk",
-            "title": "Queens of the Stone Age-Feel Good Hit of the Summer",
-            "count": 1,
-            "totalSeconds": 165
-          },
-          {
-            "videoId": "e_656J62gYI",
-            "title": "How You Like That 【BLACKPINK | 블랙핑크】 Cover by A-YEON",
-            "count": 1,
-            "totalSeconds": 165
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "e_656J62gYI",
-            "message": "korean rock drummer",
-            "date": "2026-04-27T06:04:07.116Z"
           }
         ]
       },
@@ -274101,5 +274402,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-08T15:09:50.528Z"
+  "lastUpdated": "2026-10-09T14:55:31.837Z"
 }
