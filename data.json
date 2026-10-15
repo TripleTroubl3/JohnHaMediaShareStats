@@ -1,6 +1,35 @@
 {
   "rawHistory": [
     {
+      "_id": "6ad005061d61adab9533191f",
+      "song": {
+        "videoId": "qOzmJMP4DPU",
+        "title": "Mr. Bean Animated Theme Song (Piano Cover)",
+        "duration": 67,
+        "start": 0,
+        "end": 67,
+        "channel": "Giulio Taccon",
+        "amount": 2,
+        "message": "",
+        "user": {
+          "username": "jake_do",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 4341182,
+          "likeCount": 55251,
+          "dislikeCount": 0
+        },
+        "_id": "6acd78f2a66a01890ea0233e"
+      },
+      "createdAt": "2026-10-14T22:41:10.207Z"
+    },
+    {
       "_id": "6acd792013de1bd839ff523f",
       "song": {
         "videoId": "rTVjnBo96Ug",
@@ -206958,8 +206987,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1507667,
-      "totalRequests": 6666,
+      "totalSeconds": 1507734,
+      "totalRequests": 6667,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -239748,6 +239777,12 @@
           "title": "Shia LaBeouf \"Just Don't Do It\" Anti-Motivational Speech",
           "count": 1,
           "totalSeconds": 68
+        },
+        {
+          "videoId": "qOzmJMP4DPU",
+          "title": "Mr. Bean Animated Theme Song (Piano Cover)",
+          "count": 1,
+          "totalSeconds": 67
         },
         {
           "videoId": "pfIrkYy0gCw",
@@ -272880,6 +272915,140 @@
         ]
       },
       {
+        "username": "jake_do",
+        "totalRequests": 21,
+        "totalSeconds": 4042,
+        "topSongs": [
+          {
+            "videoId": "fIkZOLsnoqY",
+            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
+            "count": 2,
+            "totalSeconds": 364
+          },
+          {
+            "videoId": "u8pVZ5hTGJQ",
+            "title": "Goodbye Stranger (Remastered 2010)",
+            "count": 1,
+            "totalSeconds": 300
+          },
+          {
+            "videoId": "Atvsg_zogxo",
+            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
+            "count": 1,
+            "totalSeconds": 288
+          },
+          {
+            "videoId": "uO8lTJpZAMc",
+            "title": "U2 - Song For Hal",
+            "count": 1,
+            "totalSeconds": 259
+          },
+          {
+            "videoId": "Lcb-Fsx_phM",
+            "title": "Foreigner - Urgent (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "IEfpwek6P_A",
+            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
+            "count": 1,
+            "totalSeconds": 233
+          },
+          {
+            "videoId": "DM1UkOX6hIU",
+            "title": "ALL THE LOVE (feat. Andre Troutman)",
+            "count": 1,
+            "totalSeconds": 230
+          },
+          {
+            "videoId": "KJjiY1ROskE",
+            "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
+            "count": 1,
+            "totalSeconds": 225
+          },
+          {
+            "videoId": "onnQMyVlN5Q",
+            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
+            "count": 1,
+            "totalSeconds": 211
+          },
+          {
+            "videoId": "7YvAYIJSSZY",
+            "title": "Rockwell - Somebody's Watching Me (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 200
+          },
+          {
+            "videoId": "5WybiA263bw",
+            "title": "U2 - Sweetest Thing (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 195
+          },
+          {
+            "videoId": "ZVuToMilP0A",
+            "title": "The Citizens of Halloween - This Is Halloween (From Tim Burton's \"The Nightmare Before Christmas\")",
+            "count": 1,
+            "totalSeconds": 185
+          },
+          {
+            "videoId": "G7KNmW9a75Y",
+            "title": "Miley Cyrus - Flowers (Official Video)",
+            "count": 1,
+            "totalSeconds": 182
+          },
+          {
+            "videoId": "0_1IMZmJe-U",
+            "title": "Queen - One Vision (Official Video)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "pC4RRPY32RY",
+            "title": "Wait a Minute! - Willow Smith lyrics",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "SdW0rF4_oDE",
+            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
+            "count": 1,
+            "totalSeconds": 180
+          },
+          {
+            "videoId": "rTVjnBo96Ug",
+            "title": "Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 163
+          },
+          {
+            "videoId": "ZZ5IWRz78DY",
+            "title": "The Addams Family Opening Credits and Theme Song",
+            "count": 1,
+            "totalSeconds": 100
+          },
+          {
+            "videoId": "qOzmJMP4DPU",
+            "title": "Mr. Bean Animated Theme Song (Piano Cover)",
+            "count": 1,
+            "totalSeconds": 67
+          },
+          {
+            "videoId": "pfIrkYy0gCw",
+            "title": "Gremlins (1984) - Mogwai Music (HD)",
+            "count": 1,
+            "totalSeconds": 67
+          }
+        ],
+        "messages": [
+          {
+            "videoId": "SdW0rF4_oDE",
+            "message": "Vitas ",
+            "date": "2026-04-21T19:33:37.463Z"
+          }
+        ]
+      },
+      {
         "username": "BFlow_",
         "totalRequests": 21,
         "totalSeconds": 3940,
@@ -273160,134 +273329,6 @@
             "videoId": "sOiMD45QGLs",
             "message": "\n【Ado】ギラギラ (Gira Gira)",
             "date": "2026-08-24T00:55:44.477Z"
-          }
-        ]
-      },
-      {
-        "username": "jake_do",
-        "totalRequests": 20,
-        "totalSeconds": 3975,
-        "topSongs": [
-          {
-            "videoId": "fIkZOLsnoqY",
-            "title": "BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer",
-            "count": 2,
-            "totalSeconds": 364
-          },
-          {
-            "videoId": "u8pVZ5hTGJQ",
-            "title": "Goodbye Stranger (Remastered 2010)",
-            "count": 1,
-            "totalSeconds": 300
-          },
-          {
-            "videoId": "Atvsg_zogxo",
-            "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
-            "count": 1,
-            "totalSeconds": 288
-          },
-          {
-            "videoId": "uO8lTJpZAMc",
-            "title": "U2 - Song For Hal",
-            "count": 1,
-            "totalSeconds": 259
-          },
-          {
-            "videoId": "Lcb-Fsx_phM",
-            "title": "Foreigner - Urgent (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "IEfpwek6P_A",
-            "title": "Luis Fonsi - Despacito - Charming Jo Cover with Hachubby",
-            "count": 1,
-            "totalSeconds": 233
-          },
-          {
-            "videoId": "DM1UkOX6hIU",
-            "title": "ALL THE LOVE (feat. Andre Troutman)",
-            "count": 1,
-            "totalSeconds": 230
-          },
-          {
-            "videoId": "KJjiY1ROskE",
-            "title": "miss A (미쓰에이) Goodbye Baby Color Coded Lyrics (Han/Rom/Eng)",
-            "count": 1,
-            "totalSeconds": 225
-          },
-          {
-            "videoId": "onnQMyVlN5Q",
-            "title": "Thee Sacred Souls \"Live For You\" (Official Audio)",
-            "count": 1,
-            "totalSeconds": 211
-          },
-          {
-            "videoId": "7YvAYIJSSZY",
-            "title": "Rockwell - Somebody's Watching Me (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 200
-          },
-          {
-            "videoId": "5WybiA263bw",
-            "title": "U2 - Sweetest Thing (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 195
-          },
-          {
-            "videoId": "ZVuToMilP0A",
-            "title": "The Citizens of Halloween - This Is Halloween (From Tim Burton's \"The Nightmare Before Christmas\")",
-            "count": 1,
-            "totalSeconds": 185
-          },
-          {
-            "videoId": "G7KNmW9a75Y",
-            "title": "Miley Cyrus - Flowers (Official Video)",
-            "count": 1,
-            "totalSeconds": 182
-          },
-          {
-            "videoId": "0_1IMZmJe-U",
-            "title": "Queen - One Vision (Official Video)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "pC4RRPY32RY",
-            "title": "Wait a Minute! - Willow Smith lyrics",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "SdW0rF4_oDE",
-            "title": "Vitas - 7th Element Charming_Jo Edition (feat. Scatman)",
-            "count": 1,
-            "totalSeconds": 180
-          },
-          {
-            "videoId": "rTVjnBo96Ug",
-            "title": "Otis Redding - (Sittin' On) The Dock Of The Bay (Official Music Video)",
-            "count": 1,
-            "totalSeconds": 163
-          },
-          {
-            "videoId": "ZZ5IWRz78DY",
-            "title": "The Addams Family Opening Credits and Theme Song",
-            "count": 1,
-            "totalSeconds": 100
-          },
-          {
-            "videoId": "pfIrkYy0gCw",
-            "title": "Gremlins (1984) - Mogwai Music (HD)",
-            "count": 1,
-            "totalSeconds": 67
-          }
-        ],
-        "messages": [
-          {
-            "videoId": "SdW0rF4_oDE",
-            "message": "Vitas ",
-            "date": "2026-04-21T19:33:37.463Z"
           }
         ]
       },
@@ -282973,5 +283014,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-14T13:17:12.240Z"
+  "lastUpdated": "2026-10-15T13:02:28.004Z"
 }
