@@ -1,6 +1,57 @@
 {
   "rawHistory": [
     {
+      "_id": "6ad919cd96c313d238648fb0",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "hachubby"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 75143,
+          "likeCount": 270,
+          "dislikeCount": 0
+        },
+        "_id": "6ad6bfdaaab26b2fb2676e77"
+      },
+      "createdAt": "2026-10-21T20:00:13.707Z"
+    },
+    {
+      "_id": "6ad8fb9f6f42a26e9d2daa0a",
+      "song": {
+        "videoId": "idfNwe-Ism0",
+        "title": "Eminem - The Way I Am [HD Best Quality]",
+        "duration": 293,
+        "start": 0,
+        "end": 293,
+        "channel": "MarshallyricsMathers",
+        "amount": 9,
+        "message": "",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 2682942,
+          "likeCount": 33167,
+          "dislikeCount": 0
+        },
+        "_id": "6ad6bfc61f662c77248d5fba"
+      },
+      "createdAt": "2026-10-21T17:51:27.578Z"
+    },
+    {
       "_id": "6ad6c1517ed3ade4d34e0185",
       "song": {
         "videoId": "D1sZ_vwqwcE",
@@ -211427,8 +211478,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1538415,
-      "totalRequests": 6807,
+      "totalSeconds": 1538708,
+      "totalRequests": 6808,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -221421,6 +221472,12 @@
           "title": "Fantasy (SAT Choir Cover) by Earth Wind & Fire [PowerChorus]",
           "count": 1,
           "totalSeconds": 294
+        },
+        {
+          "videoId": "idfNwe-Ism0",
+          "title": "Eminem - The Way I Am [HD Best Quality]",
+          "count": 1,
+          "totalSeconds": 293
         },
         {
           "videoId": "mWQACEqf4QY",
@@ -261378,8 +261435,8 @@
       },
       {
         "username": "dramajoe",
-        "totalRequests": 181,
-        "totalSeconds": 42153,
+        "totalRequests": 182,
+        "totalSeconds": 42446,
         "topSongs": [
           {
             "videoId": "o8FNeG6lmvE",
@@ -261560,6 +261617,12 @@
             "title": "\"Rise Up\" cover by Morissette Amon - (Andra Day) LIVE on Wish 107.5 Full HD VIDEO",
             "count": 1,
             "totalSeconds": 298
+          },
+          {
+            "videoId": "idfNwe-Ism0",
+            "title": "Eminem - The Way I Am [HD Best Quality]",
+            "count": 1,
+            "totalSeconds": 293
           },
           {
             "videoId": "a0Sq0qvmT88",
@@ -288896,5 +288959,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-21T13:23:03.376Z"
+  "lastUpdated": "2026-10-22T13:23:55.403Z"
 }
