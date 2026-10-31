@@ -1,6 +1,210 @@
 {
   "rawHistory": [
     {
+      "_id": "6ae5690ce5768f6675c4b0e0",
+      "song": {
+        "videoId": "N21pTh8H8DE",
+        "title": "Break Ya Neck",
+        "duration": 232,
+        "start": 0,
+        "end": 232,
+        "channel": "Busta Rhymes - Topic",
+        "amount": 7,
+        "message": "",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 1279271,
+          "likeCount": 25683,
+          "dislikeCount": 0
+        },
+        "_id": "6ae5681762877207f8b6cc3f"
+      },
+      "createdAt": "2026-10-31T04:05:32.558Z"
+    },
+    {
+      "_id": "6ae5681ee5768f6675c48d56",
+      "song": {
+        "videoId": "-4MlN-imvck",
+        "title": "T-ARA - DAY BY DAY, 티아라 - 데이 바이 데이,Beautiful Concert 20120821",
+        "duration": 207,
+        "channel": "MBCkpop",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 58904537,
+          "likeCount": 322086,
+          "dislikeCount": 0
+        },
+        "_id": "6ae567240fe21cc7036771ed"
+      },
+      "createdAt": "2026-10-31T04:01:34.536Z"
+    },
+    {
+      "_id": "6ae567272eebcf6b856cf119",
+      "song": {
+        "videoId": "omRLij2knRk",
+        "title": "4MINUTE - 'Love Tension' (Official Music Video)",
+        "duration": 235,
+        "channel": "4Minute 포미닛(Official YouTube Channel)",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 11143682,
+          "likeCount": 72468,
+          "dislikeCount": 0
+        },
+        "_id": "6ae56539f5d0fb2c8236d83b"
+      },
+      "createdAt": "2026-10-31T03:57:27.437Z"
+    },
+    {
+      "_id": "6ae5658a3a7946c3a405cfb1",
+      "song": {
+        "videoId": "tQj1kPmQXwE",
+        "title": "Let's Get It On",
+        "duration": 293,
+        "start": 0,
+        "end": 293,
+        "channel": "Marvin Gaye - Topic",
+        "amount": 10,
+        "message": "",
+        "user": {
+          "username": "illastration1",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 20339045,
+          "likeCount": 233518,
+          "dislikeCount": 0
+        },
+        "_id": "6ae563123a7946c3a4059b47"
+      },
+      "createdAt": "2026-10-31T03:50:34.756Z"
+    },
+    {
+      "_id": "6ae564550fe21cc703670f04",
+      "song": {
+        "videoId": "_Uf2gPaUdiE",
+        "title": "[AUDIO] Miss A (미쓰에이) - I dont need a man \"남자 없이 잘 살아\"",
+        "duration": 211,
+        "start": 0,
+        "end": 211,
+        "channel": "krungpopwendy02",
+        "amount": 6.34,
+        "message": "",
+        "user": {
+          "username": "dramajoe",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 274308,
+          "likeCount": 976,
+          "dislikeCount": 0
+        },
+        "_id": "6ae563113a7946c3a4059b36"
+      },
+      "createdAt": "2026-10-31T03:45:25.864Z"
+    },
+    {
+      "_id": "6ae5636133fe2de39caa8fea",
+      "song": {
+        "videoId": "cxQMLCtoi_w",
+        "title": "Black Screen, 5 seconds",
+        "duration": 6,
+        "channel": "Crime ≠ Politics",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 270686,
+          "likeCount": 702,
+          "dislikeCount": 0
+        },
+        "_id": "6ae3db3a62877207f8781c1e"
+      },
+      "createdAt": "2026-10-31T03:41:21.024Z"
+    },
+    {
+      "_id": "6ae562b13a7946c3a4058aa5",
+      "song": {
+        "videoId": "YyZq_lEJZ2U",
+        "title": "Audio Sync Test (60fps) - 45min for Longer Tests",
+        "duration": 2668,
+        "channel": "CasaMilan Live",
+        "user": {
+          "username": "top_fuel"
+        },
+        "source": "site",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 76768,
+          "likeCount": 274,
+          "dislikeCount": 0
+        },
+        "_id": "6ae3db39972d054867e55b84"
+      },
+      "createdAt": "2026-10-31T03:38:25.214Z"
+    },
+    {
+      "_id": "6ae5628c33fe2de39caa8a29",
+      "song": {
+        "videoId": "3ETZmhzURfQ",
+        "title": "REMAIN CALM - A Horror Short starring Pauly Shore, Nick Swardson and Doug Jones",
+        "duration": 864,
+        "start": 0,
+        "end": 864,
+        "channel": "The Lewis Brothers",
+        "amount": 27,
+        "message": "",
+        "user": {
+          "username": "SeminoleGamer",
+          "providerId": "",
+          "subscriber": true
+        },
+        "source": "tip",
+        "approvedBy": "dramajoe",
+        "voteskips": [],
+        "tags": [],
+        "statistics": {
+          "viewCount": 9463985,
+          "likeCount": 375233,
+          "dislikeCount": 0
+        },
+        "_id": "6ae3d1bc972d054867e40613"
+      },
+      "createdAt": "2026-10-31T03:37:48.261Z"
+    },
+    {
       "_id": "6ae3d2b969a0d73d545e958b",
       "song": {
         "videoId": "xOHPeGrUbpE",
@@ -217299,8 +217503,8 @@
   ],
   "stats": {
     "global": {
-      "totalSeconds": 1584366,
-      "totalRequests": 7002,
+      "totalSeconds": 1586408,
+      "totalRequests": 7008,
       "topSongs": [
         {
           "videoId": "y2DqOGjGBbA",
@@ -222868,6 +223072,12 @@
           "totalSeconds": 896
         },
         {
+          "videoId": "3ETZmhzURfQ",
+          "title": "REMAIN CALM - A Horror Short starring Pauly Shore, Nick Swardson and Doug Jones",
+          "count": 1,
+          "totalSeconds": 864
+        },
+        {
           "videoId": "aJVqPWzunwM",
           "title": "Boney M. - Nightflight to Venus/Rasputin (1st pressing)",
           "count": 1,
@@ -227576,6 +227786,12 @@
           "title": "Fantasy (SAT Choir Cover) by Earth Wind & Fire [PowerChorus]",
           "count": 1,
           "totalSeconds": 294
+        },
+        {
+          "videoId": "tQj1kPmQXwE",
+          "title": "Let's Get It On",
+          "count": 1,
+          "totalSeconds": 293
         },
         {
           "videoId": "mWQACEqf4QY",
@@ -235144,6 +235360,12 @@
           "totalSeconds": 236
         },
         {
+          "videoId": "omRLij2knRk",
+          "title": "4MINUTE - 'Love Tension' (Official Music Video)",
+          "count": 1,
+          "totalSeconds": 235
+        },
+        {
           "videoId": "OHAjc-ayhus",
           "title": "ヨルシカ - あぶく（OFFICIAL VIDEO）",
           "count": 1,
@@ -235892,6 +236114,12 @@
           "title": "It's Pizza Time!",
           "count": 1,
           "totalSeconds": 233
+        },
+        {
+          "videoId": "N21pTh8H8DE",
+          "title": "Break Ya Neck",
+          "count": 1,
+          "totalSeconds": 232
         },
         {
           "videoId": "i-P98B2skts",
@@ -239542,6 +239770,12 @@
           "totalSeconds": 212
         },
         {
+          "videoId": "_Uf2gPaUdiE",
+          "title": "[AUDIO] Miss A (미쓰에이) - I dont need a man \"남자 없이 잘 살아\"",
+          "count": 1,
+          "totalSeconds": 211
+        },
+        {
           "videoId": "pkeDBwsIaZw",
           "title": "London Grammar - Wasting My Young Years [Official Video]",
           "count": 1,
@@ -240722,6 +240956,12 @@
           "title": "[MV] Iris Kymm - Chaser / Official Music Video",
           "count": 1,
           "totalSeconds": 208
+        },
+        {
+          "videoId": "-4MlN-imvck",
+          "title": "T-ARA - DAY BY DAY, 티아라 - 데이 바이 데이,Beautiful Concert 20120821",
+          "count": 1,
+          "totalSeconds": 207
         },
         {
           "videoId": "Zy_sgB4EJB8",
@@ -260154,8 +260394,8 @@
       },
       {
         "username": "illastration1",
-        "totalRequests": 369,
-        "totalSeconds": 93193,
+        "totalRequests": 370,
+        "totalSeconds": 93486,
         "topSongs": [
           {
             "videoId": "VhCgysyIyMU",
@@ -260756,6 +260996,12 @@
             "title": "R.E.M. - Losing My Religion (Official HD Music Video)",
             "count": 1,
             "totalSeconds": 294
+          },
+          {
+            "videoId": "tQj1kPmQXwE",
+            "title": "Let's Get It On",
+            "count": 1,
+            "totalSeconds": 293
           },
           {
             "videoId": "ozSe_W2C86g",
@@ -263542,8 +263788,8 @@
       },
       {
         "username": "SeminoleGamer",
-        "totalRequests": 276,
-        "totalSeconds": 75058,
+        "totalRequests": 277,
+        "totalSeconds": 75922,
         "topSongs": [
           {
             "videoId": "MmbvxyRjMc0",
@@ -263754,6 +264000,12 @@
             "title": "Sora 2 Makes Esfand REALIZE Something About Hachubby...",
             "count": 1,
             "totalSeconds": 900
+          },
+          {
+            "videoId": "3ETZmhzURfQ",
+            "title": "REMAIN CALM - A Horror Short starring Pauly Shore, Nick Swardson and Doug Jones",
+            "count": 1,
+            "totalSeconds": 864
           },
           {
             "videoId": "YDSmAMNoHds",
@@ -268565,8 +268817,8 @@
       },
       {
         "username": "dramajoe",
-        "totalRequests": 182,
-        "totalSeconds": 42446,
+        "totalRequests": 184,
+        "totalSeconds": 42889,
         "topSongs": [
           {
             "videoId": "o8FNeG6lmvE",
@@ -269103,6 +269355,12 @@
             "totalSeconds": 233
           },
           {
+            "videoId": "N21pTh8H8DE",
+            "title": "Break Ya Neck",
+            "count": 1,
+            "totalSeconds": 232
+          },
+          {
             "videoId": "pYsPsPFHBfo",
             "title": "BIGBANG (빅뱅) - BAD BOY (Color Coded Lyrics Eng/Rom/Han)",
             "count": 1,
@@ -269275,6 +269533,12 @@
             "title": "Weak",
             "count": 1,
             "totalSeconds": 212
+          },
+          {
+            "videoId": "_Uf2gPaUdiE",
+            "title": "[AUDIO] Miss A (미쓰에이) - I dont need a man \"남자 없이 잘 살아\"",
+            "count": 1,
+            "totalSeconds": 211
           },
           {
             "videoId": "J_CFBjAyPWE",
@@ -273088,8 +273352,8 @@
       },
       {
         "username": "top_fuel",
-        "totalRequests": 112,
-        "totalSeconds": 35483,
+        "totalRequests": 114,
+        "totalSeconds": 35925,
         "topSongs": [
           {
             "videoId": "QulWH99y5B0",
@@ -273296,6 +273560,12 @@
             "totalSeconds": 242
           },
           {
+            "videoId": "omRLij2knRk",
+            "title": "4MINUTE - 'Love Tension' (Official Music Video)",
+            "count": 1,
+            "totalSeconds": 235
+          },
+          {
             "videoId": "LzjEaMzuq6A",
             "title": "Friday Night",
             "count": 1,
@@ -273366,6 +273636,12 @@
             "title": "Us Two (feat. Clacla, Iris Kymm, Katto404, Sriverz) [Lyric Video]",
             "count": 1,
             "totalSeconds": 210
+          },
+          {
+            "videoId": "-4MlN-imvck",
+            "title": "T-ARA - DAY BY DAY, 티아라 - 데이 바이 데이,Beautiful Concert 20120821",
+            "count": 1,
+            "totalSeconds": 207
           },
           {
             "videoId": "94gI_q7OWII",
@@ -296815,5 +297091,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-30T14:46:47.534Z"
+  "lastUpdated": "2026-10-31T14:15:11.595Z"
 }
