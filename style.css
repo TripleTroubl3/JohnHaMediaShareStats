@@ -272,6 +272,16 @@ body.modal-open {
     overflow-y: auto;
 }
 
+.modal-search-container {
+    margin-bottom: 12px;
+}
+
+.modal-search-container .search-input {
+    margin-bottom: 0;
+    padding: 8px 12px;
+    font-size: 0.95rem;
+}
+
 .close-btn {
     background: none;
     border: none;

@@ -538,6 +538,7 @@ function openUserModal(user) {
     const modalUsername = document.getElementById('modal-username');
     const modalUserTotal = document.getElementById('modal-user-total');
     const modalSongsContainer = document.getElementById('modal-songs-container');
+    const searchInput = document.getElementById('modal-user-search');
 
     modalUsername.textContent = `${user.username}'s Top Requested Songs`;
     modalUserTotal.textContent = `Total Requests: ${user.totalRequests || 0} | Total Time: ${formatTime(user.totalSeconds)}`;
@@ -553,63 +554,77 @@ function openUserModal(user) {
         return `<button type="button" class="message-badge" aria-label="Attached request messages" title="View attached messages">💬<span class="tooltip"><strong>Attached Messages:</strong><br>${messagesList}</span></button>`;
     };
 
-    const table = document.createElement('table');
-    table.innerHTML = `
-        <thead>
-            <tr>
-                <th>Song</th>
-                <th>Requests</th>
-                <th>Total Time</th>
-            </tr>
-        </thead>
-    `;
-    const tbody = document.createElement('tbody');
+    const songs = user.topSongs || [];
 
-    if (user.topSongs && user.topSongs.length > 0) {
-        user.topSongs.forEach(song => {
-            const tr = document.createElement('tr');
-            tr.innerHTML = `
-                <td>
-                    <a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(song.title)}</a>
-                    ${getTooltipHtml(song.videoId)}
-                </td>
-                <td>${song.count}</td>
-                <td>${formatTime(song.totalSeconds)}</td>
-            `;
-            tr.title = `Click row to view all requests for "${song.title}"`;
-            tr.addEventListener('click', (e) => {
-                const badge = e.target.closest('.message-badge');
-                if (badge) {
-                    e.stopPropagation();
-                    const wasActive = badge.classList.contains('active');
-                    document.querySelectorAll('.message-badge.active').forEach(b => b.classList.remove('active'));
-                    if (!wasActive) {
-                        badge.classList.add('active');
+    function renderUserSongs(query = '') {
+        modalSongsContainer.innerHTML = '';
+        const q = query.trim().toLowerCase();
+        const filtered = q ? songs.filter(s => (s.title || '').toLowerCase().includes(q)) : songs;
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+            <thead>
+                <tr>
+                    <th>Song</th>
+                    <th>Requests</th>
+                    <th>Total Time</th>
+                </tr>
+            </thead>
+        `;
+        const tbody = document.createElement('tbody');
+
+        if (filtered.length > 0) {
+            filtered.forEach(song => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>
+                        <a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(song.title)}</a>
+                        ${getTooltipHtml(song.videoId)}
+                    </td>
+                    <td>${song.count}</td>
+                    <td>${formatTime(song.totalSeconds)}</td>
+                `;
+                tr.title = `Click row to view all requests for "${song.title}"`;
+                tr.addEventListener('click', (e) => {
+                    const badge = e.target.closest('.message-badge');
+                    if (badge) {
+                        e.stopPropagation();
+                        const wasActive = badge.classList.contains('active');
+                        document.querySelectorAll('.message-badge.active').forEach(b => b.classList.remove('active'));
+                        if (!wasActive) {
+                            badge.classList.add('active');
+                        }
+                        return;
                     }
-                    return;
-                }
-                if (!e.target.closest('a.song-link')) {
-                    const songObj = allGlobalSongs.find(s => s.videoId === song.videoId) || {
-                        videoId: song.videoId,
-                        title: song.title,
-                        count: song.count,
-                        totalSeconds: song.totalSeconds
-                    };
-                    openSongModal(songObj);
-                }
+                    if (!e.target.closest('a.song-link')) {
+                        const songObj = allGlobalSongs.find(s => s.videoId === song.videoId) || {
+                            videoId: song.videoId,
+                            title: song.title,
+                            count: song.count,
+                            totalSeconds: song.totalSeconds
+                        };
+                        openSongModal(songObj);
+                    }
+                });
+                tbody.appendChild(tr);
             });
+        } else {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `<td colspan="3" class="empty-state">No songs found matching "${escapeHtml(query)}".</td>`;
             tbody.appendChild(tr);
-        });
-    } else {
-        const tr = document.createElement('tr');
-        tr.innerHTML = `<td colspan="3" class="empty-state">No songs found.</td>`;
-        tbody.appendChild(tr);
+        }
+
+        table.appendChild(tbody);
+        modalSongsContainer.appendChild(table);
     }
 
-    table.appendChild(tbody);
-    modalSongsContainer.innerHTML = '';
-    modalSongsContainer.appendChild(table);
+    if (searchInput) {
+        searchInput.value = '';
+        searchInput.oninput = (e) => renderUserSongs(e.target.value);
+        searchInput.onsearch = (e) => renderUserSongs(e.target.value);
+    }
 
+    renderUserSongs('');
     openModal(modal);
 }
 
