@@ -9,24 +9,28 @@ function setupEventListeners() {
     const showMoreSongsBtn = document.getElementById('show-more-songs');
     if (showMoreSongsBtn) {
         showMoreSongsBtn.addEventListener('click', () => {
-            renderMoreGlobalSongs();
+            renderMore('songs');
         });
     }
 
     const searchSongsInput = document.getElementById('search-songs');
     if (searchSongsInput) {
-        searchSongsInput.addEventListener('input', (e) => handleSearch(e, allGlobalSongs, '#global-songs-table tbody', 'show-more-songs-container', createSongRow, 'title', true));
+        const onSearchSongs = debounce((e) => handleSearch(e.target.value, 'songs'), 180);
+        searchSongsInput.addEventListener('input', onSearchSongs);
+        searchSongsInput.addEventListener('search', onSearchSongs);
     }
 
     const searchUsersInput = document.getElementById('search-users');
     if (searchUsersInput) {
-        searchUsersInput.addEventListener('input', (e) => handleSearch(e, allUsers, '#users-tbody', 'show-more-container', createUserRow, 'username', false));
+        const onSearchUsers = debounce((e) => handleSearch(e.target.value, 'users'), 180);
+        searchUsersInput.addEventListener('input', onSearchUsers);
+        searchUsersInput.addEventListener('search', onSearchUsers);
     }
 
     const showMoreBtn = document.getElementById('show-more-users');
     if (showMoreBtn) {
         showMoreBtn.addEventListener('click', () => {
-            renderMoreUsers();
+            renderMore('users');
         });
     }
 
@@ -69,18 +73,14 @@ function setupEventListeners() {
         header.addEventListener('click', () => {
             const sortField = header.getAttribute('data-sort');
             const type = header.getAttribute('data-type');
+            const state = type === 'songs' ? songsState : usersState;
 
             // Update UI
             document.querySelectorAll(`.sortable-header[data-type="${type}"]`).forEach(h => h.classList.remove('sorted-column'));
             header.classList.add('sorted-column');
 
-            if (type === 'songs') {
-                currentSortSongs.field = sortField;
-                reRenderTable(allGlobalSongs, currentGlobalSongCount, currentSortSongs, '#global-songs-table tbody', createSongRow);
-            } else if (type === 'users') {
-                currentSortUsers.field = sortField;
-                reRenderTable(allUsers, currentDisplayCount, currentSortUsers, '#users-tbody', createUserRow);
-            }
+            state.sortField = sortField;
+            renderTable(type);
         });
     });
 }
@@ -109,10 +109,13 @@ async function fetchData() {
     }
 }
 
-let allGlobalSongs = [];
-let currentGlobalSongCount = 0;
-const GLOBAL_BATCH_SIZE = 50;
-
+function debounce(fn, delay) {
+    let timer = null;
+    return function (...args) {
+        clearTimeout(timer);
+        timer = setTimeout(() => fn.apply(this, args), delay);
+    };
+}
 
 function createSongRow(song, rank) {
     const tr = document.createElement('tr');
@@ -131,38 +134,120 @@ function createSongRow(song, rank) {
     return tr;
 }
 
+function createUserRow(user, rank) {
+    const tr = document.createElement('tr');
 
+    tr.innerHTML = `
+        <td>${rank}</td>
+        <td>${escapeHtml(user.username)}</td>
+        <td>${user.totalRequests || 0}</td>
+        <td>${formatTime(user.totalSeconds)}</td>
+    `;
 
-function renderMoreGlobalSongs() {
-    const showMoreSongsContainer = document.getElementById('show-more-songs-container');
-
-    const nextBatchLength = Math.min(GLOBAL_BATCH_SIZE, allGlobalSongs.length - currentGlobalSongCount);
-    if (nextBatchLength > 0) {
-        currentGlobalSongCount += nextBatchLength;
-        reRenderTable(allGlobalSongs, currentGlobalSongCount, currentSortSongs, '#global-songs-table tbody', createSongRow);
-    }
-
-    if (showMoreSongsContainer) {
-        showMoreSongsContainer.style.display = currentGlobalSongCount >= allGlobalSongs.length ? 'none' : 'block';
-    }
+    tr.addEventListener('click', () => openUserModal(user));
+    return tr;
 }
 
+let songsState = {
+    all: [],
+    filtered: null,
+    searchQuery: '',
+    currentCount: 0,
+    batchSize: 50,
+    sortField: null,
+    tbodySelector: '#global-songs-table tbody',
+    showMoreContainerId: 'show-more-songs-container',
+    createRowFn: createSongRow
+};
 
+let usersState = {
+    all: [],
+    filtered: null,
+    searchQuery: '',
+    currentCount: 0,
+    batchSize: 50,
+    sortField: null,
+    tbodySelector: '#users-tbody',
+    showMoreContainerId: 'show-more-container',
+    createRowFn: createUserRow
+};
 
+let allGlobalSongs = [];
+let allUsers = [];
 
-function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, searchField, isSongs) {
-    const rawQuery = event.target.value;
-    const parsedQuery = parseSearchQuery(rawQuery);
-    const tbody = document.querySelector(tbodySelector);
-    const showMoreContainer = document.getElementById(showMoreId);
+function sortData(dataset, sortField) {
+    if (!sortField) return dataset;
+    return [...dataset].sort((a, b) => {
+        const valA = a[sortField] || 0;
+        const valB = b[sortField] || 0;
+        return valB - valA;
+    });
+}
+
+function renderTable(type) {
+    const isSongs = type === 'songs';
+    const state = isSongs ? songsState : usersState;
+    const activeData = state.filtered !== null ? state.filtered : state.all;
+    const tbody = document.querySelector(state.tbodySelector);
+    const showMoreContainer = document.getElementById(state.showMoreContainerId);
+    if (!tbody) return;
 
     tbody.innerHTML = '';
 
-    if (rawQuery.trim().length > 0) {
-        let filteredData = dataset.filter(item => {
+    if (activeData.length === 0) {
+        const tr = document.createElement('tr');
+        const emptyMsg = state.searchQuery 
+            ? `No ${isSongs ? 'songs' : 'users'} found matching "${escapeHtml(state.searchQuery)}".`
+            : `No ${isSongs ? 'songs' : 'users'} found.`;
+        tr.innerHTML = `<td colspan="4" class="empty-state">${emptyMsg}</td>`;
+        tbody.appendChild(tr);
+        if (showMoreContainer) showMoreContainer.style.display = 'none';
+        return;
+    }
+
+    let dataToRender = activeData;
+    if (state.sortField) {
+        dataToRender = sortData(dataToRender, state.sortField);
+    }
+
+    const countToRender = Math.min(state.currentCount, dataToRender.length);
+    const visibleData = dataToRender.slice(0, countToRender);
+
+    const fragment = document.createDocumentFragment();
+    visibleData.forEach(item => {
+        fragment.appendChild(state.createRowFn(item, item.originalRank));
+    });
+    tbody.appendChild(fragment);
+
+    if (showMoreContainer) {
+        showMoreContainer.style.display = countToRender >= dataToRender.length ? 'none' : 'block';
+    }
+}
+
+function renderMore(type) {
+    const isSongs = type === 'songs';
+    const state = isSongs ? songsState : usersState;
+    const activeData = state.filtered !== null ? state.filtered : state.all;
+
+    const nextBatchLength = Math.min(state.batchSize, activeData.length - state.currentCount);
+    if (nextBatchLength > 0) {
+        state.currentCount += nextBatchLength;
+        renderTable(type);
+    }
+}
+
+function handleSearch(rawQuery, type) {
+    const isSongs = type === 'songs';
+    const state = isSongs ? songsState : usersState;
+    const searchField = isSongs ? 'title' : 'username';
+
+    state.searchQuery = (rawQuery || '').trim();
+
+    if (state.searchQuery.length > 0) {
+        const parsedQuery = parseSearchQuery(state.searchQuery);
+        state.filtered = state.all.filter(item => {
             const val = item[searchField];
             if (!val) return false;
-
             const text = val.toLowerCase();
 
             if (parsedQuery.type === 'exact_phrase') {
@@ -180,66 +265,14 @@ function handleSearch(event, dataset, tbodySelector, showMoreId, createRowFn, se
                 return true;
             }
         });
-
-        // Apply current sort on search results
-        if (isSongs && currentSortSongs.field) {
-            filteredData.sort((a, b) => b[currentSortSongs.field] - a[currentSortSongs.field]);
-        } else if (!isSongs && currentSortUsers.field) {
-            filteredData.sort((a, b) => b[currentSortUsers.field] - a[currentSortUsers.field]);
-        }
-
-        const fragment = document.createDocumentFragment();
-        filteredData.forEach(item => {
-            fragment.appendChild(createRowFn(item, item.originalRank));
-        });
-        tbody.appendChild(fragment);
-
-        if (showMoreContainer) showMoreContainer.style.display = 'none';
     } else {
-        if (isSongs) {
-            currentGlobalSongCount = 0;
-            renderMoreGlobalSongs();
-        } else {
-            currentDisplayCount = 0;
-            renderMoreUsers();
-        }
-    }
-}
-
-
-let allUsers = [];
-let currentDisplayCount = 0;
-const BATCH_SIZE = 50;
-
-let currentSortSongs = { field: null };
-let currentSortUsers = { field: null };
-
-
-// Rendering helper for sorted data
-function reRenderTable(dataset, currentCount, sortState, tbodySelector, createRowFn) {
-    const tbody = document.querySelector(tbodySelector);
-    if (!tbody) return;
-    tbody.innerHTML = '';
-
-    // Create a copy of entire dataset to sort it
-    let dataToRender = [...dataset];
-
-    // Sort entire dataset first, if applicable
-    if (sortState.field) {
-        dataToRender.sort((a, b) => b[sortState.field] - a[sortState.field]);
+        state.filtered = null;
     }
 
-    // Slice only the visible portion after sorting
-    let visibleData = dataToRender.slice(0, currentCount);
-
-    const fragment = document.createDocumentFragment();
-    visibleData.forEach(item => {
-        // Find original rank or pass it. We still have originalRank on the items.
-        fragment.appendChild(createRowFn(item, item.originalRank));
-    });
-    tbody.appendChild(fragment);
+    const totalAvailable = state.filtered !== null ? state.filtered.length : state.all.length;
+    state.currentCount = Math.min(state.batchSize, totalAvailable);
+    renderTable(type);
 }
-
 
 function renderData(data) {
     if (data.lastUpdated) {
@@ -257,23 +290,19 @@ function renderData(data) {
 
     // Setup Global Songs
     allGlobalSongs = data.stats.global.topSongs.map((song, idx) => ({...song, originalRank: idx + 1}));
-    currentGlobalSongCount = 0;
-
-    const globalTbody = document.querySelector('#global-songs-table tbody');
-    if (globalTbody) {
-        globalTbody.innerHTML = '';
-        renderMoreGlobalSongs();
-    }
+    songsState.all = allGlobalSongs;
+    songsState.filtered = null;
+    songsState.searchQuery = '';
+    songsState.currentCount = Math.min(songsState.batchSize, songsState.all.length);
+    renderTable('songs');
 
     // Setup Users
     allUsers = data.stats.users.map((user, idx) => ({...user, originalRank: idx + 1}));
-    currentDisplayCount = 0;
-
-    const usersTbody = document.getElementById('users-tbody');
-    if (usersTbody) {
-        usersTbody.innerHTML = '';
-        renderMoreUsers();
-    }
+    usersState.all = allUsers;
+    usersState.filtered = null;
+    usersState.searchQuery = '';
+    usersState.currentCount = Math.min(usersState.batchSize, usersState.all.length);
+    renderTable('users');
 }
 
 function createUserRow(user, rank) {
