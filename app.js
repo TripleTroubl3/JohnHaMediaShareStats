@@ -70,18 +70,54 @@ function setupEventListeners() {
     // Sorting logic for headers
     const sortableHeaders = document.querySelectorAll('.sortable-header');
     sortableHeaders.forEach(header => {
-        header.addEventListener('click', () => {
+        const onHeaderClick = () => {
             const sortField = header.getAttribute('data-sort');
             const type = header.getAttribute('data-type');
             const state = type === 'songs' ? songsState : usersState;
 
-            // Update UI
-            document.querySelectorAll(`.sortable-header[data-type="${type}"]`).forEach(h => h.classList.remove('sorted-column'));
-            header.classList.add('sorted-column');
+            if (state.sortField === sortField) {
+                state.sortDirection = state.sortDirection === 'desc' ? 'asc' : 'desc';
+            } else {
+                state.sortField = sortField;
+                state.sortDirection = (sortField === 'title' || sortField === 'username' || sortField === 'originalRank') ? 'asc' : 'desc';
+            }
 
-            state.sortField = sortField;
+            updateSortHeaders(type);
             renderTable(type);
+        };
+
+        header.addEventListener('click', onHeaderClick);
+        header.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                onHeaderClick();
+            }
         });
+    });
+}
+
+function updateSortHeaders(type) {
+    const state = type === 'songs' ? songsState : usersState;
+    const headers = document.querySelectorAll(`.sortable-header[data-type="${type}"]`);
+
+    headers.forEach(header => {
+        const field = header.getAttribute('data-sort');
+        const icon = header.querySelector('.sort-icon');
+        const isCurrent = (field === state.sortField);
+
+        if (isCurrent) {
+            header.classList.add('sorted-column');
+            header.setAttribute('aria-sort', state.sortDirection === 'asc' ? 'ascending' : 'descending');
+            if (icon) {
+                icon.textContent = state.sortDirection === 'asc' ? '▲' : '▼';
+            }
+        } else {
+            header.classList.remove('sorted-column');
+            header.setAttribute('aria-sort', 'none');
+            if (icon) {
+                icon.textContent = '⇅';
+            }
+        }
     });
 }
 
@@ -154,7 +190,8 @@ let songsState = {
     searchQuery: '',
     currentCount: 0,
     batchSize: 50,
-    sortField: null,
+    sortField: 'count',
+    sortDirection: 'desc',
     tbodySelector: '#global-songs-table tbody',
     showMoreContainerId: 'show-more-songs-container',
     createRowFn: createSongRow
@@ -166,7 +203,8 @@ let usersState = {
     searchQuery: '',
     currentCount: 0,
     batchSize: 50,
-    sortField: null,
+    sortField: 'totalRequests',
+    sortDirection: 'desc',
     tbodySelector: '#users-tbody',
     showMoreContainerId: 'show-more-container',
     createRowFn: createUserRow
@@ -175,12 +213,20 @@ let usersState = {
 let allGlobalSongs = [];
 let allUsers = [];
 
-function sortData(dataset, sortField) {
+function sortData(dataset, sortField, sortDirection = 'desc') {
     if (!sortField) return dataset;
     return [...dataset].sort((a, b) => {
-        const valA = a[sortField] || 0;
-        const valB = b[sortField] || 0;
-        return valB - valA;
+        let valA = a[sortField];
+        let valB = b[sortField];
+
+        if (typeof valA === 'string' && typeof valB === 'string') {
+            const cmp = valA.localeCompare(valB, undefined, { sensitivity: 'base' });
+            return sortDirection === 'asc' ? cmp : -cmp;
+        }
+
+        valA = Number(valA) || 0;
+        valB = Number(valB) || 0;
+        return sortDirection === 'asc' ? valA - valB : valB - valA;
     });
 }
 
@@ -207,15 +253,19 @@ function renderTable(type) {
 
     let dataToRender = activeData;
     if (state.sortField) {
-        dataToRender = sortData(dataToRender, state.sortField);
+        dataToRender = sortData(dataToRender, state.sortField, state.sortDirection);
     }
 
     const countToRender = Math.min(state.currentCount, dataToRender.length);
     const visibleData = dataToRender.slice(0, countToRender);
 
+    const isRankSorted = state.sortField === 'originalRank' || (!state.sortField && state.filtered === null);
     const fragment = document.createDocumentFragment();
-    visibleData.forEach(item => {
-        fragment.appendChild(state.createRowFn(item, item.originalRank));
+    visibleData.forEach((item, index) => {
+        const displayRank = isRankSorted 
+            ? item.originalRank 
+            : `<span title="All-time rank: #${item.originalRank}">${index + 1}</span>`;
+        fragment.appendChild(state.createRowFn(item, displayRank));
     });
     tbody.appendChild(fragment);
 

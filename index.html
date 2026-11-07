@@ -46,10 +46,10 @@
                         <table id="global-songs-table" class="interactive-table">
                             <thead>
                                 <tr>
-                                    <th>Rank</th>
-                                    <th>Song</th>
-                                    <th class="sortable-header" data-sort="count" data-type="songs">Requests</th>
-                                    <th class="sortable-header" data-sort="totalSeconds" data-type="songs">Total Time</th>
+                                    <th class="sortable-header" data-sort="originalRank" data-type="songs" role="button" tabindex="0" aria-sort="none">Rank <span class="sort-icon" aria-hidden="true">⇅</span></th>
+                                    <th class="sortable-header" data-sort="title" data-type="songs" role="button" tabindex="0" aria-sort="none">Song <span class="sort-icon" aria-hidden="true">⇅</span></th>
+                                    <th class="sortable-header sorted-column" data-sort="count" data-type="songs" role="button" tabindex="0" aria-sort="descending">Requests <span class="sort-icon" aria-hidden="true">▼</span></th>
+                                    <th class="sortable-header" data-sort="totalSeconds" data-type="songs" role="button" tabindex="0" aria-sort="none">Total Time <span class="sort-icon" aria-hidden="true">⇅</span></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -70,10 +70,10 @@
                         <table id="users-table" class="interactive-table">
                             <thead>
                                 <tr>
-                                    <th>Rank</th>
-                                    <th>Username</th>
-                                    <th class="sortable-header" data-sort="totalRequests" data-type="users">Total Requests</th>
-                                    <th class="sortable-header" data-sort="totalSeconds" data-type="users">Total Time</th>
+                                    <th class="sortable-header" data-sort="originalRank" data-type="users" role="button" tabindex="0" aria-sort="none">Rank <span class="sort-icon" aria-hidden="true">⇅</span></th>
+                                    <th class="sortable-header" data-sort="username" data-type="users" role="button" tabindex="0" aria-sort="none">Username <span class="sort-icon" aria-hidden="true">⇅</span></th>
+                                    <th class="sortable-header sorted-column" data-sort="totalRequests" data-type="users" role="button" tabindex="0" aria-sort="descending">Total Requests <span class="sort-icon" aria-hidden="true">▼</span></th>
+                                    <th class="sortable-header" data-sort="totalSeconds" data-type="users" role="button" tabindex="0" aria-sort="none">Total Time <span class="sort-icon" aria-hidden="true">⇅</span></th>
                                 </tr>
                             </thead>
                             <tbody id="users-tbody">

@@ -374,17 +374,39 @@ button.btn {
     cursor: pointer;
     user-select: none;
     transition: color 0.2s, background-color 0.2s;
+    white-space: nowrap;
 }
 
-.sortable-header:hover {
+.sortable-header:hover,
+.sortable-header:focus-visible {
     color: var(--accent-color);
     background-color: #383838;
+    outline: none;
+}
+
+.sortable-header .sort-icon {
+    display: inline-block;
+    margin-left: 4px;
+    font-size: 0.8rem;
+    opacity: 0.35;
+    transition: opacity 0.2s, color 0.2s;
+    vertical-align: middle;
+}
+
+.sortable-header:hover .sort-icon,
+.sortable-header:focus-visible .sort-icon {
+    opacity: 0.75;
 }
 
 .sortable-header.sorted-column {
     color: var(--accent-color);
     font-weight: bold;
     background-color: #333;
+}
+
+.sortable-header.sorted-column .sort-icon {
+    opacity: 1;
+    color: var(--accent-color);
 }
 
 /* Empty State */
