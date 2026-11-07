@@ -51,6 +51,9 @@ function setupEventListeners() {
         if (event.target === userModal || event.target === songModal) {
             closeModal(event.target);
         }
+        if (!event.target.closest('.message-badge')) {
+            document.querySelectorAll('.message-badge.active').forEach(b => b.classList.remove('active'));
+        }
     });
 
     window.addEventListener('keydown', (event) => {
@@ -430,7 +433,7 @@ function openUserModal(user) {
         const uniqueMessages = [...new Set(relevantMessages.map(m => m.message))];
         const messagesList = uniqueMessages.map(m => `"${escapeHtml(m)}"`).join('<br>');
 
-        return ` <span class="has-tooltip">*<span class="tooltip">Messages attached to requests:<br>${messagesList}</span></span>`;
+        return `<button type="button" class="message-badge" aria-label="Attached request messages" title="View attached messages">💬<span class="tooltip"><strong>Attached Messages:</strong><br>${messagesList}</span></button>`;
     };
 
     const table = document.createElement('table');
@@ -458,7 +461,17 @@ function openUserModal(user) {
             `;
             tr.title = `Click row to view all requests for "${song.title}"`;
             tr.addEventListener('click', (e) => {
-                if (!e.target.closest('a.song-link') && !e.target.closest('.has-tooltip')) {
+                const badge = e.target.closest('.message-badge');
+                if (badge) {
+                    e.stopPropagation();
+                    const wasActive = badge.classList.contains('active');
+                    document.querySelectorAll('.message-badge.active').forEach(b => b.classList.remove('active'));
+                    if (!wasActive) {
+                        badge.classList.add('active');
+                    }
+                    return;
+                }
+                if (!e.target.closest('a.song-link')) {
                     const songObj = allGlobalSongs.find(s => s.videoId === song.videoId) || {
                         videoId: song.videoId,
                         title: song.title,
