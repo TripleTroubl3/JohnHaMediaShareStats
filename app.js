@@ -359,6 +359,26 @@ function renderData(data) {
     usersState.searchQuery = '';
     usersState.currentCount = Math.min(usersState.batchSize, usersState.all.length);
     renderTable('users');
+
+    buildSongUsersIndex();
+}
+
+let songUsersIndex = new Map();
+
+function buildSongUsersIndex() {
+    songUsersIndex.clear();
+    allUsers.forEach(user => {
+        (user.topSongs || []).forEach(userSong => {
+            if (!songUsersIndex.has(userSong.videoId)) {
+                songUsersIndex.set(userSong.videoId, []);
+            }
+            songUsersIndex.get(userSong.videoId).push({
+                username: user.username,
+                count: userSong.count,
+                totalSeconds: userSong.totalSeconds
+            });
+        });
+    });
 }
 
 function createUserRow(user, rank) {
@@ -413,38 +433,52 @@ function openUserModal(user) {
         return ` <span class="has-tooltip">*<span class="tooltip">Messages attached to requests:<br>${messagesList}</span></span>`;
     };
 
-    let songsHtml = `
-        <table>
-            <thead>
-                <tr>
-                    <th>Song</th>
-                    <th>Requests</th>
-                    <th>Total Time</th>
-                </tr>
-            </thead>
-            <tbody>
+    const table = document.createElement('table');
+    table.innerHTML = `
+        <thead>
+            <tr>
+                <th>Song</th>
+                <th>Requests</th>
+                <th>Total Time</th>
+            </tr>
+        </thead>
     `;
+    const tbody = document.createElement('tbody');
 
     if (user.topSongs && user.topSongs.length > 0) {
         user.topSongs.forEach(song => {
-            // Check if link was clicked, so we don't also trigger row click (though here it's just content)
-            songsHtml += `
-                <tr>
-                    <td>
-                        <a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer">${escapeHtml(song.title)}</a>
-                        ${getTooltipHtml(song.videoId)}
-                    </td>
-                    <td>${song.count}</td>
-                    <td>${formatTime(song.totalSeconds)}</td>
-                </tr>
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>
+                    <a href="https://youtu.be/${escapeHtml(song.videoId)}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(song.title)}</a>
+                    ${getTooltipHtml(song.videoId)}
+                </td>
+                <td>${song.count}</td>
+                <td>${formatTime(song.totalSeconds)}</td>
             `;
+            tr.title = `Click row to view all requests for "${song.title}"`;
+            tr.addEventListener('click', (e) => {
+                if (!e.target.closest('a.song-link') && !e.target.closest('.has-tooltip')) {
+                    const songObj = allGlobalSongs.find(s => s.videoId === song.videoId) || {
+                        videoId: song.videoId,
+                        title: song.title,
+                        count: song.count,
+                        totalSeconds: song.totalSeconds
+                    };
+                    openSongModal(songObj);
+                }
+            });
+            tbody.appendChild(tr);
         });
     } else {
-        songsHtml += `<tr><td colspan="3">No songs found.</td></tr>`;
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td colspan="3" class="empty-state">No songs found.</td>`;
+        tbody.appendChild(tr);
     }
 
-    songsHtml += `</tbody></table>`;
-    modalSongsContainer.innerHTML = songsHtml;
+    table.appendChild(tbody);
+    modalSongsContainer.innerHTML = '';
+    modalSongsContainer.appendChild(table);
 
     openModal(modal);
 }
@@ -460,58 +494,52 @@ function openSongModal(song) {
 
     let songUsers = song.users;
 
-    // Dynamically compute users if not pre-computed
     if (!songUsers) {
-        const usersMap = new Map();
-
-        allUsers.forEach(user => {
-            const userSong = user.topSongs.find(s => s.videoId === song.videoId);
-            if (userSong) {
-                usersMap.set(user.username, {
-                    username: user.username,
-                    count: userSong.count,
-                    totalSeconds: userSong.totalSeconds
-                });
-            }
-        });
-
-        songUsers = Array.from(usersMap.values())
-            .sort((a, b) => b.count - a.count || b.totalSeconds - a.totalSeconds);
-
-        // Cache it for next time
+        const found = songUsersIndex.get(song.videoId) || [];
+        songUsers = found.slice().sort((a, b) => b.count - a.count || b.totalSeconds - a.totalSeconds);
         song.users = songUsers;
     }
 
-    let usersHtml = `
-        <table>
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Username</th>
-                    <th>Requests</th>
-                    <th>Total Time</th>
-                </tr>
-            </thead>
-            <tbody>
+    const table = document.createElement('table');
+    table.innerHTML = `
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Username</th>
+                <th>Requests</th>
+                <th>Total Time</th>
+            </tr>
+        </thead>
     `;
+    const tbody = document.createElement('tbody');
 
     if (songUsers && songUsers.length > 0) {
-        songUsers.forEach((user, index) => {
-            usersHtml += `
-                <tr>
-                    <td>${index + 1}</td>
-                    <td>${escapeHtml(user.username)}</td>
-                    <td>${user.count}</td>
-                    <td>${formatTime(user.totalSeconds)}</td>
-                </tr>
+        songUsers.forEach((u, index) => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>${index + 1}</td>
+                <td><button class="link-btn user-link" type="button">${escapeHtml(u.username)}</button></td>
+                <td>${u.count}</td>
+                <td>${formatTime(u.totalSeconds)}</td>
             `;
+            tr.title = `Click to view ${u.username}'s request history`;
+            tr.addEventListener('click', () => {
+                const userObj = allUsers.find(item => item.username.toLowerCase() === u.username.toLowerCase());
+                if (userObj) {
+                    openUserModal(userObj);
+                }
+            });
+            tbody.appendChild(tr);
         });
     } else {
-        usersHtml += `<tr><td colspan="4">No users found.</td></tr>`;
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td colspan="4" class="empty-state">No users found.</td>`;
+        tbody.appendChild(tr);
     }
 
-    usersHtml += `</tbody></table>`;
-    modalContainer.innerHTML = usersHtml;
+    table.appendChild(tbody);
+    modalContainer.innerHTML = '';
+    modalContainer.appendChild(table);
 
     openModal(modal);
 }

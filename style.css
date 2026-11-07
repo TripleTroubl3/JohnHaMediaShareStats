@@ -251,8 +251,30 @@ body.modal-open {
 }
 
 /* Interactive Table Styles */
-.interactive-table tbody tr {
+.interactive-table tbody tr,
+.modal table tbody tr {
     cursor: pointer;
+}
+
+.modal table tbody tr:hover {
+    background-color: #2e2e2e;
+}
+
+.link-btn {
+    background: none;
+    border: none;
+    color: var(--accent-color);
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.link-btn:hover,
+.link-btn:focus-visible {
+    color: var(--accent-hover);
+    outline: none;
 }
 
 .interactive-table tbody tr:hover {
