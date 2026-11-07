@@ -66,14 +66,14 @@ function setupEventListeners() {
     const tabBtns = document.querySelectorAll('.tab-btn');
     tabBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            tabBtns.forEach(b => b.classList.remove('active'));
-            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-
-            btn.classList.add('active');
             const targetId = btn.getAttribute('data-target');
-            const targetEl = document.getElementById(targetId);
-            if (targetEl) targetEl.classList.add('active');
+            switchTab(targetId);
+            updateUrlHash({ tab: targetId.replace('tab-', '') });
         });
+    });
+
+    window.addEventListener('hashchange', () => {
+        applyUrlRouting();
     });
 
     // Timeframe selector logic
@@ -81,7 +81,7 @@ function setupEventListeners() {
     timeframeBtns.forEach(btn => {
         btn.addEventListener('click', () => {
             const tf = btn.getAttribute('data-timeframe');
-            setTimeframe(tf);
+            setTimeframe(tf, true);
         });
     });
 
@@ -345,7 +345,7 @@ function handleSearch(rawQuery, type) {
 let globalData = null;
 let currentTimeframe = 'all';
 
-function setTimeframe(tf) {
+function setTimeframe(tf, updateHash = true) {
     if (!globalData) return;
     currentTimeframe = tf || 'all';
 
@@ -356,6 +356,10 @@ function setTimeframe(tf) {
             b.classList.remove('active');
         }
     });
+
+    if (updateHash) {
+        updateUrlHash({ timeframe: currentTimeframe === 'all' ? null : currentTimeframe });
+    }
 
     const stats = (globalData.timeframes && globalData.timeframes[currentTimeframe]) 
         ? globalData.timeframes[currentTimeframe] 
@@ -409,11 +413,13 @@ function renderData(data) {
         document.getElementById('last-updated').textContent = `Last updated: ${new Date(data.lastUpdated).toLocaleString('en-US', { timeZone: 'America/Chicago', timeZoneName: 'short' })}`;
     }
 
-    setTimeframe(currentTimeframe);
+    setTimeframe(currentTimeframe, false);
 
     // Setup Recent Requests
     allRecentRequests = data.recentRequests || [];
     renderRecentRequests(allRecentRequests);
+
+    applyUrlRouting();
 }
 
 let allRecentRequests = [];
@@ -626,6 +632,7 @@ function openUserModal(user) {
 
     renderUserSongs('');
     openModal(modal);
+    updateUrlHash({ user: user.username, song: null });
 }
 
 function openSongModal(song) {
@@ -687,6 +694,7 @@ function openSongModal(song) {
     modalContainer.appendChild(table);
 
     openModal(modal);
+    updateUrlHash({ song: song.videoId, user: null });
 }
 
 function openModal(modal) {
@@ -703,6 +711,7 @@ function closeModal(modal) {
     const anyOpen = document.querySelector('.modal[style*="display: block"]');
     if (!anyOpen) {
         document.body.classList.remove('modal-open');
+        updateUrlHash({ user: null, song: null });
     }
 }
 
@@ -712,6 +721,83 @@ function closeAllModals() {
         if (m) m.style.display = 'none';
     });
     document.body.classList.remove('modal-open');
+    updateUrlHash({ user: null, song: null });
+}
+
+function switchTab(tabId) {
+    const targetId = tabId.startsWith('tab-') ? tabId : `tab-${tabId}`;
+    const btn = document.querySelector(`.tab-btn[data-target="${targetId}"]`);
+    if (btn) {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        btn.classList.add('active');
+        const targetEl = document.getElementById(targetId);
+        if (targetEl) targetEl.classList.add('active');
+    }
+}
+
+function parseUrlParams() {
+    const params = new URLSearchParams(window.location.search);
+    const hash = window.location.hash.replace(/^#\/?/, '');
+    if (hash) {
+        if (hash.includes('=')) {
+            const hashParams = new URLSearchParams(hash);
+            hashParams.forEach((val, key) => params.set(key, val));
+        } else if (['songs', 'users', 'recent'].includes(hash)) {
+            params.set('tab', hash);
+        }
+    }
+    return params;
+}
+
+function updateUrlHash(changes) {
+    const currentParams = parseUrlParams();
+    Object.entries(changes).forEach(([key, val]) => {
+        if (val === null || val === undefined || val === '') {
+            currentParams.delete(key);
+        } else {
+            currentParams.set(key, val);
+        }
+    });
+
+    const hashStr = currentParams.toString();
+    const newUrl = hashStr ? `#${hashStr}` : window.location.pathname;
+    window.history.replaceState(null, '', newUrl);
+}
+
+function applyUrlRouting() {
+    if (!globalData) return;
+    const params = parseUrlParams();
+
+    if (params.has('timeframe')) {
+        const tf = params.get('timeframe');
+        if (['all', '30d', '90d', 'year'].includes(tf)) {
+            setTimeframe(tf, false);
+        }
+    }
+
+    if (params.has('tab')) {
+        switchTab(params.get('tab'));
+    }
+
+    if (params.has('user')) {
+        const username = params.get('user');
+        const userObj = allUsers.find(u => u.username.toLowerCase() === username.toLowerCase());
+        if (userObj) {
+            switchTab('users');
+            openUserModal(userObj);
+        }
+    } else if (params.has('song')) {
+        const videoId = params.get('song');
+        const songObj = allGlobalSongs.find(s => s.videoId === videoId) || {
+            videoId: videoId,
+            title: videoId,
+            count: 1,
+            totalSeconds: 0
+        };
+        switchTab('songs');
+        openSongModal(songObj);
+    }
 }
 
 function escapeHtml(unsafe) {
