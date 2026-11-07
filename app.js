@@ -76,6 +76,15 @@ function setupEventListeners() {
         });
     });
 
+    // Timeframe selector logic
+    const timeframeBtns = document.querySelectorAll('.timeframe-btn');
+    timeframeBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const tf = btn.getAttribute('data-timeframe');
+            setTimeframe(tf);
+        });
+    });
+
     // Sorting logic for headers
     const sortableHeaders = document.querySelectorAll('.sortable-header');
     sortableHeaders.forEach(header => {
@@ -333,41 +342,78 @@ function handleSearch(rawQuery, type) {
     renderTable(type);
 }
 
+let globalData = null;
+let currentTimeframe = 'all';
+
+function setTimeframe(tf) {
+    if (!globalData) return;
+    currentTimeframe = tf || 'all';
+
+    document.querySelectorAll('.timeframe-btn').forEach(b => {
+        if (b.getAttribute('data-timeframe') === currentTimeframe) {
+            b.classList.add('active');
+        } else {
+            b.classList.remove('active');
+        }
+    });
+
+    const stats = (globalData.timeframes && globalData.timeframes[currentTimeframe]) 
+        ? globalData.timeframes[currentTimeframe] 
+        : globalData.stats;
+    applyStats(stats);
+}
+
+function applyStats(stats) {
+    if (!stats) return;
+
+    // Render Global Stats
+    const globalTotal = document.getElementById('global-total-time');
+    if (globalTotal && stats.global) {
+        globalTotal.textContent = formatTime(stats.global.totalSeconds);
+    }
+
+    const globalRequests = document.getElementById('global-total-requests');
+    if (globalRequests && stats.global && stats.global.totalRequests !== undefined) {
+        globalRequests.textContent = stats.global.totalRequests.toLocaleString();
+    }
+
+    // Setup Global Songs
+    allGlobalSongs = (stats.global && stats.global.topSongs ? stats.global.topSongs : []).map((song, idx) => ({...song, originalRank: idx + 1}));
+    songsState.all = allGlobalSongs;
+    if (songsState.searchQuery) {
+        handleSearch(songsState.searchQuery, 'songs');
+    } else {
+        songsState.filtered = null;
+        songsState.currentCount = Math.min(songsState.batchSize, songsState.all.length);
+        renderTable('songs');
+    }
+
+    // Setup Users
+    allUsers = (stats.users || []).map((user, idx) => ({...user, originalRank: idx + 1}));
+    usersState.all = allUsers;
+    if (usersState.searchQuery) {
+        handleSearch(usersState.searchQuery, 'users');
+    } else {
+        usersState.filtered = null;
+        usersState.currentCount = Math.min(usersState.batchSize, usersState.all.length);
+        renderTable('users');
+    }
+
+    buildSongUsersIndex();
+}
+
 function renderData(data) {
+    globalData = data;
+
     if (data.lastUpdated) {
         document.getElementById('last-updated').textContent = `Last updated: ${new Date(data.lastUpdated).toLocaleString('en-US', { timeZone: 'America/Chicago', timeZoneName: 'short' })}`;
     }
 
-    // Render Global Stats
-    const globalTotal = document.getElementById('global-total-time');
-    globalTotal.textContent = formatTime(data.stats.global.totalSeconds);
-
-    const globalRequests = document.getElementById('global-total-requests');
-    if (globalRequests && data.stats.global.totalRequests !== undefined) {
-        globalRequests.textContent = data.stats.global.totalRequests.toLocaleString();
-    }
-
-    // Setup Global Songs
-    allGlobalSongs = data.stats.global.topSongs.map((song, idx) => ({...song, originalRank: idx + 1}));
-    songsState.all = allGlobalSongs;
-    songsState.filtered = null;
-    songsState.searchQuery = '';
-    songsState.currentCount = Math.min(songsState.batchSize, songsState.all.length);
-    renderTable('songs');
-
-    // Setup Users
-    allUsers = data.stats.users.map((user, idx) => ({...user, originalRank: idx + 1}));
-    usersState.all = allUsers;
-    usersState.filtered = null;
-    usersState.searchQuery = '';
-    usersState.currentCount = Math.min(usersState.batchSize, usersState.all.length);
-    renderTable('users');
+    setTimeframe(currentTimeframe);
 
     // Setup Recent Requests
     allRecentRequests = data.recentRequests || [];
     renderRecentRequests(allRecentRequests);
-
-    buildSongUsersIndex();
 }
 
 let allRecentRequests = [];

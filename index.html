@@ -29,7 +29,15 @@
 
         <main>
             <section class="global-stats">
-                <h2>Global Statistics</h2>
+                <div class="stats-header">
+                    <h2>Global Statistics</h2>
+                    <div class="timeframe-selector" role="group" aria-label="Select timeframe">
+                        <button class="timeframe-btn active" data-timeframe="all">All Time</button>
+                        <button class="timeframe-btn" data-timeframe="30d">Past 30 Days</button>
+                        <button class="timeframe-btn" data-timeframe="90d">Past 90 Days</button>
+                        <button class="timeframe-btn" data-timeframe="year">This Year</button>
+                    </div>
+                </div>
                 <div class="stat-container small-stats">
                     <div class="stat-card small-card">
                         <h3 class="small-h3">Total Requested Time</h3>
