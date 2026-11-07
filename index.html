@@ -45,6 +45,7 @@
             <div class="tabs-container">
                 <button class="tab-btn active" data-target="tab-songs">Top Requested Songs</button>
                 <button class="tab-btn" data-target="tab-users">User Statistics</button>
+                <button class="tab-btn" data-target="tab-recent">Recent Requests</button>
             </div>
 
             <div id="tab-songs" class="tab-content active">
@@ -97,6 +98,28 @@
                     </div>
                     <div id="show-more-container">
                         <button id="show-more-users" class="btn">Show More Users</button>
+                    </div>
+                </section>
+            </div>
+
+            <div id="tab-recent" class="tab-content">
+                <section class="recent-requests">
+                    <div class="table-container">
+                        <table id="recent-requests-table" class="interactive-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Time</th>
+                                    <th>Song</th>
+                                    <th>Requested By</th>
+                                    <th>Duration</th>
+                                    <th>Message</th>
+                                </tr>
+                            </thead>
+                            <tbody id="recent-tbody">
+                                <!-- Populated by JS -->
+                            </tbody>
+                        </table>
                     </div>
                 </section>
             </div>

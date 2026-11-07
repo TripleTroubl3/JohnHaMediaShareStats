@@ -363,7 +363,78 @@ function renderData(data) {
     usersState.currentCount = Math.min(usersState.batchSize, usersState.all.length);
     renderTable('users');
 
+    // Setup Recent Requests
+    allRecentRequests = data.recentRequests || [];
+    renderRecentRequests(allRecentRequests);
+
     buildSongUsersIndex();
+}
+
+let allRecentRequests = [];
+
+function formatRelativeTime(dateString) {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffSec = Math.floor((now - date) / 1000);
+    if (diffSec < 60) return 'Just now';
+    const diffMin = Math.floor(diffSec / 60);
+    if (diffMin < 60) return `${diffMin}m ago`;
+    const diffHr = Math.floor(diffMin / 60);
+    if (diffHr < 24) return `${diffHr}h ago`;
+    const diffDays = Math.floor(diffHr / 24);
+    if (diffDays < 30) return `${diffDays}d ago`;
+    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function createRecentRow(item, index) {
+    const tr = document.createElement('tr');
+    const exactDate = new Date(item.createdAt).toLocaleString('en-US', { timeZone: 'America/Chicago', dateStyle: 'medium', timeStyle: 'short' });
+    const relTime = formatRelativeTime(item.createdAt);
+    const msgEscaped = item.message ? escapeHtml(item.message) : '';
+    const msgDisplay = item.message ? `<span class="recent-msg" title="${msgEscaped}">"${msgEscaped}"</span>` : '<span style="color:#666;">—</span>';
+
+    tr.innerHTML = `
+        <td>${index + 1}</td>
+        <td class="recent-time" title="${exactDate}">${relTime}</td>
+        <td><a href="https://youtu.be/${escapeHtml(item.videoId)}" target="_blank" rel="noopener noreferrer" class="song-link">${escapeHtml(item.title)}</a></td>
+        <td><button class="link-btn user-link" type="button">${escapeHtml(item.username)}</button></td>
+        <td>${formatTime(item.duration)}</td>
+        <td>${msgDisplay}</td>
+    `;
+
+    tr.addEventListener('click', (e) => {
+        if (e.target.closest('a.song-link')) return;
+        if (e.target.closest('.user-link')) {
+            const userObj = allUsers.find(u => u.username.toLowerCase() === item.username.toLowerCase());
+            if (userObj) openUserModal(userObj);
+            return;
+        }
+        const songObj = allGlobalSongs.find(s => s.videoId === item.videoId) || {
+            videoId: item.videoId,
+            title: item.title,
+            count: 1,
+            totalSeconds: item.duration
+        };
+        openSongModal(songObj);
+    });
+
+    return tr;
+}
+
+function renderRecentRequests(items) {
+    const tbody = document.getElementById('recent-tbody');
+    if (!tbody) return;
+    tbody.innerHTML = '';
+    if (!items || items.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No recent requests recorded.</td></tr>';
+        return;
+    }
+    const fragment = document.createDocumentFragment();
+    items.forEach((item, index) => {
+        fragment.appendChild(createRecentRow(item, index));
+    });
+    tbody.appendChild(fragment);
 }
 
 let songUsersIndex = new Map();
