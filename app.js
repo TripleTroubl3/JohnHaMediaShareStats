@@ -42,14 +42,20 @@ function setupEventListeners() {
         const closeBtn = modal.querySelector('.close-btn');
         if (closeBtn) {
             closeBtn.addEventListener('click', () => {
-                modal.style.display = 'none';
+                closeModal(modal);
             });
         }
     });
 
     window.addEventListener('click', (event) => {
         if (event.target === userModal || event.target === songModal) {
-            event.target.style.display = 'none';
+            closeModal(event.target);
+        }
+    });
+
+    window.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+            closeAllModals();
         }
     });
 
@@ -440,7 +446,7 @@ function openUserModal(user) {
     songsHtml += `</tbody></table>`;
     modalSongsContainer.innerHTML = songsHtml;
 
-    modal.style.display = 'block';
+    openModal(modal);
 }
 
 function openSongModal(song) {
@@ -507,7 +513,32 @@ function openSongModal(song) {
     usersHtml += `</tbody></table>`;
     modalContainer.innerHTML = usersHtml;
 
+    openModal(modal);
+}
+
+function openModal(modal) {
+    if (!modal) return;
     modal.style.display = 'block';
+    document.body.classList.add('modal-open');
+    const closeBtn = modal.querySelector('.close-btn');
+    if (closeBtn) closeBtn.focus();
+}
+
+function closeModal(modal) {
+    if (!modal) return;
+    modal.style.display = 'none';
+    const anyOpen = document.querySelector('.modal[style*="display: block"]');
+    if (!anyOpen) {
+        document.body.classList.remove('modal-open');
+    }
+}
+
+function closeAllModals() {
+    const modals = [document.getElementById('user-modal'), document.getElementById('song-modal')];
+    modals.forEach(m => {
+        if (m) m.style.display = 'none';
+    });
+    document.body.classList.remove('modal-open');
 }
 
 function escapeHtml(unsafe) {

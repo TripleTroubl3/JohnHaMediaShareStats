@@ -213,6 +213,10 @@ a:hover {
     background-color: rgba(0,0,0,0.8);
 }
 
+body.modal-open {
+    overflow: hidden;
+}
+
 .modal-content {
     background-color: var(--card-bg);
     margin: 10% auto;
@@ -228,17 +232,22 @@ a:hover {
 }
 
 .close-btn {
+    background: none;
+    border: none;
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
     cursor: pointer;
+    line-height: 1;
+    padding: 0 4px;
+    transition: color 0.2s;
 }
 
 .close-btn:hover,
-.close-btn:focus {
+.close-btn:focus-visible {
     color: #fff;
-    text-decoration: none;
+    outline: none;
 }
 
 /* Interactive Table Styles */

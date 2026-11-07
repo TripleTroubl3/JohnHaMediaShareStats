@@ -92,9 +92,9 @@
 
 
     <!-- Modal for Song History -->
-    <div id="song-modal" class="modal">
+    <div id="song-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-song-title">
         <div class="modal-content">
-            <span class="close-btn song-close-btn">&times;</span>
+            <button class="close-btn song-close-btn" aria-label="Close modal">&times;</button>
             <div class="user-header">
                 <h3 id="modal-song-title">Song Requests</h3>
                 <span id="modal-song-total" class="user-total"></span>
@@ -106,9 +106,9 @@
     </div>
 
     <!-- Modal for User History -->
-    <div id="user-modal" class="modal">
+    <div id="user-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-username">
         <div class="modal-content">
-            <span class="close-btn">&times;</span>
+            <button class="close-btn" aria-label="Close modal">&times;</button>
             <div class="user-header">
                 <h3 id="modal-username">User History</h3>
                 <span id="modal-user-total" class="user-total"></span>
